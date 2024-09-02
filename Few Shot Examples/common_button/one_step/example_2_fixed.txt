@@ -1,0 +1,33 @@
+{
+  "violations": [
+    "The label text 'Abonnieren' on Buttons 1, 3, 4, and 5 is in title case. According to Material Design 3 Guidelines, the label text of filled buttons should be in sentence case.",
+    "There are multiple filled buttons ('Abonnieren' buttons) on the screen. The number of filled buttons can be reduced by using other types of buttons for less important actions or by using an overflow menu.",
+    "The 'Mehr entdecken' button is very close to the 'Abonnieren' buttons, which might make it difficult for users to distinguish between them quickly. Click goals should not be too close to each other."
+  ],
+  "changes": [
+    "Change the label text 'Abonnieren' on Buttons 1, 3, 4, and 5 to sentence case (e.g., 'abonnieren').",
+    "Consider using outlined or text buttons for less important actions to reduce the number of filled buttons ('Abonnieren' buttons) on the screen.",
+    "Increase the spacing between the 'Mehr entdecken' button and the 'Abonnieren' buttons to ensure that click goals are not too close to each other."
+  ],
+  "changed_components": [
+  "<div class = 'Button-dark' id = '55307:4382' config='Tonal' style='position: absolute; top: 135px; left: 16px; width: 121px; height: 32px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55170:3711;53923:27677' style='position: absolute; top: -4px; left: 0px; width: 121px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'label-text' id = 'I55170:3711;53923:27678' style='position: absolute; top: 10px; left: 24px; width: 74px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Abonnieren
+                  </div>
+                </div>
+              </div>",
+  "<div class = 'Button-dark' id = '55307:4387' config='Tonal' style='position: absolute; top: 135px; left: 16px; width: 121px; height: 32px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55170:3739;53923:27677' style='position: absolute; top: -4px; left: 0px; width: 121px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'label-text' id = 'I55170:3739;53923:27678' style='position: absolute; top: 10px; left: 24px; width: 74px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Abonnieren
+                  </div>
+                </div>
+              </div>",
+  "<div class = 'Button-dark' id = '55307:4392' config='Tonal' style='position: absolute; top: 135px; left: 16px; width: 121px; height: 32px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55170:3744;53923:27677' style='position: absolute; top: -4px; left: 0px; width: 121px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'label-text' id = 'I55170:3744;53923:27678' style='position: absolute; top: 10px; left: 24px; width: 74px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Abonnieren
+                  </div>
+                </div>
+              </div>"
+],
+"deleted_components": [],
+"new_components": []}

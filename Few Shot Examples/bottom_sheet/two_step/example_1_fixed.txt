@@ -1,0 +1,70 @@
+{
+  "changed_components": [
+    "<div class = 'Bottom-sheet' id = '55697:9424' style='position: absolute; top: 702px; left: 0px; width: 412px; height: 102px; opacity: 1; border-radius: 0px; '>
+          <div class = 'Bottom-Sheet' id = '55295:2164' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 102px; overflow: hidden; opacity: 1; background-color: #F1F5EDFF; border-radius: 28px 28px 0px 0px; filter: drop-shadow(0px 1px 3px #0000004C); '>
+            <div class = 'Sheet-header' id = '55295:2165' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Drag-handle' id = '55295:2166' style='position: absolute; top: 16px; left: 190px; width: 32px; height: 4px; opacity: 1; background-color: #717970FF; border-radius: 100px; '>
+              </div>
+            </div>
+          </div>
+          <div class = '+12-345-67891234' id = '55295:2167' style='position: absolute; top: 64px; left: 15px; width: 84px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 10px; font-weight: 400; letter-spacing: 0px; color: #000000C1; line-height: 16px; justify-content: left; align-items: top;'>+12 345 67891234
+          </div>
+          <div class = 'Hi,-Firstname-Lastname!' id = '55295:2168' style='position: absolute; top: 32px; left: 15px; width: 264px; height: 32px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 24px; font-weight: 700; letter-spacing: 0px; color: #000000FF; line-height: 32px; justify-content: left; align-items: top;'>Hi, Firstname Lastname!
+          </div>
+        </div>"
+  ],
+  "deleted_components": [
+    "55697:9292"
+  ],
+  "new_components": [
+    ["<div class = 'Extended-FAB' id = '55295:2170' config='surface' style='position: absolute; top: 630px; left: 253px; width: 143px; height: 56px; overflow: hidden; opacity: 1; background-color: #E5EAE1FF; border-radius: 16px; filter: drop-shadow(0px 1px 3px #0000004C); '>
+          <div class = 'state-layer' id = 'I55295:2170;53939:32950' style='position: absolute; top: 0px; left: 0px; width: 143px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Icon' id = 'I55295:2170;53939:32951' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'qr_code' id = 'I55295:2170;53939:32951;55204:66904' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class='Vector' id='I55295:2170;53939:32951;55204:66904;2402:45137' style='position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;'>
+                  <svg height = '18px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>
+                    <path d='M 0 8 L 8 8 L 8 0 L 0 0 L 0 8 Z M 2 2 L 6 2 L 6 6 L 2 6 L 2 2 Z' style='fill: #326940FF;'/>
+                    <path d='M 0 18 L 8 18 L 8 10 L 0 10 L 0 18 Z M 2 12 L 6 12 L 6 16 L 2 16 L 2 12 Z' style='fill: #326940FF;'/>
+                    <path d='M 10 0 L 10 8 L 18 8 L 18 0 L 10 0 Z M 16 6 L 12 6 L 12 2 L 16 2 L 16 6 Z' style='fill: #326940FF;'/>
+                    <path d='M 18 16 L 16 16 L 16 18 L 18 18 L 18 16 Z' style='fill: #326940FF;'/>
+                    <path d='M 12 10 L 10 10 L 10 12 L 12 12 L 12 10 Z' style='fill: #326940FF;'/>
+                    <path d='M 14 12 L 12 12 L 12 14 L 14 14 L 14 12 Z' style='fill: #326940FF;'/>
+                    <path d='M 12 14 L 10 14 L 10 16 L 12 16 L 12 14 Z' style='fill: #326940FF;'/>
+                    <path d='M 14 16 L 12 16 L 12 18 L 14 18 L 14 16 Z' style='fill: #326940FF;'/>
+                    <path d='M 16 14 L 14 14 L 14 16 L 16 16 L 16 14 Z' style='fill: #326940FF;'/>
+                    <path d='M 16 10 L 14 10 L 14 12 L 16 12 L 16 10 Z' style='fill: #326940FF;'/>
+                    <path d='M 18 12 L 16 12 L 16 14 L 18 14 L 18 12 Z' style='fill: #326940FF;'/>
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div class = 'label-text' id = 'I55295:2170;53939:32952' style='position: absolute; top: 18px; left: 52px; width: 72px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center;'>Rent a bike
+            </div>
+          </div>
+        </div>", "55697:9290"],
+    ["<div class = 'Small-FAB' id = '55295:2171' config='surface' style='position: absolute; top: 574px; left: 356px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #E5EAE1FF; border-radius: 12px; filter: drop-shadow(0px 1px 3px #0000004C); '>
+          <div class = 'state-layer' id = 'I55295:2171;51700:4559' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'icon' id = 'I55295:2171;51700:4560' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'my_location' id = 'I55295:2171;51700:4560;55204:65950' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class='Vector' id='I55295:2171;51700:4560;55204:65950;2402:71365' style='position: absolute; top: 1px; left: 1px; width: 22px; height: 22px;'>
+                  <svg height = '22px' width = '22px' xmlns = 'http://www.w3.org/2000/svg'>
+                    <path d='M 11 7 C 8.789999961853027 7 7 8.789999961853027 7 11 C 7 13.210000038146973 8.789999961853027 15 11 15 C 13.210000038146973 15 15 13.210000038146973 15 11 C 15 8.789999961853027 13.210000038146973 7 11 7 Z M 19.940000534057617 10 C 19.480000525712967 5.829999923706055 16.170000076293945 2.5199999511241913 12 2.059999942779541 L 12 0 L 10 0 L 10 2.059999942779541 C 5.829999923706055 2.5199999511241913 2.5199999511241913 5.829999923706055 2.059999942779541 10 L 0 10 L 0 12 L 2.059999942779541 12 C 2.5199999511241913 16.170000076293945 5.829999923706055 19.480000525712967 10 19.940000534057617 L 10 22 L 12 22 L 12 19.940000534057617 C 16.170000076293945 19.480000525712967 19.480000525712967 16.170000076293945 19.940000534057617 12 L 22 12 L 22 10 L 19.940000534057617 10 Z M 11 18 C 7.130000114440918 18 4 14.869999885559082 4 11 C 4 7.130000114440918 7.130000114440918 4 11 4 C 14.869999885559082 4 18 7.130000114440918 18 11 C 18 14.869999885559082 14.869999885559082 18 11 18 Z' style='fill: #326940FF;'/>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>", "55697:9290"],
+    ["<div class = 'Small-FAB' id = '55295:2172' config='surface' style='position: absolute; top: 518px; left: 356px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #E5EAE1FF; border-radius: 12px; filter: drop-shadow(0px 1px 3px #0000004C); '>
+          <div class = 'state-layer' id = 'I55295:2172;51700:4559' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'icon' id = 'I55295:2172;51700:4560' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Vector' id='I55295:2172;51700:4560;55204:70117' style='position: absolute; top: 4px; left: 4.04339599609375px; width: 15.9132080078125px; height: 16px;'>
+                <svg height = '16px' width = '15.9132080078125px' xmlns = 'http://www.w3.org/2000/svg'>
+                  <path d='M 2.961603879928589 2 L 12.961604118347168 2 L 7.951603412628174 8.300000190734863 L 2.961603879928589 2 Z M 0.21160385012626648 1.6100001335144043 C 2.23160383105278 4.200000047683716 5.96160364151001 9 5.96160364151001 9 L 5.96160364151001 15 C 5.96160364151001 15.550000011920929 6.411603629589081 16 6.96160364151001 16 L 8.961604118347168 16 C 9.511604130268097 16 9.961604118347168 15.550000011920929 9.961604118347168 15 L 9.961604118347168 9 C 9.961604118347168 9 13.681603908538818 4.200000047683716 15.701603889465332 1.6100001335144043 C 16.21160387992859 0.9500001072883606 15.74160486459732 0 14.911604881286621 0 L 1.0016038417816162 0 C 0.17160385847091675 0 -0.29839614033699036 0.9500001072883606 0.21160385012626648 1.6100001335144043 Z' style='fill: #326940FF;'/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>", "55697:9290"]
+  ]
+}

@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Ambiguous Tab Label ('Horror Mo...'): The label 'Horror Mo...' is truncated, making it unclear what the full label is supposed to be. This ambiguity can confuse users.",
+    "2. Inconsistent Tab Label Lengths: The tab labels have inconsistent lengths, which might impact readability and visual balance."
+  ],
+  "changes": [
+    "1. Ensure that tab labels are not truncated. This can be achieved by either shortening the tab names or increasing the width of the tabs so that the full text is visible.",
+    "2. Ensure that tab labels have consistent lengths or are spaced evenly to maintain a balanced visual appearance."
+  ],
+  "guideline_request": "tab labels truncation, tab indicator size, tab label consistency",
+  "example_request": "Material Design 3 tab examples"
+}
+```

@@ -1,0 +1,5 @@
+Violations:
+1. The headline of the dialog is a question, which should be an unambiguous statement per Material Design 3 guidelines. 2. The primary action button text 'Ok' is vague.
+
+Changes:
+1. Change the headline to 'Permanently delete 2 messages?'. 2. Update the primary action button text to 'Delete'.

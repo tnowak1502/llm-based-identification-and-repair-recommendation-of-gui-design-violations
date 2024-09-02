@@ -1,0 +1,110 @@
+This user interface is in light mode. The provided HTML code describes a set of tabs in the user interface. Here's a detailed description of each tab:
+
+### General Tabs Container:
+- **Type**: `Label-only`
+- **ID**: `55648:9038`
+- **Position**: `absolute; top: 64px; left: 0px;`
+- **Size**: `width: 412px; height: 49px;`
+- **Background Color**: `#F6FBF2FF` (light greenish color)
+- **Shape**: `border-radius: 0px;`
+- **Opacity**: `1`
+- **Overflow**: `hidden`
+- **Attributes**: It contains a group of tabs and a divider at the bottom.
+
+### Tab Group:
+- **ID**: `I55648:9038;54563:40056`
+- **Position**: `absolute; top: 0px; left: 0px;`
+- **Size**: `width: 412px; height: 48px;`
+- **Overflow**: `hidden`
+- **Opacity**: `1`
+- **Shape**: `border-radius: 0px;`
+
+### Tab 1: User X's Review
+- **Type**: `Label-only`
+- **ID**: `I55648:9038;54563:40057`
+- **Position**: `absolute; top: 0px; left: 52px;`
+- **Size**: `width: 132px; height: 48px;`
+- **Background Color**: `#F6FBF2FF` (light greenish color)
+- **State**: `selected`
+- **Opacity**: `1`
+- **Shape**: `border-radius: 0px;`
+- **Label**:
+  - **Text**: `User X's Review`
+  - **Position**: `top: 14px; left: 16px;`
+  - **Size**: `width: 101px; height: 20px;`
+  - **Font**: `Roboto, 14px, 500 weight`
+  - **Color**: `#181D18FF` (dark greenish color)
+  - **Letter-spacing**: `0.1px`
+  - **Line-height**: `20px`
+  - **Alignment**: Center
+- **Indicator**:
+  - **Position**: `top: 46px; left: 0px;`
+  - **Size**: `width: 132px; height: 2px;`
+  - **Background Color**: `#326940FF` (dark green)
+
+### Tab 2: User Y's Review
+- **Type**: `Label-only`
+- **ID**: `I55648:9038;54563:40058`
+- **Position**: `absolute; top: 0px; left: 184px;`
+- **Size**: `width: 132px; height: 48px;`
+- **Background Color**: `#F6FBF2FF` (light greenish color)
+- **State**: `unselected`
+- **Opacity**: `1`
+- **Shape**: `border-radius: 0px;`
+- **Label**:
+  - **Text**: `User Y's Review`
+  - **Position**: `top: 14px; left: 16px;`
+  - **Size**: `width: 101px; height: 20px;`
+  - **Font**: `Roboto, 14px, 500 weight`
+  - **Color**: `#414941FF` (grayish color)
+  - **Letter-spacing**: `0.1px`
+  - **Line-height**: `20px`
+  - **Alignment**: Center
+
+### Tab 3: User Z's Review
+- **Type**: `Label-only`
+- **ID**: `I55648:9038;54563:40059`
+- **Position**: `absolute; top: 0px; left: 316px;`
+- **Size**: `width: 132px; height: 48px;`
+- **Background Color**: `#F6FBF2FF` (light greenish color)
+- **State**: `unselected`
+- **Opacity**: `1`
+- **Shape**: `border-radius: 0px;`
+- **Label**:
+  - **Text**: `User Z's Review`
+  - **Position**: `top: 14px; left: 16px;`
+  - **Size**: `width: 101px; height: 20px;`
+  - **Font**: `Roboto, 14px, 500 weight`
+  - **Color**: `#414941FF` (grayish color)
+  - **Letter-spacing**: `0.1px`
+  - **Line-height**: `20px`
+  - **Alignment**: Center
+
+### Tab 4: Tab
+- **Type**: `Label-only`
+- **ID**: `I55648:9038;54563:40060`
+- **Position**: `absolute; top: 0px; left: 448px;`
+- **Size**: `width: 90px; height: 48px;`
+- **Background Color**: `#F6FBF2FF` (light greenish color)
+- **State**: `unselected`
+- **Opacity**: `1`
+- **Shape**: `border-radius: 0px;`
+- **Label**:
+  - **Text**: `Tab`
+  - **Position**: `top: 14px; left: 33px;`
+  - **Size**: `width: 25px; height: 20px;`
+  - **Font**: `Roboto, 14px, 500 weight`
+  - **Color**: `#414941FF` (grayish color)
+  - **Letter-spacing**: `0.1px`
+  - **Line-height**: `20px`
+  - **Alignment**: Center
+
+### Divider
+- **ID**: `I55648:9038;54563:40069`
+- **Position**: `absolute; top: 48px; left: 0px;`
+- **Size**: `width: 412px; height: 1px;`
+- **Opacity**: `1`
+- **Color**: `#DFE4DCFF` (light gray)
+
+### Overall Design
+The design uses a light mode with a light green background and dark text for selected tabs, while unselected tabs have gray text. The indicator for the selected tab is a prominent dark green line. The tabs are straightforward and clearly labeled, providing a simple and clean navigation structure.

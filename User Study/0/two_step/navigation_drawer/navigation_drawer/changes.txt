@@ -1,0 +1,26 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "High",
+      "description": "The navigation drawer lacks clear section headers or dividers to group related navigation items. This makes it harder for users to quickly find what they need."
+    },
+    {
+      "severity": "Medium",
+      "description": "The 'Sign out' item does not have an icon, which breaks the consistency as all other navigation items have icons."
+    }
+  ],
+  "changes": [
+    {
+      "severity": "High",
+      "description": "Add section headers or dividers to group related navigation items. For example, group 'Popular', 'Search', 'Profile', and 'Watchlist' under one section, 'Lists', 'Diary', 'Reviews', and 'Activity' under another, and 'Settings' and 'Sign out' under a final section."
+    },
+    {
+      "severity": "Medium",
+      "description": "Add an icon to the 'Sign out' item to maintain consistency with the other navigation items."
+    }
+  ],
+  "guideline_request": "Navigation drawer guidelines, Divider usage guidelines, Icon consistency guidelines",
+  "example_request": "Example of navigation drawer with grouped destinations and consistent icons"
+}
+```

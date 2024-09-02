@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is located near the bottom right corner but is not aligned properly. It should be placed precisely in the bottom right corner to ensure accessibility and adherence to the guidelines.",
+      "severity": "high"
+    },
+    {
+      "description": "The FAB icon is not clearly communicating its function. The icon used (a plus sign) is generic and might not clearly convey its intended action to the user.",
+      "severity": "medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Reposition the FAB to be exactly in the bottom right corner of the screen, ensuring it does not overlap with any navigation or bottom app bars."
+    },
+    {
+      "description": "Consider changing the FAB icon to one that more clearly communicates its intended action. For example, if the FAB is meant to add a new item, ensure the icon reflects this action more explicitly."
+    }
+  ],
+  "guideline_request": "Placement of FABs, Icon clarity for FABs",
+  "example_request": "FAB placement examples, FAB icon examples"
+}

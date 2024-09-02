@@ -1,0 +1,17 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The badge is positioned very close to the label 'JOURNAL', which might make it harder to distinguish the badge from the text, especially on smaller screens."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Increase the spacing between the badge and the label 'JOURNAL' to ensure that the badge stands out clearly and is easily distinguishable from the text."
+    }
+  ],
+  "guideline_request": "badge spacing guidelines",
+  "example_request": "badge"
+}
+```

@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is located at the top right of the screen. According to Material Design guidelines, FABs should be placed in the bottom right corner to be easily accessible using thumbs.",
+      "severity": "high"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Relocate the FAB to the bottom right corner of the screen, ensuring it does not overlap with any navigation or bottom app bars."
+    }
+  ],
+  "guideline_request": "Placement of FABs in Material Design 3",
+  "example_request": "Example placements of FABs in Material Design 3"
+}

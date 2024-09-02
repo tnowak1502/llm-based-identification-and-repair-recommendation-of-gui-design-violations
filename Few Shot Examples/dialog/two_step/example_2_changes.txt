@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "The dialog box is used for a non-critical message ('Location access given'), which might be better suited for a less intrusive component like a snackbar per Material Design 3 Guidelines.",
+  "changes": "Replace the dialog with a snackbar.",
+  "guideline_request": "Snackbar guidelines",
+  "example_request": "snackbar example"
+}
+```

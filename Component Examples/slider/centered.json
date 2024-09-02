@@ -1,0 +1,1153 @@
+{
+    "type": "FRAME",
+    "id": "55718:32968",
+    "name": "Frame 1",
+    "x": 0,
+    "y": 0,
+    "width": 354,
+    "height": 44,
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "cornerRadius": 0,
+    "cornerSmoothing": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "fillStyleId": "",
+    "strokeStyleId": "",
+    "strokeWeight": 1,
+    "strokeTopWeight": 1,
+    "strokeBottomWeight": 1,
+    "strokeLeftWeight": 1,
+    "strokeRightWeight": 1,
+    "strokeJoin": "MITER",
+    "strokeAlign": "INSIDE",
+    "dashPattern": [],
+    "strokeCap": "NONE",
+    "strokeMiterLimit": 4,
+    "rotation": 0,
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutPositioning": "AUTO",
+    "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+    },
+    "exportSettings": [],
+    "relativeTransform": [
+        [
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0
+        ]
+    ],
+    "absoluteRenderBounds": {
+        "x": 0,
+        "y": 0,
+        "width": 354,
+        "height": 44
+    },
+    "fillGeometry": [
+        {
+            "windingRule": "NONZERO",
+            "data": "M0 0 L354 0 L354 44 L0 44 L0 0 Z"
+        }
+    ],
+    "guides": [],
+    "fills": [],
+    "strokes": [],
+    "effects": [],
+    "children": [
+        {
+            "type": "INSTANCE",
+            "id": "55719:34331",
+            "name": "Centered",
+            "x": 0,
+            "y": 0,
+            "width": 354,
+            "height": 44,
+            "visible": true,
+            "locked": false,
+            "mainComponentId": "54593:25663",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "fillStyleId": "",
+            "strokeStyleId": "",
+            "strokeWeight": 1,
+            "strokeTopWeight": 1,
+            "strokeBottomWeight": 1,
+            "strokeLeftWeight": 1,
+            "strokeRightWeight": 1,
+            "strokeJoin": "MITER",
+            "strokeAlign": "INSIDE",
+            "dashPattern": [],
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "rotation": 0,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+            },
+            "exportSettings": [],
+            "relativeTransform": [
+                [
+                    1,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            "absoluteRenderBounds": {
+                "x": 0,
+                "y": 0,
+                "width": 354,
+                "height": 44
+            },
+            "fillGeometry": [
+                {
+                    "windingRule": "NONZERO",
+                    "data": "M0 0 L354 0 L354 44 L0 44 L0 0 Z"
+                }
+            ],
+            "guides": [],
+            "componentProperties": {
+                "Show value indicator#4815:13": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                },
+                "State": {
+                    "value": "Enabled",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                },
+                "Value": {
+                    "value": "0",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                }
+            },
+            "scaleFactor": 1,
+            "fills": [],
+            "strokes": [],
+            "effects": [],
+            "children": [
+                {
+                    "type": "FRAME",
+                    "id": "I55719:34331;54593:25664",
+                    "name": "Track and handle",
+                    "x": 0,
+                    "y": 14,
+                    "width": 177,
+                    "height": 16,
+                    "visible": true,
+                    "locked": false,
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "cornerRadius": 0,
+                    "cornerSmoothing": 0,
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "fillStyleId": "",
+                    "strokeStyleId": "",
+                    "strokeWeight": 1,
+                    "strokeTopWeight": 1,
+                    "strokeBottomWeight": 1,
+                    "strokeLeftWeight": 1,
+                    "strokeRightWeight": 1,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutGrow": 0,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "CENTER"
+                    },
+                    "exportSettings": [],
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            0
+                        ],
+                        [
+                            0,
+                            1,
+                            14
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 0,
+                        "y": 0,
+                        "width": 179,
+                        "height": 44
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M0 0 L177 0 L177 16 L0 16 L0 0 Z"
+                        }
+                    ],
+                    "guides": [],
+                    "fills": [],
+                    "strokes": [],
+                    "effects": [],
+                    "children": [
+                        {
+                            "type": "INSTANCE",
+                            "id": "I55719:34331;54593:25665",
+                            "name": "Inactive track - left",
+                            "x": 0,
+                            "y": 0,
+                            "width": 177,
+                            "height": 16,
+                            "visible": true,
+                            "locked": false,
+                            "mainComponentId": "54593:26125",
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 0,
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 0,
+                            "topRightRadius": 0,
+                            "bottomLeftRadius": 0,
+                            "bottomRightRadius": 0,
+                            "fillStyleId": "",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 1,
+                            "layoutPositioning": "AUTO",
+                            "constraints": {
+                                "horizontal": "MIN",
+                                "vertical": "MIN"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                            ],
+                            "absoluteRenderBounds": {
+                                "x": 0,
+                                "y": 14,
+                                "width": 177,
+                                "height": 16
+                            },
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 0 L177 0 L177 16 L0 16 L0 0 Z"
+                                }
+                            ],
+                            "guides": [],
+                            "componentProperties": {},
+                            "scaleFactor": 1,
+                            "fills": [
+                                {
+                                    "type": "SOLID",
+                                    "visible": false,
+                                    "opacity": 1,
+                                    "blendMode": "NORMAL",
+                                    "color": {
+                                        "r": 1,
+                                        "g": 1,
+                                        "b": 1
+                                    },
+                                    "boundVariables": {}
+                                }
+                            ],
+                            "strokes": [],
+                            "effects": [],
+                            "children": [
+                                {
+                                    "type": "RECTANGLE",
+                                    "id": "I55719:34331;54593:25665;54593:26126",
+                                    "name": "Track",
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 169,
+                                    "height": 16,
+                                    "visible": true,
+                                    "locked": false,
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": "MIXED",
+                                    "cornerSmoothing": 0,
+                                    "topLeftRadius": 16,
+                                    "topRightRadius": 2,
+                                    "bottomLeftRadius": 16,
+                                    "bottomRightRadius": 2,
+                                    "fillStyleId": "S:2a57f468096c955fcdda5f6689872a443ea4f455,",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeTopWeight": 1,
+                                    "strokeBottomWeight": 1,
+                                    "strokeLeftWeight": 1,
+                                    "strokeRightWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "STRETCH",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "AUTO",
+                                    "constraints": {
+                                        "horizontal": "MIN",
+                                        "vertical": "MIN"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": {
+                                        "x": 0,
+                                        "y": 14,
+                                        "width": 169,
+                                        "height": 16
+                                    },
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M0 8 C0 3.58172 3.58172 0 8 0 L167 0 C168.105 0 169 0.895431 169 2 L169 14 C169 15.1046 168.105 16 167 16 L8 16 C3.58172 16 0 12.4183 0 8 L0 8 Z"
+                                        }
+                                    ],
+                                    "fills": [
+                                        {
+                                            "type": "SOLID",
+                                            "visible": true,
+                                            "opacity": 1,
+                                            "blendMode": "NORMAL",
+                                            "color": {
+                                                "r": 0.7098039388656616,
+                                                "g": 0.9450980424880981,
+                                                "b": 0.7411764860153198
+                                            },
+                                            "boundVariables": {}
+                                        }
+                                    ],
+                                    "strokes": [],
+                                    "effects": []
+                                },
+                                {
+                                    "type": "INSTANCE",
+                                    "id": "I55719:34331;54593:25665;54593:26127",
+                                    "name": "Track dot",
+                                    "x": 4,
+                                    "y": 6,
+                                    "width": 4,
+                                    "height": 4,
+                                    "visible": true,
+                                    "locked": false,
+                                    "mainComponentId": "54593:26120",
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": 0,
+                                    "cornerSmoothing": 0,
+                                    "topLeftRadius": 0,
+                                    "topRightRadius": 0,
+                                    "bottomLeftRadius": 0,
+                                    "bottomRightRadius": 0,
+                                    "fillStyleId": "",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeTopWeight": 1,
+                                    "strokeBottomWeight": 1,
+                                    "strokeLeftWeight": 1,
+                                    "strokeRightWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "INHERIT",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "ABSOLUTE",
+                                    "constraints": {
+                                        "horizontal": "MIN",
+                                        "vertical": "CENTER"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            4
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            6
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": {
+                                        "x": 4,
+                                        "y": 20,
+                                        "width": 4,
+                                        "height": 4
+                                    },
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M0 0 L4 0 L4 4 L0 4 L0 0 Z"
+                                        }
+                                    ],
+                                    "guides": [],
+                                    "componentProperties": {},
+                                    "scaleFactor": 1,
+                                    "fills": [],
+                                    "strokes": [],
+                                    "effects": [],
+                                    "children": [
+                                        {
+                                            "type": "ELLIPSE",
+                                            "id": "I55719:34331;54593:25665;54593:26127;54593:26121",
+                                            "name": "Dot",
+                                            "x": 0,
+                                            "y": 0,
+                                            "width": 4,
+                                            "height": 4,
+                                            "visible": true,
+                                            "locked": false,
+                                            "opacity": 1,
+                                            "blendMode": "PASS_THROUGH",
+                                            "isMask": false,
+                                            "cornerRadius": 0,
+                                            "cornerSmoothing": 0,
+                                            "fillStyleId": "S:a6a22352c07d21f84a78d11e6573c03cf9433b80,",
+                                            "strokeStyleId": "",
+                                            "strokeWeight": 1,
+                                            "strokeJoin": "MITER",
+                                            "strokeAlign": "INSIDE",
+                                            "dashPattern": [],
+                                            "strokeCap": "NONE",
+                                            "strokeMiterLimit": 4,
+                                            "rotation": 0,
+                                            "layoutAlign": "INHERIT",
+                                            "layoutGrow": 0,
+                                            "layoutPositioning": "AUTO",
+                                            "constraints": {
+                                                "horizontal": "SCALE",
+                                                "vertical": "SCALE"
+                                            },
+                                            "exportSettings": [],
+                                            "relativeTransform": [
+                                                [
+                                                    1,
+                                                    0,
+                                                    0
+                                                ],
+                                                [
+                                                    0,
+                                                    1,
+                                                    0
+                                                ]
+                                            ],
+                                            "absoluteRenderBounds": {
+                                                "x": 4,
+                                                "y": 20,
+                                                "width": 4,
+                                                "height": 4
+                                            },
+                                            "fillGeometry": [
+                                                {
+                                                    "windingRule": "NONZERO",
+                                                    "data": "M4 2 C4 3.10457 3.10457 4 2 4 C0.895431 4 0 3.10457 0 2 C0 0.895431 0.895431 0 2 0 C3.10457 0 4 0.895431 4 2 Z"
+                                                }
+                                            ],
+                                            "fills": [
+                                                {
+                                                    "type": "SOLID",
+                                                    "visible": true,
+                                                    "opacity": 1,
+                                                    "blendMode": "NORMAL",
+                                                    "color": {
+                                                        "r": 0.19607843458652496,
+                                                        "g": 0.4117647111415863,
+                                                        "b": 0.250980406999588
+                                                    },
+                                                    "boundVariables": {}
+                                                }
+                                            ],
+                                            "strokes": [],
+                                            "effects": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "INSTANCE",
+                            "id": "I55719:34331;54593:25666",
+                            "name": "Handle",
+                            "x": 175,
+                            "y": -14,
+                            "width": 4,
+                            "height": 44,
+                            "visible": true,
+                            "locked": false,
+                            "mainComponentId": "54593:26118",
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 2,
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 2,
+                            "topRightRadius": 2,
+                            "bottomLeftRadius": 2,
+                            "bottomRightRadius": 2,
+                            "fillStyleId": "S:a6a22352c07d21f84a78d11e6573c03cf9433b80,",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "ABSOLUTE",
+                            "constraints": {
+                                "horizontal": "MAX",
+                                "vertical": "CENTER"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    175
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    -14
+                                ]
+                            ],
+                            "absoluteRenderBounds": {
+                                "x": 175,
+                                "y": 0,
+                                "width": 4,
+                                "height": 44
+                            },
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 2 C0 0.895431 0.895431 0 2 0 L2 0 C3.10457 0 4 0.895431 4 2 L4 42 C4 43.1046 3.10457 44 2 44 L2 44 C0.895431 44 0 43.1046 0 42 L0 2 Z"
+                                }
+                            ],
+                            "guides": [],
+                            "componentProperties": {},
+                            "scaleFactor": 1,
+                            "fills": [
+                                {
+                                    "type": "SOLID",
+                                    "visible": true,
+                                    "opacity": 1,
+                                    "blendMode": "NORMAL",
+                                    "color": {
+                                        "r": 0.19607843458652496,
+                                        "g": 0.4117647111415863,
+                                        "b": 0.250980406999588
+                                    },
+                                    "boundVariables": {}
+                                }
+                            ],
+                            "strokes": [],
+                            "effects": [],
+                            "children": [
+                                {
+                                    "type": "RECTANGLE",
+                                    "id": "I55719:34331;54593:25666;54593:26119",
+                                    "name": "State-layer",
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 4,
+                                    "height": 44,
+                                    "visible": false,
+                                    "locked": false,
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": 4,
+                                    "cornerSmoothing": 0,
+                                    "topLeftRadius": 4,
+                                    "topRightRadius": 4,
+                                    "bottomLeftRadius": 4,
+                                    "bottomRightRadius": 4,
+                                    "fillStyleId": "S:c81134b2b8150ad44a3eb49363e015586a9876e1,",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeTopWeight": 1,
+                                    "strokeBottomWeight": 1,
+                                    "strokeLeftWeight": 1,
+                                    "strokeRightWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "INHERIT",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "AUTO",
+                                    "constraints": {
+                                        "horizontal": "STRETCH",
+                                        "vertical": "STRETCH"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": null,
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M0 2 C0 0.895431 0.895431 0 2 0 L2 0 C3.10457 0 4 0.895431 4 2 L4 42 C4 43.1046 3.10457 44 2 44 L2 44 C0.895431 44 0 43.1046 0 42 L0 2 Z"
+                                        }
+                                    ],
+                                    "fills": [
+                                        {
+                                            "type": "SOLID",
+                                            "visible": true,
+                                            "opacity": 0.07999999821186066,
+                                            "blendMode": "NORMAL",
+                                            "color": {
+                                                "r": 1,
+                                                "g": 1,
+                                                "b": 1
+                                            },
+                                            "boundVariables": {}
+                                        }
+                                    ],
+                                    "strokes": [],
+                                    "effects": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "INSTANCE",
+                    "id": "I55719:34331;54593:25667",
+                    "name": "Inactive track - right",
+                    "x": 177,
+                    "y": 14,
+                    "width": 177,
+                    "height": 16,
+                    "visible": true,
+                    "locked": false,
+                    "mainComponentId": "54593:26122",
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "cornerRadius": 0,
+                    "cornerSmoothing": 0,
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "fillStyleId": "",
+                    "strokeStyleId": "",
+                    "strokeWeight": 1,
+                    "strokeTopWeight": 1,
+                    "strokeBottomWeight": 1,
+                    "strokeLeftWeight": 1,
+                    "strokeRightWeight": 1,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutGrow": 1,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "SCALE",
+                        "vertical": "CENTER"
+                    },
+                    "exportSettings": [],
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            177
+                        ],
+                        [
+                            0,
+                            1,
+                            14
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 177,
+                        "y": 14,
+                        "width": 177,
+                        "height": 16
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M0 0 L177 0 L177 16 L0 16 L0 0 Z"
+                        }
+                    ],
+                    "guides": [],
+                    "componentProperties": {},
+                    "scaleFactor": 1,
+                    "fills": [
+                        {
+                            "type": "SOLID",
+                            "visible": false,
+                            "opacity": 1,
+                            "blendMode": "NORMAL",
+                            "color": {
+                                "r": 1,
+                                "g": 1,
+                                "b": 1
+                            },
+                            "boundVariables": {}
+                        }
+                    ],
+                    "strokes": [],
+                    "effects": [],
+                    "children": [
+                        {
+                            "type": "RECTANGLE",
+                            "id": "I55719:34331;54593:25667;54593:26123",
+                            "name": "Track",
+                            "x": 8,
+                            "y": 0,
+                            "width": 169,
+                            "height": 16,
+                            "visible": true,
+                            "locked": false,
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": "MIXED",
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 2,
+                            "topRightRadius": 16,
+                            "bottomLeftRadius": 2,
+                            "bottomRightRadius": 16,
+                            "fillStyleId": "S:2a57f468096c955fcdda5f6689872a443ea4f455,",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "STRETCH",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "AUTO",
+                            "constraints": {
+                                "horizontal": "MIN",
+                                "vertical": "MIN"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    8
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                            ],
+                            "absoluteRenderBounds": {
+                                "x": 185,
+                                "y": 14,
+                                "width": 169,
+                                "height": 16
+                            },
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 2 C0 0.895431 0.895431 0 2 0 L161 0 C165.418 0 169 3.58172 169 8 L169 8 C169 12.4183 165.418 16 161 16 L2 16 C0.895431 16 0 15.1046 0 14 L0 2 Z"
+                                }
+                            ],
+                            "fills": [
+                                {
+                                    "type": "SOLID",
+                                    "visible": true,
+                                    "opacity": 1,
+                                    "blendMode": "NORMAL",
+                                    "color": {
+                                        "r": 0.7098039388656616,
+                                        "g": 0.9450980424880981,
+                                        "b": 0.7411764860153198
+                                    },
+                                    "boundVariables": {}
+                                }
+                            ],
+                            "strokes": [],
+                            "effects": []
+                        },
+                        {
+                            "type": "INSTANCE",
+                            "id": "I55719:34331;54593:25667;54593:26124",
+                            "name": "Track dot",
+                            "x": 169,
+                            "y": 6,
+                            "width": 4,
+                            "height": 4,
+                            "visible": true,
+                            "locked": false,
+                            "mainComponentId": "54593:26120",
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 0,
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 0,
+                            "topRightRadius": 0,
+                            "bottomLeftRadius": 0,
+                            "bottomRightRadius": 0,
+                            "fillStyleId": "",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "ABSOLUTE",
+                            "constraints": {
+                                "horizontal": "MAX",
+                                "vertical": "CENTER"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    169
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    6
+                                ]
+                            ],
+                            "absoluteRenderBounds": {
+                                "x": 346,
+                                "y": 20,
+                                "width": 4,
+                                "height": 4
+                            },
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 0 L4 0 L4 4 L0 4 L0 0 Z"
+                                }
+                            ],
+                            "guides": [],
+                            "componentProperties": {},
+                            "scaleFactor": 1,
+                            "fills": [],
+                            "strokes": [],
+                            "effects": [],
+                            "children": [
+                                {
+                                    "type": "ELLIPSE",
+                                    "id": "I55719:34331;54593:25667;54593:26124;54593:26121",
+                                    "name": "Dot",
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 4,
+                                    "height": 4,
+                                    "visible": true,
+                                    "locked": false,
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": 0,
+                                    "cornerSmoothing": 0,
+                                    "fillStyleId": "S:a6a22352c07d21f84a78d11e6573c03cf9433b80,",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "INHERIT",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "AUTO",
+                                    "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": {
+                                        "x": 346,
+                                        "y": 20,
+                                        "width": 4,
+                                        "height": 4
+                                    },
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M4 2 C4 3.10457 3.10457 4 2 4 C0.895431 4 0 3.10457 0 2 C0 0.895431 0.895431 0 2 0 C3.10457 0 4 0.895431 4 2 Z"
+                                        }
+                                    ],
+                                    "fills": [
+                                        {
+                                            "type": "SOLID",
+                                            "visible": true,
+                                            "opacity": 1,
+                                            "blendMode": "NORMAL",
+                                            "color": {
+                                                "r": 0.19607843458652496,
+                                                "g": 0.4117647111415863,
+                                                "b": 0.250980406999588
+                                            },
+                                            "boundVariables": {}
+                                        }
+                                    ],
+                                    "strokes": [],
+                                    "effects": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "INSTANCE",
+                    "id": "I55719:34331;54593:25668",
+                    "name": "Track dot - centered",
+                    "x": 175,
+                    "y": 20,
+                    "width": 4,
+                    "height": 4,
+                    "visible": true,
+                    "locked": false,
+                    "mainComponentId": "54593:26120",
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "cornerRadius": 0,
+                    "cornerSmoothing": 0,
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "fillStyleId": "",
+                    "strokeStyleId": "",
+                    "strokeWeight": 1,
+                    "strokeTopWeight": 1,
+                    "strokeBottomWeight": 1,
+                    "strokeLeftWeight": 1,
+                    "strokeRightWeight": 1,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutGrow": 0,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "CENTER",
+                        "vertical": "CENTER"
+                    },
+                    "exportSettings": [],
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            175
+                        ],
+                        [
+                            0,
+                            1,
+                            20
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 175,
+                        "y": 20,
+                        "width": 4,
+                        "height": 4
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M0 0 L4 0 L4 4 L0 4 L0 0 Z"
+                        }
+                    ],
+                    "guides": [],
+                    "componentProperties": {},
+                    "scaleFactor": 1,
+                    "fills": [],
+                    "strokes": [],
+                    "effects": [],
+                    "children": [
+                        {
+                            "type": "ELLIPSE",
+                            "id": "I55719:34331;54593:25668;54593:26121",
+                            "name": "Dot",
+                            "x": 0,
+                            "y": 0,
+                            "width": 4,
+                            "height": 4,
+                            "visible": true,
+                            "locked": false,
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 0,
+                            "cornerSmoothing": 0,
+                            "fillStyleId": "",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "AUTO",
+                            "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                            ],
+                            "absoluteRenderBounds": null,
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M4 2 C4 3.10457 3.10457 4 2 4 C0.895431 4 0 3.10457 0 2 C0 0.895431 0.895431 0 2 0 C3.10457 0 4 0.895431 4 2 Z"
+                                }
+                            ],
+                            "fills": [],
+                            "strokes": [],
+                            "effects": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

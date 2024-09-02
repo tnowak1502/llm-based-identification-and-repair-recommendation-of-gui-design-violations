@@ -1,0 +1,10 @@
+{
+  "violations": "1. The headline of the dialog is a question, which should be an unambiguous statement per Material Design 3 guidelines. 2. The primary action button text 'Ok' is vague.",
+  "changes": "1. Change the headline to 'Permanently delete 2 messages?'. 2. Update the primary action button text to 'Delete'.",
+  "changed_components": [
+    "<div class='headline' id='I57805:11846;50723:10951' style='position: absolute; top: 24px; left: 24px; width: 265px; height: 64px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 24px; font-weight: 400; letter-spacing: 0px; color: #181D18FF; line-height: 32px; justify-content: left; align-items: center;'>Permanently delete 2 messages?</div>",
+    "<div class='label-text' id='I57805:11846;50723:10963;53923:27565' style='position: absolute; top: 10px; left: 12px; width: 27px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center;'>Delete</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

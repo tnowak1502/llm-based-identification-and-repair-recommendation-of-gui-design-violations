@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "It looks like the segmented button is being used to filter search results. This is not something they are intended for, as filter chips take care of this.",
+  "changes": "Replace the segmented button with three filter chips, labeled 'Show all', 'Unicolor' and 'Prints' respectively.",
+  "guideline_request": "filter chip guidelines",
+  "example_request": "Fitler chips"
+}
+```

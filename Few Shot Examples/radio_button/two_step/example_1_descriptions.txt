@@ -1,0 +1,83 @@
+Here is a detailed description of each radio button depicted in the HTML code snippets and the mockup image:
+
+### Radio Button 1
+
+- **Type**: Unselected Dark
+- **ID**: `I55698:12185;51964:70974;51964:71503`
+- **Color**: Dark green (#99D4A2FF)
+- **Size**: 24px by 24px
+- **Shape**: Circular
+- **Position**: 
+  - General: Top left corner of the screen
+  - Specific: Positioned at `top: 16px` and `left: 48px`
+- **Likely Function**: This radio button is likely used to indicate an unselected state for a filter option or sorting criterion.
+- **Attributes**:
+  - Container `border-radius`: 100px (making it circular)
+  - SVG icon: 20px by 20px
+
+### Radio Button 2
+
+- **Type**: Unselected Dark
+- **ID**: `I55698:12185;51964:70975;51964:71503`
+- **Color**: Dark green (#99D4A2FF)
+- **Size**: 24px by 24px
+- **Shape**: Circular
+- **Position**: 
+  - General: Top left corner of the screen
+  - Specific: Positioned at `top: 16px` and `left: 48px`
+- **Likely Function**: Similar to the first radio button, this indicates an unselected state for another filter option or sorting criterion.
+- **Attributes**:
+  - Container `border-radius`: 100px (circular shape)
+  - SVG icon: 20px by 20px
+
+### Radio Button 3
+
+- **Type**: Unselected Dark
+- **ID**: `I55698:12185;51964:70977;51964:71503`
+- **Color**: Dark green (#99D4A2FF)
+- **Size**: 24px by 24px
+- **Shape**: Circular
+- **Position**: 
+  - General: Top left corner of the screen
+  - Specific: Positioned at `top: 16px` and `left: 16px`
+- **Likely Function**: Indicates an unselected state for yet another filter option or sorting criterion.
+- **Attributes**:
+  - Container `border-radius`: 100px (circular shape)
+  - SVG icon: 20px by 20px
+
+### Radio Button 4
+
+- **Type**: Selected Dark
+- **ID**: `I55698:12185;51964:70973;51964:71503`
+- **Color**: Dark green (#99D4A2FF)
+- **Size**: 24px by 24px
+- **Shape**: Circular
+- **Position**: 
+  - General: Top left corner of the screen
+  - Specific: Positioned at `top: 16px` and `left: 16px`
+- **Likely Function**: Indicates a selected state, likely indicating the active selection for a filter option or sorting criterion.
+- **Attributes**:
+  - Container `border-radius`: 100px (circular shape)
+  - SVG icon: 20px by 20px, with an additional filled circle path indicating the selected state
+
+### Radio Button 5
+
+- **Type**: Unselected Dark
+- **ID**: `I55698:12185;51964:70976;51964:71503`
+- **Color**: Dark green (#99D4A2FF)
+- **Size**: 24px by 24px
+- **Shape**: Circular
+- **Position**: 
+  - General: Top left corner of the screen
+  - Specific: Positioned at `top: 16px` and `left: 16px`
+- **Likely Function**: Indicates an unselected state for a filter option or sorting criterion.
+- **Attributes**:
+  - Container `border-radius`: 100px (circular shape)
+  - SVG icon: 20px by 20px
+
+### Summary of Visual Representation:
+
+In the mockup image, the radio buttons are part of the "Sort by" section and are used to select sorting criteria such as "Most relevant," "User rating," "Distance," and "Minimum order cost." The selected radio button is filled (likely indicating "Most relevant"), while the unselected ones are hollow. The color is a shade of dark green, consistent across all radio buttons, with a circular shape.
+
+### Functional Context:
+These radio buttons serve as visual selectors within a mobile UI to help users sort or filter their search results based on different criteria. The selected state signifies the active filter or sorting option, while the unselected states represent inactive options.

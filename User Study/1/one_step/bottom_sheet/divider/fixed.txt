@@ -1,0 +1,10 @@
+{
+  "violations": "The dividers used in the mockup are full-width dividers. According to the Material Design 3 Guidelines, full-width dividers should not be used too frequently and are generally used to separate larger sections of unrelated content. In this case, inset dividers would be more appropriate to separate related content within sections.",
+  "changes": "Replace the full-width dividers with inset dividers to better reflect the hierarchy and relationship between the content.",
+  "changed_components": [
+    "<hr class='Divider' id='I57805:12236;51816:5861' style='margin: 0px; position: absolute; left: 16px; width: 364px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'/>",
+    "<hr class='Divider' id='I57805:12246;51816:5861' style='margin: 0px; position: absolute; left: 16px; width: 364px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'/>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

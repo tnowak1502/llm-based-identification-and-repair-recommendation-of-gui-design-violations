@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Carousel items too small: The items in the first carousel have a very low width, especially the last item. This makes it difficult to recognize the content of the items.",
+    "2. Carousel items in second carousel too small: The last item in the second carousel is too small to be easily recognizable."
+  ],
+  "changes": [
+    "1. Increase the width of the carousel items in the first carousel to ensure they are easily recognizable. Aim for a width that allows at most three items to be visible at a time.",
+    "2. Increase the width of the last item in the second carousel to ensure it is easily recognizable. Ensure the width is sufficient to clearly display the content."
+  ],
+  "guideline_request": "carousel item width",
+  "example_request": "multi-browse-carousel"
+}
+```

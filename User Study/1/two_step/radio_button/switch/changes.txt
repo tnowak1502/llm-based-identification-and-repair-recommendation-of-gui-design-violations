@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The switch component is used for adjusting the volume. According to Material Design 3 guidelines, switches should only be used for on/off choices. For adjusting values like volume, a slider should be used instead.",
+      "reasoning": "Switches are not suitable for adjusting values that are not binary. Sliders are specifically designed for such purposes and provide a better user experience."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Replace the switch component with a slider component for adjusting the volume.",
+      "reasoning": "Sliders are more appropriate for adjusting continuous or discrete values, ensuring clarity and proper use according to Material Design principles."
+    }
+  ],
+  "guideline_request": "Material Design 3 guidelines for sliders",
+  "example_request": "Example HTML implementations of slider components in Material Design 3"
+}

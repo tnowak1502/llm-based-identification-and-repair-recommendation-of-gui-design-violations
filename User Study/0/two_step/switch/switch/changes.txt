@@ -1,0 +1,12 @@
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The switch for 'Receive emails' is appropriate as it is an on/off choice. However, the switch for 'Download using mobile data' is also used correctly for an on/off choice, so no violations are present here.",
+      "reasoning": "Switches are correctly used for on/off choices for 'Receive emails' and 'Download using mobile data'."
+    }
+  ],
+  "changes": [],
+  "guideline_request": "",
+  "example_request": ""
+}

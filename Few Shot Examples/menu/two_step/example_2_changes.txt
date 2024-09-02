@@ -1,0 +1,20 @@
+```json
+{
+  "violations": [
+    {
+      "issue": "Menu placement",
+      "description": "The menu should appear directly below the component that was pressed to open it. This is not clear from the image provided.",
+      "severity": "High",
+      "reason": "Ensuring the menu appears directly below the component that triggered it is crucial for user experience, as it provides a clear context and association between the action and the menu options."
+    }
+  ],
+  "changes": [
+    {
+      "change": "Menu placement",
+      "description": "Ensure the menu appears directly below the component that was pressed to open it. Judging by the screenshot, that would most likely be the context menu button on the right of the top app bar. Move the menu below it."
+    }
+  ],
+  "guideline_request": "menu placement",
+  "example_request": "menu"
+}
+```

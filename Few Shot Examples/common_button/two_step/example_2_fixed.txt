@@ -1,0 +1,22 @@
+{"changed_components": [
+  "<div class = 'Button-dark' id = '55307:4382' config='Tonal' style='position: absolute; top: 135px; left: 16px; width: 121px; height: 32px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55170:3711;53923:27677' style='position: absolute; top: -4px; left: 0px; width: 121px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'label-text' id = 'I55170:3711;53923:27678' style='position: absolute; top: 10px; left: 24px; width: 74px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Abonnieren
+                  </div>
+                </div>
+              </div>",
+  "<div class = 'Button-dark' id = '55307:4387' config='Tonal' style='position: absolute; top: 135px; left: 16px; width: 121px; height: 32px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55170:3739;53923:27677' style='position: absolute; top: -4px; left: 0px; width: 121px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'label-text' id = 'I55170:3739;53923:27678' style='position: absolute; top: 10px; left: 24px; width: 74px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Abonnieren
+                  </div>
+                </div>
+              </div>",
+  "<div class = 'Button-dark' id = '55307:4392' config='Tonal' style='position: absolute; top: 135px; left: 16px; width: 121px; height: 32px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55170:3744;53923:27677' style='position: absolute; top: -4px; left: 0px; width: 121px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'label-text' id = 'I55170:3744;53923:27678' style='position: absolute; top: 10px; left: 24px; width: 74px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Abonnieren
+                  </div>
+                </div>
+              </div>"
+],
+"deleted_components": [],
+"new_components": []}

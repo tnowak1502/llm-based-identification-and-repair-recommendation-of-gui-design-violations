@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. Carousel items too small: The items in the carousels have a width of 100px, which is quite small and might make it difficult for users to discern the content. Additionally, having four items visible at once can be overwhelming, especially if the items contain detailed content.",
+  "changes": "1. Increase the width of the carousel items to at least 130px to ensure the content is more easily discernible. This will also reduce the number of visible items at once, making the carousel less cluttered.",
+  "guideline_request": "carousel item width",
+  "example_request": "multi-browse-carousel"
+}
+```

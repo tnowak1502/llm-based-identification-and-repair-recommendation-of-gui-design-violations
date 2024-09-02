@@ -1,0 +1,9 @@
+{
+  'changed_components': [
+    '<div class="Handle" id="I57811:40357;54593:25568" style="position: absolute; top: 0px; left: 160px; width: 16px; height: 44px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 2px;">'
+  ],
+  'deleted_components': [
+    'I57811:40357;54593:25569;54593:26124'
+  ],
+  'new_components': []
+}

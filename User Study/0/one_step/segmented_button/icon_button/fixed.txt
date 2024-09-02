@@ -1,0 +1,34 @@
+{
+  "violations": "1. The icon button in the search bar and the icon button next to it are not clearly distinguished as interactive elements, which may cause ambiguity. (Severity: Medium)",
+  "changes": "1. Change the icon buttons to contained icon buttons to ensure they are clearly visible and distinguishable as interactive elements.",
+  "changed_components": [
+    "<div class = 'Icon-button-dark' config='contained' id = '57811:38814' style='position: absolute; top: 60px; left: 348px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'container' id = 'I57811:38814;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+          <div class = 'state-layer' id = 'I57811:38814;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Icon' id = 'I57811:38814;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='icon' id='I57811:38814;51525:5139;55204:66256' style='position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;'>
+                <svg height = '18px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>
+                  <path d='M 0 14 L 0 16 L 6 16 L 6 14 L 0 14 Z M 0 2 L 0 4 L 10 4 L 10 2 L 0 2 Z M 10 18 L 10 16 L 18 16 L 18 14 L 10 14 L 10 12 L 8 12 L 8 18 L 10 18 Z M 4 6 L 4 8 L 0 8 L 0 10 L 4 10 L 4 12 L 6 12 L 6 6 L 4 6 Z M 18 10 L 18 8 L 8 8 L 8 10 L 18 10 Z M 12 6 L 14 6 L 14 4 L 18 4 L 18 2 L 14 2 L 14 0 L 12 0 L 12 6 Z' style='fill: #C1C9BEFF;'/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>",
+    "<div class = 'Leading-icon' config='contained' id = 'I57811:38813;52977:34210' style='position: absolute; top: 4px; left: 4px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'container' id = 'I57811:38813;52977:34210;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+          <div class = 'state-layer' id = 'I57811:38813;52977:34210;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Icons/search_24px' id = 'I57811:38813;52977:34210;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='icon' id='I57811:38813;52977:34210;51525:5139;51009:9730' style='position: absolute; top: 3px; left: 3px; width: 17.490001678466797px; height: 17.490001678466797px;'>
+                <svg height = '17.490001678466797px' width = '17.490001678466797px' xmlns = 'http://www.w3.org/2000/svg'>
+                  <path d='M 11.760001511353 10.270001577744896 L 17.490001678466797 16.000001744858693 L 16.000001744858693 17.490001678466797 L 10.270001577744896 11.760001511353 C 9.200001766233285 12.530002053088046 7.91000071002661 13.000001417697689 6.5000007088488445 13.000001417697689 C 2.910000403176873 13.000001417697689 0 10.090001252939421 0 6.5000007088488445 C 0 2.910000403176873 2.910000403176873 0 6.5000007088488445 0 C 10.090001252939421 0 13.000001417697689 2.910000403176873 13.000001417697689 6.5000007088488445 C 13.000001417697689 7.91000071002661 12.530002053088046 9.200001766233285 11.760001511353 10.270001577744896 Z M 6.5000007088488445 2.0000002181073366 C 4.0100006661870715 2.0000002181073366 2.0000002181073366 4.0100006661870715 2.0000002181073366 6.5000007088488445 C 2.0000002181073366 8.990000751510618 4.0100006661870715 11.00000119959035 6.5000007088488445 11.00000119959035 C 8.990000751510618 11.00000119959035 11.00000119959035 8.990000751510618 11.00000119959035 6.5000007088488445 C 11.00000119959035 4.0100006661870715 8.990000751510618 2.0000002181073366 6.5000007088488445 2.0000002181073366 Z' style='fill: #C1C9BEFF;'/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

@@ -1,0 +1,9 @@
+{
+  "violations": "The label text 'Continue' on the button is in title case. According to Material Design 3 Guidelines, the label text of filled buttons should be in sentence case.",
+  "changes": "Change the label text 'Continue' to sentence case (e.g., 'continue').",
+  "changed_components": [
+    "<div class='label-text' id='I57821:59084;53923:27623' style='position: absolute; top: 10px; left: 161.5px; width: 58.0px; height: 20px; opacity: 0.3799999952316284; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;'>continue</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

@@ -1,0 +1,11 @@
+{
+  "violations": "The badge on the 'Chats' icon is too large and overlaps with the icon. Badges should be small enough to not obscure the icons they are associated with.",
+  "changes": "Reduce the size of the badge on the 'Chats' icon to ensure it does not overlap with the icon.",
+  "changed_components": [
+    "<div class='Badge-dark' config='Small' id='I57811:37476;52031:23836;52031:22767' style='position: absolute; top: 2px; left: 16px; width: 16px; height: 16px; overflow: hidden; opacity: 1; background-color: #FFB4ABFF; border-radius: 100px;'>
+        <div class='Badge-label' id='I57811:37476;52031:23836;52031:22767;51592:4778' style='position: absolute; top: 0px; left: 3.5px; width: 9px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #690005FF; line-height: 16px; justify-content: center; align-items: center;'>99+</div>
+      </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

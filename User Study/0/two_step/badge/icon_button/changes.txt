@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Button Styles: The icon buttons for the segmented buttons and other buttons (e.g., `Segmented-button`, `Button`, `Icon-button`) use different styles (`filled`, `outlined`, and `standard`). According to the Material Design 3 guidelines, the style of buttons should be consistent to communicate their importance and function uniformly. (Severity: High)",
+    "2. Ambiguity in Clickable Areas: The `Segmented-button` has segments with different configurations (`label & icon` and `icon only`). This could cause confusion about their interactivity and functionality. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the style of the icon buttons. Choose one style (e.g., all `outlined`, all `filled`, or all `standard`) for consistency. This will make it clear that all buttons perform similar actions and have the same level of importance.",
+    "2. Ensure that all segments of the `Segmented-button` have a consistent configuration to avoid ambiguity. If some segments have labels, all segments should have labels, or all should be icon-only."
+  ],
+  "guideline_request": "Icon button styles, Segmented button configurations",
+  "example_request": "icon buttons, segmented buttons"
+}

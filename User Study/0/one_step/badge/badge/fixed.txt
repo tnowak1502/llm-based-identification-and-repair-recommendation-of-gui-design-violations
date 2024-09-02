@@ -1,0 +1,12 @@
+{
+  "violations": "1. The badge text 'A user has reported you' is too long for a badge and exceeds the maximum recommended length of 4 characters. Badges should only display short notifications or item counts. 2. The badge text should be succinct and unambiguous.",
+  "changes": "1. Replace the badge with a more appropriate component like a Snackbar to display the message 'A user has reported you'. 2. Remove the current badge displaying the long text message.",
+  "changed_components": [],
+  "deleted_components": ["57811:35941"],
+  "new_components": [
+    [
+      "<div class='Snackbar' id='57811:35941' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 48px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 4px; '><div class='Snackbar-label' id='57811:35942' style='position: absolute; top: 0px; left: 4px; width: 404px; height: 48px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 48px; justify-content: center; align-items: center;'>A user has reported you</div></div>",
+      "57811:35931"
+    ]
+  ]
+}

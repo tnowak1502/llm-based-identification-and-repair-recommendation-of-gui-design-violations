@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is placed in the top right corner of the screen. According to Material Design 3 guidelines, the FAB should be placed in the bottom right corner to be easily accessible using thumbs.",
+      "severity": "high"
+    },
+    {
+      "description": "The FAB's color does not contrast well with the background. FABs should have a clear and simple icon and should contrast with the area behind them using color or elevation.",
+      "severity": "medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Relocate the FAB to the bottom right corner of the screen to improve accessibility and adherence to the guidelines."
+    },
+    {
+      "description": "Ensure the FAB has a color that contrasts well with the background to make it more visible and distinguishable."
+    }
+  ],
+  "guideline_request": "Material Design 3 FAB placement guidelines, Material Design 3 FAB color contrast guidelines",
+  "example_request": "Material Design 3 FAB examples, Material Design 3 FAB placement examples"
+}

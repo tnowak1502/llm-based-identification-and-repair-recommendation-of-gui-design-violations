@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Ambiguous Tab Labels: The tab labels 'Following' and 'For You' are not immediately clear in their meaning. This can lead to confusion about what content will be displayed when each tab is selected.",
+    "2. Inconsistent Tab Widths: The tabs have different widths (90px each), which may not provide enough space for longer labels or future additions, potentially causing truncation issues."
+  ],
+  "changes": [
+    "1. Clarify Tab Labels: Consider using more descriptive labels for the tabs to make their purpose clearer. For example, 'Following' could be 'Following Users' and 'For You' could be 'Recommended for You'.",
+    "2. Standardize Tab Widths: Ensure that all tabs have sufficient and consistent width to accommodate the labels without truncation. This can be achieved by increasing the width of the tabs or adjusting the label text accordingly."
+  ],
+  "guideline_request": "tab labels clarity, tab widths consistency",
+  "example_request": "Material Design 3 tab examples"
+}
+```

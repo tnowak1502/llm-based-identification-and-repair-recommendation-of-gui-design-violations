@@ -1,0 +1,71 @@
+{
+  "violations": "The navigation bar contains five destinations, but the width of the segments is inconsistent. This can make the navigation bar look unbalanced and may affect usability.",
+  "changes": "Ensure all segments in the navigation bar have consistent width. Adjust the width of each segment to be equal.",
+  "changed_components": [
+    "<div class=\"Segment-1\" id=\"I57811:39386;52031:23841\" style=\"position: absolute; top: 0px; left: 8px; width: 72.8px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+      <div class=\"icon-container\" id=\"I57811:39386;52031:23841;52031:22888\" style=\"position: absolute; top: 12px; left: 20.4px; width: 32px; height: 32px; opacity: 1; background-color: #394B3BFF; border-radius: 16px; \">
+        <div class=\"state-layer\" id=\"I57811:39386;52031:23841;52031:22889\" style=\"position: absolute; top: 0px; left: 0px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+          <div class=\"Icon\" id=\"I57811:39386;52031:23841;52031:22890\" style=\"position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+            <div class=\"Vector\" id=\"I57811:39386;52031:23841;52031:22890;55204:70257\" style=\"position: absolute; top: 3.5px; left: 2px; width: 20px; height: 17px;\">
+              <svg height=\"17px\" width=\"20px\" xmlns=\"http://www.w3.org/2000/svg\">
+                <path d=\"M 10 2.690000057220459 L 15 7.189999580383301 L 15 15 L 13 15 L 13 9 L 7 9 L 7 15 L 5 15 L 5 7.189999580383301 L 10 2.690000057220459 Z M 10 0 L 0 9 L 3 9 L 3 17 L 9 17 L 9 11 L 11 11 L 11 17 L 17 17 L 17 9 L 20 9 L 10 0 Z\" style=\"fill: #D3E8D2FF;\"></path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=\"label-text\" id=\"I57811:39386;52031:23841;52031:22891\" style=\"position: absolute; top: 48px; left: 0px; width: 72.8px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 16px; justify-content: center; align-items: top;\">Homepage</div>
+    </div>",
+    "<div class=\"Segment-2\" id=\"I57811:39386;52031:23842\" style=\"position: absolute; top: 0px; left: 88.8px; width: 72.8px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+      <div class=\"icon-container\" id=\"I57811:39386;52031:23842;52031:22720\" style=\"position: absolute; top: 12px; left: 20.4px; width: 32px; height: 32px; opacity: 1; border-radius: 16px; \">
+        <div class=\"state-layer\" id=\"I57811:39386;52031:23842;52031:22721\" style=\"position: absolute; top: 0px; left: -16px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+          <div class=\"Icon\" id=\"I57811:39386;52031:23842;52031:22722\" style=\"position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+            <div class=\"Vector\" id=\"I57811:39386;52031:23842;52031:22722;55204:70253\" style=\"position: absolute; top: 2px; left: 4px; width: 16px; height: 20px;\">
+              <svg height=\"20px\" width=\"16px\" xmlns=\"http://www.w3.org/2000/svg\">
+                <path d=\"M 14 4 L 12 4 C 12 1.7899999618530273 10.210000038146973 0 8 0 C 5.789999961853027 0 4 1.7899999618530273 4 4 L 2 4 C 0.8999999761581421 4 0 4.899999976158142 0 6 L 0 18 C 0 19.100000023841858 0.8999999761581421 20 2 20 L 14 20 C 15.100000023841858 20 16 19.100000023841858 16 18 L 16 6 C 16 4.899999976158142 15.100000023841858 4 14 4 Z M 8 2 C 9.100000023841858 2.899999976158142 10 4 L 6 4 C 6 2.899999976158142 6.899999976158142 2 8 2 Z M 14 18 L 2 18 L 2 6 L 4 6 L 4 8 C 4 8.550000011920929 4.449999988079071 9 5 9 C 5.550000011920929 9 6 8.550000011920929 6 8 L 6 6 L 10 6 L 10 8 C 10 8.550000011920929 10.449999988079071 9 11 9 C 11.550000011920929 9 12 8.550000011920929 12 8 L 12 6 L 14 6 L 14 18 Z\" style=\"fill: #C1C9BEFF;\"></path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=\"label-text\" id=\"I57811:39386;52031:23842;52031:22723\" style=\"position: absolute; top: 48px; left: 0px; width: 72.8px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #C1C9BEFF; line-height: 16px; justify-content: center; align-items: top;\">Shop</div>
+    </div>",
+    "<div class=\"Segment-3\" id=\"I57811:39386;52031:23843\" style=\"position: absolute; top: 0px; left: 169.6px; width: 72.8px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+      <div class=\"icon-container\" id=\"I57811:39386;52031:23843;52031:22720\" style=\"position: absolute; top: 12px; left: 20.4px; width: 32px; height: 32px; opacity: 1; border-radius: 16px; \">
+        <div class=\"state-layer\" id=\"I57811:39386;52031:23843;52031:22721\" style=\"position: absolute; top: 0px; left: -16px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+          <div class=\"Icon\" id=\"I57811:39386;52031:23843;52031:22722\" style=\"position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+            <div class=\"live_tv\" config=\"Outlined\" id=\"I57811:39386;52031:23843;52031:22722;55204:65713\" style=\"position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+              <div class=\"Vector\" id=\"I57811:39386;52031:23843;52031:22722;55204:65713;2402:75359\" style=\"position: absolute; top: 2px; left: 1px; width: 22px; height: 20px;\">
+                <svg height=\"20px\" width=\"22px\" xmlns=\"http://www.w3.org/2000/svg\">
+                  <path d=\"M 8 8 L 8 16 L 15 12 L 8 8 Z M 20 4 L 12.420000076293945 4 L 15.709999084472656 0.7100000381469727 L 15 0 L 11 4 L 10.970000267028809 4 L 6.96999979019165 0 L 6.28000020980835 0.7100000381469727 L 9.5600004196167 4 L 2 4 C 0.8999999761581421 4 0 4.899999976158142 0 6 L 0 18 C 0 19.100000023841858 0.8999999761581421 20 2 20 L 20 20 C 21.100000023841858 20 22 19.100000023841858 22 18 L 22 6 C 22 4.899999976158142 21.100000023841858 4 20 4 Z M 20 18 L 2 18 L 2 6 L 20 6 L 20 18 Z\" style=\"fill: #C1C9BEFF;\"></path>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=\"label-text\" id=\"I57811:39386;52031:23843;52031:22723\" style=\"position: absolute; top: 48px; left: 0px; width: 72.8px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #C1C9BEFF; line-height: 16px; justify-content: center; align-items: top;\">Live-TV</div>
+    </div>",
+    "<div class=\"Segment-4\" id=\"I57811:39386;52031:23844\" style=\"position: absolute; top: 0px; left: 250.4px; width: 72.8px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+      <div class=\"icon-container\" id=\"I57811:39386;52031:23844;52031:22720\" style=\"position: absolute; top: 12px; left: 20.4px; width: 32px; height: 32px; opacity: 1; border-radius: 16px; \">
+        <div class=\"state-layer\" id=\"I57811:39386;52031:23844;52031:22721\" style=\"position: absolute; top: 0px; left: -16px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+          <div class=\"Icon\" id=\"I57811:39386;52031:23844;52031:22722\" style=\"position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+            <div class=\"file_download\" config=\"Outlined\" id=\"I57811:39386;52031:23844;52031:22722;55204:66403\" style=\"position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+              <div class=\"Vector\" id=\"I57811:39386;52031:23844;52031:22722;55204:66403;2402:57131\" style=\"position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;\">
+                <svg height=\"16px\" width=\"16px\" xmlns=\"http://www.w3.org/2000/svg\">
+                  <path d=\"M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z\" style=\"fill: #C1C9BEFF;\"></path>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=\"label-text\" id=\"I57811:39386;52031:23844;52031:22723\" style=\"position: absolute; top: 48px; left: 0px; width: 72.8px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #C1C9BEFF; line-height: 16px; justify-content: center; align-items: top;\">Downloads</div>
+    </div>",
+    "<div class=\"Segment-5\" id=\"I57811:39386;52031:23845\" style=\"position: absolute; top: 0px; left: 331.2px; width: 72.8px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+      <div class=\"icon-container\" id=\"I57811:39386;52031:23845;52031:21333\" style=\"position: absolute; top: 12px; left: 20.4px; width: 32px; height: 32px; opacity: 1; border-radius: 16px; \">
+        <div class=\"state-layer\" id=\"I57811:39386;52031:23845;52031:21264\" style=\"position: absolute; top: 0px; left: -16px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+          <div class=\"Icon\" id=\"I57811:39386;52031:23845;50721:10429\" style=\"position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \">
+            <div class=\"icon\" id=\"I57811:39386;52031:23845;50721:10429;51009:9730\" style=\"position: absolute; top: 3px; left: 3px; width: 17.490001678466797px; height: 17.490001678466797px;\">
+              <svg height=\"17.490001678466797px\" width=\"17.490001678466797px\" xmlns=\"http://www.w3.org/2000/svg\">
+                <path d=\"M 11.760001511353 10.270001577744896 L 17.490001678466797 16.000001744858693 L 16.000001744858693 17.490001678466797 L 10.270001577744896 11.760001511353 C 9.200001766233285 12.530002053088046 7.91000071002661 13.000001417697689 6.5000007088488445 13.

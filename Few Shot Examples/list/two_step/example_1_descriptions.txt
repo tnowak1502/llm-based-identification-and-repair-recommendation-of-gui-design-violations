@@ -1,0 +1,80 @@
+This mockup represents a mobile user interface in dark mode. The lists are contained within a `div` with a dark background. Here are the detailed descriptions for each list item:
+
+1. **List Item 1:** 
+   - **Type:** Single-line item.
+   - **Color:** Background is dark (#101510FF), text color is off-white (#DFE4DCFF).
+   - **Size:** 412px wide, 72px tall.
+   - **Shape:** Rectangular.
+   - **Position:** Top-left at (0px, 0px).
+   - **ID:** 55404:8938.
+   - **Function:** Representing an action to add an item to the playlist, likely providing a way to add songs or other media.
+   - **Attributes:** 
+     - Leading element is an image thumbnail.
+     - Content includes a headline "Add to this playlist".
+
+2. **List Item 2:**
+   - **Type:** Two-line item.
+   - **Color:** Background is dark (#101510FF), text color is off-white (#DFE4DCFF) for the headline and gray (#49454FFF) for the supporting text.
+   - **Size:** 412px wide, 88px tall.
+   - **Shape:** Rectangular.
+   - **Position:** Below List Item 1, top-left at (0px, 72px).
+   - **ID:** 55404:8743.
+   - **Function:** Represents a song with options for download and more actions.
+   - **Attributes:** 
+     - Leading element is an image thumbnail at the right.
+     - Content includes a headline "Song Title" and supporting text "Artist Name".
+     - Trailing element is an icon with three vertical dots (more options).
+
+3. **List Item 3:**
+   - **Type:** Two-line item.
+   - **Color:** Background is dark (#101510FF), text color is off-white (#DFE4DCFF) for the headline and gray (#49454FFF) for the supporting text.
+   - **Size:** 412px wide, 88px tall.
+   - **Shape:** Rectangular.
+   - **Position:** Below List Item 2, top-left at (0px, 160px).
+   - **ID:** 55404:8951.
+   - **Function:** Similar to List Item 2, representing another song with options for download and more actions.
+   - **Attributes:** 
+     - Leading element is an image thumbnail at the right.
+     - Content includes a headline "Song Title" and supporting text "Artist Name".
+     - Trailing element is an icon with three vertical dots (more options).
+
+4. **List Item 4:**
+   - **Type:** Two-line item.
+   - **Color:** Background is dark (#101510FF), text color is off-white (#DFE4DCFF) for the headline and gray (#49454FFF) for the supporting text.
+   - **Size:** 412px wide, 88px tall.
+   - **Shape:** Rectangular.
+   - **Position:** Below List Item 3, top-left at (0px, 248px).
+   - **ID:** 55404:8969.
+   - **Function:** Another song item similar to List Item 2 and 3.
+   - **Attributes:**
+     - Leading element is an image thumbnail at the right.
+     - Content includes a headline "Song Title" and supporting text "Artist Name".
+     - Trailing element is an icon with three vertical dots (more options).
+
+5. **List Item 5:**
+   - **Type:** Two-line item.
+   - **Color:** Background is dark (#101510FF), text color is off-white (#DFE4DCFF) for the headline and gray (#49454FFF) for the supporting text.
+   - **Size:** 412px wide, 88px tall.
+   - **Shape:** Rectangular.
+   - **Position:** Below List Item 4, top-left at (0px, 336px).
+   - **ID:** 55404:8987.
+   - **Function:** Another song item similar to List Item 2, 3, and 4.
+   - **Attributes:**
+     - Leading element is an image thumbnail at the right.
+     - Content includes a headline "Song Title" and supporting text "Artist Name".
+     - Trailing element is an icon with three vertical dots (more options).
+
+6. **List Item 6:**
+   - **Type:** Two-line item.
+   - **Color:** Background is dark (#101510FF), text color is off-white (#DFE4DCFF) for the headline and gray (#49454FFF) for the supporting text.
+   - **Size:** 412px wide, 88px tall.
+   - **Shape:** Rectangular.
+   - **Position:** Below List Item 5, top-left at (0px, 424px).
+   - **ID:** 55404:9005.
+   - **Function:** Another song item similar to List Item 2, 3, 4, and 5.
+   - **Attributes:**
+     - Leading element is an image thumbnail at the right.
+     - Content includes a headline "Song Title" and supporting text "Artist Name".
+     - Trailing element is an icon with three vertical dots (more options).
+
+These lists are part of a dark mode interface displaying a playlist with various interactive elements like thumbnails, download buttons, and menus for each song.

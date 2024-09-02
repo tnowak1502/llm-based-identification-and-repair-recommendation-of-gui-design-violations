@@ -1,0 +1,84 @@
+### Description of the Navigation Bar
+
+#### General Description
+- **Type:** Bottom Navigation Bar
+- **Mode:** Light (standard) mode
+- **Position:** Absolute, located at the bottom of the screen (top: 724px, left: 0px)
+- **Size:** Full width of the screen (412px width, 80px height)
+- **Background Color:** Light greenish (#EBEFE7FF)
+- **Border Radius:** None (0px)
+- **Opacity:** Fully opaque
+
+#### Segments
+
+1. **Segment 1**
+   - **Position:** Absolute, located at the left (top: 0px, left: 8px)
+   - **Size:** Width: 93px, Height: 80px
+   - **Icon Container:** 
+     - **Position:** Absolute, centered vertically (top: 22px, left: 14.5px)
+     - **Size:** Width: 64px, Height: 32px
+     - **Background Color:** Light green (#D3E8D2FF)
+     - **Border Radius:** Rounded (16px)
+   - **Icon:**
+     - **Position:** Absolute, centered within the container (top: 4px, left: 20px)
+     - **Size:** Width: 24px, Height: 24px
+     - **SVG Icon:** Magnifying glass (search icon)
+     - **Color:** Dark green (#0E1F12FF)
+   - **Likely Function:** Search
+
+2. **Segment 2**
+   - **Position:** Absolute, second from the left (top: 0px, left: 109px)
+   - **Size:** Width: 93px, Height: 80px
+   - **Icon Container:** 
+     - **Position:** Absolute, centered vertically (top: 22px, left: 30.5px)
+     - **Size:** Width: 32px, Height: 32px
+     - **Border Radius:** Rounded (16px)
+   - **Icon:**
+     - **Position:** Absolute, centered within the container (top: 4px, left: 20px)
+     - **Size:** Width: 24px, Height: 24px
+     - **SVG Icon:** Trash can (delete icon)
+     - **Color:** Dark gray (#414941FF)
+   - **Likely Function:** Delete
+
+3. **Segment 3**
+   - **Position:** Absolute, third from the left (top: 0px, left: 210px)
+   - **Size:** Width: 93px, Height: 80px
+   - **Icon Container:** 
+     - **Position:** Absolute, centered vertically (top: 22px, left: 30.5px)
+     - **Size:** Width: 32px, Height: 32px
+     - **Border Radius:** Rounded (16px)
+   - **Icon:**
+     - **Position:** Absolute, centered within the container (top: 4px, left: 20px)
+     - **Size:** Width: 24px, Height: 24px
+     - **SVG Icon:** Archive box
+     - **Color:** Dark gray (#414941FF)
+   - **Likely Function:** Archive
+
+4. **Segment 4**
+   - **Position:** Absolute, fourth from the left (top: 0px, left: 311px)
+   - **Size:** Width: 93px, Height: 80px
+   - **Icon Container:** 
+     - **Position:** Absolute, centered vertically (top: 22px, left: 30.5px)
+     - **Size:** Width: 32px, Height: 32px
+     - **Border Radius:** Rounded (16px)
+   - **Icon:**
+     - **Position:** Absolute, centered within the container (top: 4px, left: 20px)
+     - **Size:** Width: 24px, Height: 24px
+     - **SVG Icon:** Undo
+     - **Color:** Dark gray (#414941FF)
+   - **Likely Function:** Undo
+
+#### Functionality & Design
+- **Navigation Bar ID:** `55725:6455`
+- **Each Segment ID:** 
+  - Segment 1: `I55725:6455;50721:10403`
+  - Segment 2: `I55725:6455;50721:10404`
+  - Segment 3: `I55725:6455;50721:10405`
+  - Segment 4: `I55725:6455;50721:10406`
+- **Purpose:** Provides quick access to different functionalities (search, delete, archive, and undo)
+- **Design Considerations:** 
+  - Clearly defined segments with rounded icons
+  - Color differentiation for icons to indicate different functionalities
+  - Centralized icons within their respective containers for visual balance
+
+This bottom navigation bar is designed to be user-friendly and visually appealing, with distinct icons representing common actions in a light mode interface.

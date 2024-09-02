@@ -1,0 +1,21 @@
+{
+  "changed_components": [
+    "<div class = 'FAB' id = '57821:59035' config='surface' style='position: absolute; top: 777px; left: 340px; width: 56px; height: 56px; overflow: hidden; opacity: 1; background-color: #E5EAE1FF; border-radius: 16px; filter: drop-shadow(0px 1px 3px #0000004C); '>
+        <div class = 'state-layer' id = 'I57821:59035;51655:4767' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'icon' id = 'I57821:59035;51655:4768' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'add' id = 'I57821:59035;51655:4768;55204:66904' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Vector' id='I57821:59035;51655:4768;55204:66904;2402:45137' style='position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;'>
+                <svg height = '18px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>
+                  <path d='M 9 0 L 9 9 L 0 9 L 0 11 L 9 11 L 9 20 L 11 20 L 11 11 L 20 11 L 20 9 L 11 9 L 11 0 L 9 0 Z' style='fill: #326940FF;'/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>"
+  ],
+  "deleted_components": [
+    "I57821:59035;51655:4768;50656:8969"
+  ],
+  "new_components": []
+}

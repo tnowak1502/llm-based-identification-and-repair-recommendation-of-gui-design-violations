@@ -1,0 +1,36 @@
+{
+  "violations": "The provided code represents a tab bar, but the mockup image shows a navigation drawer. This is a clear violation as the components used do not match the visual representation of the UI.",
+  "changes": "Replace the tab bar with a navigation drawer component that matches the mockup.",
+  "changed_components": [],
+  "deleted_components": [
+    "57805:6974",
+    "I57805:6974;54563:40048",
+    "I57805:6974;54563:40049",
+    "I57805:6974;54563:40049;54563:40340",
+    "I57805:6974;54563:40049;54563:40341",
+    "I57805:6974;54563:40049;54563:40342",
+    "I57805:6974;54563:40049;54563:40344",
+    "I57805:6974;54563:40050",
+    "I57805:6974;54563:40050;54563:40362",
+    "I57805:6974;54563:40050;54563:40363",
+    "I57805:6974;54563:40050;54563:40364",
+    "I57805:6974;54563:40051",
+    "I57805:6974;54563:40051;54563:40362",
+    "I57805:6974;54563:40051;54563:40363",
+    "I57805:6974;54563:40051;54563:40364",
+    "I57805:6974;54563:40052",
+    "I57805:6974;54563:40052;54563:40362",
+    "I57805:6974;54563:40052;54563:40363",
+    "I57805:6974;54563:40052;54563:40364",
+    "I57805:6974;54563:40052;54563:40365",
+    "I57805:6974;54563:40052;54563:40365;54347:34804",
+    "I57805:6974;54563:40054",
+    "I57805:6974;54563:40054;51816:5861"
+  ],
+  "new_components": [
+    [
+      "<div class=\"NavigationDrawer\" id=\"57805:6974\" style=\"position: absolute; top: 64px; left: 0px; width: 412px; height: auto; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; \"> <div class=\"DrawerContent\" id=\"57805:6974;54563:40048\" style=\"position: absolute; top: 0px; left: 0px; width: 412px; height: auto; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"DrawerItem\" id=\"57805:6974;54563:40049\" style=\"position: absolute; top: 0px; left: 0px; width: 412px; height: 48px; overflow: hidden; opacity: 1; background-color: #E6E6E6FF; border-radius: 0px; \"> <div class=\"Icon\" id=\"57805:6974;54563:40049;54563:40340\" style=\"position: absolute; top: 14px; left: 16px; width: 20px; height: 20px; opacity: 1; border-radius: 0px; \"> <svg height=\"20px\" width=\"20px\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z\" style=\"fill: #000000;\"/> </svg> </div> <div class=\"Label\" id=\"57805:6974;54563:40049;54563:40341\" style=\"position: absolute; top: 14px; left: 48px; width: 80px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;\">Popular</div> </div> <div class=\"DrawerItem\" id=\"57805:6974;54563:40050\" style=\"position: absolute; top: 48px; left: 0px; width: 412px; height: 48px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; \"> <div class=\"Icon\" id=\"57805:6974;54563:40050;54563:40362\" style=\"position: absolute; top: 14px; left: 16px; width: 20px; height: 20px; opacity: 1; border-radius: 0px; \"> <svg height=\"20px\" width=\"20px\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z\" style=\"fill: #000000;\"/> </svg> </div> <div class=\"Label\" id=\"57805:6974;54563:40050;54563:40363\" style=\"position: absolute; top: 14px; left: 48px; width: 80px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;\">Search</div> </div> <div class=\"DrawerItem\" id=\"57805:6974;54563:40051\" style=\"position: absolute; top: 96px; left: 0px; width: 412px; height: 48px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; \"> <div class=\"Icon\" id=\"57805:6974;54563:40051;54563:40362\" style=\"position: absolute; top: 14px; left: 16px; width: 20px; height: 20px; opacity: 1; border-radius: 0px; \"> <svg height=\"20px\" width=\"20px\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z\" style=\"fill: #000000;\"/> </svg> </div> <div class=\"Label\" id=\"57805:6974;54563:40051;54563:40363\" style=\"position: absolute; top: 14px; left: 48px; width: 80px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;\">Profile</div> </div> <div class=\"DrawerItem\" id=\"57805:6974;54563:40052\" style=\"position: absolute; top: 144px; left: 0px; width: 412px; height: 48px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; \"> <div class=\"Icon\" id=\"57805:6974;54563:40052;54563:40362\" style=\"position: absolute; top: 14px; left: 16px; width: 20px; height: 20px; opacity: 1; border-radius: 0px; \"> <svg height=\"20px\" width=\"20px\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z\" style=\"fill: #000000;\"/> </svg> </div> <div class=\"Label\" id=\"57805:6974;54563:40052;54563:40363\" style=\"position: absolute; top: 14px; left: 48px; width: 80px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;\">Watchlist</div> </div> <div class=\"Divider\" id=\"57805:6974;54563:40054\" style=\"position: absolute; top: 192px; left: 0px; width: 412px; height: 1px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <hr class=\"Divider\" id=\"57805:6974;54563:40054;51816:5861\" style=\"margin: 0px; position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #DFE4DCFF;\"/> </div> </div> </div>",
+      "57805:6974"
+    ]
+  ]
+}

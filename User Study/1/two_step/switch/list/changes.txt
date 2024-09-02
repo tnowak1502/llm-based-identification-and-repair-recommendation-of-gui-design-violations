@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Grouping of Related Elements:** The language selection and email settings sections are not clearly separated from each other, which can cause confusion for users. (Severity: High)",
+    "2. **Inconsistent Alignment of Leading Elements:** The leading elements (radio buttons, checkboxes, switch) are not consistently aligned, which disrupts visual hierarchy. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Separate Sections with Dividers:** Use dividers to clearly separate the language selection section from the email settings section to improve clarity and organization.",
+    "2. **Align Leading Elements:** Ensure that all leading elements (radio buttons, checkboxes, switch) are consistently aligned to the left to maintain a uniform visual hierarchy."
+  ],
+  "guideline_request": "Material Design 3 guidelines on grouping and alignment",
+  "example_request": "list with dividers and aligned leading elements"
+}

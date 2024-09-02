@@ -1,0 +1,6 @@
+{
+  "violations": "I do not see any violations of material design 3 guidelines here.",
+  "changes": "Since there are no violations, there are also no necessary changes.",
+  "guideline_request": "",
+  "example_request": ""
+}

@@ -1,0 +1,5 @@
+Violations:
+1. Button inside carousel item: Buttons should not be placed inside carousel items. 2. Carousel items too small: The last item in the carousel is too small to be easily recognizable.
+
+Changes:
+1. Remove the button from the carousel item. 2. Increase the width of the carousel items to make them more recognizable.

@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. The checkboxes in the 'Select all' section and the individual items are correctly used. However, the dialog box that appears when moving items to a folder is not clearly connected to the checkboxes, which may cause confusion for the user. This could be improved by making it more obvious that the action is related to the selected items."
+  ],
+  "changes": [
+    "1. Add a clear visual connection or indication that the dialog box is related to the selected checkboxes. This could be done by highlighting the selected items or adding a brief message in the dialog box that mentions the number of selected items."
+  ],
+  "guideline_request": "dialogs relationship with selected items",
+  "example_request": "dialogs with selected checkboxes"
+}
+```

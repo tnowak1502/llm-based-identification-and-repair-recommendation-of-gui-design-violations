@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The navigation bar contains icons with different background colors. This creates inconsistency and can confuse users about the state of the icons.",
+      "guideline": "Icons in the same component should have the same weight, and elements that belong together should be grouped using similarity in shape, color, size, etc."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure that all icons in the navigation bar have the same background color to maintain consistency. Use a uniform color scheme for all icons in the navigation bar."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with uniform icon backgrounds"
+}
+```

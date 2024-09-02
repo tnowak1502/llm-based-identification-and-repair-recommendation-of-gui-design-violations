@@ -1,0 +1,16 @@
+{
+  "violations": "The switch for 'Download using mobile data' might be inappropriate if the option requires confirmation or saving before coming into effect. Switches should only be used for immediate on/off choices.",
+  "changes": "Replace the switch with a checkbox, which is more appropriate for settings that may require confirmation or saving.",
+  "changed_components": [
+    "<div class = 'Leading-element' id = 'I57805:10799;51964:63005;51964:63549' style='position: absolute; top: 4px; left: 16px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'Checkboxes' id = 'I57805:10799;51964:63005;51964:63550' config='Unselected' style='position: absolute; top: 0px; left: 0px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'state-layer' id = 'I57805:10799;51964:63005;51964:63550;51859:5666' style='position: absolute; top: 4px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class = 'container' id = 'I57805:10799;51964:63005;51964:63550;51859:5667' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; border-radius: 2px; box-shadow: inset 0 0 0 2px #414941FF; '>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

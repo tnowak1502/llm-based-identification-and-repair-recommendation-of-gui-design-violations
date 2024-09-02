@@ -1,0 +1,9 @@
+{
+  "violations": "The color contrast of the label text 'Continue' on the filled button is too low, making it hard to read. According to Material Design 3 Guidelines, text should always be easy to read.",
+  "changes": "Increase the opacity of the label text 'Continue' to improve readability.",
+  "changed_components": [
+    "<div class = 'label-text' id = 'I57805:15721;53923:27623' style='position: absolute; top: 10px; left: 161.5px; width: 58.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;'>Continue</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

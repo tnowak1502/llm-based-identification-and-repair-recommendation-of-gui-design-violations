@@ -1,0 +1,10 @@
+{
+  "violations": "The navigation drawer lacks clear grouping of related items. This makes it harder for users to scan and find what they need quickly.",
+  "changes": "Add dividers to group related navigation items together. For example, group 'Popular', 'Search', 'Profile', and 'Watchlist' together, 'Lists', 'Diary', 'Reviews', and 'Activity' together, and 'Settings' and 'Sign out' together.",
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": [
+    ["<div class='Divider-1' id='57811:38297' style='position: absolute; top: 408px; left: 12px; width: 336px; height: 1.0000251531600952px; overflow: hidden; opacity: 1; border-radius: 0px;'> <hr class='Divider' id='I57811:38297;51816:5871' style='margin: 0px; position: absolute; left: 16px; width: 304px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'> </div>", "57811:38278"],
+    ["<div class='Divider-2' id='57811:38298' style='position: absolute; top: 576px; left: 12px; width: 336px; height: 1.0000251531600952px; overflow: hidden; opacity: 1; border-radius: 0px;'> <hr class='Divider' id='I57811:38298;51816:5871' style='margin: 0px; position: absolute; left: 16px; width: 304px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'> </div>", "57811:38278"]
+  ]
+}

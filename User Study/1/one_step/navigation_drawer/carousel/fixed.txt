@@ -1,0 +1,38 @@
+{
+  "violations": "1. Carousel items too small: The items in the carousels have a very low width, making it difficult to discern their content. This results in 4 items being visible simultaneously, which is not recommended for items with more complicated content.",
+  "changes": [
+    "1. Increase the width of the carousel items to ensure only three items are visible at a time, making the content more discernible."
+  ],
+  "changed_components": [
+    "<div class='Carousel' id='57805:6975' style='position: absolute; top: 161px; left: 0px; width: 412px; height: 168px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Item-1' id='57805:6976' style='position: absolute; top: 8px; left: 16px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-1' id='57805:6978' style='position: absolute; top: 8px; left: 152px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-1' id='57805:6980' style='position: absolute; top: 8px; left: 288px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+    </div>",
+    "<div class='Carousel' id='57805:6986' style='position: absolute; top: 393px; left: 0px; width: 412px; height: 168px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Item-1' id='57805:6987' style='position: absolute; top: 8px; left: 16px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-1' id='57805:6989' style='position: absolute; top: 8px; left: 152px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-1' id='57805:6991' style='position: absolute; top: 8px; left: 288px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+    </div>",
+    "<div class='Carousel' id='57805:6997' style='position: absolute; top: 623px; left: 0px; width: 412px; height: 168px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Item-1' id='57805:6998' style='position: absolute; top: 8px; left: 16px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-1' id='57805:7000' style='position: absolute; top: 8px; left: 152px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-1' id='57805:7002' style='position: absolute; top: 8px; left: 288px; width: 120px; height: 152px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "57805:6982",
+    "57805:6993",
+    "57805:7004"
+  ],
+  "new_components": []
+}

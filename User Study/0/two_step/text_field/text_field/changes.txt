@@ -1,0 +1,6 @@
+{
+  "violations": "1. The label 'IBAN (International Bank Account Number)' of text field 2 wraps over two lines, which it should not according to the guidelines. 2. The labels 'Recipient' and 'IBAN (International Bank Account Number)' in text fields 1 and 2 are not consistent in terms of text alignment; the 'Recipient' label is aligned to the top while the 'IBAN' label is aligned to the bottom.",
+  "changes": "1. Change the label 'IBAN (International Bank Account Number)' to not wrap over lines anymore. 2. Ensure the text alignment of both labels is consistent, preferably aligning both to the top.",
+  "guideline_request": "outlined text field label",
+  "example_request": "Outlined text field with label"
+}

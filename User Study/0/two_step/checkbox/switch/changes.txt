@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The switch for 'Download using mobile data' is not accompanied by a clear label that describes what happens when the switch is turned on.",
+      "reasoning": "According to Material Design 3 guidelines, labels next to switches should be short and direct and describe what happens when the switch is on."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Add a label next to the switch that clearly describes the action taken when the switch is on, such as 'Enable mobile data for downloads'.",
+      "reasoning": "This will provide clarity to the user about what the switch controls, ensuring better user experience and adherence to guidelines."
+    }
+  ],
+  "guideline_request": "switch labels",
+  "example_request": "switch component with labels"
+}

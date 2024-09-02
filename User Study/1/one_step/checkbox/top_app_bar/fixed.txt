@@ -1,0 +1,7 @@
+{
+  "violations": "No violations detected. The top app bar follows the Material Design 3 Guidelines. It has a leading icon, a headline that does not wrap, and no more than three trailing icons (in this case, none).",
+  "changes": "No changes necessary.",
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": []
+}

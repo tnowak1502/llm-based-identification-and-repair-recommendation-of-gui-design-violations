@@ -1,0 +1,48 @@
+{
+  "violations": [
+    "Severity: High - The navigation bar includes five destinations, but not all of them have labels. According to the Material Design 3 guidelines, if one destination is labeled, all destinations should be labeled. This can cause inconsistency and confusion for users."
+  ],
+  "changes": [
+    "Ensure all destinations in the navigation bar have labels. Add labels to the 'Flash On' and 'Bar Chart' segments to maintain consistency."
+  ],
+  "changed_components": [
+    "<div class = 'Segment-3' id = 'I55408:3092;50721:10395' style='position: absolute; top: 0px; left: 169.60000610351562px; width: 72.80000305175781px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'icon-container' id = 'I55323:30826;50721:10395;52030:21094' style='position: absolute; top: 12px; left: 4.400001525878906px; width: 64.0px; height: 32px; opacity: 1; background-color: #D3E8D2FF; border-radius: 16px; '>
+            <div class = 'state-layer' id = 'I55323:30826;50721:10395;52030:21176' style='position: absolute; top: 0px; left: 0px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Icon' id = 'I55323:30826;50721:10395;50721:10454' style='position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'flash_on' id = 'I55323:30826;50721:10395;50721:10454;55204:66155' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class='Vector' id='I55323:30826;50721:10395;50721:10454;55204:66155;2402:64447' style='position: absolute; top: 2px; left: 7px; width: 10px; height: 20px;'>
+                    <svg height = '20px' width = '10px' xmlns = 'http://www.w3.org/2000/svg'>
+                      <path d='M 0 0 L 0 11 L 3 11 L 3 20 L 10 8 L 6 8 L 9 0 L 0 0 Z' style='fill: #404942FF;'/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class = 'label-text' id = 'I55323:30826;50721:10395;50721:10455' style='position: absolute; top: 48px; left: 0px; width: 73.80000305175781px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 16px; justify-content: center; align-items: top;'>Activity
+          </div>
+        </div>",
+    "<div class = 'Segment-4' id = 'I55408:3092;50721:10396' style='position: absolute; top: 0px; left: 250.40000915527344px; width: 72.80000305175781px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'icon-container' id = 'I55323:30826;50721:10396;52031:21333' style='position: absolute; top: 12px; left: 20.400001525878906px; width: 32.0px; height: 32px; opacity: 1; border-radius: 16px; '>
+            <div class = 'state-layer' id = 'I55323:30826;50721:10396;52031:21264' style='position: absolute; top: 0px; left: -16px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Icon' id = 'I55323:30826;50721:10396;50721:10429' style='position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'bar_chart' id = 'I55323:30826;50721:10396;50721:10429;55204:66440' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class='Vector' id='I55323:30826;50721:10396;50721:10429;55204:66440;2402:54016' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+                    <svg height = '16px' width = '16px' xmlns = 'http://www.w3.org/2000/svg'>
+                      <path d='M 4 5 L 0 5 L 0 16 L 4 16 L 4 5 Z' style='fill: #404942FF;'/>
+                      <path d='M 16 9 L 12 9 L 12 16 L 16 16 L 16 9 Z' style='fill: #404942FF;'/>
+                      <path d='M 10 0 L 6 0 L 6 16 L 10 16 L 10 0 Z' style='fill: #404942FF;'/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class = 'label-text' id = 'I55323:30826;50721:10396;50721:10430' style='position: absolute; top: 48px; left: 0px; width: 73.80000305175781px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #414941FF; line-height: 16px; justify-content: center; align-items: top;'>Progress
+          </div>
+        </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

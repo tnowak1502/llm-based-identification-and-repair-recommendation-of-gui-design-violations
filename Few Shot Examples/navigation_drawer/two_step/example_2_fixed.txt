@@ -1,0 +1,14 @@
+{
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": [
+    ["<div class = 'Divider-1' id = '55191:31230' style='position: absolute; top: 444px; left: 12px; width: 336px; height: 1.0000251531600952px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <hr class = 'Divider' id = 'I55191:31230;51816:5871' style='margin: 0px;  position: absolute; left: 16px; width: 304px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'>
+            
+          </div>", "55380:778"],
+    ["<div class = 'Divider-2' id = '55191:31235' style='position: absolute; top: 613.0000610351562px; left: 12px; width: 336px; height: 1.0000251531600952px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <hr class = 'Divider' id = 'I55191:31235;51816:5871' style='margin: 0px;  position: absolute; left: 16px; width: 304px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'>
+            
+          </div>", "55380:778"]
+  ]
+}

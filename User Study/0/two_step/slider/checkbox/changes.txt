@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. Repetitive use of checkboxes: The checkboxes for 'Daily', 'Weekly', and 'Monthly' under 'Email settings' might be redundant if they are mutually exclusive options. If users can only select one of these options, radio buttons should be used instead of checkboxes."
+  ],
+  "changes": [
+    "1. Replace the checkboxes for 'Daily', 'Weekly', and 'Monthly' under 'Email settings' with radio buttons if these options are mutually exclusive."
+  ],
+  "guideline_request": "radio button",
+  "example_request": "selected radio button, unselected radio button"
+}
+```

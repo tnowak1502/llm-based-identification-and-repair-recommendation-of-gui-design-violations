@@ -1,0 +1,28 @@
+{
+  "violations": "1. Carousel items are too small: The items in the carousel have a very low width, which makes the content less distinguishable and engaging. 2. Lack of 'show all' button: There is no 'show all' button next to the carousels, which is recommended.",
+  "changes": "1. Increase the width of the carousel items so that only one item is visible at a time. 2. Add a 'show all' button next to the carousels.",
+  "changed_components": [
+    "<div class='Carousel-dark' id='57811:39369' style='position: absolute; top: 29px; left: 0px; width: 444px; height: 128px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Rectangle-2' id='57811:39370' style='position: absolute; top: 0px; left: 0px; width: 444px; height: 128px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+      </div>
+    </div>",
+    "<div class='Carousel-dark' id='57811:39376' style='position: absolute; top: 29px; left: 0px; width: 444px; height: 128px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Rectangle-2' id='57811:39377' style='position: absolute; top: 0px; left: 0px; width: 444px; height: 128px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+      </div>
+    </div>",
+    "<div class='Carousel-dark' id='57811:39383' style='position: absolute; top: 29px; left: 0px; width: 444px; height: 128px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Rectangle-2' id='57811:39384' style='position: absolute; top: 0px; left: 0px; width: 444px; height: 128px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "57811:39371",
+    "57811:39378",
+    "57811:39385"
+  ],
+  "new_components": [
+    ("<button id='show-all-39369' style='position: absolute; top: 160px; left: 400px; width: 44px; height: 24px; opacity: 1; border-radius: 4px; background-color: #FFFFFF; color: #000000;'>Show All</button>", "57811:39369"),
+    ("<button id='show-all-39376' style='position: absolute; top: 160px; left: 400px; width: 44px; height: 24px; opacity: 1; border-radius: 4px; background-color: #FFFFFF; color: #000000;'>Show All</button>", "57811:39376"),
+    ("<button id='show-all-39383' style='position: absolute; top: 160px; left: 400px; width: 44px; height: 24px; opacity: 1; border-radius: 4px; background-color: #FFFFFF; color: #000000;'>Show All</button>", "57811:39383")
+  ]
+}

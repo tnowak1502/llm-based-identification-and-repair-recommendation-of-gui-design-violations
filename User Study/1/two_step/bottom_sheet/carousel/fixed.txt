@@ -1,0 +1,17 @@
+```json
+{
+  "changed_components": [
+    "<div class='Carousel' id='57805:12193' style='position: absolute; top: 8px; left: 0px; width: 412px; height: 221px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+      <div class='Item-1' id='I57805:12193;53912:27491' style='position: absolute; top: 8px; left: 16px; width: 188px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px;'></div>
+      <div class='Item-2' id='I57805:12193;53912:27493' style='position: absolute; top: 8px; left: 212px; width: 188px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px;'></div>
+      <div class='Item-Last' id='I57805:12193;53912:27495' style='position: absolute; top: 8px; left: 408px; width: 188px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px;'></div>
+    </div>",
+    "<div class='Carousel-dark' id='57805:12227' style='position: absolute; top: 0px; left: 16px; width: 380px; height: 158px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+      <div class='Item-1' id='I57805:12227;54490:25370' style='position: absolute; top: 8px; left: 16px; width: 284px; height: 142px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px;'></div>
+      <div class='Item-Last' id='I57805:12227;54490:25372' style='position: absolute; top: 8px; left: 316px; width: 284px; height: 142px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px;'></div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

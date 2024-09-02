@@ -1,0 +1,13 @@
+```json
+{
+  "violations": [
+    "1. Ambiguous Tab Label ('Top-...'): The label 'Top-...' is truncated, which makes it unclear what the full label is supposed to be. This ambiguity can confuse users.",
+    "2. Ambiguous Tab Label ('Kateg...'): Similarly, the label 'Kateg...' is truncated, causing the same issue as with 'Top-...'."
+  ],
+  "changes": [
+    "1. Ensure that tab labels are not truncated. This can be achieved by either shortening the tab names or increasing the width of the tabs so that the full text is visible."
+  ],
+  "guideline_request": "tab labels truncation, tab indicator size",
+  "example_request": "Material Design 3 tab examples"
+}
+```

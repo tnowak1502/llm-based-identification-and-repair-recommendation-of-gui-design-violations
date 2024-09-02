@@ -1,0 +1,194 @@
+Here is a detailed description of the navigation drawer mockup based on the provided code snippets and image:
+
+### General Layout
+
+**Type:** Navigation Drawer  
+**Mode:** Light Mode (standard)  
+**ID:** 55380:664  
+**Position:** 
+- **Top:** 0px
+- **Left:** 0px  
+
+**Dimensions:** 
+- **Width:** 360px
+- **Height:** 804px  
+
+**Shape:** Rounded corners with a border-radius of 16px  
+**Background Color:** #F1F5EDFF (a light, pastel green)  
+**Opacity:** 1 (fully opaque)  
+**Overflow:** Hidden  
+
+### Header Section
+
+**Container ID:** 55380:665  
+**Position:** 
+- **Top:** 12px 
+- **Left:** 12px  
+
+**Dimensions:** 
+- **Width:** 336px
+- **Height:** 208px  
+
+**Shape:** Rectangle with no border-radius  
+**Opacity:** 1 (fully opaque)  
+**Overflow:** Hidden  
+
+**Profile Picture:**
+- **Element Type:** Ellipse 
+- **ID:** 55380:666  
+- **Position:** 
+  - **Top:** 10px 
+  - **Left:** 104px  
+- **Dimensions:** 
+  - **Width:** 128px
+  - **Height:** 128px  
+- **Background Color:** #D9D9D9FF (light gray)  
+- **Shape:** Circle with a 100px border-radius  
+- **Opacity:** 1 (fully opaque)  
+
+**Balance:**
+- **Element Type:** Text 
+- **ID:** 55380:667  
+- **Position:** 
+  - **Top:** 148px 
+  - **Left:** 112px  
+- **Dimensions:** 
+  - **Width:** 113px
+  - **Height:** 20px  
+- **Font:** Roboto, 16px, bold  
+- **Color:** #000000FF (black)  
+- **Text:** "Balance: 0.00 $"  
+
+**Phone Number:**
+- **Element Type:** Text 
+- **ID:** 55380:668  
+- **Position:** 
+  - **Top:** 178px 
+  - **Left:** 90px  
+- **Dimensions:** 
+  - **Width:** 157px
+  - **Height:** 20px  
+- **Font:** Roboto, 13px, regular  
+- **Color:** #000000FF (black)  
+- **Text:** "Number: +1234567890123"  
+
+### Navigation Items
+
+**General Attributes:**
+- **Shape:** Rounded corners with a border-radius of 100px
+- **Dimensions:** 
+  - **Width:** 336px
+  - **Height:** 56px  
+- **Overflow:** Hidden  
+- **Opacity:** 1 (fully opaque)  
+
+**Nav Item 1:** Renting History
+- **ID:** 55380:669
+- **Position:** 
+  - **Top:** 220px 
+  - **Left:** 12px  
+- **Icon:** 
+  - **Position:** 
+    - **Top:** 16px 
+    - **Left:** 16px  
+  - **Dimensions:** 
+    - **Width:** 24px
+    - **Height:** 24px  
+  - **SVG Path Color:** #414941FF (dark gray)  
+- **Label:** 
+  - **Position:** 
+    - **Top:** 18px 
+    - **Left:** 52px  
+  - **Dimensions:** 
+    - **Width:** 261px
+    - **Height:** 20px  
+  - **Font:** Roboto, 14px, medium  
+  - **Color:** #414941FF (dark gray)  
+  - **Text:** "Renting History"  
+
+**Nav Item 2:** Inbox
+- **ID:** 55380:670
+- **Position:** 
+  - **Top:** 277px 
+  - **Left:** 12px  
+- **Badge:** 
+  - **Position:** 
+    - **Top:** 18px 
+    - **Left:** 280px  
+  - **Dimensions:** 
+    - **Width:** 33px
+    - **Height:** 20px  
+  - **Font:** Roboto, 14px, medium  
+  - **Color:** #414941FF (dark gray)  
+  - **Text:** "100+"  
+- **Other attributes same as Nav Item 1**  
+
+**Nav Item 3:** Wallet
+- **ID:** 55380:671
+- **Position:** 
+  - **Top:** 334px 
+  - **Left:** 12px  
+- **Other attributes same as Nav Item 1**  
+
+**Nav Item 4:** Coupons
+- **ID:** 55380:672
+- **Position:** 
+  - **Top:** 391px 
+  - **Left:** 12px  
+- **Other attributes same as Nav Item 1**  
+
+**Nav Item 5:** Pricing
+- **ID:** 55380:674
+- **Position:** 
+  - **Top:** 448px 
+  - **Left:** 12px  
+- **Other attributes same as Nav Item 1**  
+
+**Nav Item 6:** User Agreement
+- **ID:** 55380:675
+- **Position:** 
+  - **Top:** 505px 
+  - **Left:** 12px  
+- **Other attributes same as Nav Item 1**  
+
+**Nav Item 7:** Privacy
+- **ID:** 55380:676
+- **Position:** 
+  - **Top:** 562px 
+  - **Left:** 12px  
+- **Other attributes same as Nav Item 1**  
+
+**Nav Item 8:** Support
+- **ID:** 55380:678
+- **Position:** 
+  - **Top:** 619px 
+  - **Left:** 12px  
+- **Other attributes same as Nav Item 1**  
+
+**Nav Item 9:** Account Settings
+- **ID:** 55380:679
+- **Position:** 
+  - **Top:** 676px 
+  - **Left:** 12px  
+- **Other attributes same as Nav Item 1**  
+
+### Dividers
+
+- **Divider Positions:**
+  - Divider 1: Top: 276px
+  - Divider 2: Top: 333px
+  - Divider 3: Top: 390px
+  - Divider 4: Top: 447px
+  - Divider 5: Top: 504px
+  - Divider 6: Top: 561px
+  - Divider 7: Top: 618px
+  - Divider 8: Top: 675px
+  - Divider 9: Top: 732px
+
+**Common Attributes:**
+- **Width:** 336px   
+- **Height:** 1.0000251531600952px  
+- **Color:** #C1C9BEFF (light gray)  
+- **Shape:** Rectangle with no border-radius  
+- **Opacity:** 1 (fully opaque)  
+- **Left:** 12px  

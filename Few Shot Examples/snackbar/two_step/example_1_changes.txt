@@ -1,0 +1,7 @@
+{
+  "violations":
+    "1. The snackbar covers the extended FAB on the bottom of the screen. Snackbars should be placed above any navigation elements and should not obstruct other UI components. ",
+  "changes": "1. Move the snackbar up enough so that it does not cover any of the FABs on the screen.",
+  "guideline_request": "Snackbars guidelines, Button guidelines",
+  "example_request": "Snackbar example, Text button example"
+}

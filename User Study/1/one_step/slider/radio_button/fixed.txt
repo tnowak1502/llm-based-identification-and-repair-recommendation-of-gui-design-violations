@@ -1,0 +1,33 @@
+{
+  "violations": "1. Radio buttons should not be nested. 2. Radio buttons should always have a label.",
+  "changes": "1. Remove the nesting of radio buttons. 2. Ensure that each radio button has a label.",
+  "changed_components": [
+    "<div class='Leading-element' id='I57805:10799;51964:62997;51964:63527' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <input type='radio' id='I57805:10799;51964:62997;51964:63528' name='language' value='english' checked>
+      <label for='I57805:10799;51964:62997;51964:63528'>English</label>
+    </div>",
+    "<div class='Leading-element' id='I57805:10799;51964:62999;51964:63527' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <input type='radio' id='I57805:10799;51964:62999;51964:63528' name='language' value='deutsch'>
+      <label for='I57805:10799;51964:62999;51964:63528'>Deutsch</label>
+    </div>",
+    "<div class='Leading-element' id='I57805:10799;51964:62998;51964:63527' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <input type='radio' id='I57805:10799;51964:62998;51964:63528' name='language' value='nederlands'>
+      <label for='I57805:10799;51964:62998;51964:63528'>Nederlands</label>
+    </div>"
+  ],
+  "deleted_components": [
+    "I57805:10799;51964:62997;51964:63528;51740:4720",
+    "I57805:10799;51964:62997;51964:63528;51740:4710",
+    "I57805:10799;51964:62997;51964:63528;51739:4612",
+    "I57805:10799;51964:62997;51964:63528;51739:4612;50755:11576",
+    "I57805:10799;51964:62999;51964:63528;51740:4725",
+    "I57805:10799;51964:62999;51964:63528;51740:4719",
+    "I57805:10799;51964:62999;51964:63528;51739:4624",
+    "I57805:10799;51964:62999;51964:63528;51739:4624;50755:11574",
+    "I57805:10799;51964:62998;51964:63528;51740:4725",
+    "I57805:10799;51964:62998;51964:63528;51740:4719",
+    "I57805:10799;51964:62998;51964:63528;51739:4624",
+    "I57805:10799;51964:62998;51964:63528;51739:4624;50755:11574"
+  ],
+  "new_components": []
+}

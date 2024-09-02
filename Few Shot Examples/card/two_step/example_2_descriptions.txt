@@ -1,0 +1,80 @@
+Here's a detailed description of the four cards in the mockup:
+
+### Card 1: Pure Cotton Shirt
+- **Type:** Outlined Stacked Card
+- **Color:**
+  - **Background:** #F6FBF2FF (Light Greenish-White)
+  - **Text:** Header - #181D18FF (Dark Gray), Subhead - #414941FF (Mid Gray)
+  - **Border:** #C1C9BEFF (Light Gray)
+- **Size:** 182px (Width) x 300px (Height)
+- **Shape:** Rounded corners with a border-radius of 12px
+- **Position:** 
+  - **Top:** 8px
+  - **Left:** 16px
+- **ID:** 55631:7058
+- **Function:** Displays a product card for a "Pure Cotton Shirt" with a price of 25€.
+- **Attributes:**
+  - **Media:** Occupies the top 240px of the card, with a background image.
+  - **Title:** "Pure Cotton Shirt" at the top 8px of the text content area.
+  - **Subhead:** "25€" below the title.
+- **Mode:** Light Mode (standard)
+
+### Card 2: Linen Shirt
+- **Type:** Outlined Stacked Card
+- **Color:**
+  - **Background:** #F6FBF2FF (Light Greenish-White)
+  - **Text:** Header - #181D18FF (Dark Gray), Subhead - #414941FF (Mid Gray)
+  - **Border:** #C1C9BEFF (Light Gray)
+- **Size:** 182px (Width) x 300px (Height)
+- **Shape:** Rounded corners with a border-radius of 12px
+- **Position:** 
+  - **Top:** 8px
+  - **Left:** 214px
+- **ID:** 55631:7346
+- **Function:** Displays a product card for a "Linen Shirt" with a price of 40€.
+- **Attributes:**
+  - **Media:** Occupies the top 240px of the card, with a background image.
+  - **Title:** "Linen Shirt" at the top 8px of the text content area.
+  - **Subhead:** "40€" below the title.
+- **Mode:** Light Mode (standard)
+
+### Card 3: Placeholder Card (Title and Subhead)
+- **Type:** Outlined Stacked Card
+- **Color:**
+  - **Background:** #F6FBF2FF (Light Greenish-White)
+  - **Text:** Header - #181D18FF (Dark Gray), Subhead - #414941FF (Mid Gray)
+  - **Border:** #C1C9BEFF (Light Gray)
+- **Size:** 182px (Width) x 300px (Height)
+- **Shape:** Rounded corners with a border-radius of 12px
+- **Position:** 
+  - **Top:** 324px
+  - **Left:** 16px
+- **ID:** 55631:7360
+- **Function:** Placeholder product card, possibly for another product.
+- **Attributes:**
+  - **Media:** Occupies the top 240px of the card, with a background image.
+  - **Title:** "Title" at the top 8px of the text content area.
+  - **Subhead:** "Subhead" below the title.
+- **Mode:** Light Mode (standard)
+
+### Card 4: Placeholder Card (Title and Subhead)
+- **Type:** Outlined Stacked Card
+- **Color:**
+  - **Background:** #F6FBF2FF (Light Greenish-White)
+  - **Text:** Header - #181D18FF (Dark Gray), Subhead - #414941FF (Mid Gray)
+  - **Border:** #C1C9BEFF (Light Gray)
+- **Size:** 182px (Width) x 300px (Height)
+- **Shape:** Rounded corners with a border-radius of 12px
+- **Position:** 
+  - **Top:** 324px
+  - **Left:** 214px
+- **ID:** 55631:7374
+- **Function:** Placeholder product card, possibly for another product.
+- **Attributes:**
+  - **Media:** Occupies the top 240px of the card, with a background image.
+  - **Title:** "Title" at the top 8px of the text content area.
+  - **Subhead:** "Subhead" below the title.
+- **Mode:** Light Mode (standard)
+
+### Overall Design Mode:
+The design is in Light Mode, with a standard light background and dark text. The cards are outlined with a light gray border and have a shadow effect to make them appear elevated and separated from the background.

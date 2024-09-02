@@ -1,0 +1,71 @@
+{
+  "violations": "1. The icon buttons on the right side of the screen are standard icon buttons, while the ones on the bottom navigation bar are contained icon buttons. This inconsistency in button style can confuse users about the importance and functionality of these buttons.",
+  "changes": "1. Change the standard icon buttons on the right side of the screen to contained icon buttons to maintain consistency with the bottom navigation bar.",
+  "changed_components": [
+    "<div class='Icon-button' id='57805:16465' config='contained' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57805:16465;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+        <div class='state-layer' id='I57805:16465;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57805:16465;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57805:16465;51525:5221;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+              <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #FFFFFFFF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Icon-button' id='57805:16468' config='contained' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57805:16468;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+        <div class='state-layer' id='I57805:16468;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57805:16468;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57805:16468;51525:5221;50731:11314' style='position: absolute; top: 2px; left: 3px; width: 18px; height: 20px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+              <div class='Path' id='I57805:16468;51525:5221;50731:11315' style='position: absolute; top: 2px; left: 3px; width: 18px; height: 20px;'>
+                <svg height='20px' width='18px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 15 14 C 14.209999978542328 14 13.500000238418579 14.3100004196167 12.970000267028809 14.8100004196167 L 5.909999847412109 10.699999809265137 C 5.959999848157167 10.469999805092812 6 10.239999994635582 6 10 C 6 9.760000005364418 5.959999848157167 9.530000194907188 5.909999847412109 9.300000190734863 L 12.960000038146973 5.190000057220459 L 12.960000038146973 5.190000057220459 C 13.490000009536743 5.690000057220459 14.209999978542328 6 15 6 C 16.6599999666214 6 18 4.659999966621399 18 3 C 18 1.340000033378601 16.6599999666214 0 15 0 C 13.340000033378601 0 12 1.340000033378601 12 3 C 12 3.239999994635582 12.040000151842833 3.4800000488758087 12.09000015258789 3.700000047683716 L 12.09000015258789 3.700000047683716 L 5.039999961853027 7.809999942779541 C 4.499999940395355 7.309999942779541 3.790000021457672 7 3 7 C 1.340000033378601 7 0 8.340000033378601 0 10 C 0 11.659999966621399 1.340000033378601 13 3 13 C 3.790000021457672 13 4.499999940395355 12.6899995803833 5.039999961853027 12.1899995803833 L 12.09000015258789 16.309999465942383 C 12.040000151842833 16.52999946475029 12 16.760000005364418 12 17 C 12 18.6599999666214 13.340000033378601 20 15 20 C 16.6599999666214 20 18 18.6599999666214 18 17 C 18 15.340000033378601 16.6599999666214 14 15 14 Z' style='fill: #DADADAFF;'/>
+                </svg>
+              </div>
+              <div class='Path' id='I57805:16468;51525:5221;50731:11316' style='position: absolute; top: 4px; left: 17px; width: 2px; height: 2px;'>
+                <svg height='2px' width='2px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 1 0 C 1.550000011920929 0 2 0.44999998807907104 2 1 C 2 1.550000011920929 1.550000011920929 2 1 2 C 0.44999998807907104 2 0 1.550000011920929 0 1 C 0 0.44999998807907104 0.44999998807907104 0 1 0 Z' style='fill: #DADADAFF;'/>
+                </svg>
+              </div>
+              <div class='Path' id='I57805:16468;51525:5221;50731:11317' style='position: absolute; top: 11px; left: 5px; width: 2px; height: 2px;'>
+                <svg height='2px' width='2px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 1 2 C 0.44999998807907104 2 0 1.550000011920929 0 1 C 0 0.44999998807907104 0.44999998807907104 0 1 0 C 1.550000011920929 0 2 0.44999998807907104 2 1 C 2 1.550000011920929 1.550000011920929 2 1 2 Z' style='fill: #DADADAFF;'/>
+                </svg>
+              </div>
+              <div class='Path' id='I57805:16468;51525:5221;50731:11318' style='position: absolute; top: 18px; left: 17px; width: 2px; height: 2px;'>
+                <svg height='2px' width='2px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 1 2 C 0.44999998807907104 2 0 1.550000011920929 0 1 C 0 0.44999998807907104 0.44999998807907104 0 1 0 C 1.550000011920929 0 2 0.44999998807907104 2 1 C 2 1.550000011920929 1.550000011920929 2 1 2 Z' style='fill: #DADADAFF;'/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>",
+    "<div class='Icon-button' id='57805:16462' config='contained' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57805:16462;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+        <div class='state-layer' id='I57805:16462;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57805:16462;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='comment' id='I57805:16462;51525:5221;55204:66851' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Vector' id='I57805:16462;51525:5221;55204:66851;2402:43842' style='position: absolute; top: 2px; left: 2px; width: 20px; height: 20px;'>
+                <svg height='20px' width='20px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 19.989999771118164 2 C 19.989999771118164 0.8999999761581421 19.100000023841858 0 18 0 L 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 16 16 L 20 20 L 19.989999771118164 2 Z M 18 2 L 18 15.170000076293945 L 16.829999923706055 14 L 2 14 L 2 2 L 18 2 Z M 4 10 L 16 10 L 16 12 L 4 12 L 4 10 Z M 4 7 L 16 7 L 16 9 L 4 9 L 4 7 Z M 4 4 L 16 4 L 16 6 L 4 6 L 4 4 Z' style='fill: #FFFFFFFF;'/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Icon-button' id='57805:16468' config='contained' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57805:16468;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+        <div class='state-layer' id='I57805:16468;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57805:16468;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57805:16468;51525:5221;50731:11314' style='position: absolute; top: 2px; left: 3px; width: 18px; height: 20px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+              <div class='Path' id='I57805:16468;51525:5221;50731:11315' style='position: absolute; top: 2px; left: 3px; width: 18px; height: 20px;'>
+                <svg height='20px' width='18px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 15 14 C 14.209999978542328 14 13.500000238418579 14.3100004196167 12.970000267028809 14.8100004196167 L 5.909999847412109 10.699999809265137 C 5.959999848157167 10.469999805092812 6 10.239999994635582 6 10 C 6 9.760000005364418 5.959999848157167 9.530000194907188 5.909999847412109 9.300000190734863 L 12.960000038146973 5.190000057220459 L 12.960000038146973 5.190000057220459 C 13.490000009536743 5.690000057220459 14.209999978542328 6 15 6 C 16.6599999666214 6 18 4.659999966621399 18 3 C 18 1.340000033378601 16.6599999666214 0 15 0 C 13.340000033378601 0 12 1.340000033378601 12 3 C 12 3.239999994635582 12.040000151842833 3.4800000488758087 12.09000015258789 3.700000047683716 L 12.09000015258789 3.700000047683716 L 5.039999961853027 7.809999942779541 C 4.499999940395355 7.309999942779541 3.790000021457672 7 3 7 C 1.340000033378601 7 0 8.340000033378601 0 10 C 0 11.659999966621399 1.340000033378601 13 3 13 C 3

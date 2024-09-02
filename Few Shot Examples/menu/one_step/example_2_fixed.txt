@@ -1,0 +1,64 @@
+{
+  "violations": [
+    {
+      "issue": "Menu placement",
+      "description": "The menu should appear directly below the component that was pressed to open it. This is not clear from the image provided.",
+      "severity": "High",
+      "reason": "Ensuring the menu appears directly below the component that triggered it is crucial for user experience, as it provides a clear context and association between the action and the menu options."
+    }
+  ],
+  "changes": [
+    {
+      "change": "Menu placement",
+      "description": "Ensure the menu appears directly below the component that was pressed to open it. Judging by the screenshot, that would most likely be the context menu button on the right of the top app bar. Move the menu below it."
+    }
+  ],
+  "changed_components": [
+    "<div class = 'Menu-dark' id = '55767:23691' style='position: absolute; top: 56px; left: 202px; width: 200px; height: 296px; overflow: hidden; opacity: 1; background-color: #1C211CFF; border-radius: 4px; filter: drop-shadow(0px 1px 2px #0000004C); '>
+          <div class = 'Menu-list' id = 'I55405:9803;54061:37114' style='position: absolute; top: 8px; left: 0px; width: 200px; height: 280px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Menu-list-item-1' id = 'I55405:9803;54061:37115' style='position: absolute; top: 0px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer' id = 'I55405:9803;54061:37115;54061:37177' style='position: absolute; top: 0px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Content' id = 'I55405:9803;54061:37115;54116:37404' style='position: absolute; top: 16px; left: 12px; width: 176px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label-text' id = 'I55405:9803;54061:37115;54061:37179' style='position: absolute; top: 0px; left: 0px; width: 177px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Neue Gruppe
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Menu-list-item-2' id = 'I55405:9803;54061:37116' style='position: absolute; top: 56px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer' id = 'I55405:9803;54061:37116;54061:37177' style='position: absolute; top: 0px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Content' id = 'I55405:9803;54061:37116;54116:37404' style='position: absolute; top: 16px; left: 12px; width: 176px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label-text' id = 'I55405:9803;54061:37116;54061:37179' style='position: absolute; top: 0px; left: 0px; width: 177px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Neuer Broadcast
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Menu-list-item-3' id = 'I55405:9803;54061:37117' style='position: absolute; top: 112px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer' id = 'I55405:9803;54061:37117;54061:37177' style='position: absolute; top: 0px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Content' id = 'I55405:9803;54061:37117;54116:37404' style='position: absolute; top: 16px; left: 12px; width: 176px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label-text' id = 'I55405:9803;54061:37117;54061:37179' style='position: absolute; top: 0px; left: 0px; width: 177px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Verknüpfte Geräte
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Menu-list-item-4' id = 'I55405:9803;54061:37118' style='position: absolute; top: 168px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer' id = 'I55405:9803;54061:37118;54061:37177' style='position: absolute; top: 0px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Content' id = 'I55405:9803;54061:37118;54116:37404' style='position: absolute; top: 16px; left: 12px; width: 176px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label-text' id = 'I55405:9803;54061:37118;54061:37179' style='position: absolute; top: 0px; left: 0px; width: 177px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Mit Stern markiert
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Menu-list-item-5' id = 'I55405:9803;54061:37119' style='position: absolute; top: 224px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer' id = 'I55405:9803;54061:37119;54061:37177' style='position: absolute; top: 0px; left: 0px; width: 200px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Content' id = 'I55405:9803;54061:37119;54116:37404' style='position: absolute; top: 16px; left: 12px; width: 176px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label-text' id = 'I55405:9803;54061:37119;54061:37179' style='position: absolute; top: 0px; left: 0px; width: 177px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Einstellungen
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

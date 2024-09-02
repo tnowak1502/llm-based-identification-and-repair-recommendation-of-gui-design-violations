@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The use of a switch for 'Mobile Data' is generally appropriate, but the label 'Mobile Data' might be unclear about what happens when the switch is on or off.",
+      "reasoning": "According to Material Design 3 guidelines, labels next to switches should be short and direct and describe what happens when the switch is on."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Clarify the switch label to make it clear what happens when the switch is on. For example, change 'Mobile Data' to 'Enable Mobile Data'.",
+      "reasoning": "This will ensure the label clearly describes the action taken when the switch is turned on, improving user understanding."
+    }
+  ],
+  "guideline_request": "switch label guidelines",
+  "example_request": "example of switch with clear label in Material Design 3"
+}

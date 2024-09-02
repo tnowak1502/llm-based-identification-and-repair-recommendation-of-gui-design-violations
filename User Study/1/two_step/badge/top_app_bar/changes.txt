@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The top app bar contains three trailing icons. According to the Material Design 3 Guidelines, the right side of a top app bar should have at most three icon buttons. If there are more actions that need to be accessible, the third icon should be a 'more' icon (three vertical dots) and open an overflow menu.",
+      "severity": "Medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Replace one of the trailing icons with a 'more' icon (three vertical dots) that opens an overflow menu containing the additional actions."
+    }
+  ],
+  "guideline_request": "top app bar guidelines",
+  "example_request": "examples of top app bars with 'more' icon"
+}

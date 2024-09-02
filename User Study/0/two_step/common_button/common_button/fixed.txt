@@ -1,0 +1,33 @@
+```json
+{
+  "changed_components": [
+    "<div class = 'Button-dark' config='Tonal' id = '57811:10131' style='position: absolute; top: 75px; left: 22px; width: 68px; height: 26px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+      <div class = 'state-layer' id = 'I57811:10131;53923:27677' style='position: absolute; top: -7px; left: 0px; width: 68px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:10131;53923:27678' style='position: absolute; top: 10px; left: 12.5px; width: 44.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>note...
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Button-dark' id = '57811:10136' style='position: absolute; top: 4px; left: 12px; width: 170px; height: 24px; overflow: hidden; opacity: 1; background-color: #99D4A2FF; border-radius: 100px; '>
+      <div class = 'state-layer' id = '57811:10137' style='position: absolute; top: -8px; left: 0px; width: 170px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'icon' id = '57811:10139' style='position: absolute; top: 11px; left: 33.5px; width: 18.0px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'icon' id = 'I57811:10139;50731:11362' style='position: absolute; top: 2.2537500858306885px; left: 2.25px; width: 13.501874923706055px; height: 13.496251106262207px; '>
+            <svg height = '13.496251106262207px' width = '13.501874923706055px' xmlns = 'http://www.w3.org/2000/svg'>
+              <path d='M 12.044999174071185 0.43874999940825826 L 13.057499424415651 1.4512500083588893 C 13.650000090136189 2.0362500075699 13.650000090136189 2.988750026917642 13.057499424415651 3.573750026128653 L 3.1349997605371676 13.496251106262207 L 0 13.496251106262207 L 0 10.361250051361655 L 7.799999438430069 2.5537500687690815 L 9.922499306250627 0.43874999940825826 C 10.507499085318955 -0.14624999980275272 11.459999395002857 -0.14624999980275272 12.044999174071185 0.43874999940825826 Z M 1.4999999470254526 11.996251053265581 L 2.557499795237483 12.041250654312254 L 9.922499306250627 4.66875009342642 L 8.864999458038596 3.611250170504721 L 1.4999999470254526 10.976250559464189 L 1.4999999470254526 11.996251053265581 Z' style='fill: #D3E8D2FF;'/>
+            </svg>
+          </div>
+        </div>
+        <div class = 'label-text' id = '57811:10138' style='position: absolute; top: 10px; left: 53.5px; width: 70.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #003918FF; line-height: 20px; justify-content: center; align-items: center;'>Edit profile
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Button-dark' id = '57811:10140' style='position: absolute; top: 4px; left: 194px; width: 170px; height: 24px; overflow: hidden; opacity: 1; background-color: #99D4A2FF; border-radius: 100px; '>
+      <div class = 'state-layer' id = 'I57811:10140;53923:27677' style='position: absolute; top: -8px; left: 0px; width: 170px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:10140;53923:27678' style='position: absolute; top: 10px; left: 44.5px; width: 82.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #003918FF; line-height: 20px; justify-content: center; align-items: center;'>Share profile
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

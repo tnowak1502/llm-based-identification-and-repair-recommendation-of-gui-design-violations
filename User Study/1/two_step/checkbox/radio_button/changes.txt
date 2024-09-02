@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The radio buttons for language selection are not clearly distinguishable due to their close proximity to each other. 2. The radio buttons should have a preselected option to indicate the current selection.",
+  "changes": "1. Increase the spacing between the radio buttons to make them more distinguishable. 2. Ensure that one of the radio buttons is preselected to indicate the current language selection.",
+  "guideline_request": "radio buttons",
+  "example_request": "selected radio button, unselected radio button"
+}
+```

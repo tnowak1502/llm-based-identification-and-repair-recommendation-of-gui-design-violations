@@ -1,0 +1,9 @@
+{
+  "violations": "The headline text 'Popular' in the top app bar is not centered. In a small-centered top app bar, the headline should be centered.",
+  "changes": "Center the headline text 'Popular' in the top app bar.",
+  "changed_components": [
+    "<div class='headline' id='I57805:6973;50717:9089' style='position: absolute; top: 18px; left: 58px; width: 297px; height: 28px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #181D18FF; line-height: 28px; justify-content: center; align-items: center;'>Popular</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

@@ -1,0 +1,12 @@
+pandas
+numpy
+python-terrier
+openai
+openpyxl
+tiktoken
+html2image
+bs4
+Pillow
+cssutils
+matplotlib
+scikit-learn

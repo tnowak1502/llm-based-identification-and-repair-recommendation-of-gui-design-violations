@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Inconsistent Item Heights:** The first list item has a height of 105px, while the subsequent items have a height of 88px. This inconsistency can disrupt the visual flow and hierarchy. (Severity: High)",
+    "2. **Inconsistent Supporting Text:** The first list item contains two lines of supporting text ('10€\nAusstehend'), while the subsequent items only contain one line ('10€'). This inconsistency can make the list appear unorganized. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Standardize Item Heights:** Ensure that all list items have the same height. Adjust the first list item's height from 105px to 88px to match the subsequent items.",
+    "2. **Standardize Supporting Text:** Ensure that all list items have the same amount of supporting text. Either add the missing 'Ausstehend' line to the subsequent items or remove it from the first item to maintain consistency."
+  ],
+  "guideline_request": "Material Design 3 guidelines on visual hierarchy and list consistency",
+  "example_request": "consistent list item heights and supporting text in lists"
+}

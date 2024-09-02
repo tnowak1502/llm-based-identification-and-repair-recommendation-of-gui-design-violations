@@ -1,0 +1,16 @@
+```json
+{
+  "violations": [
+    "The label text 'Note...' on the tonal button is in title case. According to Material Design 3 Guidelines, the label text should be in sentence case.",
+    "The 'Edit profile' and 'Share profile' buttons are tonal buttons. However, tonal buttons should be used for medium emphasis actions. Given their prominent placement, these actions might be better suited for filled buttons.",
+    "The 'Edit profile' button has an icon on the right side of the text. According to Material Design 3 Guidelines, icons in buttons should be placed to the left of the text, not on the right."
+  ],
+  "changes": [
+    "Change the label text 'Note...' on the tonal button to sentence case (e.g., 'note...').",
+    "Consider using filled buttons for the 'Edit profile' and 'Share profile' actions to give them higher emphasis.",
+    "Move the icon in the 'Edit profile' button to the left side of the text."
+  ],
+  "guideline_request": "Button label text case; Button type usage; Icon placement in buttons",
+  "example_request": "Tonal button with sentence case label text; Filled button; Button with left-aligned icon"
+}
+```

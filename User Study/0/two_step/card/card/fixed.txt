@@ -1,0 +1,14 @@
+{
+  "changed_components": [
+    "<div class='Scrollbar' id='57811:36545' style='position: absolute; top: 76px; left: 338px; width: 8px; height: 63px; opacity: 1; background-color: #326940FF; border-radius: 100px;'></div>",
+    "<div class='Stacked-card' id='57811:36531' style='position: absolute; top: 8px; left: 26px; width: 360px; height: 240px; overflow: hidden; opacity: 1; border-radius: 12px;'>",
+    "<div class='Stacked-card' config='Filled' id='57811:36547' style='position: absolute; top: 256px; left: 26px; width: 360px; height: 100px; overflow: hidden; opacity: 1; border-radius: 12px;'>",
+    "<div class='Stacked-card' config='Filled' id='57811:36548' style='position: absolute; top: 376px; left: 26px; width: 360px; height: 240px; overflow: hidden; opacity: 1; border-radius: 12px;'>"
+  ],
+  "deleted_components": [
+    "57811:36545"
+  ],
+  "new_components": [
+    ("<div class='Expandable-card' id='57811:36552' style='position: absolute; top: 8px; left: 26px; width: 360px; height: auto; overflow: hidden; opacity: 1; border-radius: 12px; background-color: #DFE4DCFF;'> <div class='Content' id='57811:36553' style='position: relative; padding: 16px;'> <div class='Header' id='57811:36554' style='display: flex; align-items: center;'> <div class='Monogram' id='57811:36555' style='width: 40px; height: 40px; background-color: #326940FF; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: #F6FBF2FF; font-family: Roboto; font-size: 16px; font-weight: 500;'> E </div> <div class='Text' id='57811:36556' style='margin-left: 16px;'> <div class='Header' id='57811:36557' style='font-family: Roboto; font-size: 16px; font-weight: 500; color: #181D18FF;'> Elie Pietersen </div> <div class='Subhead' id='57811:36558' style='font-family: Roboto; font-size: 14px; font-weight: 400; color: #181D18FF;'> 2 hours ago </div> </div> </div> <div class='Supporting-text' id='57811:36559' style='margin-top: 16px; font-family: Roboto; font-size: 14px; font-weight: 400; color: #414941FF;'> I just learned about this adoption opportunity. The pet adoption organization is looking for help with improving their connection with communities. If we volunteer we’d basically take their dogs on walks and talk to people in the neighborhood. The dogs will be wearing “adopt me” vests which makes it easier for people to recognize them. This could be a great opportunity to help out and make a difference in the community. Let me know if you’re interested! </div> </div> </div>", "57811:36530")
+  ]
+}

@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "description": "The headline text 'Popular' in the top app bar seems to be center-aligned, which is appropriate for a small centered top app bar. However, the leading icon is a microphone icon, which is generally used for voice actions. This might not be immediately clear to the user.",
+      "severity": "Low"
+    },
+    {
+      "description": "The trailing icon used for search might not be as intuitive as a more common search icon (e.g., a magnifying glass).",
+      "severity": "Low"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Consider using a more universally recognized icon for voice actions, such as a microphone icon, in the leading position to make the functionality immediately clear to the user."
+    },
+    {
+      "description": "Consider using a more standard search icon (magnifying glass) for the trailing search action to enhance recognizability."
+    }
+  ],
+  "guideline_request": "icon usage guidelines",
+  "example_request": "Examples of top app bars with standard icons"
+}
+```

@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "Severity: High - The navigation bar includes five destinations, but not all of them have labels. According to the Material Design 3 guidelines, if one destination is labeled, all destinations should be labeled. This can cause inconsistency and confusion for users."
+  ],
+  "changes": [
+    "Ensure all destinations in the navigation bar have labels. Add labels to the 'Flash On' and 'Bar Chart' segments to maintain consistency."
+  ],
+  "guideline_request": "Navigation bar guidelines",
+  "example_request": "Example of a navigation bar with labeled icons"
+}

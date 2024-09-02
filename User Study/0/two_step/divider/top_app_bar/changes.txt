@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The headline text in the top app bar is not center-aligned vertically within the top app bar. According to Material Design 3 Guidelines, the headline text in a small-centered top app bar should be vertically centered.",
+      "severity": "Medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Adjust the vertical alignment of the headline text so that it is centered within the top app bar."
+    }
+  ],
+  "guideline_request": "top app bar alignment",
+  "example_request": "small-centered top app bar"
+}

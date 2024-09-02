@@ -1,0 +1,5 @@
+Violations:
+The top app bar in the mockup uses a small-centered configuration, which should be used for the main root page of an app. However, the left-aligned leading icon and the right-aligned trailing icon are not appropriate for a centered configuration. The headline text should be centered with no leading or trailing icons.
+
+Changes:
+Remove the leading and trailing icons to ensure the headline remains centered in the top app bar.

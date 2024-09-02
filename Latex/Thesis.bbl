@@ -1,0 +1,467 @@
+\begin{thebibliography}{10}
+
+\bibitem{noauthor_ast_nodate}
+ast — {Abstract} {Syntax} {Trees}.
+\newblock docs.python.org/3/library/ast.html.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{runtastic_adidas_nodate}
+Adidas.
+\newblock adidas {Running} homepage.
+\newblock www.runtastic.com.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{alemerien_guievaluator_2014}
+Khalid Alemerien and Kenneth Magel.
+\newblock {GUIEvaluator}: {A} {Metric}-tool for {Evaluating} the {Complexity}
+  of {Graphical} {User} {Interfaces}.
+\newblock In {\em {SEKE}}, pages 13--18, 2014.
+
+\bibitem{noauthor_amazon_nodate-1}
+Amazon.
+\newblock Amazon {Mechanical} {Turk}.
+\newblock www.mturk.com/.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{inc_design_nodate}
+Apple.
+\newblock Apple design.
+\newblock developer.apple.com/design/.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{bouzenia_repairagent_2024}
+Islem Bouzenia, Premkumar Devanbu, and Michael Pradel.
+\newblock {RepairAgent}: {An} {Autonomous}, {LLM}-{Based} {Agent} for {Program}
+  {Repair}, March 2024.
+\newblock arXiv preprint arXiv:2403.17134 (2024).
+
+\bibitem{bylinskii_learning_2017}
+Zoya Bylinskii, Nam~Wook Kim, Peter O'Donovan, Sami Alsheikh, Spandan Madan,
+  Hanspeter Pfister, Fredo Durand, Bryan Russell, and Aaron Hertzmann.
+\newblock Learning {Visual} {Importance} for {Graphic} {Designs} and {Data}
+  {Visualizations}.
+\newblock In {\em Proceedings of the 30th {Annual} {ACM} {Symposium} on {User}
+  {Interface} {Software} and {Technology}}, {UIST} '17, pages 57--69, New York,
+  NY, USA, October 2017. Association for Computing Machinery.
+
+\bibitem{chang_survey_2024}
+Yupeng Chang, Xu~Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen,
+  Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi~Chang,
+  Philip~S. Yu, Qiang Yang, and Xing Xie.
+\newblock A {Survey} on {Evaluation} of {Large} {Language} {Models}.
+\newblock {\em ACM Trans. Intell. Syst. Technol.}, 15(3):39:1--39:45, March
+  2024.
+
+\bibitem{christiano_deep_2017}
+Paul~F Christiano, Jan Leike, Tom Brown, Miljan Martic, Shane Legg, and Dario
+  Amodei.
+\newblock Deep {Reinforcement} {Learning} from {Human} {Preferences}.
+\newblock In {\em Advances in {Neural} {Information} {Processing} {Systems}},
+  volume~30. Curran Associates, Inc., 2017.
+
+\bibitem{constantine_software_1999}
+Larry~L. Constantine and Lucy A.~D. Lockwood.
+\newblock {\em Software for {Use}: {A} {Practical} {Guide} to the {Models} and
+  {Methods} of {Usage}-{Centered} {Design}}.
+\newblock Pearson Education, April 1999.
+\newblock Google-Books-ID: Y0ic4kK9E7cC.
+
+\bibitem{oven_corp_ovenappio_2024}
+Oven Corp.
+\newblock {KakaOven}.
+\newblock ovenapp.io.
+\newblock Accessed: 2024-08-09.
+
+\bibitem{deka_rico_2017}
+Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang
+  Li, Jeffrey Nichols, and Ranjitha Kumar.
+\newblock Rico: {A} {Mobile} {App} {Dataset} for {Building} {Data}-{Driven}
+  {Design} {Applications}.
+\newblock In {\em Proceedings of the 30th {Annual} {ACM} {Symposium} on {User}
+  {Interface} {Software} and {Technology}}, {UIST} '17, pages 845--854, New
+  York, NY, USA, October 2017. Association for Computing Machinery.
+
+\bibitem{noauthor_bottom_nodate}
+Material Design.
+\newblock Bottom app bar – {Material} {Design} 3.
+\newblock m3.material.io/components/bottom-app-bar/guidelines.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_carousel_nodate}
+Material Design.
+\newblock Carousel – {Material} {Design} 3.
+\newblock m3.material.io/components/carousel/guidelines.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_material_nodate-1}
+Material Design.
+\newblock Material 3 {Design} {Kit}.
+\newblock
+  www.figma.com/community/file/1035203688168086460/material-3-design-kit.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_material_nodate}
+Material Design.
+\newblock Material {Design} homepage.
+\newblock m3.material.io.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_material_nodate-2}
+Material Design.
+\newblock Material {Theme} {Builder}.
+\newblock
+  www.figma.com/community/plugin/1034969338659738588/material-theme-builder.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{devlin_bert_2018}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: {Pre}-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
+\bibitem{duan_generating_2024}
+Peitong Duan, Jeremy Warner, Yang Li, and Bjoern Hartmann.
+\newblock Generating {Automatic} {Feedback} on {UI} {Mockups} with {Large}
+  {Language} {Models}.
+\newblock In {\em Proceedings of the {CHI} {Conference} on {Human} {Factors} in
+  {Computing} {Systems}}, {CHI} '24, pages 1--20, New York, NY, USA, May 2024.
+  Association for Computing Machinery.
+
+\bibitem{feng_mud_2024}
+Sidong Feng, Suyu Ma, Han Wang, David Kong, and Chunyang Chen.
+\newblock {MUD}: {Towards} a {Large}-{Scale} and {Noise}-{Filtered} {UI}
+  {Dataset} for {Modern} {Style} {UI} {Modeling}.
+\newblock In {\em Proceedings of the {CHI} {Conference} on {Human} {Factors} in
+  {Computing} {Systems}}, {CHI} '24, pages 1--14, New York, NY, USA, May 2024.
+  Association for Computing Machinery.
+
+\bibitem{noauthor_figma_nodate-1}
+Figma.
+\newblock Figma {Community} homepage.
+\newblock www.figma.com/community.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_figma_nodate}
+Figma.
+\newblock Figma homepage.
+\newblock www.figma.com/de-de/.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{gemini_team_gemini_2024}
+{Gemini Team}.
+\newblock Gemini: {A} {Family} of {Highly} {Capable} {Multimodal} {Models},
+  June 2024.
+\newblock arXiv:2312.11805 [cs].
+
+\bibitem{noauthor_amazon_nodate}
+Google.
+\newblock Amazon {Prime} {Video} play store page.
+\newblock
+  play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient\&hl=de.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_letterboxd_nodate}
+Google.
+\newblock Letterboxd play store page.
+\newblock
+  play.google.com/store/apps/details?id=com.letterboxd.letterboxd\&hl=de.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_reddit_nodate}
+Google.
+\newblock {Reddit} {Play} {Store} {Page}.
+\newblock \linebreak
+  play.google.com/store/apps/details?id=com.reddit.frontpage\&hl=en.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_food_nodate}
+Grubhub.
+\newblock Grubhub homepage.
+\newblock www.grubhub.com.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{noauthor_instagram_nodate}
+Instagram.
+\newblock Instagram homepage.
+\newblock instagram.com/.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{johnson_designing_2020}
+Jeff Johnson.
+\newblock {\em Designing with the {Mind} in {Mind}: {Simple} {Guide} to
+  {Understanding} {User} {Interface} {Design} {Guidelines}}.
+\newblock Morgan Kaufmann, August 2020.
+\newblock Google-Books-ID: \_dLVDwAAQBAJ.
+
+\bibitem{just_defects4j_2014}
+René Just, Darioush Jalali, and Michael~D. Ernst.
+\newblock {Defects4J}: a database of existing faults to enable controlled
+  testing studies for {Java} programs.
+\newblock In {\em Proceedings of the 2014 {International} {Symposium} on
+  {Software} {Testing} and {Analysis}}, {ISSTA} 2014, pages 437--440, New York,
+  NY, USA, July 2014. Association for Computing Machinery.
+
+\bibitem{khot_decomposed_2023}
+Tushar Khot, Harsh Trivedi, Matthew Finlayson, Yao Fu, Kyle Richardson, Peter
+  Clark, and Ashish Sabharwal.
+\newblock Decomposed {Prompting}: {A} {Modular} {Approach} for {Solving}
+  {Complex} {Tasks}, April 2023.
+\newblock arXiv:2210.02406 [cs].
+
+\bibitem{kolthoff_data-driven_2023}
+Kristian Kolthoff, Christian Bartelt, and Simone~Paolo Ponzetto.
+\newblock Data-driven prototyping via natural-language-based {GUI} retrieval.
+\newblock {\em Automated Software Engineering}, 30(1):13, March 2023.
+
+\bibitem{lee_guicomp_2020}
+Chunggi Lee, Sanghoon Kim, Dongyun Han, Hongjun Yang, Young-Woo Park, Bum~Chul
+  Kwon, and Sungahn Ko.
+\newblock {GUIComp}: {A} {GUI} {Design} {Assistant} with {Real}-{Time},
+  {Multi}-{Faceted} {Feedback}.
+\newblock In {\em Proceedings of the 2020 {CHI} {Conference} on {Human}
+  {Factors} in {Computing} {Systems}}, pages 1--13, Honolulu HI USA, April
+  2020. ACM.
+
+\bibitem{leiva_enrico_2021}
+Luis~A. Leiva, Asutosh Hota, and Antti Oulasvirta.
+\newblock Enrico: {A} {Dataset} for {Topic} {Modeling} of {Mobile} {UI}
+  {Designs}.
+\newblock In {\em 22nd {International} {Conference} on {Human}-{Computer}
+  {Interaction} with {Mobile} {Devices} and {Services}}, {MobileHCI} '20, pages
+  1--4, New York, NY, USA, February 2021. Association for Computing Machinery.
+
+\bibitem{lin_quixbugs_2017}
+Derrick Lin, James Koppel, Angela Chen, and Armando Solar-Lezama.
+\newblock {QuixBugs}: a multi-lingual program repair benchmark set based on the
+  quixey challenge.
+\newblock In {\em Proceedings {Companion} of the 2017 {ACM} {SIGPLAN}
+  {International} {Conference} on {Systems}, {Programming}, {Languages}, and
+  {Applications}: {Software} for {Humanity}}, {SPLASH} {Companion} 2017, pages
+  55--56, New York, NY, USA, October 2017. Association for Computing Machinery.
+
+\bibitem{liu_pre-train_2023}
+Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and
+  Graham Neubig.
+\newblock Pre-train, {Prompt}, and {Predict}: {A} {Systematic} {Survey} of
+  {Prompting} {Methods} in {Natural} {Language} {Processing}.
+\newblock {\em ACM Comput. Surv.}, 55(9):195:1--195:35, January 2023.
+
+\bibitem{lu_ai_2024}
+Yuwen Lu, Tiffany Knearem, Shona Dutta, Jamie Blass, Clara Kliman-Silver, and
+  Frank Bentley.
+\newblock {AI} {Is} {Not} {Enough}: {A} {Hybrid} {Technical} {Approach} to {AI}
+  {Adoption} in {UI} {Linting} {With} {Heuristics}.
+\newblock In {\em Extended {Abstracts} of the {CHI} {Conference} on {Human}
+  {Factors} in {Computing} {Systems}}, {CHI} {EA} '24, pages 1--7, New York,
+  NY, USA, May 2024. Association for Computing Machinery.
+
+\bibitem{pyterrier2020ictir}
+Craig Macdonald and Nicola Tonellotto.
+\newblock Declarative experimentation ininformation retrieval using pyterrier.
+\newblock In {\em Proceedings of ICTIR 2020}, 2020.
+
+\bibitem{minaee_large_2024}
+Shervin Minaee, Tomas Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard Socher,
+  Xavier Amatriain, and Jianfeng Gao.
+\newblock Large {Language} {Models}: {A} {Survey}, February 2024.
+\newblock arXiv:2402.06196 [cs].
+
+\bibitem{ngo_formalising_2000}
+D.~C.~L. Ngo, L.~S. Teo, and J.~G. Byrne.
+\newblock Formalising guidelines for the design of screen layouts.
+\newblock {\em Displays}, 21(1):3--15, March 2000.
+
+\bibitem{experience_10_nodate}
+{Nielsen Norman Group}.
+\newblock 10 {Usability} {Heuristics} for {User} {Interface} {Design}.
+\newblock www.nngroup.com/articles/ten-usability-heuristics/.
+\newblock Accessed: 2024-08-09.
+
+\bibitem{openai-gpt4o}
+OpenAI.
+\newblock {OpenAI API Documentation on GPT-4o}.
+\newblock platform.openai.com/docs/models/gpt-4o.
+\newblock Accessed: 2024-08-29.
+
+\bibitem{noauthor_openai_nodate}
+OpenAI.
+\newblock {OpenAI} {Platform}.
+\newblock platform.openai.com.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{openai_gpt-4_2023}
+{OpenAI}, Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya,
+  Florencia~Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman,
+  Shyamal Anadkat, Red Avila, Igor Babuschkin, Suchir Balaji, Valerie Balcom,
+  Paul Baltescu, Haiming Bao, Mohammad Bavarian, Jeff Belgum, Irwan Bello, Jake
+  Berdine, Gabriel Bernadett-Shapiro, Christopher Berner, Lenny Bogdonoff, Oleg
+  Boiko, Madelaine Boyd, Anna-Luisa Brakman, Greg Brockman, Tim Brooks, Miles
+  Brundage, Kevin Button, Trevor Cai, Rosie Campbell, Andrew Cann, Brittany
+  Carey, Chelsea Carlson, Rory Carmichael, Brooke Chan, Che Chang, Fotis
+  Chantzis, Derek Chen, Sully Chen, Ruby Chen, Jason Chen, Mark Chen, Ben
+  Chess, Chester Cho, Casey Chu, Hyung~Won Chung, Dave Cummings, Jeremiah
+  Currier, Yunxing Dai, Cory Decareaux, Thomas Degry, Noah Deutsch, Damien
+  Deville, Arka Dhar, David Dohan, Steve Dowling, Sheila Dunning, Adrien
+  Ecoffet, Atty Eleti, Tyna Eloundou, David Farhi, Liam Fedus, Niko Felix,
+  Simón~Posada Fishman, Juston Forte, Isabella Fulford, Leo Gao, Elie Georges,
+  Christian Gibson, Vik Goel, Tarun Gogineni, Gabriel Goh, Rapha Gontijo-Lopes,
+  Jonathan Gordon, Morgan Grafstein, Scott Gray, Ryan Greene, Joshua Gross,
+  Shixiang~Shane Gu, Yufei Guo, Chris Hallacy, Jesse Han, Jeff Harris, Yuchen
+  He, Mike Heaton, Johannes Heidecke, Chris Hesse, Alan Hickey, Wade Hickey,
+  Peter Hoeschele, Brandon Houghton, Kenny Hsu, Shengli Hu, Xin Hu, Joost
+  Huizinga, Shantanu Jain, Shawn Jain, Joanne Jang, Angela Jiang, Roger Jiang,
+  Haozhun Jin, Denny Jin, Shino Jomoto, Billie Jonn, Heewoo Jun, Tomer Kaftan,
+  Łukasz Kaiser, Ali Kamali, Ingmar Kanitscheider, Nitish~Shirish Keskar,
+  Tabarak Khan, Logan Kilpatrick, Jong~Wook Kim, Christina Kim, Yongjik Kim,
+  Jan~Hendrik Kirchner, Jamie Kiros, Matt Knight, Daniel Kokotajlo, Łukasz
+  Kondraciuk, Andrew Kondrich, Aris Konstantinidis, Kyle Kosic, Gretchen
+  Krueger, Vishal Kuo, Michael Lampe, Ikai Lan, Teddy Lee, Jan Leike, Jade
+  Leung, Daniel Levy, Chak~Ming Li, Rachel Lim, Molly Lin, Stephanie Lin,
+  Mateusz Litwin, Theresa Lopez, Ryan Lowe, Patricia Lue, Anna Makanju, Kim
+  Malfacini, Sam Manning, Todor Markov, Yaniv Markovski, Bianca Martin, Katie
+  Mayer, Andrew Mayne, Bob McGrew, Scott~Mayer McKinney, Christine McLeavey,
+  Paul McMillan, Jake McNeil, David Medina, Aalok Mehta, Jacob Menick, Luke
+  Metz, Andrey Mishchenko, Pamela Mishkin, Vinnie Monaco, Evan Morikawa, Daniel
+  Mossing, Tong Mu, Mira Murati, Oleg Murk, David Mély, Ashvin Nair, Reiichiro
+  Nakano, Rajeev Nayak, Arvind Neelakantan, Richard Ngo, Hyeonwoo Noh, Long
+  Ouyang, Cullen O'Keefe, Jakub Pachocki, Alex Paino, Joe Palermo, Ashley
+  Pantuliano, Giambattista Parascandolo, Joel Parish, Emy Parparita, Alex
+  Passos, Mikhail Pavlov, Andrew Peng, Adam Perelman, Filipe de~Avila
+  Belbute~Peres, Michael Petrov, Henrique~Ponde de~Oliveira~Pinto, Michael,
+  Pokorny, Michelle Pokrass, Vitchyr~H. Pong, Tolly Powell, Alethea Power,
+  Boris Power, Elizabeth Proehl, Raul Puri, Alec Radford, Jack Rae, Aditya
+  Ramesh, Cameron Raymond, Francis Real, Kendra Rimbach, Carl Ross, Bob
+  Rotsted, Henri Roussez, Nick Ryder, Mario Saltarelli, Ted Sanders, Shibani
+  Santurkar, Girish Sastry, Heather Schmidt, David Schnurr, John Schulman,
+  Daniel Selsam, Kyla Sheppard, Toki Sherbakov, Jessica Shieh, Sarah Shoker,
+  Pranav Shyam, Szymon Sidor, Eric Sigler, Maddie Simens, Jordan Sitkin,
+  Katarina Slama, Ian Sohl, Benjamin Sokolowsky, Yang Song, Natalie Staudacher,
+  Felipe~Petroski Such, Natalie Summers, Ilya Sutskever, Jie Tang, Nikolas
+  Tezak, Madeleine~B. Thompson, Phil Tillet, Amin Tootoonchian, Elizabeth
+  Tseng, Preston Tuggle, Nick Turley, Jerry Tworek, Juan Felipe~Cerón Uribe,
+  Andrea Vallone, Arun Vijayvergiya, Chelsea Voss, Carroll Wainwright,
+  Justin~Jay Wang, Alvin Wang, Ben Wang, Jonathan Ward, Jason Wei, CJ~Weinmann,
+  Akila Welihinda, Peter Welinder, Jiayi Weng, Lilian Weng, Matt Wiethoff, Dave
+  Willner, Clemens Winter, Samuel Wolrich, Hannah Wong, Lauren Workman, Sherwin
+  Wu, Jeff Wu, Michael Wu, Kai Xiao, Tao Xu, Sarah Yoo, Kevin Yu, Qiming Yuan,
+  Wojciech Zaremba, Rowan Zellers, Chong Zhang, Marvin Zhang, Shengjia Zhao,
+  Tianhao Zheng, Juntang Zhuang, William Zhuk, and Barret Zoph.
+\newblock {GPT}-4 {Technical} {Report}, December 2023.
+\newblock arXiv:2303.08774 [cs].
+
+\bibitem{radford_improving_2018}
+Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever.
+\newblock Improving language understanding by generative pre-training.
+\newblock 2018.
+\newblock Publisher: San Francisco, CA, USA.
+
+\bibitem{riccardi_two_2023}
+Nicholas Riccardi and Rutvik~H. Desai.
+\newblock The {Two} {Word} {Test}: {A} {Semantic} {Benchmark} for {Large}
+  {Language} {Models}, June 2023.
+\newblock arXiv:2306.04610 [cs].
+
+\bibitem{noauthor_beautiful_nodate-1}
+Leonard Richardson.
+\newblock {Beautiful} {Soup} 4.12.0 documentation.
+\newblock www.crummy.com/software/BeautifulSoup/bs4/doc/.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{riegler_measuring_2018}
+Andreas Riegler and Clemens Holzmann.
+\newblock Measuring visual user interface complexity of mobile applications
+  with metrics.
+\newblock {\em Interacting with Computers}, 30(3):207--223, 2018.
+\newblock Publisher: Oxford University Press.
+
+\bibitem{noauthor_one_nodate}
+Samsung.
+\newblock One {UI}.
+\newblock www.samsung.com/de/one-ui/.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{singhal_long_2024}
+Prasann Singhal, Tanya Goyal, Jiacheng Xu, and Greg Durrett.
+\newblock A {Long} {Way} to {Go}: {Investigating} {Length} {Correlations} in
+  {RLHF}, July 2024.
+\newblock arXiv:2310.03716 [cs].
+
+\bibitem{soui_plain_2017}
+Makram Soui, Mabrouka Chouchane, Ines Gasmi, and Mohamed~Wiem Mkaouer.
+\newblock Plain: {Plugin} for predicting the usability of mobile user
+  interface.
+\newblock In {\em International {Conference} on {Computer} {Graphics} {Theory}
+  and {Applications}}, volume~2, pages 127--136. SciTePress, 2017.
+
+\bibitem{stone_user_2005}
+Debbie Stone, Caroline Jarrett, Mark Woodroffe, and Shailey Minocha.
+\newblock {\em User {Interface} {Design} and {Evaluation}}.
+\newblock Elsevier, April 2005.
+\newblock Google-Books-ID: VvSoyqPBPbMC.
+
+\bibitem{tao_eveval_2023}
+Zhengwei Tao, Zhi Jin, Xiaoying Bai, Haiyan Zhao, Yanlin Feng, Jia Li, and
+  Wenpeng Hu.
+\newblock {EvEval}: {A} {Comprehensive} {Evaluation} of {Event} {Semantics} for
+  {Large} {Language} {Models}, May 2023.
+\newblock arXiv:2305.15268 [cs].
+
+\bibitem{touvron_llama_2023}
+Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne
+  Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro,
+  Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, and Guillaume
+  Lample.
+\newblock {LLaMA}: {Open} and {Efficient} {Foundation} {Language} {Models},
+  February 2023.
+\newblock arXiv:2302.13971 [cs].
+
+\bibitem{noauthor_tricount_nodate}
+Tricount.
+\newblock Tricount homepage.
+\newblock tricount.com/.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{vaswani_attention_2017}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, Łukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is {All} you {Need}.
+\newblock In {\em Advances in {Neural} {Information} {Processing} {Systems}},
+  volume~30. Curran Associates, Inc., 2017.
+
+\bibitem{noauthor_whatsapp_nodate}
+WhatsApp.
+\newblock {WhatsApp} homepage.
+\newblock www.whatsapp.com.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{xia_keep_2023}
+Chunqiu~Steven Xia and Lingming Zhang.
+\newblock Keep the {Conversation} {Going}: {Fixing} 162 out of 337 bugs for
+  \$0.42 each using {ChatGPT}, April 2023.
+\newblock arXiv:2304.00385 [cs].
+
+\bibitem{yang_dont_2021}
+Bo~Yang, Zhenchang Xing, Xin Xia, Chunyang Chen, Deheng Ye, and Shanping Li.
+\newblock Don’t {Do} {That}! {Hunting} {Down} {Visual} {Design} {Smells} in
+  {Complex} {UIs} {Against} {Design} {Guidelines}.
+\newblock In {\em 2021 {IEEE}/{ACM} 43rd {International} {Conference} on
+  {Software} {Engineering} ({ICSE})}, pages 761--772, May 2021.
+\newblock ISSN: 1558-1225.
+
+\bibitem{noauthor_json_nodate}
+Yunser.
+\newblock {JSON} {Exporter} plugin.
+\newblock \linebreak
+  www.figma.com/community/plugin/1135653849910773588/json-exporter.
+\newblock Accessed: 2024-08-24.
+
+\bibitem{zen_towards_2014}
+Mathieu Zen and Jean Vanderdonckt.
+\newblock Towards an evaluation of graphical user interfaces aesthetics based
+  on metrics.
+\newblock In {\em 2014 {IEEE} {Eighth} {International} {Conference} on
+  {Research} {Challenges} in {Information} {Science} ({RCIS})}, pages 1--12,
+  May 2014.
+\newblock ISSN: 2151-1357.
+
+\end{thebibliography}

@@ -1,0 +1,97 @@
+Here is a detailed description of each text field based on the provided code snippets:
+
+### Text Field 1
+- **Type:** Outlined Text Field
+- **ID:** `55668:998`
+- **Position:** Absolute; Top: 247px; Left: 0px
+- **Dimensions:** Width: 412px; Height: 72px
+- **Color:** Border and text color #181D18FF (dark gray)
+- **Shape:** Rectangular with rounded top corners (4px)
+- **Content:**
+  - **Label:** "Datum"
+    - **Position:** Top: -12px; Left: -4px
+    - **Dimensions:** Width: 46px; Height: 16px
+    - **Font:** Roboto, 12px, 400 weight, letter-spacing: 0.4px, color: #181D18FF
+  - **Input Text:** "01.01.2001"
+    - **Position:** Top: 12px; Left: 0px
+    - **Dimensions:** Width: 86px; Height: 24px
+    - **Font:** Roboto, 16px, 400 weight, letter-spacing: 0.5px, color: #181D18FF
+- **Function:** Input field for date selection with a dropdown icon for date picker
+- **Additional Elements:**
+  - **Trailing Icon (Dropdown):**
+    - **ID:** `I55668:999;52798:24586`
+    - **Position:** Top: 4px; Left: 332px
+    - **Dimensions:** Width: 48px; Height: 48px
+    - **Icon SVG:** Down arrow with color #414941FF
+
+### Text Field 2
+- **Type:** Outlined Text Field
+- **ID:** `55668:995`
+- **Position:** Absolute; Top: 167px; Left: 0px
+- **Dimensions:** Width: 412px; Height: 72px
+- **Color:** Border and text color #181D18FF (dark gray)
+- **Shape:** Rectangular with rounded top corners (4px)
+- **Content:**
+  - **Label:** "Betrag"
+    - **Position:** Top: 12px; Left: 0px
+    - **Dimensions:** Width: 50px; Height: 24px
+    - **Font:** Roboto, 16px, 400 weight, letter-spacing: 0.5px, color: #181D18FF
+- **Function:** Input field for amount with an assistive chip for currency selection
+- **Additional Elements:**
+  - **Assistive Chip (Currency):**
+    - **ID:** `55668:997`
+    - **Position:** Top: 20px; Left: 319px
+    - **Dimensions:** Width: 77px; Height: 32px
+    - **Label Text:** "EUR"
+      - **Font:** Roboto, 14px, 500 weight, letter-spacing: 0.1px, color: #181D18FF
+    - **Icon SVG:** Down arrow with color #326940FF
+
+### Text Field 3
+- **Type:** Outlined Text Field
+- **ID:** `55668:1000`
+- **Position:** Absolute; Top: 327px; Left: 0px
+- **Dimensions:** Width: 412px; Height: 72px
+- **Color:** Border and text color #181D18FF (dark gray)
+- **Shape:** Rectangular with rounded top corners (4px)
+- **Content:**
+  - **Label:** "Bezahlt von"
+    - **Position:** Top: -12px; Left: -4px
+    - **Dimensions:** Width: 51px; Height: 32px
+    - **Font:** Roboto, 12px, 400 weight, letter-spacing: 0.4px, color: #181D18FF
+  - **Input Text:** "X"
+    - **Position:** Top: 12px; Left: 0px
+    - **Dimensions:** Width: 12px; Height: 24px
+    - **Font:** Roboto, 16px, 400 weight, letter-spacing: 0.5px, color: #181D18FF
+- **Function:** Input field for selecting the payer with a dropdown icon for options
+- **Additional Elements:**
+  - **Trailing Icon (Dropdown):**
+    - **ID:** `I55668:1001;52798:24586`
+    - **Position:** Top: 4px; Left: 332px
+    - **Dimensions:** Width: 48px; Height: 48px
+    - **Icon SVG:** Down arrow with color #414941FF
+
+### Text Field 4
+- **Type:** Outlined Text Field
+- **ID:** `55668:991`
+- **Position:** Absolute; Top: 64px; Left: 0px
+- **Dimensions:** Width: 412px; Height: 95px
+- **Color:** Border and text color #181D18FF (dark gray)
+- **Shape:** Rectangular with rounded top corners (4px)
+- **Content:**
+  - **Label:** "Titel"
+    - **Position:** Top: 12px; Left: 0px
+    - **Dimensions:** Width: 35px; Height: 24px
+    - **Font:** Roboto, 16px, 400 weight, letter-spacing: 0.5px, color: #181D18FF
+- **Function:** Input field for entering the title of the expense
+- **Additional Elements:**
+  - **Icon Buttons:**
+    - **Icon Button 1:**
+      - **ID:** `55668:993`
+      - **Position:** Top: 8px; Left: 292px
+      - **Dimensions:** Width: 48px; Height: 48px
+      - **Icon SVG:** Category icon with color #414941FF
+    - **Icon Button 2:**
+      - **ID:** `55668:994`
+      - **Position:** Top: 8px; Left: 348px
+      - **Dimensions:** Width: 48px; Height: 48px
+      - **Icon SVG:** Add a photo icon with color #414941FF

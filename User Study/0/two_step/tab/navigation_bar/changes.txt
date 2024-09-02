@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar contains six destinations, but according to the Material Design 3 guidelines, a navigation bar should have 3 to 5 destinations. Having too many destinations can make the navigation bar crowded and difficult to use.",
+      "guideline": "A navigation bar provides access to 3 to 5 destinations at the bottom of the screen."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Reduce the number of destinations in the navigation bar to 3 to 5. Consider combining related destinations or moving less important destinations to other parts of the UI."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with 3 to 5 destinations"
+}
+```

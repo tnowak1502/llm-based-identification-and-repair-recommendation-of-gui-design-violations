@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. The bottom app bar contains only two icon buttons and an FAB. The bottom app bar should contain 2 to 5 actions. This is a minor violation as the FAB is considered an action.",
+    "2. The FAB is placed at the right end of the bottom app bar, which could be inconsistent with the typical placement of the FAB in Material Design guidelines."
+  ],
+  "changes": [
+    "1. Add at least one more icon button to the bottom app bar to ensure it contains 2 to 5 actions.",
+    "2. Move the FAB to the center of the bottom app bar for better consistency with Material Design guidelines."
+  ],
+  "guideline_request": "Bottom app bar actions, FAB placement in bottom app bar",
+  "example_request": "Bottom app bar with multiple actions, Bottom app bar with centered FAB"
+}

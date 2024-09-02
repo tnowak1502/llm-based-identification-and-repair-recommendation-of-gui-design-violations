@@ -1,0 +1,29 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The scrollbar in the first card is not very prominent and might not be easily noticeable by the users, which can affect the user experience negatively. According to Material Design 3 Guidelines, elements that can be interacted with should be easily identifiable."
+    },
+    {
+      "severity": "medium",
+      "description": "The content in the first card is truncated with an ellipsis, which might make it difficult for users to get the full context. Information should be succinct and fully displayed where possible."
+    },
+    {
+      "severity": "low",
+      "description": "The spacing between the cards is inconsistent. Consistent spacing helps in maintaining a clean and organized layout."
+    }
+  ],
+  "changes": [
+    {
+      "change": "Make the scrollbar more prominent by increasing its width or changing its color to make it more noticeable."
+    },
+    {
+      "change": "Consider using a different layout or component that allows displaying the full content without truncation, such as an expandable card."
+    },
+    {
+      "change": "Ensure consistent spacing between the cards to maintain a clean and organized layout."
+    }
+  ],
+  "guideline_request": "Scrollbar guidelines, Expandable card guidelines, Layout and spacing guidelines",
+  "example_request": "scrollbar, expandable card, layout and spacing"
+}

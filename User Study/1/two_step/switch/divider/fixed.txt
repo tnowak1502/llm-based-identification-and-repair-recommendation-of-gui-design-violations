@@ -1,0 +1,9 @@
+```json
+{
+  "changed_components": [
+    "<div class='horizontal/full-width' id='57805:10179' style='position: absolute; top: 90px; left: 4.3712617525670794e-08px; width: 412.0px; height: 1.0000280141830444px; overflow: hidden; opacity: 1; border-radius: 0px; '><hr class='Divider' id='I57805:10179;51816:5861' style='margin: 0px; position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #B0B0B0FF;'/></div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

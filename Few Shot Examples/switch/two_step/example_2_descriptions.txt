@@ -1,0 +1,45 @@
+Here's a detailed description of each switch based on the provided HTML code snippets and the image of the mockup:
+
+1. **Switch 1 (Selected)**
+   - **ID:** `I55668:1166;51964:63550`
+   - **Type:** Toggle switch
+   - **Position:** Absolute; top: 12px; left: 16px
+   - **Size:** Width: 52px; Height: 32px
+   - **Shape:** Rounded rectangle (border-radius: 100px)
+   - **Color:** 
+     - **Track:** Dark green `#326940FF`
+     - **Handle:** White `#FFFFFFFF`
+   - **Likely Function:** This switch is likely to toggle a feature or setting on or off. Given its "selected" state and green color, it indicates the feature is currently active or enabled.
+   - **Other Attributes:** Opacity is set to 1, ensuring it is fully visible.
+
+2. **Switch 2 (Selected)**
+   - **ID:** `I55668:1168;51964:63550`
+   - **Type:** Toggle switch
+   - **Position:** Absolute; top: 12px; left: 16px
+   - **Size:** Width: 52px; Height: 32px
+   - **Shape:** Rounded rectangle (border-radius: 100px)
+   - **Color:**
+     - **Track:** Dark green `#326940FF`
+     - **Handle:** White `#FFFFFFFF`
+   - **Likely Function:** This switch is similar to Switch 1 and is likely to toggle a feature or setting on or off. Given its "selected" state and green color, it indicates the feature is currently active or enabled.
+   - **Other Attributes:** Opacity is set to 1, ensuring it is fully visible.
+
+3. **Switch 3 (Unselected)**
+   - **ID:** `I55668:1167;51964:63550`
+   - **Type:** Toggle switch
+   - **Position:** Absolute; top: 12px; left: 16px
+   - **Size:** Width: 52px; Height: 32px
+   - **Shape:** Rounded rectangle (border-radius: 100px)
+   - **Color:** 
+     - **Track:** Light grey `#DFE4DCFF` with inset border `#717970FF`
+     - **Handle:** Dark grey `#717970FF`
+   - **Likely Function:** This switch is likely to toggle a feature or setting on or off. Given its "unselected" state and grey color, it indicates the feature is currently inactive or disabled.
+   - **Other Attributes:** Opacity is set to 1, ensuring it is fully visible.
+
+**General Description and Position in the Mockup:**
+- These switches are positioned within a "Leading-element" container.
+- They are all aligned at the same vertical position (`top: 12px`) and horizontal position (`left: 16px`).
+- The first and second switches are in the "selected" state, indicating active or enabled features, whereas the third switch is in the "unselected" state, indicating an inactive or disabled feature.
+- The visual style and colors of the switches closely match the aesthetic seen in the mockup image, where the green indicates active selections, and grey indicates inactive selections.
+
+These switches are likely used to toggle certain options related to the expense entry, as seen in the mockup image where users can select who the expense is for, with each switch representing a different person.

@@ -1,0 +1,135 @@
+### Dialog Description
+
+**Dialog Type:** Basic Dialog - Dark Mode
+
+**General Description:**
+This dialog is a confirmation message that appears in dark mode, indicating that location access has been granted. It includes a headline and two action buttons for user interaction.
+
+**Attributes:**
+
+- **ID:** 55699:15276
+- **Position:**
+  - **Top:** 382px
+  - **Left:** 50px
+- **Size:**
+  - **Width:** 312px
+  - **Height:** 180px
+- **Shape:** Rectangular with rounded corners (border-radius: 28px)
+- **Background Color:** Dark greenish-black (`#262B26FF`)
+- **Opacity:** Fully opaque (`opacity: 1`)
+- **Overflow:** Hidden (`overflow: hidden`)
+
+**Components:**
+1. **Text Content:**
+   - **ID:** I55699:15276;52112:32136
+   - **Position:**
+     - **Top:** 0px
+     - **Left:** 0px
+   - **Size:**
+     - **Width:** 312px
+     - **Height:** 92px
+   - **Border Radius:** None (`border-radius: 0px`)
+   - **Opacity:** Fully opaque (`opacity: 1`)
+   - **Overflow:** Hidden (`overflow: hidden`)
+
+   - **Title & Description:**
+     - **ID:** I55699:15276;52112:32137
+     - **Position:**
+       - **Top:** 0px
+       - **Left:** 0px
+     - **Size:**
+       - **Width:** 312px
+       - **Height:** 92px
+     - **Border Radius:** None (`border-radius: 0px`)
+     - **Opacity:** Fully opaque (`opacity: 1`)
+     - **Overflow:** Hidden (`overflow: hidden`)
+
+     - **Headline:**
+       - **ID:** I55699:15276;52112:32138
+       - **Text:** "Location access given"
+       - **Position:**
+         - **Top:** 24px
+         - **Left:** 24px
+       - **Size:**
+         - **Width:** 265px
+         - **Height:** 32px
+       - **Font:** Roboto, 24px, normal weight (`font-weight: 400`), color `#DFE4DCFF`
+       - **Line Height:** 32px
+       - **Display:** Flex, aligned left and centered vertically (`justify-content: left; align-items: center`)
+
+2. **Actions:**
+   - **ID:** I55699:15276;52112:32140
+   - **Position:**
+     - **Top:** 92px
+     - **Left:** 0px
+   - **Size:**
+     - **Width:** 312px
+     - **Height:** 88px
+   - **Border Radius:** None (`border-radius: 0px`)
+   - **Opacity:** Fully opaque (`opacity: 1`)
+   - **Overflow:** Hidden (`overflow: hidden`)
+
+   - **Actions Container:**
+     - **ID:** I55699:15276;52112:32141
+     - **Position:**
+       - **Top:** 0px
+       - **Left:** 158px
+     - **Size:**
+       - **Width:** 154px
+       - **Height:** 88px
+     - **Border Radius:** None (`border-radius: 0px`)
+     - **Opacity:** Fully opaque (`opacity: 1`)
+     - **Overflow:** Hidden (`overflow: hidden`)
+
+     - **Secondary Button (Undo):**
+       - **ID:** I55699:15276;52112:32142
+       - **Position:**
+         - **Top:** 24px
+         - **Left:** 8px
+       - **Size:**
+         - **Width:** 58px
+         - **Height:** 40px
+       - **Border Radius:** Fully rounded (`border-radius: 100px`)
+       - **Opacity:** Fully opaque (`opacity: 1`)
+       - **Overflow:** Hidden (`overflow: hidden`)
+
+       - **Label Text:**
+         - **ID:** I55699:15276;52112:32142;53923:27748
+         - **Text:** "Undo"
+         - **Position:**
+           - **Top:** 10px
+           - **Left:** 12px
+         - **Size:**
+           - **Width:** 35px
+           - **Height:** 20px
+         - **Font:** Roboto, 14px, medium weight (`font-weight: 500`), color `#99D4A2FF`
+         - **Line Height:** 20px
+         - **Display:** Flex, centered horizontally and vertically (`justify-content: center; align-items: center`)
+
+     - **Primary Button (Okay):**
+       - **ID:** I55699:15276;52112:32143
+       - **Position:**
+         - **Top:** 24px
+         - **Left:** 74px
+       - **Size:**
+         - **Width:** 56px
+         - **Height:** 40px
+       - **Border Radius:** Fully rounded (`border-radius: 100px`)
+       - **Opacity:** Fully opaque (`opacity: 1`)
+       - **Overflow:** Hidden (`overflow: hidden`)
+
+       - **Label Text:**
+         - **ID:** I55699:15276;52112:32143;53923:27748
+         - **Text:** "Okay"
+         - **Position:**
+           - **Top:** 10px
+           - **Left:** 12px
+         - **Size:**
+           - **Width:** 33px
+           - **Height:** 20px
+         - **Font:** Roboto, 14px, medium weight (`font-weight: 500`), color `#99D4A2FF`
+         - **Line Height:** 20px
+         - **Display:** Flex, centered horizontally and vertically (`justify-content: center; align-items: center`)
+
+**Likely Function:**
+This dialog is likely used to inform the user that location access has been successfully granted and provides options to either undo the action or acknowledge it (Okay).

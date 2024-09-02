@@ -1,0 +1,66 @@
+{
+  "violations": "The navigation bar contains a badge, which is typically used to indicate notifications or item counts. However, badges are not standard components for navigation bars. This can cause confusion about the purpose and functionality of the navigation bar.",
+  "changes": "Replace the navigation bar with a bottom app bar and move the badge to a more appropriate location, such as the filters button or another relevant component.",
+  "changed_components": [
+    "<div class = 'Bottom-app-bar-dark' id = '57804:6415' style='position: absolute; top: 724px; left: 0px; width: 412px; height: 80px; overflow: hidden; opacity: 1; background-color: #1C211CFF; border-radius: 0px; '>
+          <div class = 'leading-icon' id = 'I57804:6415;52031:23841' style='position: absolute; top: 16px; left: 4px; width: 216px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Icon-1' id = 'I57804:6415;52031:23841;52031:22812' config='standard' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I57804:6415;52031:23841;52031:22812;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I57804:6415;52031:23841;52031:22812;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icon' id = 'I57804:6415;52031:23841;52031:22812;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I57804:6415;52031:23841;52031:22812;51525:5221;55204:70257' style='position: absolute; top: 3.5px; left: 2px; width: 20px; height: 17.0px;'>
+                      <svg height = '17.0px' width = '20px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 10 2.690000057220459 L 15 7.189999580383301 L 15 15 L 13 15 L 13 9 L 7 9 L 7 15 L 5 15 L 5 7.189999580383301 L 10 2.690000057220459 Z M 10 0 L 0 9 L 3 9 L 3 17 L 9 17 L 9 11 L 11 11 L 11 17 L 17 17 L 17 9 L 20 9 L 10 0 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Icon-2' id = 'I57804:6415;52031:23842' config='standard' style='position: absolute; top: 0px; left: 56px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I57804:6415;52031:23842;52031:22908;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; background-color: #394B3BFF; '>
+                <div class = 'state-layer' id = 'I57804:6415;52031:23842;52031:22908;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icon' id = 'I57804:6415;52031:23842;52031:22908;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I57804:6415;52031:23842;52031:22908;51525:5221;51009:9730' style='position: absolute; top: 3px; left: 3px; width: 17.490001678466797px; height: 17.490001678466797px;'>
+                      <svg height = '17.490001678466797px' width = '17.490001678466797px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 11.760001511353 10.270001577744896 L 17.490001678466797 16.000001744858693 L 16.000001744858693 17.490001678466797 L 10.270001577744896 11.760001511353 C 9.200001766233285 12.530002053088046 7.91000071002661 13.000001417697689 6.5000007088488445 13.000001417697689 C 2.910000403176873 13.000001417697689 0 10.090001252939421 0 6.5000007088488445 C 0 2.910000403176873 2.910000403176873 0 6.5000007088488445 0 C 10.090001252939421 0 13.000001417697689 2.910000403176873 13.000001417697689 6.5000007088488445 C 13.000001417697689 7.91000071002661 12.530002053088046 9.200001766233285 11.760001511353 10.270001577744896 Z M 6.5000007088488445 2.0000002181073366 C 4.0100006661870715 2.0000002181073366 2.0000002181073366 4.0100006661870715 2.0000002181073366 6.5000007088488445 C 2.0000002181073366 8.990000751510618 4.0100006661870715 11.00000119959035 6.5000007088488445 11.00000119959035 C 8.990000751510618 11.00000119959035 11.00000119959035 8.990000751510618 11.00000119959035 6.5000007088488445 C 11.00000119959035 4.0100006661870715 8.990000751510618 2.0000002181073366 6.5000007088488445 2.0000002181073366 Z' style='fill: #D3E8D2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Icon-3' id = 'I57804:6415;52031:23843' config='standard' style='position: absolute; top: 0px; left: 112px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I57804:6415;52031:23843;52031:22812;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I57804:6415;52031:23843;52031:22812;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icon' id = 'I57804:6415;52031:23843;52031:22812;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I57804:6415;52031:23843;52031:22812;51525:5221;55204:70233' style='position: absolute; top: 2px; left: 1.996286392211914px; width: 20.007427215576172px; height: 20px;'>
+                      <svg height = '20px' width = '20.007427215576172px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 14.550000190734863 11 C 15.300000190734863 11 15.959999233484268 10.59000027179718 16.299999237060547 9.970000267028809 L 19.8799991607666 3.4800000190734863 C 20.249999165534973 2.8199999928474426 19.770000219345093 2 19.010000228881836 2 L 4.210000038146973 2 L 3.2699999809265137 0 L 0 0 L 0 2 L 2 2 L 5.599999904632568 9.59000015258789 L 4.25 12.029999732971191 C 3.5199999809265137 13.369999766349792 4.480000019073486 15 6 15 L 18 15 L 18 13 L 6 13 L 7.100000381469727 11 L 14.550000190734863 11 Z M 5.159999847412109 4 L 17.309999465942383 4 L 14.550000190734863 9 L 7.529999732971191 9 L 5.159999847412109 4 Z M 6 16 C 4.899999976158142 16 4.010000228881836 16.899999976158142 4.010000228881836 18 C 4.010000228881836 19.100000023841858 4.899999976158142 20 6 20 C 7.100000023841858 20 8 19.100000023841858 8 18 C 8 16.899999976158142 7.100000023841858 16 6 16 Z M 16 16 C 14.899999976158142 16 14.010000228881836 16.899999976158142 14.010000228881836 18 C 14.010000228881836 19.100000023841858 14.899999976158142 20 16 20 C 17.100000023841858 20 18 19.100000023841858 18 18 C 18 16.899999976158142 17.100000023841858 16 16 16 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Icon-4' id = 'I57804:6415;52031:23844' config='standard' style='position: absolute; top: 0px; left: 168px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I57804:6415;52031:23844;52031:22812;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I57804:6415;52031:23844;52031:22812;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icon' id = 'I57804:6415;52031:23844;52031:22812;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I57804:6415;52031:23844;52031:22812;51525:5221;50731:11365' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; opacity: 1; background-color: #C1C9BEFF; '>
+                      <div class='Path' id='I57804:6415;52031:23844;52031:22812;51525:5221;50731:11365;50731:11366' style='position: absolute; top: 6px; left: 10px; width: 4px; height: 4px;'>
+                        <svg height = '4px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 2 0 C 3.100000023841858 0 4 0.8999999761581421 4 2 C 4 3.100000023841858 3.100000023841858 4 2 4 C 0.8999999761581421 4 0 3.100000023841858 0 2 C 0 0.8999999761581421 0.8999999761581421 0 2 0 Z' style='fill: #DADADAFF;'/>
+                        </svg>
+                      </div>
+                      <div class='Path' id='I57804:6415;52031:23844;52031:22812;51525:5221;50731:11365;50731:11367' style='position: absolute; top: 15px; left: 6px; width: 12px; height: 3px;'>
+                        <svg height = '3px' width = '12px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 6 0 C 8.700000047683716 0 11.799999997019768 1.2900000214576721 12 2 L 12 3 L 0 3 L 0 2.009999990463257 C 0.20000000298023224 1.2899999618530273 3.299999952316284 0 6 0 Z' style='fill: #DADADAFF;'/>
+                        </svg>
+                      </div>
+                      <div class='Path' id='I57804:6415;52031:23844;52031:22812;51525:5221;50731:11365;50731:11368' style='position: absolute; top: 4px; left: 8px; width: 8px; height: 8px;'>
+                        <svg height = '8px' width = '8px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 4 0 C 1.7899999618530273 0 0 1.7899999618530273 0 4 C 0 6.210000038146973 1.7899999618530273 8 4 8 C 6.210000038146973 8 8 6.210000038146973 8 4 C 8 1.7899999618530273 6.210000038146973 0 4 0 Z' style='fill: #DADADAFF;'/>
+                        </svg>
+                      </div>
+                      <div class='Path' id='I57804:6415;52031:23844;52031:22812;51525:5221;50731:11365;50731:11369' style

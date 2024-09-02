@@ -1,0 +1,8 @@
+Violations:
+1. Inconsistent Icon Button Weights: The icon buttons in the top app bar and the frame below it have inconsistent icon weights. Some icons appear bolder while others are lighter. According to Material Design 3 guidelines, icons in the same component should have the same weight. (Severity: High)
+2. Ambiguous Button Styles: The buttons 'Edit profile' and 'Share profile' have different styles even though they are next to each other and serve similar purposes. This inconsistency can confuse users. (Severity: Medium)
+
+
+Changes:
+1. Standardize the icon weights across all icon buttons within the same component to ensure uniformity.
+2. Use the same button style for 'Edit profile' and 'Share profile' to maintain visual consistency and avoid confusion.

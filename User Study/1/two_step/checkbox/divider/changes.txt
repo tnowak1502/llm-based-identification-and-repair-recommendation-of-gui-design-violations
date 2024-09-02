@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. The divider between the 'Volume' section and the 'Language' section is a full-width divider. Given that 'Volume' is a setting and 'Language' is another setting, they are related in the context of user settings. Material Design 3 Guidelines suggest that related items should be grouped using proximity or similarity, and using a full-width divider here might be too strong and unnecessary."
+  ],
+  "changes": [
+    "1. Replace the full-width divider with an inset divider to group the related settings more subtly and improve the visual hierarchy."
+  ],
+  "guideline_request": "Guidelines for using dividers in grouping related content",
+  "example_request": "Examples of inset dividers used to group related settings"
+}

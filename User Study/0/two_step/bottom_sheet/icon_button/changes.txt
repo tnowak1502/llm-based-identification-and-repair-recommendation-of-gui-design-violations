@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Button Styles: The icon buttons for 'Share' and 'Bookmark' use the `standard` style. While this is not inherently wrong, it can be improved for better visual emphasis and clarity. (Severity: Low)",
+    "2. Icon Weight and Text Weight: The icons used in the icon buttons should have the same weight as the text next to them. The icons appear to be lighter in weight compared to the text, which can cause a visual imbalance. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Consider using `filled` or `outlined` styles for the icon buttons to give them better visual emphasis and clarity, especially if they represent important actions.",
+    "2. Ensure that the icons used in the icon buttons have the same weight as the text next to them. This will create a more balanced and cohesive visual appearance."
+  ],
+  "guideline_request": "Icon button styles, Icon and text weight",
+  "example_request": "icon buttons"
+}

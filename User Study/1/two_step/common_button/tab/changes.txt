@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. Inconsistent Icon Weight: The icons in the tabs are not consistent in their weight. The 'grid_on' icon appears to be outlined, while the 'video_library' and 'person_pin' icons are also outlined but have different visual weights. This inconsistency can confuse users and disrupt the visual harmony of the interface."
+  ],
+  "changes": [
+    "1. Ensure that all icons in the tabs have a consistent weight. Use either all outlined icons or all filled icons and make sure they have the same visual weight."
+  ],
+  "guideline_request": "tab icons consistency, icon weight",
+  "example_request": "Material Design 3 tab icons examples"
+}
+```

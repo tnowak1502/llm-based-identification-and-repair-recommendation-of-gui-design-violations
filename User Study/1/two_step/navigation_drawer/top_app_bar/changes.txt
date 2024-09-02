@@ -1,0 +1,6 @@
+{
+  "violations": "The headline text 'Popular' in the top app bar is not center-aligned vertically within the app bar. In a small-centered top app bar, the headline should be center-aligned both horizontally and vertically.",
+  "changes": "Adjust the vertical alignment of the headline text 'Popular' so that it is center-aligned within the top app bar.",
+  "guideline_request": "top app bar alignment",
+  "example_request": "small-centered top app bar"
+}

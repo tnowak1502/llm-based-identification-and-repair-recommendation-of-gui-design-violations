@@ -1,0 +1,14 @@
+{
+  "violations": "The text button 'Show all' is not distinguishable from normal text. Text buttons should be distinguishable from normal text.",
+  "changes": "Replace the text button with an outlined button to make it more distinguishable from normal text.",
+  "changed_components": [
+    "<div class = 'Button' id = '57805:12195' config='Outlined' style='position: absolute; top: 0px; left: 318px; width: 78px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; box-shadow: inset 0 0 0 1px #326940FF; '>
+      <div class = 'state-layer' id = 'I57805:12195;53923:27564' style='position: absolute; top: 0px; left: 0px; width: 78px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57805:12195;53923:27565' style='position: absolute; top: 10px; left: 12px; width: 55px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center;'>Show all
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

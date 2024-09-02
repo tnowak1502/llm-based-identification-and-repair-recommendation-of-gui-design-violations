@@ -1,0 +1,280 @@
+{
+  "bottom_app_bar": [
+    "Bottom app bars should be located at the bottom of the screen and can contain up to 4 icon buttons (including an overflow menu) and a FAB (floating action button).",
+    "Bottom app bars can be used for screens with 2 to 5 actions.",
+    "Bottom app bars should not be used on screens with a navigation bar.",
+    "Bottom app bars should not be used on screens with only one or no actions.",
+    "Bottom app bars are different from navigation bars (which only contain destinations in the app, not actions).",
+    "On a screen with a bottom app bar, an FAB should never be placed outside of the bottom app bar.",
+    "When a bottom app bar is used together with a top app bar, navigation elements should be in the top app bar.",
+    "When a bottom app bar is used together with a top app bar, there should only be one overflow menu on the screen.",
+    "When a bottom app bar is used together with a top app bar, actions should have a consistent place across the app.",
+    "Any snackbars that appear while using the app should appear above the bottom app bar and not cover it.",
+    "A bottom app bar is not the same as a navigation bar."
+  ],
+  "top_app_bar": [
+    "A top app bar contains a title (which can be a screen title or the name of the app), and actions related to the current screen. It should be located at the very top of the screen.",
+    "There are four types of top app bars: center-aligned, which should be used for the main root page of an app, small, which is used on compact screen layouts or scrolled views on subpages that require back navigation and multiple actions, medium, which is the initial state of a small top app bar before the screen is scrolled, and large, which is used to emphasize the title component.",
+    "Text in non-large top app bars should not wrap (be more than one line).",
+    "A navigation icon can be located on the left side of a top app bar (e.g. a back arrow or a menu).",
+    "Interactive icons on the right side of a top app bar should be ordered from most to least used from left to right.",
+    "The right side of a top app bar should have three icon buttons at most. If there are more actions that need to be accessible, the third icon should be a 'more' icon (three vertical dots) and open an overflow menu."
+  ],
+  "badge": [
+    "Badges can be placed in the corner of an icons bounding box to show notifications, item counts, or information relating to a navigation destination.",
+    "Badges should have a contrasting color that sticks out from the icon and its surroundings.",
+    "There are small and large badges. Large badges can have text, which should not be longer than 4 characters.",
+    "Badges should not overlap with elements other than the icon they belong to."
+  ],
+  "common_button": [
+    "Elevated, filled, filled tonal, outlined, and text buttons can contain a leading icon, which should be to the left of the text (not above it). There should not be more than one icon in a button.",
+    "Elevated, filled, filled tonal, outlined, and text buttons should have concise labels.",
+    "Elevated, filled, filled tonal, outlined, and text buttons should have rounded corners.",
+    "There should not be too many elevated, filled, filled tonal, outlined, or text buttons on a screen. Their number can be reduced by adding an overflow menu or by replacing them with icon buttons.",
+    "Elevated, filled, filled tonal, outlined, and text buttons should have their width aligned with either their label text or with the container that contains them.",
+    "The label text of elevated, filled, filled tonal, outlined, and text buttons should be in sentence case and not wrap over multiple lines.",
+    "Text buttons should be distinguishable from normal text.",
+    "Outlined buttons on top of images can be hard to see and can be changed to be filled or filled tonal buttons, or moved below or above the image.",
+    "Text buttons are usually embedded in other components.",
+    "Out of elevated, filled, filled tonal, outlined, and text buttons, filled buttons have the highest emphasis and should be used for the most important actions on the screen.",
+    "Elevated, filled tonal, and outlined buttons have medium emphasis and can be used for less important actions.",
+    "Text buttons have low emphasis and can be used for optional or supplementary actions.",
+    "For actions that require even less emphasis than text buttons, like filter options, chips should be used instead.",
+    "These guidelines apply to elevated, filled tonal, text, and outlined buttons. Icon buttons, segmented buttons, and floating action buttons have their own sets of guidelines and should be seen separately."
+  ],
+  "fab": [
+    "FABs are used for the most common or important action on a screen.",
+    "There are three sizes of FABs: Small, normal, and large.",
+    "FABs should contrast the area behind them using color or elevation.",
+    "FABs should be on the very top layer of the screen (not covered by any other components, e.g. badges).",
+    "FABs should have a clear and simple icon. If an icon alone is not clear enough, consider using an extended FAB.",
+    "There should not be more than one large or extended FAB on a screen. However, large and extended FABs can be supported by one or more small FABs, which should be placed above the larger FAB.",
+    "FABs should be used for positive or constructive actions, not for minor or destructive actions.",
+    "FABs should be placed in the bottom right corner of the screen to be easy accessible using thumbs. If the screen contains a navigation bar, a bottom app bar, or a similar element at its bottom, the FAB should be placed above it and not overlap with it.",
+    "Extended FABs can be used in screens with long, scrolling views and can be replaced by filled buttons in non-scrolling screens, depending on the context.",
+    "Extended FABs can be used when an icon might not be clear enough to express the FAB's purpose.",
+    "An extended FAB should not be an option in a set of actions (e.g. cancel/finish). Use a regular button instead in this case.",
+    "The icon on an extended FAB is optional, the text is not.",
+    "The text on an extended FAB should not wrap over multiple lines.",
+    "Extended FABs should not be placed inside other containers or overlap with app bars."
+  ],
+  "icon_button": [
+    "Icon buttons can be contained using a (tonal) fill or an outline, if necessary.",
+    "Icon buttons should be used for actions in compact layouts.",
+    "Contained icon buttons should be used when visual separation is necessary (e.g. on a busy background), otherwise they are not needed.",
+    "Filled icon buttons have high emphasis and should be used for very important actions.",
+    "Tonal and outlined icon buttons have medium emphasis, while standard icon buttons have the lowest emphasis.",
+    "The icons used on icon buttons should be clear and unambiguous."
+  ],
+  "segmented_button": [
+    "A segmented button consists of two to five segments and be used for single-select or multi-select functionality.",
+    "If there are more than five choices to be made in a segmented button, or if the choices are complex, chips should be used instead.",
+    "A segmented button segment can contain icons, label text, or both.",
+    "Label text on segments should not wrap.",
+    "Each segment of a segmented button should be styled the same way, do not mix icon and text segments (this does not apply to the icon that appears when a segment is selected)."
+  ],
+  "card": [
+    "Cards contain related elements (content and actions relevant to a single topic) and can be displayed in a grid, vertical list or carousel.",
+    "Cards can be elevated, filled, or outlined.",
+    "Cards should be easy to scan for relevant and actionable information and should have a clear hierarchy.",
+    "Don't force content into cards when spacing, headlines, or dividers would create a simpler visual hierarchy.",
+    "On smaller screens, consider swapping cards for lists.",
+    "Dividers can be used in cards to indicate expandable content (full-width dividers) or separate related content (inset dividers).",
+    "Cards can also contain buttons, icon button, selection controls, and linked text.",
+    "Overflow menus are usually in the upper or lower right corner of a card.",
+    "Cards should expand, not scroll to reveal information."
+  ],
+  "carousel": [
+    "A carousel is a collection of items that can be scrolled on and off the screen.",
+    "There are four types of carousels: multi-browse, uncontained, hero, and full screen.",
+    "Carousel items have dynamic width (depending on the space the carousel takes up and which item is in focus.",
+    "Multi-browse carousels are used to browse many visual items at once, uncontained carousels are used for highly customized or text-heavy carousels, hero carousels are used for spotlighting very large visual items, and full-screen carousels are used for vertically scrolling video or image feeds.",
+    "Items should never be too small to tell what they are.",
+    "A 'show all' button next to a carousel is recommended, but not mandatory.",
+    "In compact windows, showing more than three items that have text is not recommended. It can be okay to show more if the item's images and content are easy to understand and recognize.",
+    "Avoid exceeding two lines of text in carousel items unless the background is simple.",
+    "Avoid adding buttons into a carousel.",
+    "Don't cover a carousel with other elements."
+  ],
+  "checkbox": [
+    "Checkboxes are used for selecting multiple options from a list.",
+    "Checkboxes can have parent checkboxes to select/deselect multiple items that belong together.",
+    "Checkboxes should be in cases where multiple related values can be selected at the same time. If the options are unrelated or more verbose, use switches instead. If only one option can be selected at a time, using radio buttons instead."
+  ],
+  "chip": [
+    "Chips can be used to help enter information, make selections, filter content, and trigger actions.",
+    "There are assist, filter, input, and suggestion chips.",
+    "Chips should not be used analogous to buttons. Buttons are more significant and should progress the user trough the app.",
+    "Avoid using chips for major actions (e.g. cancel/save)",
+    "Chips can appear together in a set and scroll horizontally.",
+    "Assist chips are used for smart or automated actions that can span multiple apps (e.g. add to calendar), filter chips are used to filter a collection of items, input chips are used to separate discrete pieces of information entered by the user (e.g. email contacts), and suggestions chips show suggestions to the user",
+    "Chips can be elevated when they are on top of images.",
+    "The label text on a chip should be 20 characters or fewer.",
+    "Filter chips can wrap a line, but use horizontal scrollling if there would be more than 2 rows of chips."
+  ],
+  "dialog": [
+    "Dialogs are used for critical prompts to the user that require a decision or acknowledgement.",
+    "Dialogs can be basic (small and on top of the normal screen) or full-screen.",
+    "Less important prompts and notifications should use a snackbar instead of a dialog.",
+    "The headline of a dialog should be unambiguous and short.",
+    "Choices made in a dialog should be clear.",
+    "A basic dialog should contain a maximum of two actions.",
+    "Do not use vague terms for actions in dialogs."
+  ],
+  "divider": [
+    "Dividers are used to group and separate items.",
+    "Dividers should be visible, but not bold.",
+    "Do not use dividers if items could be grouped using open space instead.",
+    "There are two types of dividers: Full width dividers divide interactive and non-interactive areas of containers or separate larger sections of unrelated content, while inset dividers separate related content within a section.",
+    "Do not use too many full-width dividers.",
+    "Both types of dividers can be combined to reflect a screen's hierarchy."
+  ],
+  "list": [
+    "Lists contain multiple list items to help users find a specific item and act on it.",
+    "List should be easily scannable.",
+    "Lists should be ordered in a logical way.",
+    "List items can have one to three lines.",
+    "List items can contain primary and supplemental actions represented by icons and text.",
+    "Supporting visuals should be anchored to the leading edge of list items, not centered.",
+    "If a list's rows have a lot of content, use dividers."
+  ],
+  "menu": [
+    "Menus display a list of choices on a temporary surface.",
+    "A menu's height should be at most one row less than the app's height.",
+    "Menu list items can contain label text and leading or trailing icons.",
+    "If one menu item contains a leading or trailing icon, all items should.",
+    "Menu list items can be grouped and separated using dividers.",
+    "If a menu does not provide enough space, bottom sheets can be an alternative.",
+    "A menu should appear directly below the component that was pressed to open it."
+  ],
+  "navigation_bar": [
+    "A navigation bar provides access to 3 to 5 destinations at the bottom of the screen.",
+    "The destinations in a navigation bar should be of roughly equal importance.",
+    "The destinations in a navigation bar should stay the same across different screens, and one destination should always be active.",
+    "A navigation bar should only be used for important, top-level destinations.",
+    "Combining a navigation bar with tabs might cause confusion.",
+    "Each destination has an icon and optionally label text (if one destination is labelled, all destinations should be labelled).",
+    "Destination labels in a navigation bar should not wrap lines, be shrunk, or be truncated.",
+    "A navigation bar can be paired with a FAB placed above it."
+  ],
+  "navigation_drawer": [
+    "A navigation drawer can be used if there are more than 5 primary navigation destinations or more than one level of navigation hierarchy in an app.",
+    "Using a navigation drawer together with other navigation elements like navigation bars should be avoided.",
+    "Groups of destinations within a navigation drawer can be separated using dividers, but there should not be dividers between every individual destination.",
+    "Destinations in a navigation drawer must always have a label text and can have an icon. If one destination has an icon, all destinations should have one.",
+    "The text labels of destinations in a navigation drawer should be clear, concise, and short enough so that it does not get cut off. It should also not wrap over multiple lines.",
+    "Related destinations in a navigation drawer can (but do not have to) be grouped using subhead section labels."
+  ],
+  "radio_button": [
+    "Radio buttons let users select one option from a list.",
+    "Radio buttons should not be nested.",
+    "Radio buttons should be used when there are five or fewer options.",
+    "When space is constrained, consider using a drop-down menu instead.",
+    "Radio buttons should always have a label.",
+    "Avoid having radio buttons in a horizontal list, as it can make it hard to tell which label belongs to which button.",
+    "There should always be a preselected option when using radio buttons.",
+    "If it is possible to select more than one option at the same time, use checkboxes or switches instead."
+  ],
+  "search": [
+    "Search bars and views let users navigate using search queries.",
+    "Search results should always be shown in a search view.",
+    "The leading icon in a search bar should be a non-functional search icon or a navigational action (like a back arrow).",
+    "A search bar can contain up to two trailing icons for additional search modes or high level actions.",
+    "The hinted search text in a search bar should describe what the user will search for."
+  ],
+  "snackbar": [
+    "Snackbars inform users of a process that an app has performed or will perform. They appear temporarily, towards the bottom of the screen. They shouldn’t interrupt the user experience, and they don’t require user input to disappear.",
+    "Only one snackbar may be displayed at a time.",
+    "A snackbar can contain a single action.",
+    "Snackbars are used for low-priority messages. For high-priority messages, or messages that require user confirmation, dialogs should be used instead.",
+    "The text on a snackbar should be only one line long if possible, but can up to two lines long if necessary.",
+    "Snackbars should not contain icons.",
+    "Snackbars should not contain stylized text or inline links.",
+    "The action in a snackbar should use a text button, not any other button type.",
+    "The label text of a snackbar should have a different color than the text button.",
+    "A snackbars container can be slightly opaque, as long as the text remains legible.",
+    "If an action is longer, it can be displayed in a third line on the snackbar.",
+    "Dismiss actions in snackbars are unnecessary, as they disappear by themselves.",
+    "Snackbars should appear at the bottom of the screen, but not cover any navigation elements.",
+    "Snackbars should not be placed in front of or behind FABs. Instead, they should be placed above them."
+  ],
+  "bottom_sheet": [
+    "A bottom sheet shows secondary content anchored to the bottom of the screen. Modal bottom sheets can be pulled up to reveal more content as an alternative to dialogs or menus.",
+    "Bottom sheets can contain lists or other layouts and content in them can be separated using dividers.",
+    "Bottom sheets should contain additional or secondary content, not the app's main content."
+  ],
+  "slider": [
+    "Sliders let users select a value from a range along a track.",
+    "Sliders can be continuous, discrete, or a range select. The selection can start on the left or in the middle of the track.",
+    "Sliders should present the full range of choices that are available."
+  ],
+  "switch": [
+    "Switches let users turn independent items on or off.",
+    "Switches should be used only for on/off choices, for choices of two opposing options use a segmented button.",
+    "If there are multiple related options, use checkboxes instead of switches.",
+    "Don't replace buttons with switches.",
+    "If option choices need to be saved/confirmed before coming into effect, use checkboxes instead of switches.",
+    "Icons can be used to emphasize the state of a switch, but should not cause confusion.",
+    "Labels next to switches should be short and direct and describe what happens when the switch is on."
+  ],
+  "tab": [
+    "Tabs are used to group content and let users switch between views on the same screen.",
+    "Tabs can scroll horizontally and there is no limit for their amount.",
+    "Tabs should be used to group related content, not sequential content (like chapters in a book).",
+    "Icons can be used next to a tab's label.",
+    "Tab labels should not be truncated.",
+    "Tabs can have labels and/or icons. All tabs should be styled the same way."
+  ],
+  "text_field": [
+    "Text fields let users enter text.",
+    "There are outlined and filled text fields, with filled text fields having more and outlined text fields having less emphasis.",
+    "When using both types of text fields, they should be separated by region.",
+    "Label text for text fields should be short and contained in one line.",
+    "Required text fields should have an indicator."
+  ],
+  "general": [
+    "It should never be ambiguous which parts of the UI can be interacted with.",
+    "Elements that belong together in some way should be grouped. This can be done using: proximity, similarity (in shape, color, size, stroke, etc.), and other methods.",
+    "Elements that do not belong together should not appear to be grouped.",
+    "Information should be succinct, unambiguous, and not repetitive.",
+    "Information should be displayed using visual hierarchy, through the use of size, prominence and content relationships.",
+    "Messages and popups and should appear where users are likely to see them.",
+    "The placement of buttons should remain consistent across screens.",
+    "Text should be easy to understand and not complicated.",
+    "Text should always be easy to read (not too small and in a readable font).",
+    "Information that is important for the user to remember across screens should be shown continuously.",
+    "The status and 'mode' of the system should always be clearly indicated to the user.",
+    "Users should know their progress towards their current goal.",
+    "Click goals should be large enough to hit and not too close to each other.",
+    "Icons in the same component should have the same weight.",
+    "Icons next to text should have the same weight as the text."
+  ],
+  "component_types": [
+    "Badges can be placed in the corner of icons to indicate the presence of notifications or communicate item counts. They can be small or large.",
+    "Bottom app bars are placed at the bottom of the screen and contain up to 4 action icons and a floating action button. They contain actions relevant to the current screen, not navigation actions.",
+    "Bottom sheets exist at the bottom of the screen and contain secondary content. Modal bottom sheets cover the rest of the screen with a scrim and can be used as an alternative to dialogs or menus, while standard bottom sheets can be pulled up to move to a new screen presenting their content.",
+    "Cards are highly customizable containers that can group text content, media, and actions that are related in some way.",
+    "Carousels contain related items that can be scrolled horizontally or vertically. The items can be customized in many ways. There are multi-browse, hero, uncontained and full-screen carousels.",
+    "Checkboxes are selection controls that can be used for selecting options from a list when options are not mutually exclusive. They can be nested with parent checkboxes controlling their child checkboxes.",
+    "Chips are used for various purposes that are not important enough to warrant the use of buttons. Assist chips are used for smart or automated actions that can span multiple apps (e.g. add to calendar), filter chips are used to filter a collection of items, input chips are used to separate discrete pieces of information entered by the user (e.g. email contacts), and suggestions chips show suggestions to the user",
+    "Buttons communicate important actions that users can take and guide users through apps. There are filled, tonal filled, elevated, outlined, and text buttons. Note that while floating action buttons (FABs), segmented buttons, and icon buttons share the name button with these types of buttons, they are different components with different guidelines.",
+    "Floating action buttons (FABs) help users take primary actions. They float in the bottom right corner of the screen and present the most important action(s). There are large, small, and standard FABs.",
+    "Extended FABs fill the same role as FABs, but include text to more clearly communicate their function.",
+    "Icon buttons let users take minor actions that are less important than those taken with common buttons. They can be standard or contained, with contained icon buttons being either filled, outlined, or tonal filled.",
+    "Segmented buttons help users select options, switch views, or sort elements. They contain multiple segments containing icons and/or labels and are used for simple choices between two to five items. They can be single-select or multi-select depending on the context of the choice.",
+    "Dialogs provide important prompts to users, letting them acknowledge critical information or make important choices. Dialogs disable all app functionality when they appear, and remain on screen until confirmed, dismissed, or a required action has been taken. They can contain other types of components, like lists, selection controls, and buttons.",
+    "Dividers are thin lines that group content in lists or other containers. There are vertical and horizontal full-width and inset dividers.",
+    "Lists are continuous, vertical indexes of text and images that help users find a specific item and act on it. They can also contain selection controls or icons.",
+    "Menus display a list of choices on a temporary surface. They can be opened from various other components and let users make choices in a less intrusive way than dialogs.",
+    "Navigation bars let people switch between UI views. They are located at the bottom of the screen and contain icons and/or labels for 3 to 5 destinations in an app.",
+    "Navigation drawers open from the side of the screen and let users switch between UI views from a list. They can also contain dividers and section headers to group and organize destinations.",
+    "Radio buttons let people select one option from a set of options.",
+    "Search lets people enter a keyword or phrase to get relevant information. There are search bars, which present the user with the option to begin searching, and search views, which present results to the user.",
+    "Sliders let users make selections from a range of values. There are continuous and discrete sliders, which can be standard, centered, or range selections.",
+    "Snackbars show short updates about app processes at the bottom of the screen. They can contain a single action and disappear on their own without user input.",
+    "Switches toggle the selection of an item on or off. They are used if items in a list can be independently controlled and can contain icons to make their purpose clearer if necessary.",
+    "Tabs organize content across different screens and views. They can scroll horizontally and their amount is not limited. They group content into helpful categories. There are primary and secondary tabs.",
+    "Text fields let users enter text into a UI. There are filled and outlined text fields.",
+    "Top app bars display navigation, actions, and text at the top of a screen. They contain a title and actions related to the current screen. There are center-aligned, small, medium, and large top app bars."
+  ]
+}

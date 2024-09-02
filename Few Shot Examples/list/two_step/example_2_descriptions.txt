@@ -1,0 +1,104 @@
+Certainly! Here is a detailed description of each list item from the provided HTML code snippets representing parts of a dark mode mobile user interface mockup:
+
+### List Container
+- **ID:** `55705:22148`
+- **Type:** `List-dark`
+- **Position:** Absolute, with `top: 72px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 552px;`
+- **Background Color:** `#101510FF`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Description:** This is the main container for the list items. The design is in dark mode.
+
+### List Item 1
+- **ID:** `55705:22149`
+- **Type:** `2-line` list item
+- **Position:** Absolute, with `top: 0px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 72px;`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Leading Element:** Image thumbnail (`image_fill.jpg`, 56x56px)
+- **Content:** 
+  - **Headline:** "Show title Season X" (Font: Roboto, 16px, color: #DFE4DCFF)
+  - **Supporting Text:** "2006" (Font: Roboto, 14px, color: #49454FFF)
+- **Trailing Element:** Vertical ellipsis icon (`more_vert_24px`, 24x24px)
+- **Description:** Positioned at the top, this list item likely represents a video or show entry with a thumbnail, title, release year, and options icon.
+
+### List Item 2
+- **ID:** `55705:22150`
+- **Type:** `2-line` list item
+- **Position:** Absolute, with `top: 72px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 88px;`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Leading Element:** Video thumbnail (114x64px, background-color: #D9D9D9FF)
+- **Content:** 
+  - **Headline:** "Show title Season X" (Font: Roboto, 16px, color: #DFE4DCFF)
+  - **Supporting Text:** "2006" (Font: Roboto, 14px, color: #49454FFF)
+- **Trailing Element:** Vertical ellipsis icon (`more_vert_24px`, 24x24px)
+- **Description:** This list item is similar to the first but includes a larger video thumbnail.
+
+### List Item 3
+- **ID:** `55705:22151`
+- **Type:** `2-line` list item
+- **Position:** Absolute, with `top: 160px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 72px;`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Leading Element:** Person outline icon (`person_outline_24px`, 24x24px)
+- **Content:** 
+  - **Headline:** "Show title Season X" (Font: Roboto, 16px, color: #DFE4DCFF)
+  - **Supporting Text:** "2006" (Font: Roboto, 14px, color: #49454FFF)
+- **Trailing Element:** Vertical ellipsis icon (`more_vert_24px`, 24x24px)
+- **Description:** This item uses an icon instead of a thumbnail, likely representing a person or user-related entry.
+
+### List Item 4
+- **ID:** `55705:22152`
+- **Type:** `2-line` list item
+- **Position:** Absolute, with `top: 232px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 72px;`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Leading Element:** Image thumbnail (`image_fill.jpg`, 56x56px)
+- **Content:** 
+  - **Headline:** "Show title Season X" (Font: Roboto, 16px, color: #DFE4DCFF)
+  - **Supporting Text:** "2006" (Font: Roboto, 14px, color: #49454FFF)
+- **Trailing Element:** Vertical ellipsis icon (`more_vert_24px`, 24x24px)
+- **Description:** Another list item with a thumbnail, title, release year, and options icon.
+
+### List Item 5
+- **ID:** `55705:22153`
+- **Type:** `2-line` list item
+- **Position:** Absolute, with `top: 304px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 88px;`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Leading Element:** Video thumbnail (114x64px, background-color: #D9D9D9FF)
+- **Content:** 
+  - **Headline:** "Show title Season X" (Font: Roboto, 16px, color: #DFE4DCFF)
+  - **Supporting Text:** "2006" (Font: Roboto, 14px, color: #49454FFF)
+- **Trailing Element:** Vertical ellipsis icon (`more_vert_24px`, 24x24px)
+- **Description:** Similar to the second item, this one features a large video thumbnail.
+
+### List Item 6
+- **ID:** `55705:22154`
+- **Type:** `2-line` list item
+- **Position:** Absolute, with `top: 376px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 88px;`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Leading Element:** Video thumbnail (114x64px, background-color: #D9D9D9FF)
+- **Content:** 
+  - **Headline:** "Show title Season X" (Font: Roboto, 16px, color: #DFE4DCFF)
+  - **Supporting Text:** "2006" (Font: Roboto, 14px, color: #49454FFF)
+- **Trailing Element:** Vertical ellipsis icon (`more_vert_24px`, 24x24px)
+- **Description:** Another list item featuring a large video thumbnail.
+
+### List Item 7
+- **ID:** `55705:22155`
+- **Type:** `2-line` list item
+- **Position:** Absolute, with `top: 464px; left: 0px;`
+- **Dimensions:** `width: 412px; height: 88px;`
+- **Attributes:** Overflow hidden, opacity 1, no border radius
+- **Leading Element:** Video thumbnail (114x64px, background-color: #D9D9D9FF)
+- **Content:** 
+  - **Headline:** "Show title Season X" (Font: Roboto, 16px, color: #DFE4DCFF)
+  - **Supporting Text:** "2006" (Font: Roboto, 14px, color: #49454FFF)
+- **Trailing Element:** Vertical ellipsis icon (`more_vert_24px`, 24x24px)
+- **Description:** Similar to previous video entries, featuring a large video thumbnail.
+
+### Overall Description:
+The design is in dark mode, with each list item representing a video or show entry featuring a title, release year, and an options icon. The leading elements vary between image thumbnails, video thumbnails, and icons, providing visual differentiation between list items. The layout is clean and organized, with consistent typography and spacing, ensuring readability and ease of interaction.

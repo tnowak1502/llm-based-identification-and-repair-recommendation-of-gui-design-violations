@@ -1,0 +1,5 @@
+Violations:
+1. Inconsistent Icon Button Emphasis: The icon buttons for 'Share' and 'Bookmark' use the 'standard' configuration, which has the lowest emphasis according to Material Design 3 guidelines. These actions might be important enough to warrant a higher emphasis configuration like 'filled' or 'tonal' to make them more noticeable. (Severity: Medium)
+
+Changes:
+Change the 'standard' configuration of the icon buttons to 'filled' for higher emphasis and better visibility.

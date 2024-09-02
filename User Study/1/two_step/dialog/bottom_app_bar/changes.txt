@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. The bottom app bar contains only two icons and a FAB. According to Material Design 3 guidelines, a bottom app bar should contain 2 to 5 actions. However, in this case, the FAB seems redundant since the 'reply' action is already present in the bottom app bar.",
+    "2. The FAB is placed outside the bottom app bar, which is against the guidelines as it should be contained within the bottom app bar."
+  ],
+  "changes": [
+    "1. Remove the FAB from the bottom app bar and place it inside the bottom app bar.",
+    "2. Add one more action icon to the bottom app bar to ensure it has at least three actions."
+  ],
+  "guideline_request": "Bottom app bar guidelines",
+  "example_request": "Bottom app bar with multiple icons and FAB"
+}

@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. The bottom app bar does not contain an FAB, but in the image there is one placed above the bar."
+  ],
+  "changes": [
+    "1. Remove the FAB that is already present and move it into the bottom app bar's left side."
+  ],
+  "guideline_request": "Bottom app bar FAB",
+  "example_request": "bottom app bar with FAB"
+}

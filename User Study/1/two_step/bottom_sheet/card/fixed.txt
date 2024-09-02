@@ -1,0 +1,45 @@
+{
+  "changed_components": [
+    "<div class='Frame-16' id='57805:12198' style='position: absolute; top: 341px; left: 0px; width: 412px; height: 200px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+       <div class = 'List' id = 'I57805:12198;55718:32966' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 180px; overflow: hidden; opacity: 1; background-color: #FFFFFFFF; border-radius: 0px; '>
+           <div class = 'List-item-1' id = 'I57805:12198;55718:32966;51964:62996' config='2-line' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 72px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+               <div class = 'state-layer-overlay' id = 'I57805:12198;55718:32966;51964:62996;51964:63582' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 72px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+               </div>
+               <div class = 'state-layer' id = 'I57805:12198;55718:32966;51964:62996;51964:63583' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 72px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                   <div class = 'Leading-element' id = 'I57805:12198;55718:32966;51964:62996;51964:63584' style='position: absolute; top: 12px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                       <div class = 'Building-Blocks/Monogram' id = 'I57805:12198;55718:32966;51964:62996;51964:63585' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; background-color: #B5F1BDFF; border-radius: 100px; '>
+                           <div class = 'Initial' id = 'I57805:12198;55718:32966;51964:62996;51964:63585;51964:70953' style='position: absolute; top: 0px; left: 0px; width: 49px; height: 48px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #00210BFF; line-height: 24px; justify-content: center; align-items: center;'>S              </div>            
+                       </div>
+                   </div>
+                   <div class = 'Content' id = 'I57805:12198;55718:32966;51964:62996;51964:63586' style='position: absolute; top: 12px; left: 72px; width: 324px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                       <div class = 'Headline' id = 'I57805:12198;55718:32966;51964:62996;51964:63588' style='position: absolute; top: 0px; left: 0px; width: 324px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Selen Zeynep            </div>
+                       <div class = 'Supporting-text' id = 'I57805:12198;55718:32966;51964:62996;51964:63587' style='position: absolute; top: 28px; left: 0px; width: 324px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.5px; color: #414941FF; line-height: 16px; justify-content: left; align-items: top;'>Local Beats · 713 people going            </div>
+                   </div>
+               </div>
+           </div>
+           <div class = 'List-item-2' id = 'I57805:12198;55718:32966;51964:62997' config='2-line' style='position: absolute; top: 72px; left: 0px; width: 412px; height: 72px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+               <div class = 'state-layer-overlay' id = 'I57805:12198;55718:32966;51964:62997;51964:65860' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 72px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+               </div>
+               <div class = 'state-layer' id = 'I57805:12198;55718:32966;51964:62997;51964:65861' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 72px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                   <div class = 'Leading-element' id = 'I57805:12198;55718:32966;51964:62997;51964:65862' style='position: absolute; top: 12px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                       <div class = 'Building-Blocks/Monogram' id = 'I57805:12198;55718:32966;51964:62997;51964:65863' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; background-color: #B5F1BDFF; border-radius: 100px; '>
+                           <div class = 'Initial' id = 'I57805:12198;55718:32966;51964:62997;51964:65863;50731:11365' style='position: absolute; top: 0px; left: 0px; width: 49px; height: 48px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #00210BFF; line-height: 24px; justify-content: center; align-items: center;'>N              </div>            
+                       </div>
+                   </div>
+                   <div class = 'Content' id = 'I57805:12198;55718:32966;51964:62997;51964:65864' style='position: absolute; top: 12px; left: 72px; width: 324px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                       <div class = 'Headline' id = 'I57805:12198;55718:32966;51964:62997;51964:65866' style='position: absolute; top: 0px; left: 0px; width: 324px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Nancy Miller            </div>
+                       <div class = 'Supporting-text' id = 'I57805:12198;55718:32966;51964:62997;51964:65865' style='position: absolute; top: 28px; left: 0px; width: 324px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.5px; color: #414941FF; line-height: 16px; justify-content: left; align-items: top;'>Local Beats · 713 people going            </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+     </div>"
+  ],
+  "deleted_components": [
+    "57805:12201",
+    "57805:12212",
+    "57805:12208",
+    "57805:12219"
+  ],
+  "new_components": []
+}

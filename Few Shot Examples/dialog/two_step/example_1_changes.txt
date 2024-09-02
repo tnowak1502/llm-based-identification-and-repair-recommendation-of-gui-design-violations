@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The headline of the dialog is an ambiguous question, which goes against Material Design 3 guidelines.",
+  "changes": "1. Replace the headline question with something more specific like 'Allow location access?'",
+  "guideline_request": "dialog headline",
+  "example_request": "basic dialog"
+}
+```

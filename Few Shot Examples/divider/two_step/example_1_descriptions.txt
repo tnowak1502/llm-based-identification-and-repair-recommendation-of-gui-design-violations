@@ -1,0 +1,48 @@
+Sure, here are the descriptions for the dividers in your mockup:
+
+1. **Divider in Investing Section**
+   - **Type**: Horizontal Full-Width
+   - **Color**: #BA1A1AFF (Red)
+   - **Size**: Width 412px, Height 1px
+   - **Shape**: Rectangular
+   - **Position**: Top 48px, Left 0px
+   - **ID**: `I55702:20034;51816:5861`
+   - **Likely Function**: Separates the "Investing" header from the list of investing accounts.
+
+2. **Divider in Checking Account Section**
+   - **Type**: Horizontal Full-Width
+   - **Color**: #BA1A1AFF (Red)
+   - **Size**: Width 412px, Height 1px
+   - **Shape**: Rectangular
+   - **Position**: Top 50px, Left 0px
+   - **ID**: `I55702:19999;51816:5861`
+   - **Likely Function**: Separates the "Checking Account" header from the list of checking accounts.
+
+3. **First Divider in Savings Section**
+   - **Type**: Horizontal Full-Width
+   - **Color**: #BA1A1AFF (Red)
+   - **Size**: Width 412px, Height 1px
+   - **Shape**: Rectangular
+   - **Position**: Top 48px, Left 0px
+   - **ID**: `I55702:20010;51816:5861`
+   - **Likely Function**: Separates the "Savings" header from the list of savings accounts.
+
+4. **Second Divider in Savings Section (Inset)**
+   - **Type**: Horizontal Inset
+   - **Color**: #BA1A1AFF (Red)
+   - **Size**: Width 396px, Height 1px
+   - **Shape**: Rectangular
+   - **Position**: Top 129px, Left 16px
+   - **ID**: `I55702:20018;51816:5869`
+   - **Likely Function**: Separates different savings accounts within the savings section.
+
+5. **Third Divider in Savings Section**
+   - **Type**: Horizontal Full-Width
+   - **Color**: #BA1A1AFF (Red)
+   - **Size**: Width 412px, Height 1px
+   - **Shape**: Rectangular
+   - **Position**: Top 210px, Left 0px
+   - **ID**: `I55702:20026;51816:5861`
+   - **Likely Function**: Separates the last savings account from the "Total" section.
+
+Each divider is a thin horizontal line that visually separates different sections or elements within the mobile user interface, helping to improve the readability and organization of the content.

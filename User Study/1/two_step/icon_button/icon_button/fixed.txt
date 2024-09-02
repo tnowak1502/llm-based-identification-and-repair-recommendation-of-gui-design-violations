@@ -1,0 +1,106 @@
+{
+  "changed_components": [
+    "<div class='Icon-button' config='standard' id='57805:16459' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+       <div class='container' id='I57805:16459;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+         <div class='state-layer' id='I57805:16459;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class='Icon' id='I57805:16459;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class='icon' id='I57805:16459;51525:5221;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; '>
+               <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                 <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #414941FF;'>
+                 </path>
+               </svg>
+             </div>
+           </div>
+         </div>
+       </div>
+       <div class='100' id='57805:16460' style='position: absolute; top: 40px; left: 11.5px; width: 26.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: left; align-items: center;'>
+         100
+       </div>
+     </div>",
+    "<div class='Icon-button' config='standard' id='57805:16462' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+       <div class='container' id='I57805:16462;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+         <div class='state-layer' id='I57805:16462;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class='Icon' id='I57805:16462;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class='icon' id='I57805:16462;51525:5221;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; '>
+               <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                 <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #414941FF;'>
+                 </path>
+               </svg>
+             </div>
+           </div>
+         </div>
+       </div>
+       <div class='100' id='57805:16463' style='position: absolute; top: 40px; left: 11.5px; width: 26.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: left; align-items: center;'>
+         100
+       </div>
+     </div>",
+    "<div class='Icon-button' config='standard' id='57805:16465' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+       <div class='container' id='I57805:16465;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+         <div class='state-layer' id='I57805:16465;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class='Icon' id='I57805:16465;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class='icon' id='I57805:16465;51525:5221;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; '>
+               <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                 <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #414941FF;'>
+                 </path>
+               </svg>
+             </div>
+           </div>
+         </div>
+       </div>
+       <div class='100' id='57805:16466' style='position: absolute; top: 40px; left: 11.5px; width: 26.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: left; align-items: center;'>
+         100
+       </div>
+     </div>",
+    "<div class='Icon-button' config='standard' id='57805:16468' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+       <div class='container' id='I57805:16468;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+         <div class='state-layer' id='I57805:16468;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class='Icon' id='I57805:16468;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class='icon' id='I57805:16468;51525:5221;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; '>
+               <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                 <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #414941FF;'>
+                 </path>
+               </svg>
+             </div>
+           </div>
+         </div>
+       </div>
+       <div class='100' id='57805:16469' style='position: absolute; top: 40px; left: 11.5px; width: 26.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: left; align-items: center;'>
+         100
+       </div>
+     </div>"
+  ],
+  "deleted_components": [
+    "57805:16459",
+    "57805:16460",
+    "57805:16462",
+    "57805:16463",
+    "57805:16465",
+    "57805:16466",
+    "57805:16468",
+    "57805:16469"
+  ],
+  "new_components": [
+    ("<div class='Icon-button' config='standard' id='57805:16459' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+       <div class='container' id='I57805:16459;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+         <div class='state-layer' id='I57805:16459;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class='Icon' id='I57805:16459;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class='icon' id='I57805:16459;51525:5221;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; '>
+               <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                 <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #414941FF;'>
+                 </path>
+               </svg>
+             </div>
+           </div>
+         </div>
+       </div>
+       <div class='100' id='57805:16460' style='position: absolute; top: 40px; left: 11.5px; width: 26.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: left; align-items: center;'>
+         100
+       </div>
+     </div>", "57805:16458"),
+    ("<div class='Icon-button' config='standard' id='57805:16462' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+       <div class='container' id='I57805:16462;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+         <div class='state-layer' id='I57805:16462;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class='Icon' id='I57805:16462;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class='icon' id='I57805:16462;51525:5221;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; '>
+               <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                 <path d='M 14 11 L 14 14 L 2 14

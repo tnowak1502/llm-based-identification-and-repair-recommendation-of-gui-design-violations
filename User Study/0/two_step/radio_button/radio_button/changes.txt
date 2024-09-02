@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Multiple radio buttons are selected at the same time. Radio buttons should allow only one selection within the same group.",
+    "2. The radio buttons are positioned very closely together, which might make it difficult for users to understand which label belongs to which button."
+  ],
+  "changes": [
+    "1. Ensure that only one radio button is selected at a time within the same group. Unselect the additional selected radio buttons.",
+    "2. Increase the spacing between the radio buttons and their labels to make it clear which label belongs to which radio button."
+  ],
+  "guideline_request": "radio buttons",
+  "example_request": "selected radio button, unselected radio button"
+}
+```

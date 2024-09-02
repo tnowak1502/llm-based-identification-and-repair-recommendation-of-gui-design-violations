@@ -1,0 +1,6 @@
+{
+  "violations": "There are no significant violations of the Material Design 3 Guidelines in the provided code snippet. The top app bar is configured as 'small', and it contains a leading icon (back arrow) and a headline, which fits in a single line as required. There are no trailing icons, which is acceptable for a settings page where the primary action is navigation back.",
+  "changes": "No changes are required as the design adheres to the Material Design 3 Guidelines.",
+  "guideline_request": "",
+  "example_request": ""
+}

@@ -1,0 +1,16 @@
+```json
+{
+  "violations": [
+    "The 'Edit profile' and 'Share profile' buttons are tonal filled buttons and should have their width aligned with either their label text or with the container that contains them. In this case, the width of these buttons does not align with their label text or container.",
+    "The 'Note...' button label text is not clear. It should be more descriptive to provide better context to the user.",
+    "The icon in the 'Edit profile' button is not aligned with the text label. Icons in buttons should be aligned with the text to maintain a consistent appearance."
+  ],
+  "changes": [
+    "Align the width of the 'Edit profile' and 'Share profile' buttons with either their label text or the container that contains them.",
+    "Change the label text of the 'Note...' button to something more descriptive, such as 'Add a note' or 'Create note'.",
+    "Align the icon in the 'Edit profile' button with the text label to maintain consistency."
+  ],
+  "guideline_request": "Button width alignment; Button label text clarity; Button icon alignment",
+  "example_request": "Tonal filled button with aligned width; Descriptive button label text; Button with aligned icon and text"
+}
+```

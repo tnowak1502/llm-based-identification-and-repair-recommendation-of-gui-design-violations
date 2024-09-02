@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The top app bar is missing a trailing icon button for additional actions. According to Material Design 3 Guidelines, the right side of a top app bar should have up to three icon buttons for actions related to the current screen. If there are no actions to display, consider adding a 'more' icon (three vertical dots) to indicate additional options.",
+      "severity": "Low"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Add a 'more' icon button on the right side of the top app bar to indicate additional actions or options."
+    }
+  ],
+  "guideline_request": "top app bar actions",
+  "example_request": "small top app bar with more icon"
+}

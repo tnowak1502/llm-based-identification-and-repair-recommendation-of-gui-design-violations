@@ -1,0 +1,26 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The 'Filters' label is inconsistent with the other labels in the navigation bar. It includes a badge indicating notifications or item counts, which is not a standard use for navigation bar labels.",
+      "guideline": "Navigation bar labels should not include additional elements like badges. Badges should be used with icons, not labels."
+    },
+    {
+      "severity": "medium",
+      "description": "The 'Filters' label text color (#C1C9BEFF) and the badge text color (#690005FF) have low contrast with their backgrounds, which might affect readability.",
+      "guideline": "Text should always be easy to read (not too small and in a readable font). Ensure sufficient contrast between the text and background colors."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Remove the badge from the 'Filters' label. Use a badge with the icon instead, if necessary."
+    },
+    {
+      "description": "Adjust the text color of the 'Filters' label and the badge text to ensure sufficient contrast with their backgrounds. Use a color contrast checker to verify."
+    }
+  ],
+  "guideline_request": "Navigation bar guidelines",
+  "example_request": "Example of a navigation bar with labeled icons"
+}
+```

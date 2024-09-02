@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The label text on the 'Incoming/Outgoing' chip exceeds the recommended 20 characters. This could lead to readability issues and an inconsistent appearance among the chips.\n2. The 'Timeframe' and 'Type' chips appear to be too close to the right edge of the screen, potentially causing issues with visual balance and touch target size.",
+  "changes": "1. Shorten the label text on the 'Incoming/Outgoing' chip to 20 characters or fewer.\n2. Increase the spacing between the 'Timeframe' and 'Type' chips and the right edge of the screen to ensure proper visual balance and touch target size.",
+  "guideline_request": "chip guidelines, spacing guidelines",
+  "example_request": "filter chip, spacing"
+}
+```

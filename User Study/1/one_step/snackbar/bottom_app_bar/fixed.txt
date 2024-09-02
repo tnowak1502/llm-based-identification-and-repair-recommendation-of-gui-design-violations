@@ -1,0 +1,38 @@
+{
+  "violations": "1. The bottom app bar contains only two actions and an FAB. To comply with the Material Design 3 guidelines, a bottom app bar should contain up to four action icons and an FAB.",
+  "changes": "1. Add an additional action icon to the bottom app bar based on the image; a filter action would be appropriate. 2. Adjust the styles accordingly to accommodate the new icon.",
+  "changed_components": [
+    "<div class = 'leading-icon' id = 'I57805:11543;51175:4942' style='position: absolute; top: 16px; left: 4px; width: 160px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class = 'Icon-3' config = 'standard' id = 'I57805:11543;51175:4945' style='position: absolute; top: 0px; left: 112px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class = 'container' id = 'I57805:11543;51175:4945;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>",
+    "<div class = 'state-layer' id = 'I57805:11543;51175:4945;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class = 'Icon' id = 'I57805:11543;51175:4945;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class = 'filter' id = 'I57805:11543;51175:4945;51525:5221;55204:70118' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class='Vector' id='I57805:11543;51175:4945;51525:5221;55204:70118;2402:45894' style='position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;'>",
+    "<svg height = '18px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>",
+    "<path d='M 9 0 C 4.0294375 0 0 4.0294375 0 9 C 0 13.9705625 4.0294375 18 9 18 C 13.9705625 18 18 13.9705625 18 9 C 18 4.0294375 13.9705625 0 9 0 Z M 9 2 C 12.859375 2 15.875 5.015625 15.875 9 C 15.875 12.984375 12.859375 16 9 16 C 5.015625 16 2 12.984375 2 9 C 2 5.015625 5.015625 2 9 2 Z M 4.5 10.5 C 4.2234375 10.5 4 10.2765625 4 10 C 4 9.7234375 4.2234375 9.5 4.5 9.5 C 4.7765625 9.5 5 9.7234375 5 10 C 5 10.2765625 4.7765625 10.5 4.5 10.5 Z M 7.5 7.5 C 7.2234375 7.5 7 7.2765625 7 7 C 7 6.7234375 7.2234375 6.5 7.5 6.5 C 7.7765625 6.5 8 6.7234375 8 7 C 8 7.2765625 7.7765625 7.5 7.5 7.5 Z M 11.5 4.5 C 11.2234375 4.5 11 4.2765625 11 4 C 11 3.7234375 11.2234375 3.5 11.5 3.5 C 11.7765625 3.5 12 3.7234375 12 4 C 12 4.2765625 11.7765625 4.5 11.5 4.5 Z' style='fill: #414941FF;'/>",
+    "</svg>",
+    "</div>",
+    "</div>",
+    "</div>",
+    "</div>",
+    "</div>"
+  ],
+  "deleted_components": [],
+  "new_components": [
+    "<div class='Icon-3' config='standard' id='I57805:11543;51175:4945' style='position: absolute; top: 0px; left: 112px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class='container' id='I57805:11543;51175:4945;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>",
+    "<div class='state-layer' id='I57805:11543;51175:4945;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class='Icon' id='I57805:11543;51175:4945;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class='filter' id='I57805:11543;51175:4945;51525:5221;55204:70118' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>",
+    "<div class='Vector' id='I57805:11543;51175:4945;51525:5221;55204:70118;2402:45894' style='position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;'>",
+    "<svg height='18px' width='18px' xmlns='http://www.w3.org/2000/svg'>",
+    "<path d='M 9 0 C 4.0294375 0 0 4.0294375 0 9 C 0 13.9705625 4.0294375 18 9 18 C 13.9705625 18 18 13.9705625 18 9 C 18 4.0294375 13.9705625 0 9 0 Z M 9 2 C 12.859375 2 15.875 5.015625 15.875 9 C 15.875 12.984375 12.859375 16 9 16 C 5.015625 16 2 12.984375 2 9 C 2 5.015625 5.015625 2 9 2 Z M 4.5 10.5 C 4.2234375 10.5 4 10.2765625 4 10 C 4 9.7234375 4.2234375 9.5 4.5 9.5 C 4.7765625 9.5 5 9.7234375 5 10 C 5 10.2765625 4.7765625 10.5 4.5 10.5 Z M 7.5 7.5 C 7.2234375 7.5 7 7.2765625 7 7 C 7 6.7234375 7.2234375 6.5 7.5 6.5 C 7.7765625 6.5 8 6.7234375 8 7 C 8 7.2765625 7.7765625 7.5 7.5 7.5 Z M 11.5 4.5 C 11.2234375 4.5 11 4.2765625 11 4 C 11 3.7234375 11.2234375 3.5 11.5 3.5 C 11.7765625 3.5 12 3.7234375 12 4 C 12 4.2765625 11.7765625 4.5 11.5 4.5 Z' style='fill: #414941FF;'/>",
+    "</svg>",
+    "</div>",
+    "</div>",
+    "</div>",
+    "</div>",
+    "</div>"
+  ]
+}

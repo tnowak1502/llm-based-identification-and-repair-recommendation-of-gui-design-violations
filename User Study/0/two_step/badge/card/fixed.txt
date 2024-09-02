@@ -1,0 +1,23 @@
+{
+  "changed_components": [
+    "<div class=\"Badge\" id=\"57811:35941\" style=\"position: absolute; top: 4px; left: 210px; width: 137px; height: 16px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; \">
+      <div class=\"Badge-label\" id=\"57811:35942\" style=\"position: absolute; top: 0px; left: 4px; width: 130px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: center; align-items: center;\">
+       A user has reported you
+      </div>
+     </div>",
+    "<div class=\"Title\" id=\"57811:35957\" style=\"position: absolute; top: 0px; left: 0px; width: 285px; height: 60px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: left; align-items: top;\">
+           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
+          </div>",
+    "<div class=\"Title\" id=\"57811:35981\" style=\"position: absolute; top: 0px; left: 0px; width: 381px; height: 60px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: left; align-items: top;\">
+           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
+          </div>"
+  ],
+  "deleted_components": [],
+  "new_components": [
+    ("<div class=\"Badge\" id=\"57811:35941\" style=\"position: absolute; top: 4px; left: 210px; width: 137px; height: 16px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; \">
+      <div class=\"Badge-label\" id=\"57811:35942\" style=\"position: absolute; top: 0px; left: 4px; width: 130px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: center; align-items: center;\">
+       A user has reported you
+      </div>
+     </div>", "57811:35952")
+  ]
+}

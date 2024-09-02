@@ -1,0 +1,79 @@
+{
+  "changed_components": [
+    "<div class='FAB-elevation-override' id='I57811:42155;52508:29476' style='position: absolute; top: 12px; left: 178px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 16px;'>
+      <div class='FAB' config='secondary' id='I57811:42155;51162:4850' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; background-color: #D3E8D2FF; border-radius: 16px; filter: drop-shadow(0px 1px 3px #0000004C);'>
+        <div class='state-layer' id='I57811:42155;51162:4850;51655:4793' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='icon' id='I57811:42155;51162:4850;51655:4794' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+            <div class='icon' id='I57811:42155;51162:4850;51655:4794;50731:11362' style='position: absolute; top: 3.005000114440918px; left: 3px; width: 18.002500534057617px; height: 17.9950008392334px;'>
+              <svg height='17.9950008392334px' width='18.002500534057617px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 16.059999465942383 0.5849999785423279 L 17.40999984741211 1.934999942779541 C 18.200000762939453 2.7149999141693115 18.200000762939453 3.984999895095825 17.40999984741211 4.764999866485596 L 4.179999828338623 17.9950008392334 L 0 17.9950008392334 L 0 13.8149995803833 L 10.399999618530273 3.4049999713897705 L 13.229999542236328 0.5849999785423279 C 14.00999927520752 -0.19499999284744263 15.279999732971191 -0.19499999284744263 16.059999465942383 0.5849999785423279 Z M 2 15.995000839233398 L 3.4099998474121094 16.05500030517578 L 13.229999542236328 6.224999904632568 L 11.819999694824219 4.815000057220459 L 2 14.635000228881836 L 2 15.995000839233398 Z' style='fill: #0E1F12FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Snackbar' config='Text & action' id='57811:42150' style='position: absolute; top: 612px; left: 34px; width: 344px; height: 48px; overflow: hidden; opacity: 1; background-color: #2D322CFF; border-radius: 4px; filter: drop-shadow(0px 1px 3px #0000004C);'>
+      <div class='Supporting-text' id='I57811:42150;53977:33606' style='position: absolute; top: 14px; left: 16px; width: 259px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #EEF2EAFF; line-height: 20px; justify-content: left; align-items: top;'>
+        Message moved to trash
+      </div>
+      <div class='Inverse-button' id='I57811:42150;53977:33607' style='position: absolute; top: 4px; left: 278px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+        <div class='state-layer' id='I57811:42150;53977:33607;53977:33617' style='position: absolute; top: 0px; left: 0px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='label-text' id='I57811:42150;53977:33607;53977:33618' style='position: absolute; top: 10px; left: 12px; width: 35px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #99D4A2FF; line-height: 20px; justify-content: center; align-items: center;'>
+            Undo
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Snackbar' config='Text & action' id='57811:42151' style='position: absolute; top: 556px; left: 34px; width: 344px; height: 48px; overflow: hidden; opacity: 1; background-color: #2D322CFF; border-radius: 4px; filter: drop-shadow(0px 1px 3px #0000004C);'>
+      <div class='Supporting-text' id='I57811:42151;53977:33606' style='position: absolute; top: 14px; left: 16px; width: 259px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #EEF2EAFF; line-height: 20px; justify-content: left; align-items: top;'>
+        Message moved to trash
+      </div>
+      <div class='Inverse-button' id='I57811:42151;53977:33607' style='position: absolute; top: 4px; left: 278px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+        <div class='state-layer' id='I57811:42151;53977:33607;53977:33617' style='position: absolute; top: 0px; left: 0px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='label-text' id='I57811:42151;53977:33607;53977:33618' style='position: absolute; top: 10px; left: 12px; width: 35px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #99D4A2FF; line-height: 20px; justify-content: center; align-items: center;'>
+            Undo
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Snackbar' config='Text & action' id='57811:42152' style='position: absolute; top: 501px; left: 33px; width: 344px; height: 48px; overflow: hidden; opacity: 1; background-color: #2D322CFF; border-radius: 4px; filter: drop-shadow(0px 1px 3px #0000004C);'>
+      <div class='Supporting-text' id='I57811:42152;53977:33606' style='position: absolute; top: 14px; left: 16px; width: 259px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #EEF2EAFF; line-height: 20px; justify-content: left; align-items: top;'>
+        Message moved to trash
+      </div>
+      <div class='Inverse-button' id='I57811:42152;53977:33607' style='position: absolute; top: 4px; left: 278px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+        <div class='state-layer' id='I57811:42152;53977:33607;53977:33617' style='position: absolute; top: 0px; left: 0px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='label-text' id='I57811:42152;53977:33607;53977:33618' style='position: absolute; top: 10px; left: 12px; width: 35px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #99D4A2FF; line-height: 20px; justify-content: center; align-items: center;'>
+            Undo
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Snackbar' config='Text & action' id='57811:42153' style='position: absolute; top: 448px; left: 36px; width: 344px; height: 48px; overflow: hidden; opacity: 1; background-color: #2D322CFF; border-radius: 4px; filter: drop-shadow(0px 1px 3px #0000004C);'>
+      <div class='Supporting-text' id='I57811:42153;53977:33606' style='position: absolute; top: 14px; left: 16px; width: 259px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #EEF2EAFF; line-height: 20px; justify-content: left; align-items: top;'>
+        Message moved to trash
+      </div>
+      <div class='Inverse-button' id='I57811:42153;53977:33607' style='position: absolute; top: 4px; left: 278px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+        <div class='state-layer' id='I57811:42153;53977:33607;53977:33617' style='position: absolute; top: 0px; left: 0px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='label-text' id='I57811:42153;53977:33607;53977:33618' style='position: absolute; top: 10px; left: 12px; width: 35px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #99D4A2FF; line-height: 20px; justify-content: center; align-items: center;'>
+            Undo
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Snackbar' config='Text & action' id='57811:42154' style='position: absolute; top: 395px; left: 37px; width: 344px; height: 48px; overflow: hidden; opacity: 1; background-color: #2D322CFF; border-radius: 4px; filter: drop-shadow(0px 1px 3px #0000004C);'>
+      <div class='Supporting-text' id='I57811:42154;53977:33606' style='position: absolute; top: 14px; left: 16px; width: 259px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #EEF2EAFF; line-height: 20px; justify-content: left; align-items: top;'>
+        Message moved to trash
+      </div>
+      <div class='Inverse-button' id='I57811:42154;53977:33607' style='position: absolute; top: 4px; left: 278px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+        <div class='state-layer' id='I57811:42154;53977:33607;53977:33617' style='position: absolute; top: 0px; left: 0px; width: 58px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='label-text' id='I57811:42154;53977:33607;53977:33618' style='position: absolute; top: 10px; left: 12px; width: 35px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #99D4A2FF; line-height: 20px; justify-content: center; align-items: center;'>
+            Undo
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

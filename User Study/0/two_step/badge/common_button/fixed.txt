@@ -1,0 +1,56 @@
+```json
+{
+  "changed_components": [
+    "<div class = 'Segmented-button' id = '57811:35961' style='position: absolute; top: 6px; left: 0px; width: 92px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Segment-start' config='label & icon' id = 'I57811:35961;53923:36668' style='position: absolute; top: 0px; left: 0px; width: 59px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'container' id = 'I57811:35961;53923:36668;53923:36924' style='position: absolute; top: 4px; left: 0px; width: 59px; height: 28px; overflow: hidden; opacity: 1; background-color: #D3E8D2FF; border-radius: 100px 0px 0px 100px; box-shadow: inset 0 0 0 1px #717970FF; '>
+                  <div class = 'state-layer' id = 'I57811:35961;53923:36668;53923:36925' style='position: absolute; top: 0px; left: 0px; width: 59px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Icon' id = 'I57811:35961;53923:36668;53923:36926' style='position: absolute; top: 5px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class='Vector' id='I57811:35961;53923:36668;53923:36926;55204:70487' style='position: absolute; top: 1.5px; left: 0.75px; width: 16.5px; height: 15.0px;'>
+                        <svg height = '15.0px' width = '16.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 6 15 L 12.75 15 C 13.372499987483025 15 13.905000105500221 14.625000536441803 14.130000114440918 14.08500051498413 L 16.395000457763672 8.797499656677246 C 16.46250046044588 8.624999653548002 16.5 8.444999992847443 16.5 8.25 L 16.5 6.75 C 16.5 5.924999982118607 15.825000017881393 5.25 15 5.25 L 10.267499685287476 5.25 L 10.980000257492065 1.8225000500679016 L 11.002500057220459 1.582499921321869 C 11.002500057220459 1.274999924004078 10.874999664723873 0.9899999722838402 10.672499656677246 0.7874999642372131 L 9.877500057220459 0 L 4.934999942779541 4.942500114440918 C 4.664999932050705 5.212500125169754 4.5 5.587499991059303 4.5 6 L 4.5 13.5 C 4.5 14.325000017881393 5.174999982118607 15 6 15 Z M 6 6 L 9.255000114440918 2.744999885559082 L 8.25 6.75 L 15 6.75 L 15 8.25 L 12.75 13.5 L 6 13.5 L 6 6 Z M 0 6 L 3 6 L 3 15 L 0 15 L 0 6 Z' style='fill: #0E1F12FF;'/>
+                        </svg>
+                      </div>
+                    </div>
+                    <div class = 'label-text' id = 'I57811:35961;53923:36668;53923:36927' style='position: absolute; top: 4px; left: 26px; width: 26px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #0E1F12FF; line-height: 20px; justify-content: center; align-items: center;'>100
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class = 'Segment-end' config='icon only' id = 'I57811:35961;53923:36669' style='position: absolute; top: 0px; left: 58px; width: 34px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'container' id = 'I57811:35961;53923:36669;53923:37042' style='position: absolute; top: 4px; left: 0px; width: 34px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px 100px 100px 0px; box-shadow: inset 0 0 0 1px #717970FF; '>
+                  <div class = 'state-layer' id = 'I57811:35961;53923:36669;53923:37043' style='position: absolute; top: 0px; left: 0px; width: 34px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Icon' id = 'I57811:35961;53923:36669;53923:37044' style='position: absolute; top: 5px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class='Vector' id='I57811:35961;53923:36669;53923:37044;55204:70483' style='position: absolute; top: 1.5px; left: 0.75px; width: 16.5px; height: 15.0px;'>
+                        <svg height = '15.0px' width = '16.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 10.5 0 L 3.75 0 C 3.1275000125169754 0 2.5949998944997787 0.3749998211860657 2.369999885559082 0.9149998426437378 L 0.10499998927116394 6.202500343322754 C 0.037499986588954926 6.375000346451998 0 6.555000007152557 0 6.75 L 0 8.25 C 0 9.075000017881393 0.6749999821186066 9.75 1.5 9.75 L 6.232500314712524 9.75 L 5.519999742507935 13.177499771118164 L 5.497499942779541 13.417499542236328 C 5.497499942779541 13.724999539554119 5.625000335276127 14.010000564157963 5.827500343322754 14.21250057220459 L 6.622499942779541 15 L 11.565000057220459 10.057499885559082 C 11.835000067949295 9.787499874830246 12 9.412500008940697 12 9 L 12 1.5 C 12 0.6749999821186066 11.325000017881393 0 10.5 0 Z M 10.5 9 L 7.244999885559082 12.255000114440918 L 8.25 8.25 L 1.5 8.25 L 1.5 6.75 L 3.75 1.5 L 10.5 1.5 L 10.5 9 Z M 13.5 0 L 16.5 0 L 16.5 9 L 13.5 9 L 13.5 0 Z' style='fill: #0E1F12FF;'/>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Segmented-button' id = '57811:35985' style='position: absolute; top: 6px; left: 0px; width: 92px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Segment-start' config='label & icon' id = 'I57811:35985;53923:36668' style='position: absolute; top: 0px; left: 0px; width: 59px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'container' id = 'I57811:35985;53923:36668;53923:36934' style='position: absolute; top: 4px; left: 0px; width: 59px; height: 28px; overflow: hidden; opacity: 1; background-color: #D3E8D2FF; border-radius: 100px 0px 0px 100px; box-shadow: inset 0 0 0 1px #717970FF; '>
+                  <div class = 'state-layer' id = 'I57811:35985;53923:36668;53923:36935' style='position: absolute; top: 0px; left: 0px; width: 59px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Selected-icon' id = 'I57811:35985;53923:36668;53923:36936' style='position: absolute; top: 5px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class='Vector' id='I57811:35985;53923:36668;53923:36936;55204:70487' style='position: absolute; top: 1.5px; left: 0.75px; width: 16.5px; height: 15.0px;'>
+                        <svg height = '15.0px' width = '16.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 6 15 L 12.75 15 C 13.372499987483025 15 13.905000105500221 14.625000536441803 14.130000114440918 14.08500051498413 L 16.395000457763672 8.797499656677246 C 16.46250046044588 8.624999653548002 16.5 8.444999992847443 16.5 8.25 L 16.5 6.75 C 16.5 5.924999982118607 15.825000017881393 5.25 15 5.25 L 10.267499685287476 5.25 L 10.980000257492065 1.8225000500679016 L 11.002500057220459 1.582499921321869 C 11.002500057220459 1.274999924004078 10.874999664723873 0.9899999722838402 10.672499656677246 0.7874999642372131 L 9.877500057220459 0 L 4.934999942779541 4.942500114440918 C 4.664999932050705 5.212500125169754 4.5 5.587499991059303 4.5 6 L 4.5 13.5 C 4.5 14.325000017881393 5.174999982118607 15 6 15 Z M 6 6 L 9.255000114440918 2.744999885559082 L 8.25 6.75 L 15 6.75 L 15 8.25 L 12.75 13.5 L 6 13.5 L 6 6 Z M 0 6 L 3 6 L 3 15 L 0 15 L 0 6 Z' style='fill: #0E1F12FF;'/>
+                        </svg>
+                      </div>
+                    </div>
+                    <div class = 'label-text' id = 'I57811:35985;53923:36668;53923:36937' style='position: absolute; top: 4px; left: 26px; width: 26px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #0E1F12FF; line-height: 20px; justify-content: center; align-items: center;'>100
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class = 'Segment-end' config='icon only' id = 'I57811:35985;53923:36669' style='position: absolute; top: 0px; left: 58px; width: 34px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'container' id = 'I57811:35985;53923:36669;53923:37042' style='position: absolute; top: 4px; left: 0px; width: 34px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px 100px 100px 0px; box-shadow: inset 0 0 0 1px #717970FF; '>
+                  <div class = 'state-layer' id = 'I57811:35985;53923:36669;53923:37043' style='position: absolute; top: 0px; left: 0px; width: 34px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Icon' id = 'I57811:35985;53923:36669;53923:37044' style='position: absolute; top: 5px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class='Vector' id='I57811:35985;53923:36669;53923:37044;55204:70483' style='position: absolute; top: 1.5px; left: 0.75px; width: 16.5px; height: 15.0px;'>
+                        <svg height = '15.0px' width = '16.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 10.5 0 L 3.75 0 C 3.1275000125169754 0 2.5949998944997787 0.3749998211860657 2.369999885559082 0.9149998426437378 L 0.10499998927116394 6.202500343322754 C 0.037499986588954926 6.375000346451998 0 6.555000007152557 0 6.75 L 0 8.25 C 0 9.075000017881393 0.6749999821186066 9.75 1.5 9.75 L 6.232500314712524 9.75 L 5.519999742507935 13.177499771118164 L 5.497499942779541 13.417499542236328 C 5.497499942779541 13.724999539554119 5.625000335276127 14.010000564157963 5.827500343322754 14.21250057220459 L 6.622499942779541 15 L 11.565000057220459 10.057499885559082 C 11.835000067949295 9.787499874830246 12 9.412500008940697 12 9 L 12 1.5 C 12 0.6749999821186066 11.325000017881393 0 10.5 0 Z M 10.5 9 L 7.244999885559082 12.255000114440918 L 8.25 8.25 L 1.5

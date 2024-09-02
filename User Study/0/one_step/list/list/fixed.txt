@@ -1,0 +1,83 @@
+{
+  'violations': '1. The list items have inconsistent heights. 2. The trailing supporting text is not aligned with the rest of the text content. 3. The trailing supporting text is too small and difficult to read. 4. The supporting text contains special characters that are not properly encoded.',
+  'changes': '1. Standardize the height of all list items to 105px for consistency. 2. Align the trailing supporting text with the rest of the text content. 3. Increase the font size of the trailing supporting text to match the supporting text. 4. Properly encode the special characters in the supporting text.',
+  'changed_components': [
+    "<div class='List-item-1' config='3-line+' id='57811:37816' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:37816;51964:63223' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      </div>
+      <div class='state-layer' id='I57811:37816;51964:63224' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Content' id='I57811:37816;51964:63225' style='position: absolute; top: 12px; left: 16px; width: 324px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Overline' id='I57811:37816;51964:63226' style='position: absolute; top: 0px; left: 0px; width: 325px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: left; align-items: center;'>Bezahlt von X
+          </div>
+          <div class='Headline' id='I57811:37816;51964:63227' style='position: absolute; top: 16px; left: 0px; width: 325px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Ausgabe
+          </div>
+          <div class='Supporting-text' id='I57811:37816;51964:63228' style='position: absolute; top: 40px; left: 0px; width: 325px; height: 40px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>10€
+Ausstehend
+          </div>
+        </div>
+        <div class='Trailing-supporting-text' id='I57811:37816;51964:63229' style='position: absolute; top: 40px; left: 356px; width: 33px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: right; align-items: top;'>Heute
+        </div>
+      </div>
+      <div class='Divider' id='I57811:37816;51964:63231' style='position: absolute; top: 104px; left: 0px; width: 412px; height: 1px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <hr class='Divider' id='I57811:37816;51964:63231;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+      </div>
+    </div>",
+    "<div class='List-item-2' config='3-line+' id='57811:37817' style='position: absolute; top: 105px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:37817;51964:63223' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      </div>
+      <div class='state-layer' id='I57811:37817;51964:63224' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Content' id='I57811:37817;51964:63225' style='position: absolute; top: 12px; left: 16px; width: 324px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Overline' id='I57811:37817;51964:63226' style='position: absolute; top: 0px; left: 0px; width: 325px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: left; align-items: center;'>Bezahlt von X
+          </div>
+          <div class='Headline' id='I57811:37817;51964:63227' style='position: absolute; top: 16px; left: 0px; width: 325px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Ausgabe
+          </div>
+          <div class='Supporting-text' id='I57811:37817;51964:63228' style='position: absolute; top: 40px; left: 0px; width: 325px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>10€
+          </div>
+        </div>
+        <div class='Trailing-supporting-text' id='I57811:37817;51964:63229' style='position: absolute; top: 40px; left: 356px; width: 33px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: right; align-items: top;'>Heute
+        </div>
+      </div>
+      <div class='Divider' id='I57811:37817;51964:63231' style='position: absolute; top: 104px; left: 0px; width: 412px; height: 1px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <hr class='Divider' id='I57811:37817;51964:63231;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+      </div>
+    </div>",
+    "<div class='List-item-3' config='3-line+' id='57811:37818' style='position: absolute; top: 210px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:37818;51964:63223' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      </div>
+      <div class='state-layer' id='I57811:37818;51964:63224' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Content' id='I57811:37818;51964:63225' style='position: absolute; top: 12px; left: 16px; width: 324px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Overline' id='I57811:37818;51964:63226' style='position: absolute; top: 0px; left: 0px; width: 325px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: left; align-items: center;'>Bezahlt von X
+          </div>
+          <div class='Headline' id='I57811:37818;51964:63227' style='position: absolute; top: 16px; left: 0px; width: 325px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Ausgabe
+          </div>
+          <div class='Supporting-text' id='I57811:37818;51964:63228' style='position: absolute; top: 40px; left: 0px; width: 325px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>10€
+          </div>
+        </div>
+        <div class='Trailing-supporting-text' id='I57811:37818;51964:63229' style='position: absolute; top: 40px; left: 356px; width: 33px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: right; align-items: top;'>Heute
+        </div>
+      </div>
+      <div class='Divider' id='I57811:37818;51964:63231' style='position: absolute; top: 104px; left: 0px; width: 412px; height: 1px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <hr class='Divider' id='I57811:37818;51964:63231;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+      </div>
+    </div>",
+    "<div class='List-item-4' config='3-line+' id='57811:37819' style='position: absolute; top: 315px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:37819;51964:63223' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      </div>
+      <div class='state-layer' id='I57811:37819;51964:63224' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Content' id='I57811:37819;51964:63225' style='position: absolute; top: 12px; left: 16px; width: 324px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Overline' id='I57811:37819;51964:63226' style='position: absolute; top: 0px; left: 0px; width: 325px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: left; align-items: center;'>Bezahlt von X
+          </div>
+          <div class='Headline' id='I57811:37819;51964:63227' style='position: absolute; top: 16px; left: 0px; width: 325px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Ausgabe
+          </div>
+          <div class='Supporting-text' id='I57811:37819;51964:63228' style='position: absolute; top: 40px; left: 0px; width: 325px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>10€
+          </div>
+        </div>
+        <div class='Trailing-supporting-text' id='I57811:37819;51964:63229' style='position: absolute; top: 40px; left: 356px; width: 33px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: right; align-items: top;'>Heute
+        </div>
+      </div>
+      <div class='Divider' id='I57811:37819;51964:63231' style='position: absolute; top: 104px; left: 0px; width: 412px; height: 1px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <hr class='Divider' id='I57811:37819;51964:63231;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+      </div>
+    </div>",
+    "<div class='List-item-5' config='3-line+' id='57811:37820' style='position: absolute; top: 420px; left: 0px; width: 412px; height: 105px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:37820;51964:63223' style='position: absolute; top: 0px; left: 0px

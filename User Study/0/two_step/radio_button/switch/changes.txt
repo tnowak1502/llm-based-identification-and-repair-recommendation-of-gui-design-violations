@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The switch used for 'Download using mobile data' is appropriate for an on/off option. However, the label 'Download using mobile data' could be more concise to improve readability.",
+      "reasoning": "Labels next to switches should be short and direct. While 'Download using mobile data' is understandable, it could be simplified to 'Use mobile data' to make it more succinct."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Change the label 'Download using mobile data' to 'Use mobile data'.",
+      "reasoning": "This change will make the label more concise and easier to read, adhering to the Material Design guidelines for text."
+    }
+  ],
+  "guideline_request": "switch labels",
+  "example_request": "switch component"
+}

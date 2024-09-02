@@ -1,0 +1,48 @@
+{
+  "violations": "1. Icon buttons have different icon weights and colors, which may cause inconsistency in the visual hierarchy. (Severity: Medium)",
+  "changes": "1. Standardize the icon weights and colors for consistency. Ensure that all icon buttons have the same weight and color to maintain a uniform visual hierarchy.",
+  "changed_components": [
+    "<div class='icon' id='I57811:42820;51525:5221;50731:11329' style='position: absolute; top: 3px; left: 5px; width: 14px; height: 18px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+      <div class='Path' id='I57811:42820;51525:5221;50731:11330' style='position: absolute; top: 3px; left: 5px; width: 14px; height: 18px;'>
+        <svg height='18px' width='14px' xmlns='http://www.w3.org/2000/svg'>
+          <path d='M 12 0 L 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 L 0 18 L 7 15 L 14 18 L 14 2 C 14 0.8999999761581421 13.100000023841858 0 12 0 Z' style='fill: #414941FF;'>
+          </path>
+        </svg>
+      </div>
+      <div class='Path' id='I57811:42820;51525:5221;50731:11331' style='position: absolute; top: 5px; left: 7px; width: 10px; height: 13px;'>
+        <svg height='13px' width='10px' xmlns='http://www.w3.org/2000/svg'>
+          <path d='M 10 13 L 5 10.819999694824219 L 0 13 L 0 0 L 10 0 L 10 13 Z' style='fill: #414941FF;'>
+          </path>
+        </svg>
+      </div>
+    </div>",
+    "<div class='icon' id='I57811:42817;51525:5221;50731:11314' style='position: absolute; top: 2px; left: 3px; width: 18px; height: 20px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+      <div class='Path' id='I57811:42817;51525:5221;50731:11315' style='position: absolute; top: 2px; left: 3px; width: 18px; height: 20px;'>
+        <svg height='20px' width='18px' xmlns='http://www.w3.org/2000/svg'>
+          <path d='M 15 14 C 14.209999978542328 14 13.500000238418579 14.3100004196167 12.970000267028809 14.8100004196167 L 5.909999847412109 10.699999809265137 C 5.959999848157167 10.469999805092812 6 10.239999994635582 6 10 C 6 9.760000005364418 5.959999848157167 9.530000194907188 5.909999847412109 9.300000190734863 L 12.960000038146973 5.190000057220459 L 12.960000038146973 5.190000057220459 C 13.490000009536743 5.690000057220459 14.209999978542328 6 15 6 C 16.6599999666214 6 18 4.659999966621399 18 3 C 18 1.340000033378601 16.6599999666214 0 15 0 C 13.340000033378601 0 12 1.340000033378601 12 3 C 12 3.239999994635582 12.040000151842833 3.4800000488758087 12.09000015258789 3.700000047683716 L 12.09000015258789 3.700000047683716 L 5.039999961853027 7.809999942779541 C 4.499999940395355 7.309999942779541 3.790000021457672 7 3 7 C 1.340000033378601 7 0 8.340000033378601 0 10 C 0 11.659999966621399 1.340000033378601 13 3 13 C 3.790000021457672 13 4.499999940395355 12.6899995803833 5.039999961853027 12.1899995803833 L 12.09000015258789 16.309999465942383 C 12.040000151842833 16.52999946475029 12 16.760000005364418 12 17 C 12 18.6599999666214 13.340000033378601 20 15 20 C 16.6599999666214 20 18 18.6599999666214 18 17 C 18 15.340000033378601 16.6599999666214 14 15 14 Z' style='fill: #414941FF;'>
+          </path>
+        </svg>
+      </div>
+      <div class='Path' id='I57811:42817;51525:5221;50731:11316' style='position: absolute; top: 4px; left: 17px; width: 2px; height: 2px;'>
+        <svg height='2px' width='2px' xmlns='http://www.w3.org/2000/svg'>
+          <path d='M 1 0 C 1.550000011920929 0 2 0.44999998807907104 2 1 C 2 1.550000011920929 1.550000011920929 2 1 2 C 0.44999998807907104 2 0 1.550000011920929 0 1 C 0 0.44999998807907104 0.44999998807907104 0 1 0 Z' style='fill: #414941FF;'>
+          </path>
+        </svg>
+      </div>
+      <div class='Path' id='I57811:42817;51525:5221;50731:11317' style='position: absolute; top: 11px; left: 5px; width: 2px; height: 2px;'>
+        <svg height='2px' width='2px' xmlns='http://www.w3.org/2000/svg'>
+          <path d='M 1 2 C 0.44999998807907104 2 0 1.550000011920929 0 1 C 0 0.44999998807907104 0.44999998807907104 0 1 0 C 1.550000011920929 0 2 0.44999998807907104 2 1 C 2 1.550000011920929 1.550000011920929 2 1 2 Z' style='fill: #414941FF;'>
+          </path>
+        </svg>
+      </div>
+      <div class='Path' id='I57811:42817;51525:5221;50731:11318' style='position: absolute; top: 18px; left: 17px; width: 2px; height: 2px;'>
+        <svg height='2px' width='2px' xmlns='http://www.w3.org/2000/svg'>
+          <path d='M 1 2 C 0.44999998807907104 2 0 1.550000011920929 0 1 C 0 0.44999998807907104 0.44999998807907104 0 1 0 C 1.550000011920929 0 2 0.44999998807907104 2 1 C 2 1.550000011920929 1.550000011920929 2 1 2 Z' style='fill: #414941FF;'>
+          </path>
+        </svg>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

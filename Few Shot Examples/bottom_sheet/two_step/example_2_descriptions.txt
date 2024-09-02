@@ -1,0 +1,133 @@
+Below is the description of the bottom sheet as depicted in the provided mockup image and HTML code:
+
+### Bottom Sheet Description:
+
+- **Type:** Bottom Sheet Dark
+- **ID:** `55631:8478`
+- **Color:** Dark background (`#181D18FF`)
+- **Size:** 
+  - Width: 412px
+  - Height: 249px
+- **Shape:**
+  - Rounded top corners with a border-radius of 28px at the top and 0px at the bottom.
+- **Position:**
+  - Absolute positioning.
+  - Located at the bottom of the screen.
+  - Positioned at (top: 555px, left: 0px).
+- **Opacity:** 1 (fully opaque).
+
+#### Inner Components:
+
+1. **Sheet Header:**
+   - **ID:** `55631:8481`
+   - **Size:**
+     - Width: 412px
+     - Height: 36px
+   - **Position:**
+     - Absolute positioning.
+     - Located at the top of the bottom sheet.
+     - Positioned at (top: 0px, left: 0px).
+
+2. **Drag Handle:**
+   - **ID:** `55631:8482`
+   - **Size:**
+     - Width: 32px
+     - Height: 4px
+   - **Position:**
+     - Absolute positioning.
+     - Centered horizontally within the header.
+     - Positioned at (top: 16px, left: 190px).
+   - **Color:** `#8B9389FF`
+   - **Shape:** Fully rounded with a border-radius of 100px.
+
+3. **Scrim:**
+   - **ID:** `55631:8483`
+   - **Size:**
+     - Width: 412px
+     - Height: 804px (covers the entire screen).
+   - **Opacity:** 0.32 (partially transparent).
+   - **Color:** `#000000FF`
+   - **Position:**
+     - Absolute positioning.
+     - Positioned at (top: 0px, left: 0px).
+
+4. **Content Area:**
+   - **Frame 24:**
+     - **ID:** `55631:9421`
+     - **Size:**
+       - Width: 412px
+       - Height: 216px
+     - **Position:**
+       - Absolute positioning.
+       - Positioned at (top: 36px, left: 0px).
+
+   - **Price Label:**
+     - **ID:** `55631:9422`
+     - **Size:**
+       - Width: 34px
+       - Height: 20px
+     - **Position:**
+       - Absolute positioning.
+       - Positioned at (top: 9px, left: 16px).
+     - **Text:** "Price"
+     - **Font:**
+       - Family: Roboto
+       - Size: 14px
+       - Weight: 400
+     - **Color:** `#FFFFFFFF`
+
+5. **Range Selection:**
+   - **ID:** `55631:9531`
+   - **Size:**
+     - Width: 380px
+     - Height: 44px
+   - **Position:**
+     - Absolute positioning.
+     - Positioned at (top: 54px, left: 0px).
+
+   - **Track and Handle:**
+     - **Active Track:**
+       - **Color:** `#99D4A2FF`
+       - **Shape:** Rounded.
+     - **Handle:**
+       - **Color:** `#99D4A2FF`
+       - **Shape:** Rectangular with rounded edges.
+
+6. **Buttons:**
+   - **Cancel Button:**
+     - **ID:** `55631:32343`
+     - **Size:**
+       - Width: 68px
+       - Height: 40px
+     - **Position:**
+       - Absolute positioning.
+       - Positioned at (top: 10px, left: 237px).
+     - **Text:** "Cancel"
+     - **Font:**
+       - Family: Roboto
+       - Size: 14px
+       - Weight: 500
+     - **Color:** `#99D4A2FF`
+
+   - **Done Button:**
+     - **ID:** `55631:32348`
+     - **Size:**
+       - Width: 57px
+       - Height: 40px
+     - **Position:**
+       - Absolute positioning.
+       - Positioned at (top: 10px, left: 315px).
+     - **Text:** "Done"
+     - **Font:**
+       - Family: Roboto
+       - Size: 14px
+       - Weight: 500
+     - **Color:** `#99D4A2FF`
+
+### Likely Function:
+The bottom sheet is used to provide a modal interface for users to adjust the price range filter. The range selection component allows users to specify minimum and maximum price values. The "Cancel" and "Done" buttons allow users to either discard their changes or apply the filter, respectively.
+
+### Additional Attributes:
+- **Filter:** Drop-shadow effect applied to the bottom sheet for an elevated appearance (`filter: drop-shadow(0px 1px 3px #0000004C)`).
+
+This bottom sheet provides a clean, dark-themed interface for adjusting filter settings, likely intended for use in a shopping or catalog app.

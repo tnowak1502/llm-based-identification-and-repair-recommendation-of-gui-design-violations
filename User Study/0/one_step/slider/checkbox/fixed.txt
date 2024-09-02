@@ -1,0 +1,7 @@
+{
+  "violations": "There are no issues with the checkboxes in this screen.",
+  "changes": "Since there are no issues, no changes are necessary.",
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": []
+}

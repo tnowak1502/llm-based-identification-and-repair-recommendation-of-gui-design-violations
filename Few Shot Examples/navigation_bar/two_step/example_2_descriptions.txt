@@ -1,0 +1,80 @@
+The provided HTML snippet describes a bottom navigation bar for a mobile user interface, with five distinct segments. Here's a detailed description of each segment and the overall navigation bar:
+
+### Overall Navigation Bar
+- **Type**: Bottom Navigation Bar
+- **Color**: Light mode with a background color of `#EBEFE7FF` (a light shade of greenish-gray).
+- **Size**: The navigation bar is 412px wide and 96px high.
+- **Shape**: Rectangular with no border-radius (0px).
+- **Position**: Positioned at the bottom of the screen, specifically at `top: 724px; left: 0px;`.
+- **ID**: `55410:3228`
+- **Function**: Provides quick access to various sections or features of the application: Feed, Community, Start Activity, Progress, and Profile.
+
+### Segment 1: Feed
+- **Position**: `top: 0px; left: 8px; width: 72.8px; height: 80px;`
+- **Icon**: 
+  - **Type**: Outlined icon representing feed.
+  - **Color**: The icon's vector paths are filled with `#404942FF` (a dark shade of gray).
+  - **Size**: Icon dimensions are `24px x 24px`.
+  - **Container**: Positioned at `top: 12px; left: 20.4px`.
+  - **Container Shape**: Rounded (border-radius: 16px).
+- **Label**: 
+  - **Text**: "Feed"
+  - **Font**: Roboto, size 12px, weight 500, color `#414941FF`.
+  - **Position**: `top: 48px; left: 0px; width: 73.8px; height: 16px;`
+
+### Segment 2: Community
+- **Position**: `top: 0px; left: 88.8px; width: 72.8px; height: 80px;`
+- **Icon**: 
+  - **Type**: Outlined icon representing community.
+  - **Color**: The icon's vector paths are filled with `#404942FF`.
+  - **Size**: Icon dimensions are `24px x 24px`.
+  - **Container**: Positioned at `top: 12px; left: 20.4px`.
+  - **Container Shape**: Rounded (border-radius: 16px).
+- **Label**: 
+  - **Text**: "Community"
+  - **Font**: Roboto, size 12px, weight 500, color `#414941FF`.
+  - **Position**: `top: 48px; left: 0px; width: 73.8px; height: 16px;`
+
+### Segment 3: Start Activity
+- **Position**: `top: 0px; left: 169.6px; width: 72.8px; height: 96px;`
+- **Icon**: 
+  - **Type**: Outlined icon representing an activity start.
+  - **Color**: The icon's vector paths are filled with `#404942FF`.
+  - **Size**: Icon dimensions are `24px x 24px`.
+  - **Container**: Positioned at `top: 12px; left: 4.4px`, background color `#D3E8D2FF` (a light greenish hue).
+  - **Container Shape**: Rounded (border-radius: 16px).
+- **Label**: 
+  - **Text**: "Start Activity"
+  - **Font**: Roboto, size 12px, weight 400, color `#181D18FF`.
+  - **Position**: `top: 48px; left: 0px; width: 73.8px; height: 32px;`
+
+### Segment 4: Progress
+- **Position**: `top: 0px; left: 250.4px; width: 72.8px; height: 80px;`
+- **Icon**: 
+  - **Type**: Outlined icon representing progress.
+  - **Color**: The icon's vector paths are filled with `#404942FF`.
+  - **Size**: Icon dimensions are `24px x 24px`.
+  - **Container**: Positioned at `top: 12px; left: 20.4px`.
+  - **Container Shape**: Rounded (border-radius: 16px).
+- **Label**: 
+  - **Text**: "Progress"
+  - **Font**: Roboto, size 12px, weight 500, color `#414941FF`.
+  - **Position**: `top: 48px; left: 0px; width: 73.8px; height: 16px;`
+
+### Segment 5: Profile
+- **Position**: `top: 0px; left: 331.2px; width: 72.8px; height: 80px;`
+- **Icon**: 
+  - **Type**: Outlined icon representing a profile.
+  - **Color**: The icon's vector paths are filled with `#404942FF`.
+  - **Size**: Icon dimensions are `24px x 24px`.
+  - **Container**: Positioned at `top: 12px; left: 20.4px`.
+  - **Container Shape**: Rounded (border-radius: 16px).
+- **Label**: 
+  - **Text**: "Profile"
+  - **Font**: Roboto, size 12px, weight 500, color `#414941FF`.
+  - **Position**: `top: 48px; left: 0px; width: 73.8px; height: 16px;`
+
+### Mode
+- **Design Mode**: Light mode
+
+The navigation bar is user-friendly and provides quick access to the main features of the application. The use of icons and labels ensures clarity and ease of use.

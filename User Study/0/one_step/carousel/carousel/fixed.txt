@@ -1,0 +1,17 @@
+{
+  "violations": "1. Button inside carousel item: Buttons should not be placed inside carousel items. 2. Carousel items too small: The last item in the carousel is too small to be easily recognizable.",
+  "changes": "1. Remove the button from the carousel item. 2. Increase the width of the carousel items to make them more recognizable.",
+  "changed_components": [
+    "<div class='Carousel' id='57811:36931' style='position: absolute; top: 8px; left: 0px; width: 412px; height: 221px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Item-1' id='57811:36932' style='position: absolute; top: 8px; left: 16px; width: 252px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-2' id='57811:36935' style='position: absolute; top: 8px; left: 280px; width: 252px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "57811:36934",
+    "57811:36937"
+  ],
+  "new_components": []
+}

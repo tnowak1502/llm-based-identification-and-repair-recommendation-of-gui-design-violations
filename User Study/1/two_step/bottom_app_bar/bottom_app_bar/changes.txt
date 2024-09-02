@@ -1,0 +1,12 @@
+{
+    "violations": [
+        "1. The bottom app bar contains only two icons and a FAB. Material Design 3 guidelines specify that bottom app bars should contain 2 to 5 actions. This is not a severe violation as it still meets the minimum requirement, but it could be improved for better usability.",
+        "2. The FAB is placed outside of the bottom app bar, which violates the guideline that an FAB should be placed within the bottom app bar."
+    ],
+    "changes": [
+        "1. Consider adding one or two more actions to the bottom app bar to make it more functional. For example, you could add a settings icon or a profile icon.",
+        "2. Move the FAB into the bottom app bar, ensuring it is placed within the bar and not outside of it."
+    ],
+    "guideline_request": "Bottom app bar guidelines",
+    "example_request": "Bottom app bar with FAB and multiple icons"
+}

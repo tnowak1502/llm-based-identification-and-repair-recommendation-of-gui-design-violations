@@ -1,0 +1,24 @@
+{
+  "violations": "1. There are more than five options using radio buttons, which is not recommended. 2. The radio buttons are placed in a vertical list, which is correct, but the spacing between them can be improved for better readability and consistency.",
+  "changes": "1. Replace the radio buttons with a drop-down menu due to the presence of more than five options. 2. Ensure consistent spacing between the drop-down menu and other elements.",
+  "changed_components": [
+    "<div class='Leading-element' id='I57811:41292;51964:62999;51964:63527' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <select id='language-dropdown' style='width: 100%; padding: 8px; border-radius: 4px; border: 1px solid #414941FF;'>
+            <option value='english'>English</option>
+            <option value='deutsch'>Deutsch</option>
+            <option value='nederlands'>Nederlands</option>
+          </select>
+        </div>"
+  ],
+  "deleted_components": [
+    "I57811:41292;51964:62999;51964:63528",
+    "I57811:41292;51964:62997;51964:63528",
+    "I57811:41292;51964:62998;51964:63528"
+  ],
+  "new_components": [
+    [
+      "<select id='language-dropdown' style='width: 100%; padding: 8px; border-radius: 4px; border: 1px solid #414941FF;'><option value='english'>English</option><option value='deutsch'>Deutsch</option><option value='nederlands'>Nederlands</option></select>",
+      "I57811:41292;51964:62999;51964:63527"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "violations": "The headline text 'Popular this week' in the top app bar appears to be wrapping or using more than one line, which is not in line with the guideline that text in non-large top app bars should not wrap.",
+  "changes": "Ensure that the headline 'Popular this week' fits in a single line in the top app bar. If the text is too long, consider truncating it or using a shorter title.",
+  "changed_components": [
+    "<div class='headline' id='I57821:59000;50717:9089' style='position: absolute; top: 18px; left: 58px; width: 297px; height: 28px; opacity: 1; display: flex; white-space: nowrap; font-family: Roboto; font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #181D18FF; line-height: 28px; justify-content: center; align-items: top;'>Popular this week</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

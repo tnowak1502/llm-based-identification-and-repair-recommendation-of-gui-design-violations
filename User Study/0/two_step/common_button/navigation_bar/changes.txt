@@ -1,0 +1,26 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar contains icons only, without any labels. According to Material Design 3 guidelines, if one destination in a navigation bar is labeled, all destinations should be labeled. This can cause inconsistency and confusion for users.",
+      "guideline": "Destination labels in a navigation bar should not wrap lines, be shrunk, or be truncated."
+    },
+    {
+      "severity": "medium",
+      "description": "The color contrast between the icons and the background in the navigation bar is low, which may affect readability and accessibility. Icons should have sufficient contrast against their background to ensure they are easily visible.",
+      "guideline": "Icons next to text should have the same weight as the text."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Add labels to all destinations in the navigation bar to maintain consistency and clarity for users."
+    },
+    {
+      "description": "Increase the color contrast between the icons and the background in the navigation bar to ensure better readability and accessibility."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with labeled segments"
+}
+```

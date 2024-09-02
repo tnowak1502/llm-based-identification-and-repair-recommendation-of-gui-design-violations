@@ -1,0 +1,140 @@
+Here is a detailed description of each search bar and view based on the provided HTML code snippets:
+
+### 1. Search Bar (Light Mode)
+**Code Snippet:**
+```html
+<html lang='de'>
+  <head><title>search_bar</title></head>
+  <body>
+    <div class = 'Search-bar' id = '55719:34331' style='position: absolute; top: 0px; left: 0px; width: 360px; height: 56px; overflow: hidden; opacity: 1; background-color: #E5EAE1FF; border-radius: 28px; '>
+      <!-- inner elements -->
+    </div>
+  </body>
+</html>
+```
+**Description:**
+- **Type**: Search Bar
+- **Mode**: Light
+- **Color**: Pale green background (`#E5EAE1FF`)
+- **Size**: 360px wide, 56px tall
+- **Shape**: Rounded rectangle with 28px border-radius
+- **Position**: Top-left corner (`top: 0px; left: 0px`)
+- **ID**: `55719:34331`
+- **Function**: Likely serves as the primary search input for the user.
+  
+### 2. Search Bar (Dark Mode)
+**Code Snippet:**
+```html
+<html lang='de'>
+  <head><title>search_bar_dark</title></head>
+  <body>
+    <div class = 'Search-bar-dark' id = '55719:34331' style='position: absolute; top: 0px; left: 0px; width: 360px; height: 56px; overflow: hidden; opacity: 1; background-color: #262B26FF; border-radius: 28px; '>
+      <!-- inner elements -->
+    </div>
+  </body>
+</html>
+```
+**Description:**
+- **Type**: Search Bar
+- **Mode**: Dark
+- **Color**: Dark green background (`#262B26FF`)
+- **Size**: 360px wide, 56px tall
+- **Shape**: Rounded rectangle with 28px border-radius
+- **Position**: Top-left corner (`top: 0px; left: 0px`)
+- **ID**: `55719:34331`
+- **Function**: Likely serves as the primary search input for the user.
+
+### 3. Full-Screen Search View (Light Mode)
+**Code Snippet:**
+```html
+<html lang='de'>
+  <head><title>search_view_full_screen</title></head>
+  <body>
+    <div class = 'Search-view-full-screen' id = '55719:34331' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 289px; overflow: hidden; opacity: 1; background-color: #E5EAE1FF; border-radius: 0px; '>
+      <!-- inner elements -->
+    </div>
+  </body>
+</html>
+```
+**Description:**
+- **Type**: Full-Screen Search View
+- **Mode**: Light
+- **Color**: Pale green background (`#E5EAE1FF`)
+- **Size**: 412px wide, 289px tall
+- **Shape**: Rectangle with rounded top corners (`border-radius: 28px 28px 0px 0px`)
+- **Position**: Top-left corner (`top: 0px; left: 0px`)
+- **ID**: `55719:34331`
+- **Function**: Provides a detailed and expansive search interface, possibly with additional search results or filters.
+
+### 4. Full-Screen Search View (Dark Mode)
+**Code Snippet:**
+```html
+<html lang='de'>
+  <head><title>search_view_full_screen_dark</title></head>
+  <body>
+    <div class = 'Search-view-full-screen-dark' id = '55719:34331' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 289px; overflow: hidden; opacity: 1; background-color: #262B26FF; border-radius: 0px; '>
+      <!-- inner elements -->
+    </div>
+  </body>
+</html>
+```
+**Description:**
+- **Type**: Full-Screen Search View
+- **Mode**: Dark
+- **Color**: Dark green background (`#262B26FF`)
+- **Size**: 412px wide, 289px tall
+- **Shape**: Rectangle with rounded top corners (`border-radius: 28px 28px 0px 0px`)
+- **Position**: Top-left corner (`top: 0px; left: 0px`)
+- **ID**: `55719:34331`
+- **Function**: Provides a detailed and expansive search interface, possibly with additional search results or filters.
+
+### 5. Modal Search View (Light Mode)
+**Code Snippet:**
+```html
+<html lang='de'>
+  <head><title>search_view_modal</title></head>
+  <body>
+    <div class = 'Search-view-modal' id = '55719:34331' style='position: absolute; top: 0px; left: 0px; width: 360px; height: 273px; overflow: hidden; opacity: 1; background-color: #E5EAE1FF; border-radius: 28px; '>
+      <!-- inner elements -->
+    </div>
+  </body>
+</html>
+```
+**Description:**
+- **Type**: Modal Search View
+- **Mode**: Light
+- **Color**: Pale green background (`#E5EAE1FF`)
+- **Size**: 360px wide, 273px tall
+- **Shape**: Rounded rectangle with 28px border-radius
+- **Position**: Top-left corner (`top: 0px; left: 0px`)
+- **ID**: `55719:34331`
+- **Function**: Displays a modal search interface, likely for specific tasks or filtering options.
+
+### 6. Modal Search View (Dark Mode)
+**Code Snippet:**
+```html
+<html lang='de'>
+  <head><title>search_view_modal_dark</title></head>
+  <body>
+    <div class = 'Search-view-modal-dark' id = '55719:34331' style='position: absolute; top: 0px; left: 0px; width: 360px; height: 273px; overflow: hidden; opacity: 1; background-color: #262B26FF; border-radius: 28px; '>
+      <!-- inner elements -->
+    </div>
+  </body>
+</html>
+```
+**Description:**
+- **Type**: Modal Search View
+- **Mode**: Dark
+- **Color**: Dark green background (`#262B26FF`)
+- **Size**: 360px wide, 273px tall
+- **Shape**: Rounded rectangle with 28px border-radius
+- **Position**: Top-left corner (`top: 0px; left: 0px`)
+- **ID**: `55719:34331`
+- **Function**: Displays a modal search interface, likely for specific tasks or filtering options.
+
+### Image Description:
+Based on the image provided, the mockup shows a mobile user interface in light mode. The interface includes:
+- A header with a left-facing arrow icon, a search input with placeholder text "Suchen...", and a microphone icon to the right.
+- Below the search input, there is a list of previous searches, each with a clock icon on the left and an arrow pointing upwards on the right. The text for each item reads "old search".
+
+The image portrays a light mode design with a pale green background, consistent with the light mode descriptions provided in the HTML code snippets.

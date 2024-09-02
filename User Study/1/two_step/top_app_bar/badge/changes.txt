@@ -1,0 +1,17 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The small badge is placed next to the tab label 'JOURNAL'. While it is correctly positioned and does not overlap with other elements, it might be too small to be noticeable or easily understood by users at a glance."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Consider increasing the size of the small badge or using a large badge if it needs to convey more important information. Ensure that the badge remains visually distinct and noticeable."
+    }
+  ],
+  "guideline_request": "badge size guidelines",
+  "example_request": "badge large"
+}
+```

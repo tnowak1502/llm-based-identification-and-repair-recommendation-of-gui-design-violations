@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. Ambiguity in 'Select all' checkbox: The 'Select all' checkbox is not clearly distinguished from the individual message checkboxes, which can create confusion for the user."
+  ],
+  "changes": [
+    "1. Add a visual distinction (e.g., a different background color or a separator) between the 'Select all' checkbox and the individual message checkboxes to clearly indicate their different functionalities."
+  ],
+  "guideline_request": "checkbox distinction",
+  "example_request": "checkbox group, checkbox select all"
+}
+```

@@ -1,0 +1,60 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces An example of what a component type's section, in this case dividers, looks like on the Material Design website.}}{12}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces A complete overview of our approach. Note: This figure was inspired by an overview figure from \cite {lu_ai_2024}.}}{13}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces An example of an Enrico screen after the first preparation step (left) and after the second preparation step (right). Components are marked with a red border, groups are marked with a green border, and ungrouped components are marked with a teal border. Note that component 17 and group 14 are cropped due to their bottoms being covered by group 0 after step one and that group 9 has been integrated into group 6 after step two.}}{19}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces An example of an Enrico screen during (left) and after (right) the final preparation step. Components are marked the same way as in Figure~\ref {fig:prep_1}, and spaces not covered by a group are marked by a black border. Note the addition of group 21 on the right.}}{20}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces An example of two Enrico screens with low (left) and high (right) smallness values. Components are marked the same way as in Figure~\ref {fig:prep_1}.}}{21}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces An example of two Enrico screens with low (left) and high (right) misalignment values. Components are marked the same way as in Figure~\ref {fig:prep_1}.}}{22}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces An example of two Enrico screens with low (left) and high (right) density values. Components are marked the same way as in Figure~\ref {fig:prep_1}.}}{22}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces An example of two Enrico screens with low (left) and high (right) density values. Components are marked the same way as in Figure~\ref {fig:prep_1}.}}{23}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces An example of the metric overview for a new screen. The new screen's values are indicated by a red bar, and the area covered by one standard deviation around the mean is also highlighted in red.}}{24}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces An example of a screen inspired by the social media app \emph {letterboxd}, in which we manipulated some component measurements (left) and a version of it where the problematic components have been marked with red rectangles (right).}}{25}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces An overview of our two prompting approaches. Note that the first step of the two-step approach looks the same as the one-step approach, so this illustration only includes the second step.}}{26}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces A few-shot example based on the expense-tracking app \emph {Tricount}. In the version on the left, the FAB is small and located in the middle of the screen. In the version on the right, it has been replaced with a larger FAB placed in the bottom right corner.}}{29}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces A few-shot example based on the messaging app \emph {WhatsApp}. In the version on the left, common buttons are used to filter search results. In the version on the right, they have been replaced with chips.}}{30}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces A few-shot example based on the fitness tracking app \emph {adidas Running}. In the version on the left, labels are used inconsistently in the navigation bar. In the version on the right, all destinations are labeled.}}{30}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces A few-shot example based on the food delivery app \emph {Grubhub}. In the version on the left, checkboxes are used to select an option from a list of mutually exclusive options. In the version on the right, radio buttons are used instead.}}{31}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A generic "settings" screen containing a switch at the bottom of the image, which lets the user toggle the app's access to mobile data. In the original image (left), the switch is labeled "Download using mobile data". In the manipulated image (right), the label has been replaced with "Mobile Data".}}{33}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces A screen from a generic email app that contains a snackbar at the bottom of the screen, informing the user that a message has been moved to the trash. In the manipulated version (right), the snackbar has been duplicated multiple times.}}{34}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces A screen inspired by the messaging app \emph {WhatsApp}. The original screen (left) contains two floating action buttons in the bottom right corner. In the manipulated version (right), the larger floating action button had its color changed to one with too little contrast and a badge was added to the smaller floating action button.}}{34}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces A screen from a lifestyle app, inspired by an example on the Material Design website. The original screen (left) contains a bottom sheet. In the manipulated version (right), the sheet contains a carousel.}}{35}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The confusion matrix for the one-step method.}}{38}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The confusion matrix for the two-step method.}}{38}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces A screen from a generic email app that was falsely reported by the one-step method to have issues regarding its top app bar.}}{39}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces A screen inspired by an example from the Material Design website that was falsely reported by the one-step method to have issues regarding the FAB it contains.}}{40}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces A screen from a generic shopping app that was falsely reported by the one-step method to have issues regarding its navigation bar.}}{41}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces A screen inspired by the messaging app \emph {WhatsApp} that was falsely reported by the one-step method to have issues regarding the icon buttons it contains.}}{42}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces A screen from a generic email app that was falsely reported by the one-step method to have issues regarding the bottom app bar it contains.}}{42}{}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces A screen inspired by the video streaming app \emph {Amazon Prime Video} where the one-step method correctly identified an issue regarding the tabs it contains.}}{44}{}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces A screen from a generic shopping app where the one-step method correctly identified an issue regarding the menu it contains.}}{45}{}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces A screen from a generic email app where the one-step method correctly identified an issue regarding the snackbars it contains.}}{45}{}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces A screen inspired by the social media app \emph {reddit} where the two-step method falsely pointed out an issue regarding the top app bar it contains.}}{47}{}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces A screen from a generic email app where the two-step method falsely pointed out an issue regarding the bottom app bar it contains.}}{47}{}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces A screen from a generic email app where the two-step method falsely pointed out an issue regarding the list it contains.}}{48}{}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces A screen inspired by the social media app \emph {Instagram} where the two-step method falsely pointed out an issue regarding the navigation bar it contains.}}{49}{}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces A generic "settings" screen where the two-step method falsely pointed out an issue regarding the radio buttons it contains.}}{50}{}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces A screen inspired by the social media app \emph {reddit} where the two-step method correctly identified an issue regarding the badge it contains.}}{51}{}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces A screen from a generic email app where the two-step method correctly identified an issue regarding the dialog it contains.}}{51}{}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces A screen inspired by an example on the Material Design website where the two-step method correctly identified an issue regarding the bottom sheet it contains.}}{52}{}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces The number of errors per error type that occurred for each method when evaluating the system on the user study.}}{54}{}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces The ratio of changes each participant deemed to be implemented correctly for each method.}}{55}{}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces A screen where the model falsely identified an issue with the FAB and suggested moving it (left). In the "fixed" version (right), the FAB was moved outside of the frame.}}{56}{}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces A screen where the model suggested adding more dividers (left). The "fixed" version (right) looks the same, because the dividers were not added correctly.}}{57}{}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces A screen where the model suggested changing the style of the icon buttons to 'filled' (left), and the fixed version (right).}}{58}{}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces A screen containing a dialog for which the model suggested new text (left), and the fixed version (right).}}{58}{}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces A screen containing radio buttons, for which the model suggested some non-sensible changes (left). In the "fixed" version, a different radio button is preselected.}}{60}{}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces A screen containing multiple cards (left). In the "fixed" version (right), the text on the cards has been shortened and the "share" button has been duplicated.}}{60}{}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces A screen containing a dialog, for which the model suggested some additional text (left). In the fixed version (right), the new text has been added.}}{62}{}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces A screen containing a badge and cards (left). The model suggested moving the badge and truncating the card's titles, as shown in the fixed version (right).}}{62}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces A figure from \cite {duan_generating_2024}, detailing the results of the iterative usage study performed by Duan et al.}}{70}{}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces A figure from \cite {lee_guicomp_2020} which shows the user interface of GUIComp. Panels A1-A3 belong to the base tool (KakaoOven), while the Evaluation (B), Recommendation (C), and Attention (D) panels are added by GUIComp.}}{72}{}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

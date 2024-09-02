@@ -1,0 +1,84 @@
+{
+  'violations': [
+    "1. **Background Color Inconsistency:** The background color of the list items does not match the background color of the list container. This can create a jarring visual effect. (Severity: Medium)",
+    "2. **Text Color Contrast:** The text color of the 'Trailing-supporting-text' elements is too similar to the background color, which affects readability. (Severity: High)"
+  ],
+  'changes': [
+    "1. **Uniform Background Color:** Change the background color of the list items to match the list container's background color (#F6FBF2FF).",
+    "2. **Improve Text Contrast:** Update the text color of the 'Trailing-supporting-text' elements to a darker shade (#181D18FF) to improve readability."
+  ],
+  'changed_components': [
+    "<div class = 'state-layer' id = 'I57805:11842;51964:62997;51964:63504' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 54.999935150146484px; overflow: hidden; opacity: 1; border-radius: 0px; background-color: #F6FBF2FF; '>
+              <div class = 'Leading-element' id = 'I57805:11842;51964:62997;51964:63505' style='position: absolute; top: 3.499967575073242px; left: 16px; width: 48px; height: 48.0px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Checkboxes' config='Selected' id = 'I57805:11842;51964:62997;51964:63506' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'state-layer' id = 'I57805:11842;51964:62997;51964:63506;51859:5630' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                    <div class = 'container' id = 'I57805:11842;51964:62997;51964:63506;51859:5631' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+                    </div>
+                    <div class = 'Icons/check_small' id = 'I57805:11842;51964:62997;51964:63506;51859:5632' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class = 'icon' id = 'I57805:11842;51964:62997;51964:63506;51859:5632;51861:5433' style='position: absolute; top: 6.999999046325684px; left: 6px; width: 12.000001907348633px; height: 9.40000057220459px;'>
+                        <svg height = '9.40000057220459px' width = '12.000001907348633px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 4 9.40000057220459 L 0 5.40000057220459 L 1.4000000953674316 4.000000953674316 L 4 6.600000381469727 L 10.60000228881836 0 L 12.000001907348633 1.4000005722045898 L 4 9.40000057220459 Z' style='fill: #FFFFFFFF;'/>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class = 'Content' id = 'I57805:11842;51964:62997;51964:63507' style='position: absolute; top: 8px; left: 80px; width: 308px; height: 38.999935150146484px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Headline' id = 'I57805:11842;51964:62997;51964:63509' style='position: absolute; top: 7.499967575073242px; left: 0px; width: 309px; height: 24.0px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Select all
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Trailing-supporting-text' id = 'I57805:11842;51964:62998;51964:64371' style='position: absolute; top: 12px; left: 330px; width: 59px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #181D18FF; line-height: 16px; justify-content: right; align-items: top;'>1 hour ago
+            </div>",
+    "<div class = 'state-layer' id = 'I57805:11842;51964:62998;51964:64364' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 104px; overflow: hidden; opacity: 1; border-radius: 0px; background-color: #F6FBF2FF; '>
+              <div class = 'Leading-element' id = 'I57805:11842;51964:62998;51964:64365' style='position: absolute; top: 12px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Checkboxes' config='Selected' id = 'I57805:11842;51964:62998;51964:64366' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'state-layer' id = 'I57805:11842;51964:62998;51964:64366;51859:5630' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                    <div class = 'container' id = 'I57805:11842;51964:62998;51964:64366;51859:5631' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+                    </div>
+                    <div class = 'Icons/check_small' id = 'I57805:11842;51964:62998;51964:64366;51859:5632' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class = 'icon' id = 'I57805:11842;51964:62998;51964:64366;51859:5632;51861:5433' style='position: absolute; top: 6.999999046325684px; left: 6px; width: 12.000001907348633px; height: 9.40000057220459px;'>
+                        <svg height = '9.40000057220459px' width = '12.000001907348633px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 4 9.40000057220459 L 0 5.40000057220459 L 1.4000000953674316 4.000000953674316 L 4 6.600000381469727 L 10.60000228881836 0 L 12.000001907348633 1.4000005722045898 L 4 9.40000057220459 Z' style='fill: #FFFFFFFF;'/>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class = 'Content' id = 'I57805:11842;51964:62998;51964:64367' style='position: absolute; top: 12px; left: 80px; width: 234px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Overline' id = 'I57805:11842;51964:62998;51964:64368' style='position: absolute; top: 0px; left: 0px; width: 235px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: left; align-items: center;'>Walter Bush
+                </div>
+                <div class = 'Headline' id = 'I57805:11842;51964:62998;51964:64369' style='position: absolute; top: 16px; left: 0px; width: 235px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Concert pics
+                </div>
+                <div class = 'Supporting-text' id = 'I57805:11842;51964:62998;51964:64370' style='position: absolute; top: 40px; left: 0px; width: 235px; height: 40px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>here are those concert pictures you asked me about
+                </div>
+              </div>
+              <div class = 'Trailing-supporting-text' id = 'I57805:11842;51964:62998;51964:64371' style='position: absolute; top: 12px; left: 330px; width: 59px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #181D18FF; line-height: 16px; justify-content: right; align-items: top;'>1 hour ago
+              </div>
+            </div>",
+    "<div class = 'Trailing-supporting-text' id = 'I57805:11842;51964:62999;51964:64371' style='position: absolute; top: 12px; left: 318px; width: 71px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #181D18FF; line-height: 16px; justify-content: right; align-items: top;'>12 hours ago
+            </div>",
+    "<div class = 'state-layer' id = 'I57805:11842;51964:62999;51964:64364' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 104px; overflow: hidden; opacity: 1; border-radius: 0px; background-color: #F6FBF2FF; '>
+              <div class = 'Leading-element' id = 'I57805:11842;51964:62999;51964:64365' style='position: absolute; top: 12px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Checkboxes' config='Selected' id = 'I57805:11842;51964:62999;51964:64366' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'state-layer' id = 'I57805:11842;51964:62999;51964:64366;51859:5630' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                    <div class = 'container' id = 'I57805:11842;51964:62999;51964:64366;51859:5631' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+                    </div>
+                    <div class = 'Icons/check_small' id = 'I57805:11842;51964:62999;51964:64366;51859:5632' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class = 'icon' id = 'I57805:11842;51964:62999;51964:64366;51859:5632;51861:5433' style='position: absolute; top: 6.999999046325684px; left: 6px; width: 12.000001907348633px; height: 9.40000057220459px;'>
+                        <svg height = '9.40000057220459px' width = '12.000001907348633px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 4 9.40000057220459 L 0 5.40000057220459 L 1.4000000953674316 4.000000953674316 L 4 6.600000381469727 L 10.60000228881836 0 L 12.000001907348633 1.4000005722045898 L 4 9.40000057220459 Z' style='fill: #FFFFFFFF;'/>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class = 'Content' id = 'I57805:11842;51964:62999;51964:64367' style='position: absolute; top: 12px; left: 80px; width: 222px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Overline' id = 'I57805:11842;51964:62999;51964:64368' style='position: absolute; top: 0px; left: 0px; width: 223px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: left; align-items: center;'>Walter Bush
+                </div>
+                <div class = 'Headline' id = 'I57805:11842;51964:62999;51964:64369' style='position: absolute; top: 16px; left: 0px; width: 223px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Lunch on Saturday?
+                </div>
+                <div class = 'Supporting-text' id = 'I57805:11842;51964:62999;51964:64370' style='position: absolute; top: 40px; left: 0px; width: 223px; height: 40px; opacity: 1; display: flex; white-space: pre-line; font-family:

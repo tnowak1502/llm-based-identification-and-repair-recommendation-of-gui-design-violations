@@ -1,0 +1,56 @@
+The provided code snippet represents a dark mode menu in a mobile user interface mockup. Here is a detailed description of each menu item:
+
+### General Menu Description
+- **Mode:** Dark mode
+- **Position:** Absolute; `top: 56px; left: 202px;`
+- **Size:** Width: 200px; Height: 296px;
+- **Color:** Background color: `#1C211CFF`
+- **Shape:** Rounded corners with a border-radius of 4px
+- **Shadow:** Drop-shadow effect with `0px 1px 2px #0000004C`
+- **ID:** `55406:10536`
+
+### Menu List
+- **Position:** Absolute; `top: 8px; left: 0px;`
+- **Size:** Width: 200px; Height: 280px;
+- **ID:** `I55406:10536;54061:37114`
+
+### Menu Items
+
+#### Menu Item 1
+- **Label:** Neue Gruppe
+- **Position:** Absolute; `top: 0px; left: 0px;`
+- **Size:** Width: 200px; Height: 56px;
+- **Text Style:** Font-family: Roboto; Font-size: 16px; Font-weight: 400; Color: `#DFE4DCFF`; Line-height: 24px; Letter-spacing: 0.5px
+- **ID:** `I55406:10536;54061:37115`
+
+#### Menu Item 2
+- **Label:** Neuer Broadcast
+- **Position:** Absolute; `top: 56px; left: 0px;`
+- **Size:** Width: 200px; Height: 56px;
+- **Text Style:** Font-family: Roboto; Font-size: 16px; Font-weight: 400; Color: `#DFE4DCFF`; Line-height: 24px; Letter-spacing: 0.5px
+- **ID:** `I55406:10536;54061:37116`
+
+#### Menu Item 3
+- **Label:** Verknüpfte Geräte
+- **Position:** Absolute; `top: 112px; left: 0px;`
+- **Size:** Width: 200px; Height: 56px;
+- **Text Style:** Font-family: Roboto; Font-size: 16px; Font-weight: 400; Color: `#DFE4DCFF`; Line-height: 24px; Letter-spacing: 0.5px
+- **ID:** `I55406:10536;54061:37117`
+
+#### Menu Item 4
+- **Label:** Mit Stern markiert
+- **Position:** Absolute; `top: 168px; left: 0px;`
+- **Size:** Width: 200px; Height: 56px;
+- **Icon:** Positioned at `top: 16px; left: 12px;` Size: Width: 24px; Height: 24px; Color: `#C1C9BEFF`
+- **Text Style:** Font-family: Roboto; Font-size: 16px; Font-weight: 400; Color: `#DFE4DCFF`; Line-height: 24px; Letter-spacing: 0.5px; Positioned at `left: 48px`
+- **ID:** `I55406:10536;54061:37118`
+
+#### Menu Item 5
+- **Label:** Einstellungen
+- **Position:** Absolute; `top: 224px; left: 0px;`
+- **Size:** Width: 200px; Height: 56px;
+- **Icon:** Positioned at `top: 16px; left: 12px;` Size: Width: 24px; Height: 24px; Color: `#C1C9BEFF`
+- **Text Style:** Font-family: Roboto; Font-size: 16px; Font-weight: 400; Color: `#DFE4DCFF`; Line-height: 24px; Letter-spacing: 0.5px; Positioned at `left: 48px`
+- **ID:** `I55406:10536;54061:37119`
+
+The menu consists of five items, each with distinct labels and icons where applicable. The design is consistent with dark mode standards, featuring light text on a dark background for enhanced readability.

@@ -1,0 +1,36 @@
+Here's the detailed description of the FAB (Floating Action Button) in the mockup you've provided:
+
+### FAB Description:
+
+1. **Type**: Small FAB
+2. **Color**: Background color is light green (`#E5EAE1FF`), with the icon color being dark green (`#326940FF`).
+3. **Size**: 40px by 40px
+4. **Shape**: Rounded rectangle with a border radius of 12px
+5. **Position**:
+    - **Top**: 730px 
+    - **Left**: 186px 
+    - **General Description**: The FAB is positioned near the bottom center of the screen, slightly above the bottom bar.
+6. **ID**: `55272:3170`
+7. **Likely Function**: The icon inside the FAB resembles a pencil, suggesting that the button is likely used for editing or creating new entries.
+8. **Additional Attributes**:
+    - **Overflow**: Hidden
+    - **Opacity**: 1
+    - **Drop Shadow**: Yes, with the values `drop-shadow(0px 1px 3px #0000004C)`
+    - **Filter**: Drop-shadow for better visibility and prominence.
+
+### Icon Inside FAB:
+
+1. **Type**: Pencil (edit icon)
+2. **Position**:
+    - **Top**: 8px from the top of the FAB
+    - **Left**: 8px from the left of the FAB
+    - **Size**: 24px by 24px
+    - **General Description**: The icon is centered within the FAB.
+3. **Icon ID**: `I55272:3170;51700:4560;50731:11362`
+4. **Icon Path Details**:
+    - Icon is an SVG with dimensions 18.002500534057617px by 17.9950008392334px
+    - The path defines a pencil shape filled with the color `#326940FF`.
+
+### Summary:
+
+The FAB in this mockup is a small, light green button with a pencil icon, positioned near the bottom center of the screen. It is designed for editing or creating new entries, featuring a subtly rounded shape and a shadow for emphasis. The icon is centrally placed within the FAB, set against a light green background that contrasts with the dark green pencil icon.

@@ -1,0 +1,11 @@
+```json
+{
+  "violations": "The checkboxes for 'Daily', 'Weekly', and 'Monthly' do not violate any Material Design 3 guidelines. However, the checkbox for 'Receive emails' could be confusing. Since selecting 'Receive emails' automatically implies the selection of one of the 'Daily', 'Weekly', or 'Monthly' options, it might be better to use a switch for 'Receive emails' and then show the frequency options as radio buttons when 'Receive emails' is toggled on.",
+  "changes": [
+    "Replace the checkbox for 'Receive emails' with a switch to clearly indicate that it toggles the entire email functionality on or off.",
+    "Use radio buttons for 'Daily', 'Weekly', and 'Monthly' to show the user that they can select only one option at a time."
+  ],
+  "guideline_request": "switch, radio button",
+  "example_request": "switch example, radio button example"
+}
+```

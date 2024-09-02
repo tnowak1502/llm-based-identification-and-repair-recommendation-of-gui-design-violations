@@ -1,0 +1,26 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "High",
+      "description": "There are too many dividers separating each navigation item. Material Design guidelines suggest using dividers to separate groups of destinations, not individual items."
+    },
+    {
+      "severity": "Medium",
+      "description": "There is no clear grouping of related destinations using section headers or other grouping methods. All the navigation items appear to be listed without any form of categorization."
+    }
+  ],
+  "changes": [
+    {
+      "severity": "High",
+      "description": "Remove the excessive dividers. Keep dividers only where necessary to separate distinct groups of destinations."
+    },
+    {
+      "severity": "Medium",
+      "description": "Keep the dividers in such a way that you create sensible groups. For example, you can categorize 'Renting History', 'Inbox', 'Wallet', and 'Coupons' as one group, 'Pricing', 'User Agreement' and 'Privacy' as another, and 'Support' and 'Account Settings' as the last one."
+    }
+  ],
+  "guideline_request": "navigation drawer guidelines, divider usage guidelines",
+  "example_request": "example of navigation drawer with grouped destinations"
+}
+```

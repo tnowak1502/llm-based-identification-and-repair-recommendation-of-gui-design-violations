@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Carousel items too small: The last item in the carousel is very narrow, making it difficult to discern its content. This goes against the guideline that items should never be too small to tell what they are.",
+    "2. Inconsistent item sizes: The items in the carousel have different widths, which can make the carousel look unbalanced and may confuse users."
+  ],
+  "changes": [
+    "1. Increase the width of the last carousel item so that it is large enough to discern its content clearly.",
+    "2. Ensure that all carousel items have consistent widths to maintain a balanced and visually appealing layout."
+  ],
+  "guideline_request": "carousel item size consistency",
+  "example_request": "multi-browse-carousel"
+}
+```

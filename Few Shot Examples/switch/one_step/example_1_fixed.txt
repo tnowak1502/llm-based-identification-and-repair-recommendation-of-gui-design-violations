@@ -1,0 +1,47 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The switch is being used to toggle between two opposing options: 'Delivery' and 'Pick up'. According to the Material Design 3 guidelines, switches should be used for independent on/off choices, not for mutually exclusive options.",
+      "reasoning": "Switches should not be used to select between two opposing options. Instead, segmented buttons should be used for such purposes."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Replace the switch with a segmented button component to toggle between 'Delivery' and 'Pick up' options.",
+      "reasoning": "Segmented buttons are more appropriate for choices between two opposing options, ensuring clarity and proper use according to Material Design principles."
+    }
+  ],
+  "changed_components": [
+    "<div class = 'Segmented-button-dark' id = '55637:7954' style='position: absolute; top: 7px; left: 211px; width: 169px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Segment-start' id = 'I55062:1057;53923:37123' config='label & icon' style='position: absolute; top: 0px; left: 0px; width: 85px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I55062:1057;53923:37123;53923:37389' style='position: absolute; top: 4px; left: 0px; width: 85px; height: 28px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px 0px 0px 100px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+                <div class = 'state-layer' id = 'I55062:1057;53923:37123;53923:37390' style='position: absolute; top: 0px; left: 0px; width: 85px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Selected-icon' id = 'I55062:1057;53923:37123;53923:37391' style='position: absolute; top: 5px; left: 4px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55062:1057;53923:37123;53923:37391;50656:8963' style='position: absolute; top: 4.192500114440918px; left: 2.557500123977661px; width: 13.192500114440918px; height: 10.057499885559082px;'>
+                      <svg height = '10.057499885559082px' width = '13.192500114440918px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 4.192500114440918 7.934999942779541 L 1.0649999678134918 4.807499885559082 L 0 5.865000128746033 L 4.192500114440918 10.057499885559082 L 13.192500114440918 1.0574999749660492 L 12.135000228881836 0 L 4.192500114440918 7.934999942779541 Z' style='fill: #D3E8D2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                  <div class = 'label-text' id = 'I55062:1057;53923:37123;53923:37392' style='position: absolute; top: 4px; left: 30px; width: 52px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Delivery
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Segment-end' id = 'I55062:1057;53923:37124' config='label only' style='position: absolute; top: 0px; left: 84px; width: 85px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I55062:1057;53923:37124;53923:37501' style='position: absolute; top: 4px; left: 0px; width: 85px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px 100px 100px 0px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+                <div class = 'state-layer' id = 'I55062:1057;53923:37124;53923:37502' style='position: absolute; top: 0px; left: 0px; width: 85px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'label-text' id = 'I55062:1057;53923:37124;53923:37503' style='position: absolute; top: 4px; left: 18px; width: 50px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #DFE4DCFF; line-height: 20px; justify-content: center; align-items: center;'>Pick Up
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>"
+  ],
+  "deleted_components": [
+    "55637:7963",
+    "55637:7962"
+  ],
+  "new_components": []
+}

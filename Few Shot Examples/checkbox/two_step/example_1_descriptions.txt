@@ -1,0 +1,67 @@
+Here is a detailed, succinct description of each checkbox element based on the provided code snippets and the given image:
+
+1. **Checkbox 1**:
+   - **Type**: Unselected
+   - **Color**: Grey border
+   - **Size**: 44px wide, 48px tall
+   - **Shape**: Rounded rectangle with a circular state layer
+   - **Position**: Positioned at (4px, 292px) from the top-left corner of its container
+   - **ID**: I55698:14332;51964:70976;51964:71082
+   - **Likely Function**: To sort/filter by "User rating"
+   - **Attributes**:
+     - Outer container with dimensions 44px by 48px
+     - Inner state layer with a diameter of 40px, centered with 4px margin
+     - Inner container with dimensions 18px by 18px, centered with 11px margin, and a 2px grey border
+
+2. **Checkbox 2**:
+   - **Type**: Selected
+   - **Color**: Light green fill with a dark green checkmark
+   - **Size**: 44px wide, 48px tall
+   - **Shape**: Rounded rectangle with a circular state layer
+   - **Position**: Positioned at (4px, 292px) from the top-left corner of its container
+   - **ID**: I55698:14332;51964:70973;51964:71082
+   - **Likely Function**: To sort/filter by "Most relevant"
+   - **Attributes**:
+     - Outer container with dimensions 44px by 48px
+     - Inner state layer with a diameter of 40px, centered with 4px margin
+     - Inner container with dimensions 18px by 18px, centered with 11px margin, filled with light green color
+     - Checkmark icon within an element sized 24px by 24px, positioned at (8px, 8px) with a dark green fill
+
+3. **Checkbox 3**:
+   - **Type**: Unselected
+   - **Color**: Grey border
+   - **Size**: 44px wide, 48px tall
+   - **Shape**: Rounded rectangle with a circular state layer
+   - **Position**: Positioned at (4px, 292px) from the top-left corner of its container
+   - **ID**: I55698:14332;51964:70975;51964:71082
+   - **Likely Function**: To sort/filter by "Distance"
+   - **Attributes**:
+     - Outer container with dimensions 44px by 48px
+     - Inner state layer with a diameter of 40px, centered with 4px margin
+     - Inner container with dimensions 18px by 18px, centered with 11px margin, and a 2px grey border
+
+4. **Checkbox 4**:
+   - **Type**: Unselected
+   - **Color**: Grey border
+   - **Size**: 44px wide, 48px tall
+   - **Shape**: Rounded rectangle with a circular state layer
+   - **Position**: Positioned at (4px, 292px) from the top-left corner of its container
+   - **ID**: I55698:14332;51964:70974;51964:71082
+   - **Likely Function**: To sort/filter by "Minimum order cost"
+   - **Attributes**:
+     - Outer container with dimensions 44px by 48px
+     - Inner state layer with a diameter of 40px, centered with 4px margin
+     - Inner container with dimensions 18px by 18px, centered with 11px margin, and a 2px grey border
+
+5. **Checkbox 5**:
+   - **Type**: Unselected
+   - **Color**: Grey border
+   - **Size**: 44px wide, 48px tall
+   - **Shape**: Rounded rectangle with a circular state layer
+   - **Position**: Positioned at (4px, 292px) from the top-left corner of its container
+   - **ID**: I55698:14332;51964:70977;51964:71082
+   - **Likely Function**: Additional sorting/filtering option
+   - **Attributes**:
+     - Outer container with dimensions 44px by 48px
+     - Inner state layer with a diameter of 40px, centered with 4px margin
+     - Inner container with dimensions 18px by 18px, centered with 11px margin, and a 2px grey border

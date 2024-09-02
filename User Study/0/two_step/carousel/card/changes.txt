@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The cards contain repetitive content. According to Material Design 3 Guidelines, information should be succinct, unambiguous, and not repetitive. Having multiple cards with the same content can confuse users and clutter the interface."
+    },
+    {
+      "severity": "medium",
+      "description": "The cards are missing clear visual hierarchy. The 'Call this contact' action in the first card is not visually distinct as an actionable element. According to Material Design 3 Guidelines, it should never be ambiguous which parts of the UI can be interacted with."
+    }
+  ],
+  "changes": [
+    {
+      "change": "Combine repetitive cards into a single card or list item to reduce redundancy and make the information more succinct."
+    },
+    {
+      "change": "Make the 'Call this contact' action more visually distinct by using a button or a chip component to clearly indicate it as an actionable element."
+    }
+  ],
+  "guideline_request": "Card guidelines, Button guidelines",
+  "example_request": "card, button"
+}

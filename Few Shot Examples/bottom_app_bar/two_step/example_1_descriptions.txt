@@ -1,0 +1,24 @@
+Here is a detailed description of the bottom app bar contained in the mockup:
+
+- **Type and ID**: This is a `Bottom-app-bar` with the ID `55725:5438`.
+- **Appearance and Mode**: The design is in light mode. The bottom app bar has a background color of `#EBEFE7FF` (a light greenish-gray color), indicating a standard mode rather than a dark mode.
+- **Position and Size**: 
+  - It is positioned at the bottom of the screen (absolute positioning) with the coordinates `top: 724px` and `left: 0px`.
+  - The dimensions are `width: 412px` and `height: 80px`.
+- **Shape and Overflow**: The bottom app bar has no border radius (`border-radius: 0px`), resulting in sharp edges. The overflow is hidden, which means any content that exceeds the specified dimensions will be clipped and not visible.
+- **Opacity**: The opacity is set to 1, which means it is fully opaque with no transparency.
+- **Leading Icon**:
+  - Positioned at `top: 16px` and `left: 4px`, the leading icon has a size of `width: 48px` and `height: 48px`.
+  - It contains a search icon (standard icon) within a circular container (`border-radius: 100px`) with the ID `I55725:5438;51175:4950`.
+  - The search icon itself has a dark gray color (`#414941FF`), likely indicating functionality related to searching within the app.
+- **FAB (Floating Action Button)**:
+  - Positioned at `top: 12px` and `left: 340px`, the FAB has a size of `width: 56px` and `height: 56px`.
+  - It is configured as a secondary action with a background color of `#D3E8D2FF` (a light green color) and a border radius of `16px`, giving it rounded corners.
+  - The button also includes a drop shadow effect (`filter: drop-shadow(0px 1px 3px #0000004C)`), adding depth to the design.
+  - Inside the FAB, there is an icon representing the addition of a new item (`M 16 9 L 9 9 L 9 16 L 7 16 L 7 9 L 0 9 L 0 7 L 7 7 L 7 0 L 9 0 L 9 7 L 16 7 L 16 9 Z`) with a color `#0E1F12FF` (a dark green color), suggesting functionalities like adding a new task or creating new content.
+
+**Likely Functionality**:
+- The leading icon (search icon) is likely for search functionality within the app, allowing users to search for specific items or content.
+- The Floating Action Button (FAB) is likely for adding new content or performing a similar primary action.
+
+Overall, this bottom app bar is designed to offer essential functions like searching and adding new content, positioned at the bottom of the user interface in a light mode design.

@@ -1,0 +1,23 @@
+{
+  "violations": "The segmented button segments have different configurations: one has a label and icon, while the other only has a label. According to the guidelines, all segments of a segmented button should be styled the same way.",
+  "changes": "Ensure both segments of the segmented button have both a label and an icon.",
+  "changed_components": [
+    "<div class = 'Icon' id = 'I57811:38955;53923:37124;53923:37507' style='position: absolute; top: 5px; left: 4px; width: 18.0px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='icon' id='I57811:38955;53923:37124;53923:37507;50760:11404' style='position: absolute; top: 4.192500114440918px; left: 2.557500123977661px; width: 13.192500114440918px; height: 10.057499885559082px;'>
+        <svg height = '10.057499885559082px' width = '13.192500114440918px' xmlns = 'http://www.w3.org/2000/svg'>
+          <path d='M 4.192500114440918 7.934999942779541 L 1.0649999678134918 4.807499885559082 L 0 5.865000128746033 L 4.192500114440918 10.057499885559082 L 13.192500114440918 1.0574999749660492 L 12.135000228881836 0 L 4.192500114440918 7.934999942779541 Z' style='fill: #DFE4DCFF;'/>
+        </svg>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": [
+    ["<div class = 'Icon' id = 'I57811:38955;53923:37123;53923:37391' style='position: absolute; top: 5px; left: 4px; width: 18.0px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='icon' id='I57811:38955;53923:37123;53923:37391;50656:8963' style='position: absolute; top: 4.192500114440918px; left: 2.557500123977661px; width: 13.192500114440918px; height: 10.057499885559082px;'>
+        <svg height = '10.057499885559082px' width = '13.192500114440918px' xmlns = 'http://www.w3.org/2000/svg'>
+          <path d='M 4.192500114440918 7.934999942779541 L 1.0649999678134918 4.807499885559082 L 0 5.865000128746033 L 4.192500114440918 10.057499885559082 L 13.192500114440918 1.0574999749660492 L 12.135000228881836 0 L 4.192500114440918 7.934999942779541 Z' style='fill: #DFE4DCFF;'/>
+        </svg>
+      </div>
+    </div>", "I57811:38955;53923:37123;53923:37390"]
+  ]
+}

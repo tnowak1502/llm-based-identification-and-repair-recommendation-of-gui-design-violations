@@ -1,0 +1,30 @@
+Certainly! Here is a detailed, concise, natural-language description of each icon button based on the provided code snippets and the image:
+
+1. **Icon Button: Elie Pietersen**
+   - **Type:** `tonal`
+   - **Color:** Background color of the container is a light green shade (`#D3E8D2FF`), and the icon is a dark green color (`#0E1F12FF`).
+   - **Size:** The outer container is `48px` by `48px`, with an inner container of `40px` by `40px`, and the icon itself is `24px` by `24px`.
+   - **Shape:** The outer container has no border-radius, making it a square, while the inner container has a `100px` border-radius, making it circular.
+   - **Position:** Positioned at `top: 8px` and `left: 308px` within its parent element.
+   - **ID:** `I55766:20907;52350:27750`
+   - **Likely Function:** The star icon suggests a bookmarking or favoriting function.
+
+2. **Icon Button: Sam Pietersen**
+   - **Type:** `filled`
+   - **Color:** Background color of the container is a green shade (`#326940FF`), and the icon is white (`#FFFFFFFF`).
+   - **Size:** The outer container is `48px` by `48px`, with an inner container of `40px` by `40px`, and the icon itself is `24px` by `24px`.
+   - **Shape:** The outer container has no border-radius, making it a square, while the inner container has a `100px` border-radius, making it circular.
+   - **Position:** Positioned at `top: 8px` and `left: 308px` within its parent element.
+   - **ID:** `I55766:20908;52350:27750`
+   - **Likely Function:** The star icon suggests a bookmarking or favoriting function.
+
+3. **Icon Button: Renee Claes**
+   - **Type:** `outlined`
+   - **Color:** The container has an outline color (`#717970FF`), and the icon is a dark grey color (`#414941FF`).
+   - **Size:** The outer container is `48px` by `48px`, with an inner container of `40px` by `40px`, and the icon itself is `24px` by `24px`.
+   - **Shape:** The outer container has no border-radius, making it a square, while the inner container has a `100px` border-radius, making it circular.
+   - **Position:** Positioned at `top: 8px` and `left: 308px` within its parent element.
+   - **ID:** `I55766:20909;52350:27750`
+   - **Likely Function:** The star icon suggests a bookmarking or favoriting function.
+
+Each of these icon buttons appears to be used for indicating a "favorite" or "bookmark" action, signified by the star icon. The differences in their styles (`tonal`, `filled`, and `outlined`) provide variations in their visual presentation.

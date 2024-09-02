@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. The use of full-width dividers (#BA1A1AFF, Red) in the 'Checking Account,' 'Savings,' and 'Investing' sections might be too bold and visually disruptive, which can detract from the readability of the sections they divide. Material Design Guidelines suggest that dividers should be visible but not bold."
+  ],
+  "changes": [
+    "1. Change the color of the dividers to a more neutral and less bold color, such as #C1C9BEFF (light grey), to make them less disruptive while still maintaining visibility."
+  ],
+  "guideline_request": "Color guidelines for dividers",
+  "example_request": "Examples of inset and full-width dividers with less bold colors"
+}

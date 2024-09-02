@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Bottom Sheet Content: The bottom sheet contains a carousel, which is not typically secondary content. Bottom sheets should contain secondary content, not the main content of the app. This is a moderate violation because it affects the clarity of the app's content hierarchy.",
+    "2. Bottom Sheet Height: The bottom sheet appears to be too tall. Bottom sheets should not cover too much of the screen initially. This is a minor violation as it affects usability slightly."
+  ],
+  "changes": [
+    "1. Move the carousel out of the bottom sheet and place it in the main content area of the app.",
+    "2. Reduce the height of the bottom sheet so that it does not cover too much of the screen initially."
+  ],
+  "guideline_request": "Bottom sheet content, Bottom sheet height",
+  "example_request": "Bottom sheet"
+}

@@ -1,0 +1,6 @@
+Violations:
+1. Carousel items too large: The carousel items are too wide, causing only one item to be fully visible at a time. This does not utilize the available space efficiently. 2. Missing 'Show All' button: A 'Show All' button is recommended next to the carousel.
+
+Changes:
+1. Reduce the width of the carousel items to show at least two items at a time.
+2. Add a 'Show All' button next to the carousel.

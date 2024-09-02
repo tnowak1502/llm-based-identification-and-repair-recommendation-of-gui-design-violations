@@ -1,0 +1,19 @@
+{
+  "violations": "The navigation bar contains four icons, but one of the icons (the house icon) is not highlighted to indicate the current active screen. This can cause confusion for users as they may not easily identify the current screen they are on.",
+  "changes": "Highlight the active icon (house icon) to indicate the current active screen.",
+  "changed_components": [
+    "<div class = 'icon-container' id = 'I57805:15404;52031:23836;52031:22812' style='position: absolute; top: 22px; left: 30.5px; width: 32.0px; height: 32px; opacity: 1; background-color: #394B3BFF; border-radius: 16px; '>
+      <div class = 'state-layer' id = 'I57805:15404;52031:23836;52031:22813' style='position: absolute; top: 0px; left: 0px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'Icon' id = 'I57805:15404;52031:23836;52031:22814' style='position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Vector' id='I57805:15404;52031:23836;52031:22814;55204:70257' style='position: absolute; top: 3.5px; left: 2px; width: 20px; height: 17.0px;'>
+            <svg height = '17.0px' width = '20px' xmlns = 'http://www.w3.org/2000/svg'>
+              <path d='M 10 2.690000057220459 L 15 7.189999580383301 L 15 15 L 13 15 L 13 9 L 7 9 L 7 15 L 5 15 L 5 7.189999580383301 L 10 2.690000057220459 Z M 10 0 L 0 9 L 3 9 L 3 17 L 9 17 L 9 11 L 11 11 L 11 17 L 17 17 L 17 9 L 20 9 L 10 0 Z' style='fill: #D3E8D2FF;'/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

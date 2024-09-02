@@ -1,0 +1,89 @@
+{
+  "violations": [
+    "1. **Proximity and Grouping Issues:** The sections 'Language' and 'Email settings' are not clearly separated from their respective options. The use of dividers or spacing could help in making the grouping more apparent. (Severity: Medium)",
+    "2. **Inconsistent Leading Elements:** The leading elements (radio buttons, checkboxes, switch) are inconsistently placed. They should be consistently aligned to the left for better visual hierarchy. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Add Dividers:** Add dividers between 'Language' and 'Email settings' sections to clearly separate them.",
+    "2. **Align Leading Elements:** Ensure all leading elements (radio buttons, checkboxes, switch) are consistently aligned to the left."
+  ],
+  "changed_components": [
+    "<div class = 'List' id = '57805:10799' style='position: absolute; top: 149px; left: 0px; width: 412px; height: 655px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>
+            <div class = 'List-item-1' id = 'I57805:10799;51964:62996' config='1-line' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I57805:10799;51964:62996;51964:63039' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I57805:10799;51964:62996;51964:63040' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Content' id = 'I57805:10799;51964:62996;51964:63041' style='position: absolute; top: 8px; left: 16px; width: 372px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I57805:10799;51964:62996;51964:63043' style='position: absolute; top: 8px; left: 0px; width: 373px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Language
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Divider' id = 'I57805:10799;51964:62996;51964:63534' style='position: absolute; top: 55.999969482421875px; left: 0px; width: 412px; height: 1.0000280141830444px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <hr class = 'Divider' id = 'I57805:10799;51964:62996;51964:63534;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+            </div>",
+    "<div class = 'List-item-5' id = 'I57805:10799;51964:63000' config='1-line' style='position: absolute; top: 225.00006103515625px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I57805:10799;51964:63000;51964:63039' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I57805:10799;51964:63000;51964:63040' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Content' id = 'I57805:10799;51964:63000;51964:63041' style='position: absolute; top: 8px; left: 16px; width: 372px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I57805:10799;51964:63000;51964:63043' style='position: absolute; top: 8px; left: 0px; width: 373px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Email settings
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'Divider' id = 'I57805:10799;51964:63000;51964:63534' style='position: absolute; top: 280.999969482421875px; left: 0px; width: 412px; height: 1.0000280141830444px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <hr class = 'Divider' id = 'I57805:10799;51964:63000;51964:63534;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+            </div>",
+    "<div class = 'Leading-element' id = 'I57805:10799;51964:63001;51964:63505' style='position: absolute; top: 4px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Checkboxes' id = 'I57805:10799;51964:63001;51964:63506' config='Selected' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'state-layer' id = 'I57805:10799;51964:63001;51964:63506;51859:5630' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                  <div class = 'container' id = 'I57805:10799;51964:63001;51964:63506;51859:5631' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+                  </div>
+                  <div class = 'Icons/check_small' id = 'I57805:10799;51964:63001;51964:63506;51859:5632' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'icon' id = 'I57805:10799;51964:63001;51964:63506;51859:5632;51861:5433' style='position: absolute; top: 6.999999046325684px; left: 6px; width: 12.000001907348633px; height: 9.40000057220459px;'>
+                      <svg height = '9.40000057220459px' width = '12.000001907348633px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 4 9.40000057220459 L 0 5.40000057220459 L 1.4000000953674316 4.000000953674316 L 4 6.600000381469727 L 10.60000228881836 0 L 12.000001907348633 1.4000005722045898 L 4 9.40000057220459 Z' style='fill: #FFFFFFFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Leading-element' id = 'I57805:10799;51964:63002;51964:63505' style='position: absolute; top: 4px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Checkboxes' id = 'I57805:10799;51964:63002;51964:63506' config='Selected' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'state-layer' id = 'I57805:10799;51964:63002;51964:63506;51859:5630' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                  <div class = 'container' id = 'I57805:10799;51964:63002;51964:63506;51859:5631' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+                  </div>
+                  <div class = 'Icons/check_small' id = 'I57805:10799;51964:63002;51964:63506;51859:5632' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'icon' id = 'I57805:10799;51964:63002;51964:63506;51859:5632;51861:5433' style='position: absolute; top: 6.999999046325684px; left: 6px; width: 12.000001907348633px; height: 9.40000057220459px;'>
+                      <svg height = '9.40000057220459px' width = '12.000001907348633px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 4 9.40000057220459 L 0 5.40000057220459 L 1.4000000953674316 4.000000953674316 L 4 6.600000381469727 L 10.60000228881836 0 L 12.000001907348633 1.4000005722045898 L 4 9.40000057220459 Z' style='fill: #FFFFFFFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Leading-element' id = 'I57805:10799;51964:63003;51964:63505' style='position: absolute; top: 4px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Checkboxes' id = 'I57805:10799;51964:63003;51964:63506' config='Selected' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'state-layer' id = 'I57805:10799;51964:63003;51964:63506;51859:5630' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                  <div class = 'container' id = 'I57805:10799;51964:63003;51964:63506;51859:5631' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+                  </div>
+                  <div class = 'Icons/check_small' id = 'I57805:10799;51964:63003;51964:63506;51859:5632' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'icon' id = 'I57805:10799;51964:63003;51964:63506;51859:5632;51861:5433' style='position: absolute; top: 6.999999046325684px; left: 6px; width: 12.000001907348633px; height: 9.40000057220459px;'>
+                      <svg height = '9.40000057220459px' width = '12.000001907348633px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 4 9.40000057220459 L 0 5.40000057220459 L 1.4000000953674316 4.000000953674316 L 4 6.600000381469727 L 10.60000228881836 0 L 12.000001907348633 1.4000005722045898 L 4 9.40000057220459 Z' style='fill: #FFFFFFFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Leading-element' id = 'I57805:10799;51964:63004;51964:63505' style='position: absolute; top: 4px; left: 16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Checkboxes' id = 'I57805:10799;51964:63004;51964:63506' config='Selected' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'state-layer' id = 'I57805:10799;51964:63004;51964:63506;51859:5630' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                  <div class = 'container' id = 'I57805:10799;51964:63004;51964:63506;51859:5631' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+                  </div>
+                  <div class = 'Icons/check_small' id = 'I57805:10799;51964:63004;51964:63506;51859:5632' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'icon' id = 'I57805:10799;51964:63004;51964:63506;51859:5632;51861:5433' style='position: absolute; top: 6.999999046325684px;

@@ -1,0 +1,76 @@
+Here is a detailed description of the tabs in the mockup based on the provided HTML code snippets and the image:
+
+### General Description:
+- The design uses a light mode interface.
+- The tabs are positioned at the top of the screen, just below the search bar, with their container starting at 56px from the top and stretching 49px in height across the width of the screen (412px).
+- The background color of the tabs is #F6FBF2FF, a light greenish hue.
+- Each tab has a height of 48px within the container.
+
+### Individual Tabs:
+
+#### Tab 1: "Für mich"
+- **ID**: 55705:22513
+- **Position**: Left edge, starting at 3px from the left of the container.
+- **Size**: 102px wide, 48px tall.
+- **Configuration**: Selected tab.
+- **Background Color**: #F6FBF2FF
+- **Label**: "Für mich", centered within the tab.
+  - **Font**: Roboto, 14px, medium weight, letter-spacing of 0.1px.
+  - **Color**: #326940FF (a dark green color).
+  - **Position**: Centered, with the label starting at 23px from the left and spanning 56px.
+- **Indicator**: A green line below the tab.
+  - **Position**: 34px from the top, 0px from the left.
+  - **Size**: 56px wide, 14px tall (with the actual green line being 52px wide and 3px tall).
+  - **Color**: #326940FF
+  - **Shape**: Rounded (border-radius: 100px 100px 0px 0px).
+
+#### Tab 2: "Top-..."
+- **ID**: 55705:22514
+- **Position**: 105px from the left.
+- **Size**: 102px wide, 48px tall.
+- **Configuration**: Unselected.
+- **Background Color**: #F6FBF2FF.
+- **Label**: "Top-C...", centered within the tab.
+  - **Font**: Roboto, 14px, medium weight, letter-spacing of 0.1px.
+  - **Color**: #414941FF (a dark grey color).
+  - **Position**: Centered, with the label starting at 26px from the left and spanning 50px.
+
+#### Tab 3: "Kinder"
+- **ID**: 55705:22515
+- **Position**: 207px from the left.
+- **Size**: 102px wide, 48px tall.
+- **Configuration**: Unselected.
+- **Background Color**: #F6FBF2FF.
+- **Label**: "Kinder", centered within the tab.
+  - **Font**: Roboto, 14px, medium weight, letter-spacing of 0.1px.
+  - **Color**: #414941FF.
+  - **Position**: Centered, with the label starting at 30px from the left and spanning 42px.
+
+#### Tab 4: "Kateg..."
+- **ID**: 55705:22516
+- **Position**: 309px from the left.
+- **Size**: 102px wide, 48px tall.
+- **Configuration**: Unselected.
+- **Background Color**: #F6FBF2FF.
+- **Label**: "Kateg...", centered within the tab.
+  - **Font**: Roboto, 14px, medium weight, letter-spacing of 0.1px.
+  - **Color**: #414941FF.
+  - **Position**: Centered, with the label starting at 26.5px from the left and spanning 49px.
+
+### Additional Element:
+- **Divider**: 
+  - **ID**: 55705:22529
+  - **Position**: 48px from the top, spanning the width of the container (412px).
+  - **Size**: 1px tall.
+  - **Color**: #DFE4DCFF (a light grey color).
+
+### Likely Function:
+Each tab likely serves as a navigation element for different sections of the application. The selected tab ("Für mich") is highlighted with a green underline, indicating it is the active section. The other tabs ("Top-C...", "Kinder", and "Kateg...") are inactive and will switch the content view when selected.
+
+### Visual Mode:
+- **Mode**: Light mode.
+- **Background of Tabs**: Light greenish hue (#F6FBF2FF).
+- **Text Color**: Dark green (#326940FF) for the selected tab, dark grey (#414941FF) for unselected tabs.
+- **Indicator Color**: Green (#326940FF) for the selected tab.
+
+This detailed description should give a clear understanding of the tab design within the mobile user interface mockup.

@@ -1,0 +1,42 @@
+{
+  "violations": "It seems that the tabs in the mock-up are used to group sequential content (user reviews), not related content. ",
+  "changes": "Change the tabs to contain related groups of reviews (e.g. friend's reviews, the user's own reviews, all reviews) and expand the list of reviews in the current tab to reflect this change.",
+  "changed_components": [
+    "<div class = 'Tab-1' id = 'I55648:9038;54563:40057' config='selected' style='position: absolute; top: 0px; left: 0px; width: 103px; height: 48px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>
+              <div class = 'State-layer' id = 'I55648:9309;54563:40049;54563:40340' style='position: absolute; top: 0px; left: 0px; width: 103px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Tab-Contents' id = 'I55648:9309;54563:40049;54563:40341' style='position: absolute; top: 14px; left: 22.5px; width: 58.0px; height: 20px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label' id = 'I55648:9309;54563:40049;54563:40342' style='position: absolute; top: 0px; left: 0px; width: 59px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;'>Everyone
+                  </div>
+                </div>
+                <div class = 'Indicator' id = 'I55648:9309;54563:40049;54563:40344' style='position: absolute; top: 46px; left: 0px; width: 103px; height: 2px; opacity: 1; background-color: #326940FF; border-radius: 0px; '>
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Tab-2' id = 'I55648:9038;54563:40058' config='unselected' style='position: absolute; top: 0px; left: 103px; width: 103px; height: 48px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>
+              <div class = 'State-layer' id = 'I55648:9309;54563:40050;54563:40362' style='position: absolute; top: 0px; left: 0px; width: 103px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Tab-Contents' id = 'I55648:9309;54563:40050;54563:40363' style='position: absolute; top: 14px; left: 27.5px; width: 48.0px; height: 20px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label' id = 'I55648:9309;54563:40050;54563:40364' style='position: absolute; top: 0px; left: 0px; width: 49px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Friends
+                  </div>
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Tab-3' id = 'I55648:9038;54563:40059' config='unselected' style='position: absolute; top: 0px; left: 206px; width: 103px; height: 48px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>
+              <div class = 'State-layer' id = 'I55648:9309;54563:40051;54563:40362' style='position: absolute; top: 0px; left: 0px; width: 103px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Tab-Contents' id = 'I55648:9309;54563:40051;54563:40363' style='position: absolute; top: 14px; left: 39px; width: 25px; height: 20px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label' id = 'I55648:9309;54563:40051;54563:40364' style='position: absolute; top: 0px; left: 0px; width: 26px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>You
+                  </div>
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Tab-4' id = 'I55648:9038;54563:40060' config='unselected' style='position: absolute; top: 0px; left: 309px; width: 103px; height: 48px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>
+              <div class = 'State-layer' id = 'I55648:9309;54563:40052;54563:40362' style='position: absolute; top: 0px; left: 0px; width: 103px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Tab-Contents' id = 'I55648:9309;54563:40052;54563:40363' style='position: absolute; top: 14px; left: 34px; width: 35px; height: 20px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Label' id = 'I55648:9309;54563:40052;54563:40364' style='position: absolute; top: 0px; left: 0px; width: 36px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Liked
+                  </div>
+                </div>
+              </div>
+            </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

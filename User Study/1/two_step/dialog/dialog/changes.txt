@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The primary button label 'Ok' is vague and does not clearly describe the action. 2. The secondary button label 'Cancel' is acceptable but could be more descriptive.",
+  "changes": "1. Change the primary button label from 'Ok' to 'Delete'. 2. Optionally, change the secondary button label from 'Cancel' to 'Cancel Deletion'.",
+  "guideline_request": "dialog button labels",
+  "example_request": "basic dialog"
+}
+```

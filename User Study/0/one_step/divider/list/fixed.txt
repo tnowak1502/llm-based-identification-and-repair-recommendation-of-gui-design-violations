@@ -1,0 +1,98 @@
+{
+  'violations': '1. **Repetitive Icons:** The use of the same icon for different list items (Wallet, Renting History, Account Settings, Log out) can create confusion and does not clearly communicate the different actions. (Severity: Medium)',
+  'changes': '1. **Update Icons:** Change the icons to more appropriately represent the different actions.',
+  'changed_components': [
+    "<div class='Leading-element' id='I57811:37209;51964:63483' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Icons/wallet_24px' id='I57811:37209;51964:63484' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='icon' id='I57811:37209;51964:63484;50731:11365' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+            <div class='Path' id='I57811:37209;51964:63484;50731:11366' style='position: absolute; top: 6px; left: 10px; width: 4px; height: 4px;'>
+              <svg height='4px' width='4px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 2 0 C 3.100000023841858 0 4 0.8999999761581421 4 2 C 4 3.100000023841858 3.100000023841858 4 2 4 C 0.8999999761581421 4 0 3.100000023841858 0 2 C 0 0.8999999761581421 0.8999999761581421 0 2 0 L 2 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37209;51964:63484;50731:11367' style='position: absolute; top: 15px; left: 6px; width: 12px; height: 3px;'>
+              <svg height='3px' width='12px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 6 0 C 8.700000047683716 0 11.799999997019768 1.2900000214576721 12 2 L 12 3 L 0 3 L 0 2.009999990463257 C 0.20000000298023224 1.2899999618530273 3.299999952316284 0 6 0 L 6 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37209;51964:63484;50731:11368' style='position: absolute; top: 4px; left: 8px; width: 8px; height: 8px;'>
+              <svg height='8px' width='8px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 4 0 C 1.7899999618530273 0 0 1.7899999618530273 0 4 C 0 6.210000038146973 1.7899999618530273 8 4 8 C 6.210000038146973 8 8 6.210000038146973 8 4 C 8 1.7899999618530273 6.210000038146973 0 4 0 L 4 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37209;51964:63484;50731:11369' style='position: absolute; top: 13px; left: 4px; width: 16px; height: 7px;'>
+              <svg height='7px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 8 0 C 5.329999923706055 0 0 1.3399999141693115 0 4 L 0 7 L 16 7 L 16 4 C 16 1.3399999141693115 10.670000076293945 0 8 0 L 8 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>",
+    "<div class='Leading-element' id='I57811:37210;51964:63483' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Icons/history_24px' id='I57811:37210;51964:63484' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='icon' id='I57811:37210;51964:63484;50731:11365' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+            <div class='Path' id='I57811:37210;51964:63484;50731:11366' style='position: absolute; top: 6px; left: 10px; width: 4px; height: 4px;'>
+              <svg height='4px' width='4px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 2 0 C 3.100000023841858 0 4 0.8999999761581421 4 2 C 4 3.100000023841858 3.100000023841858 4 2 4 C 0.8999999761581421 4 0 3.100000023841858 0 2 C 0 0.8999999761581421 0.8999999761581421 0 2 0 L 2 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37210;51964:63484;50731:11367' style='position: absolute; top: 15px; left: 6px; width: 12px; height: 3px;'>
+              <svg height='3px' width='12px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 6 0 C 8.700000047683716 0 11.799999997019768 1.2900000214576721 12 2 L 12 3 L 0 3 L 0 2.009999990463257 C 0.20000000298023224 1.2899999618530273 3.299999952316284 0 6 0 L 6 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37210;51964:63484;50731:11368' style='position: absolute; top: 4px; left: 8px; width: 8px; height: 8px;'>
+              <svg height='8px' width='8px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 4 0 C 1.7899999618530273 0 0 1.7899999618530273 0 4 C 0 6.210000038146973 1.7899999618530273 8 4 8 C 6.210000038146973 8 8 6.210000038146973 8 4 C 8 1.7899999618530273 6.210000038146973 0 4 0 L 4 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37210;51964:63484;50731:11369' style='position: absolute; top: 13px; left: 4px; width: 16px; height: 7px;'>
+              <svg height='7px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 8 0 C 5.329999923706055 0 0 1.3399999141693115 0 4 L 0 7 L 16 7 L 16 4 C 16 1.3399999141693115 10.670000076293945 0 8 0 L 8 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>",
+    "<div class='Leading-element' id='I57811:37211;51964:63483' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Icons/settings_24px' id='I57811:37211;51964:63484' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='icon' id='I57811:37211;51964:63484;50731:11365' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+            <div class='Path' id='I57811:37211;51964:63484;50731:11366' style='position: absolute; top: 6px; left: 10px; width: 4px; height: 4px;'>
+              <svg height='4px' width='4px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 2 0 C 3.100000023841858 0 4 0.8999999761581421 4 2 C 4 3.100000023841858 3.100000023841858 4 2 4 C 0.8999999761581421 4 0 3.100000023841858 0 2 C 0 0.8999999761581421 0.8999999761581421 0 2 0 L 2 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37211;51964:63484;50731:11367' style='position: absolute; top: 15px; left: 6px; width: 12px; height: 3px;'>
+              <svg height='3px' width='12px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 6 0 C 8.700000047683716 0 11.799999997019768 1.2900000214576721 12 2 L 12 3 L 0 3 L 0 2.009999990463257 C 0.20000000298023224 1.2899999618530273 3.299999952316284 0 6 0 L 6 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37211;51964:63484;50731:11368' style='position: absolute; top: 4px; left: 8px; width: 8px; height: 8px;'>
+              <svg height='8px' width='8px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 4 0 C 1.7899999618530273 0 0 1.7899999618530273 0 4 C 0 6.210000038146973 1.7899999618530273 8 4 8 C 6.210000038146973 8 8 6.210000038146973 8 4 C 8 1.7899999618530273 6.210000038146973 0 4 0 L 4 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37211;51964:63484;50731:11369' style='position: absolute; top: 13px; left: 4px; width: 16px; height: 7px;'>
+              <svg height='7px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 8 0 C 5.329999923706055 0 0 1.3399999141693115 0 4 L 0 7 L 16 7 L 16 4 C 16 1.3399999141693115 10.670000076293945 0 8 0 L 8 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>",
+    "<div class='Leading-element' id='I57811:37212;51964:63483' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Icons/logout_24px' id='I57811:37212;51964:63484' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='icon' id='I57811:37212;51964:63484;50731:11365' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+            <div class='Path' id='I57811:37212;51964:63484;50731:11366' style='position: absolute; top: 6px; left: 10px; width: 4px; height: 4px;'>
+              <svg height='4px' width='4px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 2 0 C 3.100000023841858 0 4 0.8999999761581421 4 2 C 4 3.100000023841858 3.100000023841858 4 2 4 C 0.8999999761581421 4 0 3.100000023841858 0 2 C 0 0.8999999761581421 0.8999999761581421 0 2 0 L 2 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37212;51964:63484;50731:11367' style='position: absolute; top: 15px; left: 6px; width: 12px; height: 3px;'>
+              <svg height='3px' width='12px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 6 0 C 8.700000047683716 0 11.799999997019768 1.2900000214576721 12 2 L 12 3 L 0 3 L 0 2.009999990463257 C 0.20000000298023224 1.2899999618530273 3.299999952316284 0 6 0 L 6 0 Z' style='fill: #DADADAFF;'/>
+              </svg>
+            </div>
+            <div class='Path' id='I57811:37212;51964:63484;50731:11368' style='position: absolute; top: 4px; left: 8px; width: 8px; height: 8px;'>
+              <svg height='8px' width='8px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 4 0 C 1.7899999618530273 0 0 

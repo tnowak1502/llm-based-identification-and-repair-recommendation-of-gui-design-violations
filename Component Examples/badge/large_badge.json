@@ -1,0 +1,296 @@
+{
+    "type": "FRAME",
+    "id": "55718:32968",
+    "name": "Frame 1",
+    "x": 0,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "cornerRadius": 0,
+    "cornerSmoothing": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "fillStyleId": "",
+    "strokeStyleId": "",
+    "strokeWeight": 1,
+    "strokeTopWeight": 1,
+    "strokeBottomWeight": 1,
+    "strokeLeftWeight": 1,
+    "strokeRightWeight": 1,
+    "strokeJoin": "MITER",
+    "strokeAlign": "INSIDE",
+    "dashPattern": [],
+    "strokeCap": "NONE",
+    "strokeMiterLimit": 4,
+    "rotation": 0,
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutPositioning": "AUTO",
+    "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+    },
+    "exportSettings": [],
+    "relativeTransform": [
+        [
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0
+        ]
+    ],
+    "absoluteRenderBounds": {
+        "x": 0,
+        "y": 0,
+        "width": 16,
+        "height": 16
+    },
+    "fillGeometry": [
+        {
+            "windingRule": "NONZERO",
+            "data": "M0 0 L16 0 L16 16 L0 16 L0 0 Z"
+        }
+    ],
+    "guides": [],
+    "fills": [],
+    "strokes": [],
+    "effects": [],
+    "children": [
+        {
+            "type": "INSTANCE",
+            "id": "55718:32966",
+            "name": "Badge-dark",
+            "x": 0,
+            "y": 0,
+            "width": 16,
+            "height": 16,
+            "visible": true,
+            "locked": false,
+            "mainComponentId": "51592:4777",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "cornerRadius": 100,
+            "cornerSmoothing": 0,
+            "topLeftRadius": 100,
+            "topRightRadius": 100,
+            "bottomLeftRadius": 100,
+            "bottomRightRadius": 100,
+            "fillStyleId": "S:1320c475135ba492d83971a8e919958f01b01407,",
+            "strokeStyleId": "",
+            "strokeWeight": 3,
+            "strokeTopWeight": 3,
+            "strokeBottomWeight": 3,
+            "strokeLeftWeight": 3,
+            "strokeRightWeight": 3,
+            "strokeJoin": "MITER",
+            "strokeAlign": "OUTSIDE",
+            "dashPattern": [],
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "rotation": 0,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+            },
+            "exportSettings": [],
+            "relativeTransform": [
+                [
+                    1,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            "absoluteRenderBounds": {
+                "x": 0,
+                "y": 0,
+                "width": 16,
+                "height": 16
+            },
+            "fillGeometry": [
+                {
+                    "windingRule": "NONZERO",
+                    "data": "M0 8 C0 3.58172 3.58172 0 8 0 L8 0 C12.4183 0 16 3.58172 16 8 L16 8 C16 12.4183 12.4183 16 8 16 L8 16 C3.58172 16 0 12.4183 0 8 L0 8 Z"
+                }
+            ],
+            "guides": [],
+            "componentProperties": {
+                "Badge label#52867:12": {
+                    "value": "3",
+                    "type": "TEXT"
+                },
+                "Size": {
+                    "value": "Large",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                }
+            },
+            "scaleFactor": 1,
+            "fills": [
+                {
+                    "type": "SOLID",
+                    "visible": true,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "color": {
+                        "r": 1,
+                        "g": 0.7058823704719543,
+                        "b": 0.6705882549285889
+                    },
+                    "boundVariables": {}
+                }
+            ],
+            "strokes": [],
+            "effects": [],
+            "children": [
+                {
+                    "type": "TEXT",
+                    "id": "I55718:32966;51592:4778",
+                    "name": "Badge label",
+                    "x": 4.5,
+                    "y": 0,
+                    "width": 7,
+                    "height": 16,
+                    "visible": true,
+                    "locked": false,
+                    "rangeAllFontNames": [
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Medium"
+                            }
+                        ]
+                    ],
+                    "rangeFontSize": [
+                        11
+                    ],
+                    "rangeFills": [
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.4117647111415863,
+                                    "g": 0,
+                                    "b": 0.019607843831181526
+                                },
+                                "boundVariables": {}
+                            }
+                        ]
+                    ],
+                    "rangeLineHeight": [
+                        {
+                            "unit": "PIXELS",
+                            "value": 16
+                        }
+                    ],
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "fillStyleId": "S:06c7f2333030c692945f7e46262c42fe14bba007,",
+                    "strokeStyleId": "",
+                    "strokeWeight": 0.9969344735145569,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutGrow": 0,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "MIN",
+                        "vertical": "MIN"
+                    },
+                    "exportSettings": [],
+                    "characters": "3",
+                    "textAlignHorizontal": "CENTER",
+                    "textAlignVertical": "CENTER",
+                    "textAutoResize": "WIDTH_AND_HEIGHT",
+                    "paragraphIndent": 0,
+                    "paragraphSpacing": 0,
+                    "autoRename": false,
+                    "fontSize": 11,
+                    "fontName": {
+                        "family": "Roboto",
+                        "style": "Medium"
+                    },
+                    "textCase": "ORIGINAL",
+                    "textDecoration": "NONE",
+                    "letterSpacing": {
+                        "unit": "PIXELS",
+                        "value": 0.5
+                    },
+                    "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 16
+                    },
+                    "textStyleId": "S:b06e117bc26509481e965238c5b62dfde028cfd6,",
+                    "hyperlink": null,
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            4.5
+                        ],
+                        [
+                            0,
+                            1,
+                            0
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 5.29296875,
+                        "y": 4.072265625,
+                        "width": 5.220703125,
+                        "height": 8.03515625
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M2.48486 7.50439 L3.2583 7.50439 C3.55908 7.50439 3.80794 7.45247 4.00488 7.34863 C4.2054 7.24479 4.354 7.10156 4.45068 6.91895 C4.54736 6.73633 4.5957 6.52686 4.5957 6.29053 C4.5957 6.04346 4.55094 5.83219 4.46143 5.65674 C4.37549 5.4777 4.243 5.33984 4.06396 5.24316 C3.88851 5.14648 3.66471 5.09814 3.39258 5.09814 C3.16341 5.09814 2.95573 5.14469 2.76953 5.23779 C2.58691 5.32731 2.44189 5.45622 2.33447 5.62451 C2.22705 5.78923 2.17334 5.98617 2.17334 6.21533 L0.873535 6.21533 C0.873535 5.79997 0.982747 5.43115 1.20117 5.10889 C1.4196 4.78662 1.7168 4.53418 2.09277 4.35156 C2.47233 4.16536 2.89844 4.07227 3.37109 4.07227 C3.87598 4.07227 4.31641 4.15641 4.69238 4.32471 C5.07194 4.48942 5.36735 4.73649 5.57861 5.06592 C5.78988 5.39535 5.89551 5.80355 5.89551 6.29053 C5.89551 6.51253 5.84359 6.73812 5.73975 6.96729 C5.6359 7.19645 5.48193 7.40592 5.27783 7.5957 C5.07373 7.7819 4.8195 7.93408 4.51514 8.05225 C4.21077 8.16683 3.85807 8.22412 3.45703 8.22412 L2.48486 8.22412 L2.48486 7.50439 Z M2.48486 8.51416 L2.48486 7.80518 L3.45703 7.80518 C3.91536 7.80518 4.30566 7.85889 4.62793 7.96631 C4.95378 8.07373 5.21875 8.22233 5.42285 8.41211 C5.62695 8.59831 5.77555 8.81136 5.86865 9.05127 C5.96533 9.29118 6.01367 9.54541 6.01367 9.81396 C6.01367 10.1792 5.94743 10.505 5.81494 10.7915 C5.68604 11.0744 5.50163 11.3143 5.26172 11.5112 C5.02181 11.7082 4.74072 11.8568 4.41846 11.957 C4.09977 12.0573 3.75244 12.1074 3.37646 12.1074 C3.03988 12.1074 2.71761 12.0609 2.40967 11.9678 C2.10173 11.8747 1.82601 11.7368 1.58252 11.5542 C1.33903 11.368 1.14567 11.137 1.00244 10.8613 C0.862793 10.582 0.792969 10.2598 0.792969 9.89453 L2.0874 9.89453 C2.0874 10.1273 2.14111 10.3332 2.24854 10.5122 C2.35954 10.6877 2.51351 10.8255 2.71045 10.9258 C2.91097 11.026 3.14014 11.0762 3.39795 11.0762 C3.67008 11.0762 3.90462 11.0278 4.10156 10.9312 C4.2985 10.8345 4.44889 10.6912 4.55273 10.5015 C4.66016 10.3117 4.71387 10.0825 4.71387 9.81396 C4.71387 9.5096 4.65479 9.26253 4.53662 9.07275 C4.41846 8.88298 4.25016 8.74333 4.03174 8.65381 C3.81331 8.56071 3.5555 8.51416 3.2583 8.51416 L2.48486 8.51416 Z"
+                        }
+                    ],
+                    "fills": [
+                        {
+                            "type": "SOLID",
+                            "visible": true,
+                            "opacity": 1,
+                            "blendMode": "NORMAL",
+                            "color": {
+                                "r": 0.4117647111415863,
+                                "g": 0,
+                                "b": 0.019607843831181526
+                            },
+                            "boundVariables": {}
+                        }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                }
+            ]
+        }
+    ]
+}

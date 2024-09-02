@@ -1,0 +1,30 @@
+```json
+{
+  "changed_components": [
+    "<div class='Carousel' id='57811:38815' style='position: absolute; top: 112px; left: 0px; width: 412px; height: 82px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Item-1' id='57811:38816' style='position: absolute; top: 8px; left: 16px; width: 188px; height: 66px; overflow: hidden; opacity: 1; background-color: #C4C4C4FF; border-radius: 28px; '>
+        <div class='Item-text-1' id='57811:38817' style='position: absolute; top: 0px; left: 0px; width: 188.00050354003906px; height: 66px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Content' id='I57811:38817;53912:27508' style='position: absolute; top: 0px; left: 0px; width: 188.00050354003906px; height: 66px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Label' id='I57811:38817;53912:27509' style='position: absolute; top: 26px; left: 16px; width: 72px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #FFFFFFFF; line-height: 24px; justify-content: left; align-items: bottom;'>Groceries</div>
+          </div>
+        </div>
+      </div>
+      <div class='Item-2' id='57811:38818' style='position: absolute; top: 8px; left: 214px; width: 188px; height: 66px; overflow: hidden; opacity: 1; background-color: #C4C4C4FF; border-radius: 28px; '>
+        <div class='Item-text-2' id='57811:38819' style='position: absolute; top: 0px; left: 0px; width: 188.00050354003906px; height: 66px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Content' id='I57811:38819;53912:27508' style='position: absolute; top: 0px; left: 0px; width: 188.00050354003906px; height: 66px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Label' id='I57811:38819;53912:27509' style='position: absolute; top: 26px; left: 16px; width: 48px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #FFFFFFFF; line-height: 24px; justify-content: left; align-items: bottom;'>Stores</div>
+          </div>
+        </div>
+      </div>
+      <div class='Item-Last' id='57811:38820' style='position: absolute; top: 8px; left: 412px; width: 72px; height: 66px; overflow: hidden; opacity: 1; background-color: #C4C4C4FF; border-radius: 28px 0px 0px 28px; '>
+        <div class='Item-text-Last' id='57811:38821' style='position: absolute; top: 0px; left: 0.0012948171934112906px; width: 72.0px; height: 66px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Content' id='I57811:38821;53912:27508' style='position: absolute; top: 0px; left: 0px; width: 72px; height: 66px; overflow: hidden; opacity: 1; border-radius: 0px; '></div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Title' id='57811:38898' style='position: absolute; top: 0px; left: 0px; width: 246px; height: 24px; opacity: 1; display: flex; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-family: Roboto; font-size: 16px; font-weight: 700; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: top;'>McDonald’s</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

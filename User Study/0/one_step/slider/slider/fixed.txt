@@ -1,0 +1,11 @@
+{
+  'violations': "The scrollbar at the bottom of the volume slider is unnecessary and could be confused with the slider's track, which violates the guideline that elements that do not belong together should not appear to be grouped. Additionally, the inactive track's color is too similar to the active track's color, which might make it difficult for users to distinguish between the two states.",
+  'changes': "Remove the unnecessary scrollbar at the bottom of the volume slider. Change the inactive track's color to a more distinguishable one.",
+  'changed_components': [
+    "<div class='Inactive-track' id='I57811:41298;54593:25569' style='position: absolute; top: 14px; left: 317.5px; width: 301.5px; height: 16px; overflow: hidden; opacity: 1; border-radius: 0px; '>\n   <div class='Track' id='I57811:41298;54593:25569;54593:26123' style='position: absolute; top: 0px; left: 0px; width: 301.5px; height: 16px; opacity: 1; background-color: #E0E0E0FF; border-radius: 2px 16px 16px 2px; '>\n   </div>\n   <div class='Track-dot' id='I57811:41298;54593:25569;54593:26124' style='position: absolute; top: 6px; left: 294px; width: 4px; height: 4px; overflow: hidden; opacity: 1; border-radius: 0px; '>\n    <div class='Dot' id='I57811:41298;54593:25569;54593:26124;54593:26121' style='position: absolute; top: 0px; left: 0px; width: 4px; height: 4px; opacity: 1; background-color: #326940FF; border-radius: 100px; '>\n    </div>\n   </div>\n  </div>"
+  ],
+  'deleted_components': [
+    "57811:41299"
+  ],
+  'new_components': []
+}

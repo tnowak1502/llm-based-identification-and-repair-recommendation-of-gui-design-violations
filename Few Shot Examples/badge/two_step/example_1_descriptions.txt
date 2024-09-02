@@ -1,0 +1,29 @@
+### Badge Description
+
+1. **Badge Description:**
+   - **Type:** Badge-dark
+   - **Color:** Light pink background (`#FFB4ABFF`), dark red text (`#690005FF`)
+   - **Size:** Large
+   - **Shape:** Oval (with `border-radius: 100px`)
+   - **Position:**
+     - **Coordinates:** Absolute positioning with top `2px` and left `16px`
+     - **General Description:** Positioned near the top left of the icon container
+   - **Dimensions:** Width `34px`, Height `16px`
+   - **ID:** `I55392:3639;52031:23836;52031:22767`
+   - **Likely Function:** Displays a numerical count or notification (value `10000`)
+   - **Label Attributes:**
+     - **Font Family:** Roboto
+     - **Font Size:** 11px
+     - **Font Weight:** 500 (medium)
+     - **Text Alignment:** Centered horizontally and vertically
+     - **Text Color:** Dark red (`#690005FF`)
+     - **Text Content:** `10000`
+
+### Contextual Placement in Mockup:
+
+- The badge is shown on the mobile user interface mockup, specifically within the "Chats" section in the bottom navigation bar.
+- The badge is situated at the top-right corner of a chat icon, indicating a high number of unread messages or notifications (`10000`).
+
+### Summary:
+
+This badge is a large, oval-shaped notification indicator with a light pink background and dark red text. It is positioned at the top-left corner of an icon container, displaying a numerical count (`10000`) in a visually prominent manner. Its primary function is likely to alert the user to a high number of unread messages or notifications related to the "Chats" section.

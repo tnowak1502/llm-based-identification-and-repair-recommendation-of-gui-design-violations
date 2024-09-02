@@ -1,0 +1,15 @@
+{
+  "violations": "The trailing supporting text (timestamps) are not aligned consistently, which can disrupt the visual hierarchy and make it harder to scan the list.",
+  "changes": "Align all trailing supporting text (timestamps) to the right edge of the list items for consistency.",
+  "changed_components": [
+    "<div class='Trailing-supporting-text' id='I57811:42148;51964:62996;51964:64283' style='position: absolute; top: 12px; left: 352px; width: 40px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: right; align-items: top;'>2 mins ago</div>",
+    "<div class='Trailing-supporting-text' id='I57811:42148;51964:62997;51964:64283' style='position: absolute; top: 12px; left: 352px; width: 40px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: right; align-items: top;'>20 mins ago</div>",
+    "<div class='Trailing-supporting-text' id='I57811:42148;51964:62999;51964:64283' style='position: absolute; top: 12px; left: 352px; width: 40px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: right; align-items: top;'>12 hours ago</div>",
+    "<div class='Trailing-supporting-text' id='I57811:42148;51964:63000;51964:64283' style='position: absolute; top: 12px; left: 352px; width: 40px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: right; align-items: top;'>yesterday</div>",
+    "<div class='Trailing-supporting-text' id='I57811:42148;51964:63001;51964:64283' style='position: absolute; top: 12px; left: 352px; width: 40px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: right; align-items: top;'>yesterday</div>",
+    "<div class='Trailing-supporting-text' id='I57811:42148;51964:63002;51964:64283' style='position: absolute; top: 12px; left: 352px; width: 40px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: right; align-items: top;'>yesterday</div>",
+    "<div class='Trailing-supporting-text' id='I57811:42148;51964:63003;51964:64283' style='position: absolute; top: 12px; left: 352px; width: 40px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #49454FFF; line-height: 16px; justify-content: right; align-items: top;'>a week ago</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

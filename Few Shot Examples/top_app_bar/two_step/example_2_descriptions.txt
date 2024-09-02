@@ -1,0 +1,42 @@
+This top app bar has the following characteristics:
+
+- **Type**: Small
+- **Color**: The background color is dark (#101510FF), and the text and icon colors are light (#DFE4DCFF for the text and #C1C9BEFF for the icons).
+- **Size**: The top app bar has a width of 412px and a height of 64px. The headline within this bar has a width of 281px and a height of 56px.
+- **Shape**: The bar has sharp edges with no border radius.
+- **Position**: It is positioned absolutely at the top left corner of the screen (top: 0px; left: 0px).
+- **ID**: The bar's ID is `55319:29523`.
+- **Likely Function**: 
+  - **Headline**: Displays the title "Children’s and Family Shows," which indicates the content category being viewed.
+  - **Icons**: 
+    - The "cast" icon likely serves a function related to casting content to other devices (e.g., a TV or smart device).
+    - The "account" icon indicates user profile or account-related functions (e.g., user settings or profile access).
+
+### Detailed Description:
+The top app bar is in dark mode, evidenced by the background color (#101510FF) and light-colored text and icons.
+
+#### Headline:
+- **Text Content**: "Children’s and Family Shows"
+- **Font**: Roboto, size 22px, weight 700 (bold)
+- **Text Color**: #DFE4DCFF
+- **Line Height**: 28px
+- **Alignment**: Left-aligned
+
+#### Trailing Icons:
+1. **First Icon** (Cast Icon):
+    - **Position**: Top: 8px; Left: 300px
+    - **Size**: 48px by 48px
+    - **Icon Type**: Outlined "cast" icon
+    - **Icon Color**: #C1C9BEFF
+    - **Function**: Likely used for casting content to other devices.
+    - **SVG Path Description**: The cast icon's SVG path suggests it represents the cast functionality.
+
+2. **Second Icon** (Account Icon):
+    - **Position**: Top: 0px; Left: 48px
+    - **Size**: 48px by 48px
+    - **Icon Type**: Standard "account" icon
+    - **Icon Color**: #DADADAFF
+    - **Function**: Likely used for accessing user profile or account settings.
+    - **SVG Path Description**: The account icon's SVG path indicates a user's profile picture or settings.
+
+Overall, this top app bar is designed to provide a clear title and convenient access to casting and account-related functionalities, all while adhering to a dark mode color scheme.

@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "The 'Continue' button appears to be disabled based on its opacity and background color. However, the status of the button should be clearly indicated to the user. The current design might not make it obvious enough that the button is disabled, especially considering the low contrast between the button label and the background.",
+    "The label text 'Continue' is in title case. According to Material Design 3 Guidelines, the label text of filled buttons should be in sentence case."
+  ],
+  "changes": [
+    "Ensure that the disabled state of the 'Continue' button is clearly indicated. This can be achieved by increasing the contrast between the button label and the background or by using a different design to signify that the button is disabled.",
+    "Change the label text 'Continue' to sentence case (e.g., 'continue')."
+  ],
+  "guideline_request": "Button disabled state indication; Button label text case",
+  "example_request": "Filled button with clear disabled state indication; Filled button with sentence case label text"
+}
+```

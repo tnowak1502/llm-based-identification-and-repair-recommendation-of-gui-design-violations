@@ -1,0 +1,17 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The small badge is placed very close to the text label 'JOURNAL'. This close proximity might make the badge appear cluttered or difficult to distinguish from the text label. According to the Material Design 3 Guidelines, elements that do not belong together should not appear to be grouped."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Increase the spacing between the badge and the text label 'JOURNAL' to ensure that they do not appear to be grouped together. This can make the badge more distinguishable and reduce visual clutter."
+    }
+  ],
+  "guideline_request": "badge placement guidelines",
+  "example_request": "badge spacing examples"
+}
+```

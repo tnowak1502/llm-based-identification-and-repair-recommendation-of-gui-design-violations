@@ -1,0 +1,49 @@
+{
+  "changed_components": [
+    "<div class='Icon-button-dark' config='standard' id='57811:10113' style='position: absolute; top: 8px; left: 159px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+      <div class='container' id='I57811:10113;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+        <div class='state-layer' id='I57811:10113;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='Icon' id='I57811:10113;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+            <div class='icon' id='I57811:10113;51525:5139;52031:21931' style='position: absolute; top: 6px; left: 6px; width: 12px; height: 12px;'>
+              <svg height='12px' width='12px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 6 10 C 8.209138870239258 10 10 8.209138870239258 10 6 C 10 3.790860891342163 8.209138870239258 2 6 2 C 3.790860891342163 2 2 3.790860891342163 2 6 C 2 8.209138870239258 3.790860891342163 10 6 10 Z M 12 6 C 12 9.313708305358887 9.313708305358887 12 6 12 C 2.686291456222534 12 0 9.313708305358887 0 6 C 0 2.686291456222534 2.686291456222534 0 6 0 C 9.313708305358887 0 12 2.686291456222534 12 6 Z' style='fill: #C1C9BEFF;'>
+                </path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Icon-button-dark' config='standard' id='57811:10118' style='position: absolute; top: 0px; left: 96px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+      <div class='container' id='I57811:10118;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+        <div class='state-layer' id='I57811:10118;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='Icon' id='I57811:10118;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+            <div class='icon' id='I57811:10118;51525:5139;52031:21931' style='position: absolute; top: 6px; left: 6px; width: 12px; height: 12px;'>
+              <svg height='12px' width='12px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 6 10 C 8.209138870239258 10 10 8.209138870239258 10 6 C 10 3.790860891342163 8.209138870239258 2 6 2 C 3.790860891342163 2 2 3.790860891342163 2 6 C 2 8.209138870239258 3.790860891342163 10 6 10 Z M 12 6 C 12 9.313708305358887 9.313708305358887 12 6 12 C 2.686291456222534 12 0 9.313708305358887 0 6 C 0 2.686291456222534 2.686291456222534 0 6 0 C 9.313708305358887 0 12 2.686291456222534 12 6 Z' style='fill: #C1C9BEFF;'>
+                </path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Button-dark' id='57811:10140' style='position: absolute; top: 4px; left: 194px; width: 170px; height: 24px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px;'>
+      <div class='state-layer' id='57811:10137' style='position: absolute; top: -8px; left: 0px; width: 170px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+        <div class='label-text' id='57811:10138' style='position: absolute; top: 10px; left: 33.5px; width: 70.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>
+          Edit profile
+        </div>
+        <div class='icon' id='57811:10139' style='position: absolute; top: 11px; left: 110.5px; width: 18.0px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+          <div class='icon' id='I57811:10139;50731:11362' style='position: absolute; top: 2.2537500858306885px; left: 2.25px; width: 13.501874923706055px; height: 13.496251106262207px;'>
+            <svg height='13.496251106262207px' width='13.501874923706055px' xmlns='http://www.w3.org/2000/svg'>
+              <path d='M 12.044999174071185 0.43874999940825826 L 13.057499424415651 1.4512500083588893 C 13.650000090136189 2.0362500075699 13.650000090136189 2.988750026917642 13.057499424415651 3.573750026128653 L 3.1349997605371676 13.496251106262207 L 0 13.496251106262207 L 0 10.361250051361655 L 7.799999438430069 2.5537500687690815 L 9.922499306250627 0.43874999940825826 C 10.507499085318955 -0.14624999980275272 11.459999395002857 -0.14624999980275272 12.044999174071185 0.43874999940825826 Z M 1.4999999470254526 11.996251053265581 L 2.557499795237483 12.041250654312254 L 9.922499306250627 4.66875009342642 L 8.864999458038596 3.611250170504721 L 1.4999999470254526 10.976250559464189 L 1.4999999470254526 11.996251053265581 Z' style='fill: #D3E8D2FF;'>
+              </path>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

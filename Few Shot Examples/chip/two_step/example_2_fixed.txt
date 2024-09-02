@@ -1,0 +1,18 @@
+```json
+{
+  'changed_components': ["<div class = 'Button-dark' id = '55637:7253' config='Text' style='position: absolute; top: 10px; left: 237px; width: 68px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                  <div class = 'state-layer' id = 'I55631:32343;53923:27747' style='position: absolute; top: 0px; left: 0px; width: 68px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'label-text' id = 'I55631:32343;53923:27748' style='position: absolute; top: 10px; left: 12px; width: 45px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #99D4A2FF; line-height: 20px; justify-content: center; align-items: center;'>Cancel
+                    </div>
+                  </div>
+                </div>",
+                "<div class = 'Button-dark' id = '55637:7256' config='Text' style='position: absolute; top: 10px; left: 315px; width: 57px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                  <div class = 'state-layer' id = 'I55631:32348;53923:27747' style='position: absolute; top: 0px; left: 0px; width: 57px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'label-text' id = 'I55631:32348;53923:27748' style='position: absolute; top: 10px; left: 12px; width: 34px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #99D4A2FF; line-height: 20px; justify-content: center; align-items: center;'>Done
+                    </div>
+                  </div>
+                </div>"],
+  'deleted_components': [],
+  'new_components': []
+}
+```

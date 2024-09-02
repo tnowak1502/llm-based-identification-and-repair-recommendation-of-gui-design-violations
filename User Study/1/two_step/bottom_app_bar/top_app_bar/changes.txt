@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The headline text 'Inbox' is not center-aligned vertically within the top app bar. In a small-centered top app bar, the headline should be centered both horizontally and vertically.",
+      "severity": "Medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure that the headline 'Inbox' is center-aligned vertically within the top app bar. Adjust the vertical alignment to make sure it is in the center."
+    }
+  ],
+  "guideline_request": "top app bar alignment",
+  "example_request": "small-centered top app bar"
+}

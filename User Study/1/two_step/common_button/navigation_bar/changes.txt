@@ -1,0 +1,6 @@
+{
+  "violations": "The icons in the navigation bar do not have labels. According to the Material Design 3 guidelines, if one destination in a navigation bar is labeled, all destinations should be labeled. This ensures consistency and helps users understand the purpose of each icon. Furthermore, the icons should indicate the active state by having a different color or background to show which section the user is currently on.",
+  "changes": "Add labels to each icon in the navigation bar to ensure consistency and clarity. Additionally, ensure that the active icon is visually distinct from the others, either by changing its color or background.",
+  "guideline_request": "Navigation bar guidelines",
+  "example_request": "Example of a navigation bar with labeled icons and active state indication"
+}

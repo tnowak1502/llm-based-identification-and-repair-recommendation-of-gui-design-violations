@@ -1,0 +1,6 @@
+{
+  "violations": "The label text on the button segments covers two lines. Label text on buttons should never wrap lines.",
+  "changes": "Change the label text to use one line only, moving the selection indicator icon if necessary.",
+  "guideline_request": "segmented button labels",
+  "example_request": "segmented button"
+}

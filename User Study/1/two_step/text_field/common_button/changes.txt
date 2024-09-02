@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "The 'Continue' button has low opacity, making it hard to read. According to Material Design 3 Guidelines, text should always be easy to read.",
+    "The 'Continue' button should indicate its disabled state more clearly. The current opacity alone might not be sufficient for accessibility purposes."
+  ],
+  "changes": [
+    "Increase the opacity of the 'Continue' button text to improve readability.",
+    "Use a different color or style (such as a different background color or adding a strike-through) to indicate the disabled state of the 'Continue' button more clearly."
+  ],
+  "guideline_request": "Button text readability; Disabled button state design",
+  "example_request": "Filled button with disabled state; Disabled button example"
+}
+```

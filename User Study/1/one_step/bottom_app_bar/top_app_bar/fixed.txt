@@ -1,0 +1,9 @@
+{
+  "violations": "The headline text 'Inbox' in the top app bar is center-aligned. According to Material Design 3 Guidelines, center-aligned top app bars should be used for the main root page of an app, but this appears to be a subpage.",
+  "changes": "Change the headline text alignment to left-aligned and adjust the position of the headline accordingly.",
+  "changed_components": [
+    "<div class = 'headline' id = 'I57805:11212;50717:9089' style='position: absolute; top: 18px; left: 72px; width: 297px; height: 28px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #181D18FF; line-height: 28px; justify-content: left; align-items: top;'>Inbox</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

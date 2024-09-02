@@ -1,0 +1,9 @@
+{
+  "violations": "The fourth tab label ('Sports and other non Movie and non Series things') is too long and gets truncated, which makes it ambiguous and hard to read.",
+  "changes": "Shorten the tab label or use an abbreviation to ensure that it fits within the tab's width without being truncated.",
+  "changed_components": [
+    "<div class=\"Tab-4\" config=\"unselected\" id=\"I57805:7451;54563:40467\" style=\"position: absolute; top: 0px; left: 270px; width: 90px; height: 48px; overflow: hidden; opacity: 1; background-color: #101510FF; border-radius: 0px; \"> <div class=\"State-layer\" id=\"I57805:7451;54563:40467;54563:40769\" style=\"position: absolute; top: 0px; left: 0px; width: 90px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Tab-Contents\" id=\"I57805:7451;54563:40467;54563:40770\" style=\"position: absolute; top: 14px; left: 5px; width: 80px; height: 20px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Label\" id=\"I57805:7451;54563:40467;54563:40771\" style=\"position: absolute; top: 0px; left: 0px; width: 81px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;\">Other</div> </div> </div> </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

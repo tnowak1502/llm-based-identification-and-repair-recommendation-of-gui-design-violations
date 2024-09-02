@@ -1,0 +1,9 @@
+{
+  "violations": "The tabs are not clearly indicating which one is selected. The selected tab should have a more prominent visual indicator.",
+  "changes": "Enhance the visual prominence of the selected tab by increasing the indicator height and making the text bold.",
+  "changed_components": [
+    "<div class=\"Tab-2\" config=\"selected\" id=\"I57811:10508;54563:40119\" style=\"position: absolute; top: 0px; left: 90px; width: 90px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"State-layer\" id=\"I57811:10508;54563:40119;54563:40292\" style=\"position: absolute; top: 0px; left: 0px; width: 90px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Tab-Contents\" id=\"I57811:10508;54563:40119;54563:40293\" style=\"position: absolute; top: 0px; left: 20.5px; width: 49.0px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Label\" id=\"I57811:10508;54563:40119;54563:40294\" style=\"position: absolute; top: 14px; left: 0px; width: 50px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 700; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center;\">For You</div> <div class=\"Indicator\" id=\"I57811:10508;54563:40119;54563:40295\" style=\"position: absolute; top: 32px; left: 0px; width: 49px; height: 16px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Shape\" id=\"I57811:10508;54563:40119;54563:40296\" style=\"position: absolute; top: 11px; left: 2px; width: 45px; height: 5px; opacity: 1; background-color: #326940FF; border-radius: 100px 100px 0px 0px; \"> </div> </div> </div> </div> </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

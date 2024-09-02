@@ -1,0 +1,30 @@
+{
+  "violations": "The cards are repetitive in content, which violates the Material Design 3 guideline that information should be succinct, unambiguous, and not repetitive.",
+  "changes": "Combine repetitive cards into a single card to aggregate similar entries, making the information more succinct and reducing redundancy.",
+  "changed_components": [
+    "<div class='Horizontal-card' config='Filled' id='57811:42797' style='position: absolute; top: 0px; left: 16px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 12px; '>
+      <div class='Background' id='I57811:42797;52350:28198' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; background-color: #DFE4DCFF; border-radius: 12px; '>
+        <div class='State-layer' id='I57811:42797;52350:28198;52350:27730' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        </div>
+      </div>
+      <div class='Content' id='I57811:42797;52350:28199' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 12px; '>
+        <div class='Header' id='I57811:42797;52350:28200' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Content' id='I57811:42797;52350:28201' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Text' id='I57811:42797;52350:28205' style='position: absolute; top: 16px; left: 16px; width: 348px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Header' id='I57811:42797;52350:28206' style='position: absolute; top: 0px; left: 0px; width: 349px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: top;'>
+                Mud Island Amphitheater
+              </div>
+              <div class='Subhead' id='I57811:42797;52350:28207' style='position: absolute; top: 28px; left: 0px; width: 349px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #414941FF; line-height: 20px; justify-content: left; align-items: top;'>
+                4,4 ★ · Outdoor seasonal theater · 0.6 mi
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "57811:42808"
+  ],
+  "new_components": []
+}

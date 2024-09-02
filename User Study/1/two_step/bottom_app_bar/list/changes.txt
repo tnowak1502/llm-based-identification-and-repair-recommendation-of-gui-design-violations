@@ -1,0 +1,14 @@
+{
+  "violations": [
+    "1. **Content Width:** The content width for the 'Content' divs is inconsistent across list items. For example, List Item 1 has a content width of 241px, while List Item 4 has a content width of 230px. This inconsistency can disrupt the visual hierarchy and uniformity. (Severity: Medium)",
+    "2. **Alignment of Trailing Text:** The trailing supporting text (e.g., '2 mins ago', 'yesterday') in some list items is not consistently aligned. For example, List Item 1 has the trailing text positioned at a left value of 329px, while List Item 4 has it at 318px. This inconsistency can make the UI look unorganized. (Severity: Medium)",
+    "3. **Leading Element Height:** The height of the leading elements is inconsistent. For example, the height for the leading element in List Item 1 is 64px, while in List Item 2, it is also 64px but occupies a different vertical space. This inconsistency can affect the visual balance of the list items. (Severity: Low)"
+  ],
+  "changes": [
+    "1. **Standardize Content Width:** Ensure that all 'Content' divs have the same width across all list items to maintain visual consistency.",
+    "2. **Align Trailing Text Consistently:** Ensure that the trailing supporting text is positioned consistently across all list items. Use a uniform left value for all trailing text elements.",
+    "3. **Standardize Leading Element Height:** Ensure that the height of the leading elements is consistent across all list items. This will help maintain visual balance and uniformity."
+  ],
+  "guideline_request": "Visual Hierarchy guidelines, list guidelines",
+  "example_request": "list with consistent content width and alignment"
+}

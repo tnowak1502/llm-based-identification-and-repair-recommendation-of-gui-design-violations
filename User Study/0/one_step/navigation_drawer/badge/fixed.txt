@@ -1,0 +1,11 @@
+{
+  "violations": "The small badge overlaps with the 'JOURNAL' label, making it ambiguous and difficult to identify which part of the UI can be interacted with.",
+  "changes": "Move the badge to a position where it does not overlap with the label text while still being associated with the 'JOURNAL' tab.",
+  "changed_components": [
+    "<div class = 'Badge' id = 'I57811:38242;54563:40052;54563:40365' config='Small' style='position: absolute; top: -3px; left: 70px; width: 6px; height: 6px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; '></div>"
+  ],
+  "deleted_components": [
+    "I57811:38242;54563:40052;54563:40365;54347:34804"
+  ],
+  "new_components": []
+}

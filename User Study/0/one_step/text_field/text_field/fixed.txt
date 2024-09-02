@@ -1,0 +1,10 @@
+{
+  "violations": "1. The label text 'IBAN (International Bank Account Number)' wraps over two lines, which it should not according to the guidelines. 2. The label text 'IBAN (International Bank Account Number)' contains a special character ( ) that should be removed.",
+  "changes": "1. Change the label text 'IBAN (International Bank Account Number)' to not wrap over lines and remove the special character.",
+  "changed_components": [
+    "<div class = 'label-text' id = 'I57821:59087;52798:25350' style='position: absolute; top: 0px; left: 0px; width: 283px; height: 48px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #414941FF; line-height: 24px; justify-content: left; align-items: bottom;'>IBAN (International Bank Account Number)
+      </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

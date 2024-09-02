@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Carousel items too large: The width of the carousel items is too large, resulting in only one item being visible at a time. This can make it difficult for users to understand that the content is part of a carousel.",
+    "2. Drop shadows on carousel items: The use of drop shadows on carousel items can make the UI look cluttered and reduce the readability of the content."
+  ],
+  "changes": [
+    "1. Reduce the width of the carousel items so that at least two items are visible at a time.",
+    "2. Remove or reduce the drop shadows on the carousel items to make the UI cleaner and more readable."
+  ],
+  "guideline_request": "carousel item width, carousel drop shadow",
+  "example_request": "multi-browse-carousel"
+}
+```

@@ -1,0 +1,9 @@
+```json
+{
+  "changed_components": [
+    "<div class='Carousel---Full-screen' id='57805:16451' style='position: absolute; top: -5.684341886080802e-14px; left: 0px; width: 412px; height: 798.0px; overflow: hidden; opacity: 1; border-radius: 0px; '>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

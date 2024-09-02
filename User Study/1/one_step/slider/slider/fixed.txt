@@ -1,0 +1,13 @@
+{
+  'violations': "The slider's handles are too small, which makes them difficult to interact with. Additionally, the slider's inactive track dots are unnecessary and might clutter the UI.",
+  'changes': "Increased the width of the handles for better interaction and removed the inactive track dots.",
+  'changed_components': [
+    "<div class='Handle---left' id='I57805:10805;54593:26017' style='position: absolute; top: -14px; left: 155px; width: 16px; height: 44px; overflow: hidden; opacity: 1; background-color: #99D4A2FF; border-radius: 2px; '></div>",
+    "<div class='Handle---right' id='I57805:10805;54593:26020' style='position: absolute; top: -14px; left: 3px; width: 16px; height: 44px; overflow: hidden; opacity: 1; background-color: #99D4A2FF; border-radius: 2px; '></div>"
+  ],
+  'deleted_components': [
+    'I57805:10805;54593:26016;54593:26154',
+    'I57805:10805;54593:26019;54593:26151'
+  ],
+  'new_components': []
+}

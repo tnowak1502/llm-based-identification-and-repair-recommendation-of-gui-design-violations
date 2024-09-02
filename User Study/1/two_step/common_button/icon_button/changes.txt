@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistency in Icon Button Styles: The icon buttons use different styles (`standard`, `tonal`, and `outlined`). According to the Material Design 3 guidelines, the style of buttons is used to communicate their level of importance to the user. However, all these icon buttons appear to have similar levels of importance and should be consistent in style. (Severity: High)",
+    "2. Misalignment of Icons and Labels: The `Edit profile` and `Share profile` buttons have their icons and labels misaligned. The icons are placed too high relative to the text. This misalignment can affect readability and visual hierarchy. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the style of the icon buttons. Choose one style (e.g., all `filled`, all `tonal`, or all `outlined`) for consistency. This will make it clear that all buttons perform actions of similar importance.",
+    "2. Adjust the alignment of the icons and labels in the `Edit profile` and `Share profile` buttons to ensure they are properly centered vertically relative to the text. This will improve readability and maintain a clean visual hierarchy."
+  ],
+  "guideline_request": "Icon button styles, icon and label alignment",
+  "example_request": "icon buttons, buttons with icons and labels"
+}

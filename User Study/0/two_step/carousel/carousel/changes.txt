@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Button inside the carousel item: The 'Call this contact' button inside the carousel item violates the guideline that advises against adding buttons into a carousel. Buttons can interfere with the scrolling experience.",
+    "2. Carousel item width inconsistency: The widths of the carousel items are inconsistent, which might disrupt the visual flow and hierarchy."
+  ],
+  "changes": [
+    "1. Remove the 'Call this contact' button from inside the carousel item. Consider placing the button outside the carousel for better accessibility and user experience.",
+    "2. Standardize the width of the carousel items. Ensure that all items have a consistent width to maintain a clean and uniform appearance."
+  ],
+  "guideline_request": "carousel button placement, carousel item width",
+  "example_request": "multi-browse-carousel"
+}
+```

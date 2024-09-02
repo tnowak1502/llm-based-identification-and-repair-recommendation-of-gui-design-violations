@@ -1,0 +1,9 @@
+{
+  "violations": "The small badge is overlapping with the text label 'JOURNAL'. According to Material Design 3 guidelines, badges should not overlap with elements other than the icons they belong to.",
+  "changes": "Adjust the position of the badge to ensure it does not overlap with the 'JOURNAL' text label.",
+  "changed_components": [
+    "<div class = 'Badge' config = 'Small' id = 'I57805:14955;54563:40052;54563:40365' style = 'position: absolute; top: 0px; left: 68px; width: 6px; height: 6px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; '><div class = 'Spacer' id = 'I57805:14955;54563:40052;54563:40365;54347:34804' style = 'position: absolute; top: 2px; left: 2px; width: 2px; height: 2px; overflow: hidden; opacity: 1; border-radius: 0px; '></div></div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

@@ -1,0 +1,203 @@
+{
+  'violations': [
+    "1. **Inconsistent Leading Elements:** The leading elements (thumbnails, icons) in the list items are very varied. This can disrupt visual hierarchy and consistency in the list's appearance. (Severity: High)"
+  ],
+  'changes': [
+    "1. **Standardize Leading Elements:** Ensure that all leading elements (thumbnails, icons) have are the same across all list items. Since it is the most common leading element, I would suggest using the 114x64px video thumbnail for every item to maintain visual consistency."
+  ],
+  'changed_components': [
+    "<div class = 'List-dark' id = '55705:22148' style='position: absolute; top: 72px; left: 0px; width: 412px; height: 616px; overflow: hidden; opacity: 1; background-color: #101510FF; border-radius: 0px; '>
+            <div class = 'List-item-1' id = '55257:4115' config='2-line' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I55257:4115;51964:73562' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I55257:4115;51964:73563' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-element' id = 'I55257:4115;51964:73564' style='position: absolute; top: 12px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Building-Blocks/video-Thumbnail' id = 'I55257:4115;51964:73565' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Thumbnail' id = 'I55257:4115;51964:73565;51964:70969' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'Content' id = 'I55257:4115;51964:73566' style='position: absolute; top: 12px; left: 130px; width: 218px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I55257:4115;51964:73568' style='position: absolute; top: 0px; left: 0px; width: 219px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Show title Season X
+                  </div>
+                  <div class = 'Supporting-text' id = 'I55257:4115;51964:73569' style='position: absolute; top: 24px; left: 0px; width: 219px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>2006
+                  </div>
+                </div>
+                <div class = 'Trailing-element' id = 'I55257:4115;51964:73570' style='position: absolute; top: 12px; left: 364px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55257:4115;51964:73572' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55257:4115;51964:73572;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'List-item-1' id = '55257:3608' config='2-line' style='position: absolute; top: 88px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I55257:3608;51964:73562' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I55257:3608;51964:73563' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-element' id = 'I55257:3608;51964:73564' style='position: absolute; top: 12px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Building-Blocks/video-Thumbnail' id = 'I55257:3608;51964:73565' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Thumbnail' id = 'I55257:3608;51964:73565;51964:70969' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'Content' id = 'I55257:3608;51964:73566' style='position: absolute; top: 12px; left: 130px; width: 218px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I55257:3608;51964:73568' style='position: absolute; top: 0px; left: 0px; width: 219px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Show title Season X
+                  </div>
+                  <div class = 'Supporting-text' id = 'I55257:3608;51964:73569' style='position: absolute; top: 24px; left: 0px; width: 219px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>2006
+                  </div>
+                </div>
+                <div class = 'Trailing-element' id = 'I55257:3608;51964:73570' style='position: absolute; top: 12px; left: 364px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55257:3608;51964:73572' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55257:3608;51964:73572;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'List-item-2' id = '55257:3624' config='2-line' style='position: absolute; top: 176px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I55257:3624;51964:73562' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I55257:3624;51964:73563' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-element' id = 'I55257:3624;51964:73564' style='position: absolute; top: 12px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Building-Blocks/video-Thumbnail' id = 'I55257:3624;51964:73565' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Thumbnail' id = 'I55257:3624;51964:73565;51964:70969' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'Content' id = 'I55257:3624;51964:73566' style='position: absolute; top: 12px; left: 130px; width: 218px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I55257:3624;51964:73568' style='position: absolute; top: 0px; left: 0px; width: 219px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Show title Season X
+                  </div>
+                  <div class = 'Supporting-text' id = 'I55257:3624;51964:73569' style='position: absolute; top: 24px; left: 0px; width: 219px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>2006
+                  </div>
+                </div>
+                <div class = 'Trailing-element' id = 'I55257:3624;51964:73570' style='position: absolute; top: 12px; left: 364px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55257:3624;51964:73572' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55257:3624;51964:73572;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'List-item-3' id = '55257:3640' config='2-line' style='position: absolute; top: 264px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I55257:3640;51964:73562' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I55257:3640;51964:73563' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-element' id = 'I55257:3640;51964:73564' style='position: absolute; top: 12px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Building-Blocks/video-Thumbnail' id = 'I55257:3640;51964:73565' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Thumbnail' id = 'I55257:3640;51964:73565;51964:70969' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'Content' id = 'I55257:3640;51964:73566' style='position: absolute; top: 12px; left: 130px; width: 218px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I55257:3640;51964:73568' style='position: absolute; top: 0px; left: 0px; width: 219px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Show title Season X
+                  </div>
+                  <div class = 'Supporting-text' id = 'I55257:3640;51964:73569' style='position: absolute; top: 24px; left: 0px; width: 219px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>2006
+                  </div>
+                </div>
+                <div class = 'Trailing-element' id = 'I55257:3640;51964:73570' style='position: absolute; top: 12px; left: 364px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55257:3640;51964:73572' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55257:3640;51964:73572;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'List-item-4' id = '55257:3656' config='2-line' style='position: absolute; top: 352px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I55257:3656;51964:73562' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I55257:3656;51964:73563' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-element' id = 'I55257:3656;51964:73564' style='position: absolute; top: 12px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Building-Blocks/video-Thumbnail' id = 'I55257:3656;51964:73565' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Thumbnail' id = 'I55257:3656;51964:73565;51964:70969' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'Content' id = 'I55257:3656;51964:73566' style='position: absolute; top: 12px; left: 130px; width: 218px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I55257:3656;51964:73568' style='position: absolute; top: 0px; left: 0px; width: 219px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Show title Season X
+                  </div>
+                  <div class = 'Supporting-text' id = 'I55257:3656;51964:73569' style='position: absolute; top: 24px; left: 0px; width: 219px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>2006
+                  </div>
+                </div>
+                <div class = 'Trailing-element' id = 'I55257:3656;51964:73570' style='position: absolute; top: 12px; left: 364px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55257:3656;51964:73572' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55257:3656;51964:73572;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'List-item-5' id = '55257:3672' config='2-line' style='position: absolute; top: 440px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I55257:3672;51964:73562' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I55257:3672;51964:73563' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-element' id = 'I55257:3672;51964:73564' style='position: absolute; top: 12px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Building-Blocks/video-Thumbnail' id = 'I55257:3672;51964:73565' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Thumbnail' id = 'I55257:3672;51964:73565;51964:70969' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'Content' id = 'I55257:3672;51964:73566' style='position: absolute; top: 12px; left: 130px; width: 218px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I55257:3672;51964:73568' style='position: absolute; top: 0px; left: 0px; width: 219px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Show title Season X
+                  </div>
+                  <div class = 'Supporting-text' id = 'I55257:3672;51964:73569' style='position: absolute; top: 24px; left: 0px; width: 219px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>2006
+                  </div>
+                </div>
+                <div class = 'Trailing-element' id = 'I55257:3672;51964:73570' style='position: absolute; top: 12px; left: 364px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55257:3672;51964:73572' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55257:3672;51964:73572;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'List-item-6' id = '55257:3688' config='2-line' style='position: absolute; top: 528px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'state-layer-overlay' id = 'I55257:3688;51964:73562' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              </div>
+              <div class = 'state-layer' id = 'I55257:3688;51964:73563' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 88px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-element' id = 'I55257:3688;51964:73564' style='position: absolute; top: 12px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Building-Blocks/video-Thumbnail' id = 'I55257:3688;51964:73565' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'Thumbnail' id = 'I55257:3688;51964:73565;51964:70969' style='position: absolute; top: 0px; left: 0px; width: 114px; height: 64px; opacity: 1; background-color: #D9D9D9FF; border-radius: 0px; '>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'Content' id = 'I55257:3688;51964:73566' style='position: absolute; top: 12px; left: 130px; width: 218px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Headline' id = 'I55257:3688;51964:73568' style='position: absolute; top: 0px; left: 0px; width: 219px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Show title Season X
+                  </div>
+                  <div class = 'Supporting-text' id = 'I55257:3688;51964:73569' style='position: absolute; top: 24px; left: 0px; width: 219px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>2006
+                  </div>
+                </div>
+                <div class = 'Trailing-element' id = 'I55257:3688;51964:73570' style='position: absolute; top: 12px; left: 364px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55257:3688;51964:73572' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55257:3688;51964:73572;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>"
+  ],
+  'deleted_components': [],
+  'new_components': []
+}

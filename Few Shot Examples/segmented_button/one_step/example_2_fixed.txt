@@ -1,0 +1,12 @@
+{
+  "violations": "The label text on the button segments covers two lines. Label text on buttons should never wrap lines.",
+  "changes": "Change the label text to use one line only, moving the selection indicator icon if necessary.",
+  "changed_components": [
+    "<div class = 'label-text' id = 'I55672:4388;53923:36686;53923:36942' style='position: absolute; top: 10px; left: 78.25px; width: 61.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #0E1F12FF; line-height: 20px; justify-content: center; align-items: center;'>Incoming
+                      </div>",
+    "<div class = 'label-text' id = 'I55672:4388;53923:36687;53923:37048' style='position: absolute; top: 10px; left: 66.25px; width: 59.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;'>Outgoing
+                      </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

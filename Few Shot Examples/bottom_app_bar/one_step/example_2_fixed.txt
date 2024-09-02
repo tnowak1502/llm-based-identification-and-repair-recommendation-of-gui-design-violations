@@ -1,0 +1,27 @@
+{
+  "violations": [
+    "1. The bottom app bar does not contain an FAB, but in the image there is one placed above the bar."
+  ],
+  "changes": [
+    "1. Remove the FAB that is already present and move it into the bottom app bar's left side."
+  ],
+  "changed_components": [],
+  "deleted_components": [
+    "55725:5890"
+  ],
+  "new_components": [
+   ("<div class = 'FAB-elevation-override' id = 'I55725:4812;52508:29478' style='position: absolute; top: 12px; left: 340px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 16px; '>
+            <div class = 'FAB' id = 'I55725:4812;51162:4823' config='secondary' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; background-color: #D3E8D2FF; border-radius: 16px; filter: drop-shadow(0px 1px 3px #0000004C); '>
+              <div class = 'state-layer' id = 'I55725:4812;51162:4823;51655:4793' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'icon' id = 'I55725:4812;51162:4823;51655:4794' style='position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class='icon' id='I55725:4812;51162:4823;51655:4794;50656:8969' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+                    <svg height = '16px' width = '16px' xmlns = 'http://www.w3.org/2000/svg'>
+                      <path d='M 16 9 L 9 9 L 9 16 L 7 16 L 7 9 L 0 9 L 0 7 L 7 7 L 7 0 L 9 0 L 9 7 L 16 7 L 16 9 Z' style='fill: #0E1F12FF;'/>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>", "55725:5694")
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar includes four destinations, but one of the icons (the second icon) has a different background color compared to the others. This inconsistency can confuse users and make the navigation bar look unbalanced.",
+      "guideline": "Icons in the same component should have the same weight and style."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure all icons in the navigation bar have the same background color. Change the background color of the second icon to match the others."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with consistent icon styles"
+}

@@ -1,0 +1,44 @@
+{
+  "violations": [
+    "1. Carousel items too small: The items in the carousel have a very low width. This also results in 4 items being visible simultaneously, which can be okay, but not if they are more complicated, which is the case here."
+  ],
+  "changes": [
+    "1. Increase the width of the carousel items by at least enough so only three items are visible at a time, probably even a bit more."
+  ],
+  "changed_components": [
+    "<div class = 'Carousel' id = '55634:34426' style='position: absolute; top: 105px; left: -356px; width: 1124px; height: 293px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Item-1' id = '55611:2968' style='position: absolute; top: 8px; left: 8px; width: 364px; height: 277px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+            <div class = 'Item-text-1' id = '55611:2969' style='position: absolute; top: 0px; left: 0px; width: 364.0011901855469px; height: 277px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Content' id = 'I55611:2969;53912:27512' style='position: absolute; top: 0px; left: 0px; width: 364.0011901855469px; height: 277px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Label' id = 'I55611:2969;53912:27513' style='position: absolute; top: 217px; left: 16px; width: 31px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #FFFFFFFF; line-height: 24px; justify-content: left; align-items: bottom;'>Ster
+                </div>
+                <div class = 'Supporting-text' id = 'I55611:2969;53912:27514' style='position: absolute; top: 245px; left: 16px; width: 87px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: left; align-items: bottom;'>Supporting Text
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class = 'Item-1' id = '55611:2982' style='position: absolute; top: 8px; left: 380px; width: 364px; height: 277px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+            <div class = 'Item-text-1' id = '55611:2983' style='position: absolute; top: 0px; left: 0px; width: 364.0011901855469px; height: 277px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Content' id = 'I55611:2983;53912:27512' style='position: absolute; top: 0px; left: 0px; width: 364.0011901855469px; height: 277px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Label' id = 'I55611:2983;53912:27513' style='position: absolute; top: 193px; left: 16px; width: 333.0011901855469px; height: 48px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #FFFFFFFF; line-height: 24px; justify-content: left; align-items: bottom;'>Streamen, singen & spielen - hier kommt keine Langeweile auf!
+                </div>
+                <div class = 'Supporting-text' id = 'I55611:2983;53912:27514' style='position: absolute; top: 245px; left: 16px; width: 170px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: left; align-items: bottom;'>Unterhaltungs-Apps fürs Tablet
+                </div>
+              </div>
+            </div>  
+          </div>
+          <div class = 'Item-1' id = '55611:2987' style='position: absolute; top: 8px; left: 752px; width: 364px; height: 277px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+            <div class = 'Item-text-1' id = '55611:2988' style='position: absolute; top: 0px; left: 0px; width: 364.0011901855469px; height: 277px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Content' id = 'I55611:2988;53912:27512' style='position: absolute; top: 0px; left: 0px; width: 364.0011901855469px; height: 277px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Label' id = 'I55611:2988;53912:27513' style='position: absolute; top: 217px; left: 16px; width: 41px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #FFFFFFFF; line-height: 24px; justify-content: left; align-items: bottom;'>Label
+                </div>
+                <div class = 'Supporting-text' id = 'I55611:2988;53912:27514' style='position: absolute; top: 245px; left: 16px; width: 87px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: left; align-items: bottom;'>Supporting Text
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

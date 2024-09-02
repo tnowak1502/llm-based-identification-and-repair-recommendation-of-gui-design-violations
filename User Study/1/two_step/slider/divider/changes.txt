@@ -1,0 +1,6 @@
+{
+  "violations": "1. The use of a full-width divider between the 'Volume' section and the 'Language' section might be unnecessary and visually disruptive. Material Design 3 Guidelines suggest avoiding the use of too many full-width dividers and using open space to group items instead.",
+  "changes": "1. Remove the full-width divider between the 'Volume' section and the 'Language' section and use open space to separate these sections instead.",
+  "guideline_request": "Guidelines for the use of dividers and open space",
+  "example_request": "Examples of using open space to group items instead of full-width dividers"
+}

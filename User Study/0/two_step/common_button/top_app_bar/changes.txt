@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "description": "The top app bar in the mockup contains five interactive icons (including the leading icon). According to Material Design 3 Guidelines, the right side of a top app bar should have at most three icon buttons. If there are more actions that need to be accessible, the third icon should be a 'more' icon (three vertical dots) and open an overflow menu.",
+      "severity": "High"
+    },
+    {
+      "description": "The headline text 'username' is too close to the leading icon and the interactive icons on the right. This may cause visual clutter and make it harder for users to distinguish between the headline and the icons.",
+      "severity": "Medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Reduce the number of interactive icons to three by removing the two least frequently used actions (the attach file and add box icons) and adding a 'more' icon as the rightmost trailing icon, moving the remaining icons accordingly."
+    },
+    {
+      "description": "Increase the spacing between the headline text and the leading icon, as well as between the headline text and the interactive icons on the right, to reduce visual clutter and improve readability."
+    }
+  ],
+  "guideline_request": "Top app bar guidelines",
+  "example_request": "Examples of top app bars with 'more' icon"
+}
+```

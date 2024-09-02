@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Repetitive List Items:** The list contains multiple instances of 'Nederlands' as a language option. This repetition does not provide any additional information to the user and clutters the interface. (Severity: High)",
+    "2. **Inconsistent Leading Elements:** The leading elements for list items are not consistent. Some list items have radio buttons, some have checkboxes, and some have switches. This inconsistency can confuse users. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Remove Repetitive List Items:** Eliminate the repeated 'Nederlands' entries to ensure each language option appears only once.",
+    "2. **Standardize Leading Elements:** Ensure that the leading elements are consistent across similar types of list items. For example, use radio buttons for language selection and checkboxes for email preferences."
+  ],
+  "guideline_request": "Material Design 3 guidelines on lists and consistency",
+  "example_request": "list with radio buttons, list with checkboxes"
+}

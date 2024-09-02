@@ -1,0 +1,130 @@
+{
+  "violations": "It seems that the buttons are used to activate various filter options. This is not something that buttons should be used for, they should be replaced with chips.",
+  "changes": "Replace the buttons with chips.",
+  "changed_components": [
+    "<div class = 'Filter-chip-dark' id = '55304:3660' config='label & leading icon' style='position: absolute; top: 9px; left: 12px; width: 117px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:6888;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 117px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:6888;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'mark_unread_chat_alt' id = 'I55173:6888;53923:29633;55204:66885' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I55173:6888;53923:29633;55204:66885;2402:44638' style='position: absolute; top: 0.75px; left: 1.5px; width: 15.0px; height: 16.5px;'>
+                      <svg height = '16.5px' width = '15.0px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 13.5 12 L 1.5 12 L 1.5 3 L 9.075000286102295 3 C 9.0150002874434 2.707500010728836 8.940000280737877 2.167499989271164 9.075000286102295 1.5 L 1.5 1.5 C 0.6749999821186066 1.5 0 2.1749999821186066 0 3 L 0 16.5 L 3 13.5 L 13.5 13.5 C 14.325000017881393 13.5 15 12.825000017881393 15 12 L 15 5.235000014305115 C 14.565000012516975 5.565000012516975 14.055000007152557 5.812500067055225 13.5 5.925000071525574 L 13.5 12 Z' style='fill: #99D4A2FF;'/>
+                        <path d='M 12.75 4.5 C 13.992640614509583 4.5 15 3.4926406145095825 15 2.25 C 15 1.0073592960834503 13.992640614509583 0 12.75 0 C 11.50735929608345 0 10.5 1.0073592960834503 10.5 2.25 C 10.5 3.4926406145095825 11.50735929608345 4.5 12.75 4.5 Z' style='fill: #99D4A2FF;'/>
+                        <path d='M 9 9 L 3 9 L 3 10.5 L 9 10.5 L 9 9 Z' style='fill: #99D4A2FF;'/>
+                        <path d='M 12 6.75 L 3 6.75 L 3 8.25 L 12 8.25 L 12 6.75 Z' style='fill: #99D4A2FF;'/>
+                        <path d='M 3 6 L 12 6 L 12 5.925000071525574 C 11.09249997138977 5.737500071525574 10.312499821186066 5.212499991059303 9.772499799728394 4.5 L 3 4.5 L 3 6 Z' style='fill: #99D4A2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:6888;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 68px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Ungelesen
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Filter-chip-dark' id = '55304:3668' config='label & leading icon' style='position: absolute; top: 9px; left: 137px; width: 86px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:6971;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 86px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:6971;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'photo_size_select_actual' id = 'I55173:6971;53923:29633;55204:66227' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I55173:6971;53923:29633;55204:66227;2402:66167' style='position: absolute; top: 2.25px; left: 0.75px; width: 16.5px; height: 13.5px;'>
+                      <svg height = '13.5px' width = '16.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 15 0 L 1.5 0 C 0.75 0 0 0.75 0 1.5 L 0 12 C 0 12.825000017881393 0.6749999821186066 13.5 1.5 13.5 L 15 13.5 C 15.75 13.5 16.5 12.75 16.5 12 L 16.5 1.5 C 16.5 0.75 15.75 0 15 0 Z M 15 11.940000057220459 C 14.985000000335276 11.962500056717545 14.955000056885183 11.985000000335276 14.940000057220459 12 L 1.5 12 L 1.5 1.559999942779541 L 1.559999942779541 1.5 L 14.932499885559082 1.5 C 14.954999885056168 1.5149999996647239 14.9774998286739 1.5449999431148171 14.992499828338623 1.559999942779541 L 14.992499828338623 11.940000057220459 L 15 11.940000057220459 Z M 7.5 9.382500171661377 L 5.625 7.125 L 3 10.5 L 13.5 10.5 L 10.125 6 L 7.5 9.382500171661377 Z' style='fill: #99D4A2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:6971;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 37px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Fotos
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Filter-chip-dark' id = '55304:3673' config='label & leading icon' style='position: absolute; top: 9px; left: 231px; width: 94px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:6981;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 94px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:6981;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'videocam' id = 'I55173:6981;53923:29633;55204:67047' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I55173:6981;53923:29633;55204:67047;2402:43115' style='position: absolute; top: 4.5px; left: 2.25px; width: 13.5px; height: 9.0px;'>
+                      <svg height = '9.0px' width = '13.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 9 1.5 L 9 7.5 L 1.5 7.5 L 1.5 1.5 L 9 1.5 Z M 9.75 0 L 0.75 0 C 0.3374999910593033 0 0 0.3374999910593033 0 0.75 L 0 8.25 C 0 8.662500008940697 0.3374999910593033 9 0.75 9 L 9.75 9 C 10.162500008940697 9 10.5 8.662500008940697 10.5 8.25 L 10.5 5.625 L 13.5 8.625 L 13.5 0.375 L 10.5 3.375 L 10.5 0.75 C 10.5 0.3374999910593033 10.162500008940697 0 9.75 0 Z' style='fill: #99D4A2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:6981;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 45px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Videos
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Filter-chip-dark' id = '55304:3678' config='label & leading icon' style='position: absolute; top: 53px; left: 12px; width: 84px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:7029;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 84px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:7029;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'link' id = 'I55173:7029;53923:29633;55204:66790' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I55173:7029;53923:29633;55204:66790;2402:46856' style='position: absolute; top: 5.25px; left: 1.5px; width: 15.0px; height: 7.5px;'>
+                      <svg height = '7.5px' width = '15.0px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 11.25 0 L 8.25 0 L 8.25 1.5 L 11.25 1.5 C 12.487499982118607 1.5 13.5 2.5125000178813934 13.5 3.75 C 13.5 4.987499982118607 12.487499982118607 6 11.25 6 L 8.25 6 L 8.25 7.5 L 11.25 7.5 C 13.319999992847443 7.5 15 5.819999992847443 15 3.75 C 15 1.6800000071525574 13.319999992847443 0 11.25 0 Z M 6.75 6 L 3.75 6 C 2.5125000178813934 6 1.5 4.987499982118607 1.5 3.75 C 1.5 2.5125000178813934 2.5125000178813934 1.5 3.75 1.5 L 6.75 1.5 L 6.75 0 L 3.75 0 C 1.6800000071525574 0 0 1.6800000071525574 0 3.75 C 0 5.819999992847443 1.6800000071525574 7.5 3.75 7.5 L 6.75 7.5 L 6.75 6 Z M 4.5 3 L 10.5 3 L 10.5 4.5 L 4.5 4.5 L 4.5 3 Z' style='fill: #99D4A2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:7029;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 35px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Links
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Filter-chip-dark' id = '55304:3683' config='label & leading icon' style='position: absolute; top: 53px; left: 104px; width: 79px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:7039;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 79px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:7039;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class='icon' id='I55173:7039;53923:29633;52555:25658' style='position: absolute; top: 5.25px; left: 0px; width: 18px; height: 7.714285850524902px;'>
+                    <svg height = '7.714285850524902px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>
+                      <path d='M 8.357142857142858 0 L 10.285714285714286 0 L 10.285714285714286 7.714285850524902 L 8.357142857142858 7.714285850524902 L 8.357142857142858 0 Z M 5.142857142857143 0 L 1.2857142857142858 0 C 0.514285683631897 0 0 0.6428571542104086 0 1.2857143084208171 L 0 6.428571542104086 C 0 7.071428696314494 0.514285683631897 7.714285850524902 1.2857142857142858 7.714285850524902 L 5.142857142857143 7.714285850524902 C 5.914285744939532 7.714285850524902 6.428571428571429 7.071428696314494 6.428571428571429 6.428571542104086 L 6.428571428571429 3.857142925262451 L 4.5 3.857142925262451 L 4.5 5.785714387893677 L 1.9285714285714288 5.785714387893677 L 1.9285714285714288 1.9285714626312256 L 6.428571428571429 1.9285714626312256 L 6.428571428571429 1.2857143084208171 C 6.428571428571429 0.6428571542104086 5.914285744939532 0 5.142857142857143 0 Z M 18 1.9285714626312256 L 18 0 L 12.214285714285715 0 L 12.214285714285715 7.714285850524902 L 14.142857142857144 7.714285850524902 L 14.142857142857144 5.1428572336832685 L 16.714285714285715 5.1428572336832685 L 16.714285714285715 3.214285771052043 L 14.142857142857144 3.214285771052043 L 14.142857142857144 1.9285714626312256 L 18 1.9285714626312256 Z' style='fill: #99D4A2FF;'/>
+                    </svg>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:7039;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 30px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>GIFs
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Filter-chip-dark' id = '55304:3688' config='label & leading icon' style='position: absolute; top: 53px; left: 191px; width: 87px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:7049;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 87px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:7049;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'headphones' id = 'I55173:7049;53923:29633;55204:66321' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I55173:7049;53923:29633;55204:66321;2402:58223' style='position: absolute; top: 2.25px; left: 2.25px; width: 13.5px; height: 13.5px;'>
+                      <svg height = '13.5px' width = '13.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 6.75 0 C 3.022500157356262 0 0 3.022500157356262 0 6.75 L 0 12 C 0 12.825000017881393 0.6749999821186066 13.5 1.5 13.5 L 4.5 13.5 L 4.5 7.5 L 1.5 7.5 L 1.5 6.75 C 1.5 3.8475000858306885 3.8475000858306885 1.5 6.75 1.5 C 9.652499914169312 1.5 12 3.8475000858306885 12 6.75 L 12 7.5 L 9 7.5 L 9 13.5 L 12 13.5 C 12.825000017881393 13.5 13.5 12.825000017881393 13.5 12 L 13.5 6.75 C 13.5 3.022500157356262 10.477499842643738 0 6.75 0 Z M 3 9 L 3 12 L 1.5 12 L 1.5 9 L 3 9 Z M 12 12 L 10.5 12 L 10.5 9 L 12 9 L 12 12 Z' style='fill: #99D4A2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:7049;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 38px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Audio
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Filter-chip-dark' id = '55304:3693' config='label & leading icon' style='position: absolute; top: 97px; left: 12px; width: 123px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:7059;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 123px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:7059;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'text_snippet' id = 'I55173:7059;53923:29633;55204:66421' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I55173:7059;53923:29633;55204:66421;2402:57637' style='position: absolute; top: 2.25px; left: 2.25px; width: 13.5px; height: 13.5px;'>
+                      <svg height = '13.5px' width = '13.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 8.377500057220459 1.5 L 12 5.122499942779541 L 12 12 L 1.5 12 L 1.5 1.5 L 8.377500057220459 1.5 Z M 8.377500057220459 0 L 1.5 0 C 0.6749999821186066 0 0 0.6749999821186066 0 1.5 L 0 12 C 0 12.825000017881393 0.6749999821186066 13.5 1.5 13.5 L 12 13.5 C 12.825000017881393 13.5 13.5 12.825000017881393 13.5 12 L 13.5 5.122499942779541 C 13.5 4.724999964237213 13.342499881982803 4.342500060796738 13.057499885559082 4.065000057220459 L 9.434999942779541 0.44249993562698364 C 9.157499939203262 0.15749993920326233 8.775000035762787 0 8.377500057220459 0 Z M 3 9 L 10.5 9 L 10.5 10.5 L 3 10.5 L 3 9 Z M 3 6 L 10.5 6 L 10.5 7.5 L 3 7.5 L 3 6 Z M 3 3 L 8.25 3 L 8.25 4.5 L 3 4.5 L 3 3 Z' style='fill: #99D4A2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:7059;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 74px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Dokumente
+                </div>
+              </div>
+            </div>",
+            "<div class = 'Filter-chip-dark' id = '55304:3698' config='label & leading icon' style='position: absolute; top: 97px; left: 143px; width: 113px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+              <div class = 'state-layers' id = 'I55173:7069;53923:29632' style='position: absolute; top: 0px; left: 0px; width: 113px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Leading-icon' id = 'I55173:7069;53923:29633' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'signal_cellular_alt' id = 'I55173:7069;53923:29633;55204:66698' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='Vector' id='I55173:7069;53923:29633;55204:66698;2402:52366' style='position: absolute; top: 3px; left: 3.375px; width: 11.25px; height: 12px;'>
+                      <svg height = '12px' width = '11.25px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 9 0 L 11.25 0 L 11.25 12 L 9 12 L 9 0 Z M 0 7.5 L 2.25 7.5 L 2.25 12 L 0 12 L 0 7.5 Z M 4.5 3.75 L 6.75 3.75 L 6.75 12 L 4.5 12 L 4.5 3.75 Z' style='fill: #99D4A2FF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class = 'label-text' id = 'I55173:7069;53923:29634' style='position: absolute; top: 6px; left: 34px; width: 64px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Umfragen
+                </div>
+              </div>
+            </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

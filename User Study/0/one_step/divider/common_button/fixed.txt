@@ -1,0 +1,14 @@
+{
+  "violations": "The text button 'Refresh' is not distinguishable from normal text due to its styling and placement.",
+  "changes": "Change the text button 'Refresh' to an outlined button to make it more distinguishable.",
+  "changed_components": [
+    "<div class = 'Button' id = '57811:37193' config='Outlined' style='position: absolute; top: 4px; left: 322px; width: 74px; height: 32px; overflow: hidden; opacity: 1; border-radius: 100px; box-shadow: inset 0 0 0 1px #717970FF; '>
+      <div class = 'state-layer' id = 'I57811:37193;53923:27564' style='position: absolute; top: 0px; left: 0px; width: 74px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:37193;53923:27565' style='position: absolute; top: 6px; left: 12px; width: 51px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center;'>Refresh
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

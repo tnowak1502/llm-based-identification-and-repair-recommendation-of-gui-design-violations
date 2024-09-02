@@ -1,0 +1,35 @@
+{
+  "violations": "The cards are repetitive in content and layout. According to Material Design 3 Guidelines, information should be succinct, unambiguous, and not repetitive. Forcing this information into cards does not seem sensible.",
+  "changes": "Combine repetitive cards into a list component to aggregate similar entries. This will make the information presented more succinct, easier to scan and reduce redundancy.",
+  "changed_components": [],
+  "deleted_components": [
+    "57805:12209",
+    "57805:12220"
+  ],
+  "new_components": [
+    ("<div class='List' id='57805:12300' style='position: absolute; top: 0px; left: 16px; width: 380px; height: 160px; overflow: hidden; opacity: 1; background-color: #DFE4DCFF; border-radius: 12px;'>
+        <div class='List-item' id='57805:12301' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 12px;'>
+          <div class='Background' id='57805:12302' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; background-color: #DFE4DCFF; border-radius: 12px;'>
+            <div class='State-layer' id='57805:12303' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px;'></div>
+          </div>
+          <div class='Content' id='57805:12304' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 12px;'>
+            <div class='Text' id='57805:12305' style='position: absolute; top: 16px; left: 16px; width: 348px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+              <div class='Header' id='57805:12306' style='position: absolute; top: 0px; left: 0px; width: 349px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: top;'>Mud Island Amphitheater</div>
+              <div class='Subhead' id='57805:12307' style='position: absolute; top: 28px; left: 0px; width: 349px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #414941FF; line-height: 20px; justify-content: left; align-items: top;'>4,4 ★ · Outdoor seasonal theater · 0.6 mi</div>
+            </div>
+          </div>
+        </div>
+        <div class='List-item' id='57805:12308' style='position: absolute; top: 80px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 12px;'>
+          <div class='Background' id='57805:12309' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; background-color: #DFE4DCFF; border-radius: 12px;'>
+            <div class='State-layer' id='57805:12310' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px;'></div>
+          </div>
+          <div class='Content' id='57805:12311' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 80px; overflow: hidden; opacity: 1; border-radius: 12px;'>
+            <div class='Text' id='57805:12312' style='position: absolute; top: 16px; left: 16px; width: 348px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+              <div class='Header' id='57805:12313' style='position: absolute; top: 0px; left: 0px; width: 349px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 500; letter-spacing: 0.15000000596046448px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: top;'>Mud Island Amphitheater</div>
+              <div class='Subhead' id='57805:12314' style='position: absolute; top: 28px; left: 0px; width: 349px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #414941FF; line-height: 20px; justify-content: left; align-items: top;'>4,4 ★ · Outdoor seasonal theater · 0.6 mi</div>
+            </div>
+          </div>
+        </div>
+      </div>", "57805:12209")
+  ]
+}

@@ -1,0 +1,10 @@
+Violations:
+{'severity': 'high', 'description': 'The cards contain a large amount of text, which can be overwhelming and difficult to scan quickly. According to Material Design 3 Guidelines, information should be easy to scan for relevant and actionable information and should have a clear hierarchy.'}
+{'severity': 'medium', 'description': "The 'Actions' section of the cards includes multiple buttons that are very close to each other. According to Material Design 3 Guidelines, click goals should be large enough to hit and not too close to each other."}
+{'severity': 'low', 'description': "The 'Subhead' text in the 'Header' section of the cards is slightly crowded. According to Material Design 3 Guidelines, text should always be easy to read and not too small or crowded."}
+
+
+Changes:
+{'change': "Reduce the amount of text in the 'Title' section to make it more succinct and easier to read. Consider breaking up the text into smaller, more digestible chunks or using bullet points."}
+{'change': "Increase the spacing between the buttons in the 'Actions' section to ensure they are not too close to each other and are easy to interact with."}
+{'change': "Increase the spacing around the 'Subhead' text in the 'Header' section to make it easier to read and less crowded."}

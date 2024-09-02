@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "description": "The top app bar in the mockup contains four trailing icons. According to Material Design 3 Guidelines, the right side of a top app bar should have at most three icon buttons. If there are more actions that need to be accessible, the third icon should be a 'more' icon (three vertical dots) and open an overflow menu.",
+      "severity": "High"
+    },
+    {
+      "description": "The headline text is missing from the top app bar. According to Material Design 3 Guidelines, a top app bar contains a title (which can be a screen title or the name of the app). It should be located at the very top of the screen.",
+      "severity": "Medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Reduce the number of trailing icons to three by removing the least frequently used action and adding a 'more' icon as the rightmost trailing icon, moving the remaining icons accordingly."
+    },
+    {
+      "description": "Add a headline text to the top app bar to indicate the screen title or the name of the app."
+    }
+  ],
+  "guideline_request": "top app bar guidelines",
+  "example_request": "examples of top app bars with headline text and 'more' icon"
+}

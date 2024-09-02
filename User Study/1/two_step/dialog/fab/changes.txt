@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is placed near the top right corner of the screen, which is not the recommended placement. According to Material Design guidelines, FABs should be placed in the bottom right corner to be easily accessible using thumbs. This violation is quite severe because it affects the usability and accessibility of the FAB.",
+      "severity": "high"
+    },
+    {
+      "description": "The FAB is overlapping with the dialog box that appears in the middle of the screen. FABs should be on the very top layer of the screen but should not overlap with other important components like dialogs. This violation is moderately severe because it can lead to confusion about the interactable areas and impede the visibility of the dialog content.",
+      "severity": "moderate"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Relocate the FAB to the bottom right corner of the screen to improve accessibility and adherence to the guidelines. Ensure it does not overlap with any navigation or bottom app bars."
+    },
+    {
+      "description": "Ensure the FAB is placed above other components without overlapping them. Adjust the position values (Top and Left) accordingly to maintain a clear separation between the FAB and the dialog."
+    }
+  ],
+  "guideline_request": "Placement of FABs, Layering of FABs",
+  "example_request": "FAB placement examples, FAB layering examples"
+}

@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is located at the bottom right corner of the screen, which is correct. However, the FAB is a standard one, and there is only one FAB on the screen. According to Material Design guidelines, if there is only one primary action on the screen, using a standard FAB makes more sense. An extended FAB should be used if the icon alone is not clear enough to express the FAB's purpose.",
+      "severity": "medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Consider changing the standard FAB into an extended FAB if the icon alone is not clear enough to express the FAB's purpose. Ensure the extended FAB includes a text label to clarify its action."
+    }
+  ],
+  "guideline_request": "FAB usage guidelines, Extended FAB guidelines",
+  "example_request": "Extended FAB examples"
+}

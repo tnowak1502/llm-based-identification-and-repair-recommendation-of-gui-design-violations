@@ -1,0 +1,9 @@
+{
+  "violations": "The label 'Horror Mo...' is truncated, making it unclear what the full label is. This ambiguity can confuse users.",
+  "changes": "Ensure that tab labels are not truncated. This can be achieved by either shortening the tab names or increasing the width of the tabs so that the full text is visible.",
+  "changed_components": [
+    "<div class=\"Tab-4\" config=\"unselected\" id=\"I57811:39346;54563:40467\" style=\"position: absolute; top: 0px; left: 270px; width: 120px; height: 48px; overflow: hidden; opacity: 1; background-color: #101510FF; border-radius: 0px; \"> <div class=\"State-layer\" id=\"I57811:39346;54563:40467;54563:40769\" style=\"position: absolute; top: 0px; left: 0px; width: 120px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Tab-Contents\" id=\"I57811:39346;54563:40467;54563:40770\" style=\"position: absolute; top: 14px; left: 21px; width: 78px; height: 20px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Label\" id=\"I57811:39346;54563:40467;54563:40771\" style=\"position: absolute; top: 0px; left: 0px; width: 79px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;\">Horror Movies</div> </div> </div> </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

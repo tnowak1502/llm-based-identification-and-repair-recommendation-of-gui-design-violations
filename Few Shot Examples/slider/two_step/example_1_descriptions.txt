@@ -1,0 +1,49 @@
+### Slider Description
+
+**Slider Type:** Range Selection Dark
+
+**Color:**
+- **Inactive Track (Left and Right):** Dark green (#18512BFF)
+- **Active Track:** Light green (#99D4A2FF)
+- **Handle:** Light green (#99D4A2FF)
+- **Track Dots:** Light green (#99D4A2FF)
+- **Value Indicator Background:** Light grey (#DFE4DCFF)
+- **Label Text:** Dark grey (#2D322CFF)
+
+**Size and Shape:**
+- **Overall Slider:** Width: 380px, Height: 44px
+- **Handle:** Width: 4px, Height: 44px; Border-radius: 2px
+- **Track:** Width: Varies (Active: 104.12429809570312px, Inactive Left: 182px, Inactive Right: 78.87570190429688px); Height: 16px; Border-radius: 2px to 16px
+- **Track Dots:** Width: 4px, Height: 4px; Border-radius: 100px
+- **Value Indicator:** Width: 48px, Height: 44px; Border-radius: 100px
+- **Label Text:** Font-size: 14px; Width: 18px; Height: 20px
+
+**Position:**
+- **Slider Container:** Top: 39px; Left: 16px
+- **Inactive-Track (Left):** Top: 14px; Left: 0px
+- **Active-Track:** Top: 14px; Left: 190px
+- **Inactive-Track (Right):** Top: 14px; Left: 294.1242980957031px
+- **Handle (Left):** Top: -14px; Left: 188px
+- **Handle (Right):** Top: -14px; Left: -1px
+- **Value Indicator:** Top: -62px; Left: -24px
+- **Label Text:** Top: 12px; Left: 15.5px
+
+**ID:**
+- Slider Container: `55631:32351`
+- Main Slider: `55631:9531`
+- Inactive Track (Left): `I55631:9531;54593:26079`
+- Active Track: `I55631:9531;54593:26081`
+- Inactive Track (Right): `I55631:9531;54593:26083`
+- Handles: `I55631:9531;54593:26080` (left), `I55631:9531;54593:26084` (right)
+- Track Dots: `I55631:9531;54593:26079;54593:26154` (left), `I55631:9531;54593:26083;54593:26151` (right)
+- Value Indicator: `I55631:9531;54593:26085`
+- Label Text: `I55631:9531;54593:26085;54593:26142`
+
+**Likely Function:**
+This slider is likely used for selecting a range, such as a price range in a product filter. Users can adjust both the minimum and maximum values by dragging the left and right handles. The current value (50) is displayed in a value indicator above the right handle.
+
+**Additional Attributes:**
+- **Track Dots:** Provide additional visual cues for track sections.
+- **Value Indicator:** Shows the current value being selected by the right handle.
+- **Label Text:** Indicates the selected value in the range.
+

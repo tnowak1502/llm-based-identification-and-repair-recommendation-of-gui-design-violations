@@ -1,0 +1,6 @@
+{
+  "violations": "It seems that the tabs in the mock-up are used to group sequential content (user reviews), not related content. ",
+  "changes": "Change the tabs to contain related groups of reviews (e.g. friend's reviews, the user's own reviews, all reviews) and expand the list of reviews in the current tab to reflect this change.",
+  "guideline_request": "Tabs",
+  "example_request": "Material Design Tabs"
+}

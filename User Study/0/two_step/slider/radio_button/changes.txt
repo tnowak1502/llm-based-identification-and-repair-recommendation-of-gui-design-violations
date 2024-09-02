@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The radio buttons are too close to each other, making it difficult for users to distinguish between them. 2. The radio buttons do not have a preselected option, which is necessary for clear user interaction.",
+  "changes": "1. Increase the spacing between the radio buttons to enhance visual clarity and usability. 2. Ensure that one of the radio buttons is preselected by default.",
+  "guideline_request": "radio buttons spacing, preselected radio button",
+  "example_request": "radio buttons with proper spacing, preselected radio button"
+}
+```

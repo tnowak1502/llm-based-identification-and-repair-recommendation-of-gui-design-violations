@@ -1,0 +1,16 @@
+```json
+{
+  "violations": [
+    "The segmented buttons have different widths for their segments. According to Material Design 3 Guidelines, segmented buttons should have segments of equal width for consistency.",
+    "The 'Icon-button' with config 'outlined' has a shadow applied. Icon buttons should not have shadows as it can make them appear as having higher emphasis than intended.",
+    "The 'Button' labels use numbers without units or context, which can be ambiguous for users. The information should be more explicit."
+  ],
+  "changes": [
+    "Ensure that all segments of the segmented buttons have equal widths for consistency.",
+    "Remove the shadow from the 'Icon-button' with config 'outlined' to align with the guidelines for icon buttons.",
+    "Add units or context to the numbers in the button labels to make the information more explicit (e.g., '100 votes' instead of just '100')."
+  ],
+  "guideline_request": "Segmented button width; Icon button shadow; Button label clarity",
+  "example_request": "Segmented button with equal width segments; Icon button without shadow; Button with explicit label"
+}
+```

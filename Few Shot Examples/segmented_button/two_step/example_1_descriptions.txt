@@ -1,0 +1,90 @@
+### Description of Segmented Buttons
+
+#### Segment 1: "Show all"
+
+- **ID**: `I55672:6437;53923:37137`
+- **Type**: Label only
+- **Color**: 
+  - Background: Dark green (`#394B3BFF`)
+  - Text: Light green (`#D3E8D2FF`)
+- **Size**: 
+  - Width: 127.33px
+  - Height: 48px
+- **Shape**: Rounded left side (border-radius: `100px 0px 0px 100px`)
+- **Position**: 
+  - Top: 0px
+  - Left: 0px
+- **Icon**: 
+  - Position: 
+    - Top: 11px
+    - Left: 23.67px
+  - Icon Size: 18px x 18px
+  - SVG Path Fill: `#D3E8D2FF`
+  - Path: Represents a checkmark
+- **Function**: Likely used to show all items in a list or grid
+- **Font**: 
+  - Family: Roboto
+  - Size: 14px
+  - Weight: 500
+  - Letter-spacing: 0.1px
+  - Line-height: 20px
+
+#### Segment 2: "Unicolors"
+
+- **ID**: `I55672:6437;53923:37138`
+- **Type**: Label only
+- **Color**: 
+  - Background: Transparent with border (`#8B9389FF`)
+  - Text: Light gray (`#DFE4DCFF`)
+- **Size**: 
+  - Width: 127.33px
+  - Height: 48px
+- **Shape**: Rectangular with no border-radius
+- **Position**: 
+  - Top: 0px
+  - Left: 126.33px
+- **Function**: Likely used to filter items that are unicolor
+- **Font**: 
+  - Family: Roboto
+  - Size: 14px
+  - Weight: 500
+  - Letter-spacing: 0.1px
+  - Line-height: 20px
+
+#### Segment 3: "Prints"
+
+- **ID**: `I55672:6437;53923:37139`
+- **Type**: Label only
+- **Color**: 
+  - Background: Transparent with border (`#8B9389FF`)
+  - Text: Light gray (`#DFE4DCFF`)
+- **Size**: 
+  - Width: 127.33px
+  - Height: 48px
+- **Shape**: Rounded right side (border-radius: `0px 100px 100px 0px`)
+- **Position**: 
+  - Top: 0px
+  - Left: 252.67px
+- **Function**: Likely used to filter items with prints
+- **Font**: 
+  - Family: Roboto
+  - Size: 14px
+  - Weight: 500
+  - Letter-spacing: 0.1px
+  - Line-height: 20px
+
+### Summary of Segmented Button Container
+
+- **ID**: `55672:6437`
+- **Type**: Dark-themed segmented button group
+- **Color**: Dark background (`#101510FF`)
+- **Size**: 
+  - Width: 380px
+  - Height: 48px
+- **Shape**: Rectangular, spans across the width of the screen
+- **Position**: 
+  - Top: 8px
+  - Left: 16px
+- **Function**: Provides filter options for the displayed items, such as "Show all," "Unicolors," and "Prints."
+
+Each segment within the segmented button group is designed to filter items based on the selected category, providing a clear and user-friendly way to navigate different types of items.

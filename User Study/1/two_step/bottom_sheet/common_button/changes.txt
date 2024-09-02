@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "The 'Show all' button is a text button, which is appropriate for low-emphasis actions. However, the label text 'Show all' is in title case. According to Material Design 3 Guidelines, the label text of text buttons should be in sentence case."
+  ],
+  "changes": [
+    "Change the label text 'Show all' on the text button to sentence case (e.g., 'show all')."
+  ],
+  "guideline_request": "Button label text case",
+  "example_request": "Text button with sentence case label text"
+}

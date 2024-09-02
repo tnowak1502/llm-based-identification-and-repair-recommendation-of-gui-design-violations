@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "The leading elements (thumbnails) are positioned on the right for List Items 2, 3, 4, 5, and 6. According to Material Design 3 guidelines, supporting visuals should be anchored to the leading edge of the list items, which means they should be placed on the left side."
+  ],
+  "changes": [
+    "Move the leading elements (thumbnails) to the left side of List Items 2, 3, 4, 5, and 6 to comply with the guideline that supporting visuals should be anchored to the leading edge of list items."
+  ],
+  "guideline_request": "Material Design 3 guidelines on lists",
+  "example_request": "lists with leading elements on the left"
+}

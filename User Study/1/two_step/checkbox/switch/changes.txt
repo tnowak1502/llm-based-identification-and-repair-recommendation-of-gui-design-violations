@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The switch for 'Download using mobile data' is appropriately used for an on/off choice. However, the visual design might not clearly indicate its state (selected/unselected) due to the color contrast.",
+      "reasoning": "Switch states should be visually distinct to ensure users can easily understand whether the option is enabled or disabled. The current color scheme may not provide sufficient contrast."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure that the color contrast between the selected and unselected states of the switch is sufficient. This can be achieved by using more distinct colors for the track and handle in their different states.",
+      "reasoning": "Improving the color contrast will make it easier for users to identify the state of the switch, enhancing usability and accessibility."
+    }
+  ],
+  "guideline_request": "Material Design 3 guidelines for switches and color contrast",
+  "example_request": "Example HTML implementations of switches with clear visual distinction between states in Material Design 3"
+}

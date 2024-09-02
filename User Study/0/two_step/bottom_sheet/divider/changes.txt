@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. The divider at the top of the bottom sheet (id: 57811:42822) is a full-width divider. In this context, an inset divider might be more appropriate to visually group related content within the bottom sheet and maintain a clear visual hierarchy.",
+    "2. The text 'Share' and 'Bookmark' under the icons might be too close to the divider (id: 57811:42822), which could make the layout look crowded and reduce readability."
+  ],
+  "changes": [
+    "1. Change the full-width divider (id: 57811:42822) to an inset divider to better group related content within the bottom sheet.",
+    "2. Increase the spacing between the text 'Share' and 'Bookmark' and the divider (id: 57811:42822) to improve readability and reduce crowding."
+  ],
+  "guideline_request": "Guidelines for the use of inset dividers in bottom sheets",
+  "example_request": "Examples of inset dividers in bottom sheets"
+}

@@ -1,0 +1,16 @@
+{'violations': '1. The "add to Calendar" chip is being used for a major action, which should instead be a button. Chips should not be used for major actions. 2. The "Select Incoming/Outgoing" chip is too wide and should be more succinct.',
+ 'changes': '1. Replace the "add to Calendar" chip with a properly styled button. 2. Make the "Select Incoming/Outgoing" chip more succinct.',
+ 'changed_components': ["<div class = 'Filter-chip' id = '57805:15864' config='label only' style='position: absolute; top: 10px; left: 88px; width: 128px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #717970FF; '>
+  <div class = 'state-layer' id = 'I57805:15864;53923:28677' style='position: absolute; top: 0px; left: 0px; width: 128px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+   <div class = 'label-text' id = 'I57805:15864;53923:28678' style='position: absolute; top: 6px; left: 16px; width: 97px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Incoming/Outgoing
+   </div>
+  </div>
+ </div>"],
+ 'deleted_components': ['57805:15865'],
+ 'new_components': [["<div class = 'Button' id = '57805:15865' config='Text' style='position: absolute; top: 10px; left: 297px; width: 133px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+  <div class = 'state-layer' id = 'I57805:15865;53923:27747' style='position: absolute; top: 0px; left: 0px; width: 133px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+   <div class = 'label-text' id = 'I57805:15865;53923:27748' style='position: absolute; top: 10px; left: 16px; width: 102px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;'>add to Calendar
+   </div>
+  </div>
+ </div>", "57805:15862"]]
+}

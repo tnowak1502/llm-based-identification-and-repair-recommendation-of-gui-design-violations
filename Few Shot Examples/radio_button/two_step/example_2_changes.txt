@@ -1,0 +1,6 @@
+{
+  "violations": "1. Only one radio button in the same section can be selected at the same time.",
+  "changes": "1. Change one of the two selected radio buttons into an unselected one.",
+  "guideline_request": "radio buttons",
+  "example_request": "selected radio button, unselected radio button"
+}

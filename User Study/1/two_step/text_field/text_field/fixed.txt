@@ -1,0 +1,7 @@
+{
+  "changed_components": [
+    "<div class='label-text' id='I57805:15723;52798:25350' style='position: absolute; top: 0px; left: 0px; width: 364px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #414941FF; line-height: 24px; justify-content: left; align-items: top;'>Recipient</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

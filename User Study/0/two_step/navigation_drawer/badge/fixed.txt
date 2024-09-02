@@ -1,0 +1,8 @@
+{
+  "changed_components": [
+    "<div class='Label' id='I57811:38242;54563:40052;54563:40364' style='position: absolute; top: 0px; left: 0px; width: 65px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>JOURNAL</div>",
+    "<div class='Badge' config='Small' id='I57811:38242;54563:40052;54563:40365' style='position: absolute; top: 7px; left: 75px; width: 6px; height: 6px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; '><div class='Spacer' id='I57811:38242;54563:40052;54563:40365;54347:34804' style='position: absolute; top: 2px; left: 2px; width: 2px; height: 2px; overflow: hidden; opacity: 1; border-radius: 0px; '></div></div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

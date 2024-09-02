@@ -1,0 +1,26 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar includes five destinations, but one of the destinations ('Inbox') has a badge indicating a count of notifications. According to the Material Design 3 guidelines, badges should be placed in the corner of icons to indicate the presence of notifications or communicate item counts. This inconsistency can cause confusion for users.",
+      "guideline": "Badges should be placed in the corner of icons to indicate the presence of notifications or communicate item counts."
+    },
+    {
+      "severity": "medium",
+      "description": "The navigation bar contains five destinations, which is the maximum recommended number. This can make the navigation bar look crowded and may affect usability.",
+      "guideline": "A navigation bar provides access to 3 to 5 destinations at the bottom of the screen."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Move the badge for the 'Inbox' destination to the corner of the icon to clearly indicate the presence of notifications."
+    },
+    {
+      "description": "Consider reducing the number of destinations in the navigation bar to improve usability and avoid crowding."
+    }
+  ],
+  "guideline_request": "Navigation Bar and Badge Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with badges"
+}
+```

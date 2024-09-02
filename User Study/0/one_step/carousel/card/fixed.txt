@@ -1,0 +1,7 @@
+{
+  "violations": "The cards are repetitive in content and layout. According to Material Design 3 Guidelines, information should be succinct, unambiguous, and not repetitive. The second card is a duplicate of the first card.",
+  "changes": "Remove the second card to avoid redundancy.",
+  "changed_components": [],
+  "deleted_components": ["57811:36961"],
+  "new_components": []
+}

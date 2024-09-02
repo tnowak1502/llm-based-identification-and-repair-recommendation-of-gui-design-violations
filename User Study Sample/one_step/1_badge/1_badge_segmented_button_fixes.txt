@@ -1,0 +1,5 @@
+Violations:
+The segmented button 'Segment-start' includes both an icon and a label, while 'Segment-end' includes only an icon. According to Material Design 3 guidelines, each segment of a segmented button should be styled the same way and should not mix icon and text segments.
+
+Changes:
+Change the 'Segment-end' to include both an icon and a label, similar to the 'Segment-start'.

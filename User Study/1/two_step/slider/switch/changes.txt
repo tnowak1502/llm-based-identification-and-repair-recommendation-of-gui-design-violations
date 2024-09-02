@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The switch used for 'Download using mobile data' is appropriate as it represents a binary on/off choice. However, the label 'Download using mobile data' could be more succinct and direct.",
+      "reasoning": "Labels next to switches should be short and direct and describe what happens when the switch is on. This ensures clarity and better user understanding."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Consider changing the label 'Download using mobile data' to a more succinct and direct label such as 'Use mobile data'.",
+      "reasoning": "This change will make the label more concise and directly describe the action when the switch is on, adhering to Material Design guidelines."
+    }
+  ],
+  "guideline_request": "Material Design 3 guidelines for switch labels",
+  "example_request": "Example HTML implementations of switches with appropriate labels in Material Design 3"
+}

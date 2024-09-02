@@ -1,0 +1,6 @@
+{
+  "violations": "The top app bar in the mockup contains a badge that is not placed in the corner of an icon, which is the typical use case for badges according to Material Design 3 Guidelines. Badges should be used to indicate notifications or item counts and are usually placed in the corner of icons.",
+  "changes": "Move the badge to the corner of an appropriate icon, such as the 'more' icon, to indicate notifications or item counts. Alternatively, consider using a snackbar or a different component to show the message 'A user has reported you', as this would be more appropriate for a temporary message.",
+  "guideline_request": "badge placement guidelines",
+  "example_request": "examples of badges on icons"
+}

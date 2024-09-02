@@ -1,0 +1,49 @@
+{
+  "changed_components": [
+    "<div class = 'trailing-icon' id = '55392:2780' style='position: absolute; top: 8px; left: 258px; width: 144px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'trailing-icon-1' id = 'I55055:29040;52056:23252' config='standard' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I55055:29040;52056:23252;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55055:29040;52056:23252;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icon' id = 'I55055:29040;52056:23252;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'camera_alt' id = 'I55055:29040;52056:23252;51525:5139;55204:66083' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class='Vector' id='I55055:29040;52056:23252;51525:5139;55204:66083;2402:62745' style='position: absolute; top: 3px; left: 2px; width: 20px; height: 18px;'>
+                        <svg height = '18px' width = '20px' xmlns = 'http://www.w3.org/2000/svg'>
+                          <path d='M 18 2 L 14.829999923706055 2 L 13 0 L 7 0 L 5.170000076293945 2 L 2 2 C 0.8999999761581421 2 0 2.899999976158142 0 4 L 0 16 C 0 17.100000023841858 0.8999999761581421 18 2 18 L 18 18 C 19.100000023841858 18 20 17.100000023841858 20 16 L 20 4 C 20 2.899999976158142 19.100000023841858 2 18 2 Z M 18 16 L 2 16 L 2 4 L 6.050000190734863 4 L 7.880000114440918 2 L 12.119999885559082 2 L 13.949999809265137 4 L 18 4 L 18 16 Z M 10 5 C 7.240000009536743 5 5 7.240000009536743 5 10 C 5 12.759999990463257 7.240000009536743 15 10 15 C 12.759999990463257 15 15 12.759999990463257 15 10 C 15 7.240000009536743 12.759999990463257 5 10 5 Z M 10 13 C 8.350000023841858 13 7 11.649999976158142 7 10 C 7 8.350000023841858 8.350000023841858 7 10 7 C 11.649999976158142 7 13 8.350000023841858 13 10 C 13 11.649999976158142 11.649999976158142 13 10 13 Z' style='fill: #C1C9BEFF;'/>
+                        </svg>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'trailing-icon-2' id = 'I55055:29040;52056:23253' config='standard' style='position: absolute; top: 0px; left: 48px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I55055:29040;52056:23253;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55055:29040;52056:23253;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icon' id = 'I55055:29040;52056:23253;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55055:29040;52056:23253;51525:5139;51009:9730' style='position: absolute; top: 3px; left: 3px; width: 17.490001678466797px; height: 17.490001678466797px;'>
+                      <svg height = '17.490001678466797px' width = '17.490001678466797px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 11.760001511353 10.270001577744896 L 17.490001678466797 16.000001744858693 L 16.000001744858693 17.490001678466797 L 10.270001577744896 11.760001511353 C 9.200001766233285 12.530002053088046 7.91000071002661 13.000001417697689 6.5000007088488445 13.000001417697689 C 2.910000403176873 13.000001417697689 0 10.090001252939421 0 6.5000007088488445 C 0 2.910000403176873 2.910000403176873 0 6.5000007088488445 0 C 10.090001252939421 0 13.000001417697689 2.910000403176873 13.000001417697689 6.5000007088488445 C 13.000001417697689 7.91000071002661 12.530002053088046 9.200001766233285 11.760001511353 10.270001577744896 Z M 6.5000007088488445 2.0000002181073366 C 4.0100006661870715 2.0000002181073366 2.0000002181073366 4.0100006661870715 2.0000002181073366 6.5000007088488445 C 2.0000002181073366 8.990000751510618 4.0100006661870715 11.00000119959035 6.5000007088488445 11.00000119959035 C 8.990000751510618 11.00000119959035 11.00000119959035 8.990000751510618 11.00000119959035 6.5000007088488445 C 11.00000119959035 4.0100006661870715 8.990000751510618 2.0000002181073366 6.5000007088488445 2.0000002181073366 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class = 'trailing-icon-3' id = 'I55055:29040;52056:23254' config='standard' style='position: absolute; top: 0px; left: 96px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'container' id = 'I55055:29040;52056:23254;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                <div class = 'state-layer' id = 'I55055:29040;52056:23254;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Icons/more_vert_24px' id = 'I55055:29040;52056:23254;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55055:29040;52056:23254;51525:5139;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                      <svg height = '16px' width = '4px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

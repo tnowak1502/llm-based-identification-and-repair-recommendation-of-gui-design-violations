@@ -1,0 +1,99 @@
+Here is a detailed description of the top app bar based on the provided code snippet and the mockup image:
+
+The top app bar is designed in dark mode.
+
+- **Type**: Standard
+- **Position**: 
+  - Top: 0px
+  - Left: 0px
+- **Size**: 
+  - Width: 412px
+  - Height: 64px
+- **Color**: 
+  - Background color: #15140CFF (dark mode)
+  - Text color: #DFE4DCFF
+- **Shape**: Rectangular with no border radius
+- **ID**: 55392:2777 (for the main top app bar)
+- **Attributes**:
+  - **Opacity**: 1 (fully opaque)
+  - **Overflow**: Hidden
+- **Components**:
+  1. **Headline (Title)**
+     - **Text**: "WhatsApp"
+     - **Position**: 
+       - Top: 18px
+       - Left: 10px
+     - **Size**: 
+       - Width: 197px
+       - Height: 28px
+     - **Font**: Roboto, size 22px, weight 700
+     - **Line Height**: 28px
+     - **Justification**: Left
+     - **ID**: 55392:2779
+
+  2. **Trailing Icons**:
+     - **Container Position**:
+       - Top: 8px
+       - Left: 210px
+     - **Container Size**: 
+       - Width: 192px
+       - Height: 48px
+     - **Icon Container ID**: 55392:2780
+     
+     1. **Trailing Icon 1 (Star Icon)**
+        - **Position**: 
+          - Top: 0px
+          - Left: 0px
+        - **Size**: 
+          - Width: 48px
+          - Height: 48px
+        - **Icon Size**: 
+          - Width: 24px
+          - Height: 24px
+        - **Icon Color**: #C1C9BEFF
+        - **ID**: 55392:2781
+
+     2. **Trailing Icon 2 (Gear Icon)**
+        - **Position**: 
+          - Top: 0px
+          - Left: 48px
+        - **Size**: 
+          - Width: 48px
+          - Height: 48px
+        - **Icon Size**: 
+          - Width: 24px
+          - Height: 24px
+        - **Icon Color**: #C1C9BEFF
+        - **ID**: 55392:2801
+
+     3. **Trailing Icon 3 (Camera Icon)**
+        - **Position**: 
+          - Top: 0px
+          - Left: 96px
+        - **Size**: 
+          - Width: 48px
+          - Height: 48px
+        - **Icon Size**: 
+          - Width: 24px
+          - Height: 24px
+        - **Icon Color**: #C1C9BEFF
+        - **ID**: 55392:2807
+
+     4. **Trailing Icon 4 (Search Icon)**
+        - **Position**: 
+          - Top: 0px
+          - Left: 144px
+        - **Size**: 
+          - Width: 48px
+          - Height: 48px
+        - **Icon Size**: 
+          - Width: 24px
+          - Height: 24px
+        - **Icon Color**: #C1C9BEFF
+        - **ID**: 55392:2782
+
+- **Likely Function**: 
+  - The top app bar serves as the primary toolbar for the application, offering quick access to important features. The icons likely represent actions such as going back, adding a new item, searching, and accessing settings. The headline provides the title of the current screen or application.
+
+- **General Description**: 
+  - The top app bar is at the top of the screen, spans the full width, and is moderately tall. It is in dark mode, with a dark background and lighter text/icons for contrast. The bar includes a prominent application title on the left side and various action icons on the right side, allowing users to quickly access key functionality.

@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Weights: The icons used in the bottom navigation bar have different weights. The 'Home' icon is filled, while the 'Orders', 'My Plus', and 'Account' icons are outlined. (Severity: High)",
+    "2. Inconsistent Icon Button Styles: The icon buttons in the search bar and the filter button next to it use different styles. The search icon is filled, while the filter icon is outlined. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the icon weights in the bottom navigation bar. Choose either all filled or all outlined icons to maintain consistency.",
+    "2. Standardize the icon button styles in the search bar and the filter button. Choose either all filled or all outlined styles to maintain consistency."
+  ],
+  "guideline_request": "Icon button styles, Icon weights",
+  "example_request": "icon buttons, bottom navigation bar icons"
+}

@@ -1,0 +1,52 @@
+### Detailed Descriptions of Carousels
+
+#### 1. Carousel #55062:1299
+
+- **Type:** Standard Carousel
+- **Position:** Absolute, located at the top of the viewport (112px from the top and 0px from the left)
+- **Dimensions:** Width: 412px, Height: 82px
+- **Color:** Light grey background (`#C4C4C4FF`)
+- **Shape:** Rectangular with some items having rounded corners (28px border-radius)
+- **Mode:** Light mode
+- **Function:** Navigation for categories; likely buttons to switch views or filters
+
+    - **Item-1:** 
+        - **Position:** 8px from the top, 16px from the left
+        - **Dimensions:** Width: 154px, Height: 66px
+        - **Content:** Text "Groceries" centered vertically and horizontally in white (`#FFFFFFFF`)
+    
+    - **Item-2:** 
+        - **Position:** 8px from the top, 178px from the left
+        - **Dimensions:** Width: 154px, Height: 66px
+        - **Content:** Text "Stores" centered vertically and horizontally in white (`#FFFFFFFF`)
+
+    - **Item-Last:** 
+        - **Position:** 8px from the top, 340px from the left
+        - **Dimensions:** Width: 72px, Height: 66px
+        - **Content:** Empty, serves as a placeholder for additional navigation
+
+#### 2. Carousel #55062:1321
+
+- **Type:** Dark Mode Carousel
+- **Position:** Absolute, located at the top of the viewport (32px from the top and 0px from the left)
+- **Dimensions:** Width: 412px, Height: 294px
+- **Color:** Dark grey background (`#414941FF`) with light grey media placeholders (`#C4C4C4FF`)
+- **Shape:** Rectangular with rounded corners (12px border-radius for stacked cards)
+- **Mode:** Dark mode
+- **Function:** Display popular brands or promotions with media and text content
+
+    - **Item-1:**
+        - **Position:** 8px from the top, 16px from the left
+        - **Dimensions:** Width: 278px, Height: 278px
+        - **Content:** 
+            - Media placeholder at the top (160px height)
+            - Text content section at the bottom (120px height) with details about McDonald's: rating, categories, delivery time, and delivery fee
+
+    - **Item-2:**
+        - **Position:** 8px from the top, 302px from the left
+        - **Dimensions:** Width: 278px, Height: 278px
+        - **Content:** 
+            - Media placeholder at the top (160px height)
+            - Text content section at the bottom (120px height) with details about McDonald's: rating, categories, delivery time, and delivery fee
+
+This design, based on the provided snippets and the image, is structured to facilitate a user-friendly navigation and viewing experience in both light and dark modes. The carousels are strategically positioned to draw attention to important content and navigational elements.

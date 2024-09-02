@@ -1,0 +1,17 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The badge background color (#414941FF) is a dark gray color that might not provide enough contrast with the underlying icon or its surroundings, potentially making the badge difficult to notice. According to the Material Design 3 Guidelines, badges should have a contrasting color that sticks out from the icon and its surroundings."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Change the badge background color to a more contrasting color that stands out against the icon and its surroundings. For example, using a brighter or more vibrant color can make the badge more noticeable and comply with the Material Design 3 Guidelines."
+    }
+  ],
+  "guideline_request": "badge color contrast guidelines",
+  "example_request": "badge"
+}
+```

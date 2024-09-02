@@ -1,0 +1,15 @@
+{
+  "violations": [
+    "1. The bottom app bar should not be used together with a dialog. The dialog should be modal and cover the bottom app bar.",
+    "2. The bottom app bar contains two delete icons, which is repetitive and could confuse the user."
+  ],
+  "changes": [
+    "1. Remove the bottom app bar and its contents.",
+    "2. Ensure the dialog covers the entire screen, including the area where the bottom app bar was."
+  ],
+  "changed_components": [],
+  "deleted_components": [
+    "57811:42476"
+  ],
+  "new_components": []
+}

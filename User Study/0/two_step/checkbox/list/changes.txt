@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Inconsistent Leading Elements Position:** The leading elements (radio buttons, checkboxes, switch) are not consistently positioned. For example, in List-item-7, the leading element is positioned at 32px from the left, whereas in other items it is at 16px. This inconsistency can disrupt the visual flow and hierarchy. (Severity: High)",
+    "2. **Text Truncation:** In List-item-7, the text 'From User Group A containing users Jens, Anna, Chr...' is truncated, which can lead to ambiguity and a poor user experience. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Align Leading Elements:** Ensure that all leading elements are consistently positioned at the same distance from the left edge. For example, position all leading elements 16px from the left to maintain a consistent visual flow.",
+    "2. **Avoid Text Truncation:** Provide a mechanism to display the full text for items with longer content, such as a tooltip or an expandable text area, to ensure clarity and a better user experience."
+  ],
+  "guideline_request": "Material Design 3 guidelines on visual hierarchy and text truncation",
+  "example_request": "list items with consistent leading element positioning and mechanisms to handle long text"
+}

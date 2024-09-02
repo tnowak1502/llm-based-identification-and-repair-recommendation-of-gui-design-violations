@@ -1,0 +1,26 @@
+{
+  "violations": [
+    {
+      "description": "The FABs are not placed in the bottom right corner of the screen. Instead, they are scattered across the lower part of the screen. According to Material Design guidelines, FABs should be placed in the bottom right corner to be easily accessible using thumbs.",
+      "severity": "high"
+    },
+    {
+      "description": "There are multiple FABs on the screen, including a large FAB and a small FAB. According to the guidelines, there should not be more than one large or extended FAB on a screen. Large and extended FABs can be supported by one or more small FABs, but these should be placed above the larger FAB.",
+      "severity": "high"
+    },
+    {
+      "description": "The badge on the small FAB is not clearly indicating its purpose. Badges should be used to indicate notifications or item counts clearly.",
+      "severity": "medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Relocate the FABs to the bottom right corner of the screen, ensuring they do not overlap with any navigation or bottom app bars. Place the large FAB at the bottom right, and the small FAB above it."
+    },
+    {
+      "description": "Remove the badge from the small FAB or ensure it clearly indicates its purpose. If the badge is necessary, make sure it is placed in a way that does not obscure the FAB's icon."
+    }
+  ],
+  "guideline_request": "Placement of FABs, FAB hierarchy, Badge usage",
+  "example_request": "Extended FAB, large FAB, small FAB, Badge example"
+}

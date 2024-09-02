@@ -1,0 +1,6 @@
+{
+  'violations': "1. The handle of the slider in the 'Volume' section appears to be the same color as the active track, which might make it less distinguishable and harder to understand the current value. 2. The slider does not appear to have a value indicator, which could make it difficult for users to know the precise value they are selecting.",
+  'changes': "1. Change the color of the handle to make it more distinguishable from the active track. 2. Add a value indicator to the slider to display the current value being selected.",
+  'guideline_request': "slider handle color, slider value indicator",
+  'example_request': "slider with value indicator, slider handle color"
+}

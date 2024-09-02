@@ -1,0 +1,20 @@
+{
+  "violations": "1. Chips 'Delete filters' and 'Submit' are used for major actions, which should instead be buttons. 2. Chips 'Pet Images', 'Conference Call', 'Octopus', and 'Favorites' do not seem to be related to filtering transactions and should not be used as filter chips.",
+  "changes": "1. Replace 'Delete filters' and 'Submit' chips with buttons. 2. Remove chips 'Pet Images', 'Conference Call', 'Octopus', and 'Favorites'.",
+  "changed_components": [
+    "<div class = 'Button' id = '57811:8799' config='Text' style='position: absolute; top: 10px; left: 10px; width: 113px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+      <div class = 'state-layer' id = 'I57811:8799;53923:28677' style='position: absolute; top: 0px; left: 0px; width: 113px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:8799;53923:28678' style='position: absolute; top: 10px; left: 16px; width: 82px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Delete filters
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Button' id = '57811:8805' config='Text' style='position: absolute; top: 94px; left: 10px; width: 78px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+      <div class = 'state-layer' id = 'I57811:8805;53923:28677' style='position: absolute; top: 0px; left: 0px; width: 78px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:8805;53923:28678' style='position: absolute; top: 10px; left: 16px; width: 47px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Submit
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": ["57811:8803", "57811:8804", "57811:8806", "57811:8807"],
+  "new_components": []
+}

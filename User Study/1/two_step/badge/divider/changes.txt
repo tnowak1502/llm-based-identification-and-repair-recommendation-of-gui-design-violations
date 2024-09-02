@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. The use of full-width dividers (#C1C9BEFF, light grey) in the 'Stacked-card' sections might be unnecessary and could be replaced with open space for a cleaner design. Material Design Guidelines suggest avoiding the use of dividers if items could be grouped using open space instead."
+  ],
+  "changes": [
+    "1. Remove the full-width dividers between the 'Stacked-card' sections and use open space to separate the items for a cleaner design."
+  ],
+  "guideline_request": "Guidelines on the use of dividers and open space in Material Design 3",
+  "example_request": "Examples of using open space instead of dividers in Material Design 3 components"
+}

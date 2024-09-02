@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. The full-width divider (#C1C9BEFF, light grey) between the 'Volume' section and the 'Language' section might be unnecessary. According to Material Design Guidelines, dividers should not be used if items could be grouped using open space instead. The sections are already clearly separated by the use of open space, so the divider might be redundant."
+  ],
+  "changes": [
+    "1. Remove the full-width divider between the 'Volume' section and the 'Language' section to reduce redundancy and make the design cleaner."
+  ],
+  "guideline_request": "Guidelines on the use of dividers in Material Design 3",
+  "example_request": "Examples of sections separated by open space without dividers"
+}

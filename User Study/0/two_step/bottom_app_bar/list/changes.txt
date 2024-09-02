@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Inconsistent Leading Element Sizes:** The leading elements (monograms) have a height of 40px but are placed in containers with a height of 64px. This can create visual inconsistency. (Severity: Medium)",
+    "2. **Trailing-supporting-text Positioning:** The trailing-supporting-text elements have varying left positions, which can disrupt visual alignment and consistency across list items. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Standardize Leading Element Sizes:** Ensure that the height of the containers for the leading elements matches the height of the monograms (40px) to maintain visual consistency.",
+    "2. **Align Trailing-supporting-text Elements:** Adjust the left positioning of the trailing-supporting-text elements to ensure they are consistently aligned across all list items."
+  ],
+  "guideline_request": "Material Design 3 guidelines on visual hierarchy and alignment",
+  "example_request": "list with consistent leading elements and trailing text alignment"
+}

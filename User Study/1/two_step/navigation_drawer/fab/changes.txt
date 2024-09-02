@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is placed in the bottom right corner, which is correct. However, there is a navigation drawer overlaying the FAB. According to Material Design 3 Guidelines, FABs should be on the very top layer of the screen and not covered by any other components.",
+      "severity": "high"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure the FAB remains on the top layer even when the navigation drawer is open. Adjust the z-index or layering of the FAB and the navigation drawer so that the FAB is always visible and not obscured by the drawer."
+    }
+  ],
+  "guideline_request": "Material Design 3 FAB layering guidelines",
+  "example_request": "Material Design 3 FAB examples, Material Design 3 navigation drawer examples"
+}

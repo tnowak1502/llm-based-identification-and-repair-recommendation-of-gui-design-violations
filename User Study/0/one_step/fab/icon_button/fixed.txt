@@ -1,0 +1,21 @@
+{
+  "violations": "1. Inconsistent Icon Button Styles: The icon button for adding a new channel uses a standard style while the other icon buttons use different styles. For consistency and to clearly communicate their importance, the icon buttons should use the same style. (Severity: High)",
+  "changes": "1. Change the style of the 'add new channel' icon button to 'tonal' to match the other icon buttons.",
+  "changed_components": [
+    "<div class='Icon-button-dark' config='tonal' id='57811:37485' style='position: absolute; top: 8px; left: 354px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57811:37485;51525:5097' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+        <div class='state-layer' id='I57811:37485;51525:5098' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57811:37485;51525:5099' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57811:37485;51525:5099;50656:8969' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+              <svg height='16px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 16 9 L 9 9 L 9 16 L 7 16 L 7 9 L 0 9 L 0 7 L 7 7 L 7 0 L 9 0 L 9 7 L 16 7 L 16 9 Z' style='fill: #D3E8D2FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

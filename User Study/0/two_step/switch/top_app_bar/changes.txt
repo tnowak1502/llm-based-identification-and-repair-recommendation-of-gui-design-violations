@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The top app bar in the mockup does not have any trailing icons. While this is not inherently a violation, it is worth noting that the trailing icon section is empty. If there are any actions that need to be accessible from this screen, they should be added here. However, if no actions are necessary, this can be ignored.",
+      "severity": "Low"
+    }
+  ],
+  "changes": [
+    {
+      "description": "If there are any actions that users might need to access from the settings screen, add the appropriate trailing icons to the top app bar. If no actions are necessary, no changes are needed."
+    }
+  ],
+  "guideline_request": "top app bar trailing icons",
+  "example_request": "small top app bar with trailing icons"
+}

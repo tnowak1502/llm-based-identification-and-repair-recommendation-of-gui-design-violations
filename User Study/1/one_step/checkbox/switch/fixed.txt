@@ -1,0 +1,7 @@
+{
+  "violations": "The switch is used for 'Download using mobile data', which is an appropriate use for switches as it represents an on/off choice. However, ensure that the label clearly describes what happens when the switch is on.",
+  "changes": "No changes are required as the use of the switch is appropriate for an on/off choice.",
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": []
+}

@@ -1,0 +1,24 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The search bar includes a functional three-dot menu icon as the leading icon. According to the guidelines, the leading icon in a search bar should be a non-functional search icon or a navigational action (like a back arrow)."
+    },
+    {
+      "severity": "medium",
+      "description": "The search bar does not contain any trailing icons. According to the guidelines, a search bar can contain up to two trailing icons for additional search modes or high-level actions."
+    }
+  ],
+  "changes": [
+    {
+      "severity": "high",
+      "suggested_change": "Replace the functional three-dot menu icon with a back arrow. This aligns with the guideline that the leading icon should be non-functional or navigational."
+    },
+    {
+      "severity": "medium",
+      "suggested_change": "Add up to two trailing icons to the search bar for additional search modes or high-level actions, such as a microphone icon for voice search or a clear icon to clear the search input."
+    }
+  ],
+  "guideline_request": "leading icon in a search bar, trailing icons in a search bar",
+  "example_request": "search view example, search bar example"
+}

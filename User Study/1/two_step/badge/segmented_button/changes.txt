@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "The first segmented button has mixed segments: one segment contains both an icon and a label, while the other contains only an icon. According to the guidelines, each segment of a segmented button should be styled the same way.",
+    "The second segmented button also has mixed segments: one segment contains both an icon and a label, while the other contains only an icon. This violates the same guideline."
+  ],
+  "changes": [
+    "For the first segmented button, ensure that both segments either contain both an icon and a label or only one of these elements. Adjust the design to make both segments consistent in terms of content.",
+    "For the second segmented button, similarly, ensure that both segments either contain both an icon and a label or only one of these elements. Adjust the design to make both segments consistent in terms of content."
+  ],
+  "guideline_request": "segmented button guidelines",
+  "example_request": "segmented button"
+}

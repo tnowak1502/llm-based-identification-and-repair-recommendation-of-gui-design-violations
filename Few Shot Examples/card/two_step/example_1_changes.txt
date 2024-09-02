@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The cards appear to be repetitive in content and layout. According to Material Design 3 Guidelines, information should be succinct, unambiguous, and not repetitive. Forcing this information into cards does not seem sensible."
+    }
+  ],
+  "changes": [
+    {
+      "change": "Combine repetitive cards into a list component to aggregate similar entries. This will make the information presented more succinct, easier to scan and reduce redundancy."
+    }
+  ],
+  "guideline_request": "List guidelines",
+  "example_request": "list"
+}

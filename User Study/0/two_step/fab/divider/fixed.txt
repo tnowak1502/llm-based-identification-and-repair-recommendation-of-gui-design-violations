@@ -1,0 +1,10 @@
+```json
+{
+  "changed_components": [
+    "<hr class='Divider' id='I57811:37504;51816:5880' style='margin: 0px; position: absolute; left: 0px; width: 412px; height: 1px; opacity: 1; color: #C1C9BEFF;'/>",
+    "<hr class='Divider' id='I57811:37505;51816:5880' style='margin: 0px; position: absolute; left: 0px; width: 412px; height: 1px; opacity: 1; color: #C1C9BEFF;'/>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

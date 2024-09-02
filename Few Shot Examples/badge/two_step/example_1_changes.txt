@@ -1,0 +1,6 @@
+{
+  "violations": "1. The badge displays a numerical count of '10000', which exceeds the maximum recommended length of 4 characters. This can make the badge unreadable or cluttered.",
+  "changes": "1. Shorten the numerical count to a maximum of 4 characters for readability. If necessary, use abbreviations like '999+' for large numbers.",
+  "guideline_request": "Badge text length",
+  "example_request": "Badge examples"
+}

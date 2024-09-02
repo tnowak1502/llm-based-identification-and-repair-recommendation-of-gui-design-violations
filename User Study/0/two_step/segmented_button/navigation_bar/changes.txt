@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The icons in the navigation bar have different weights (thicknesses). According to Material Design 3 guidelines, icons in the same component should have the same weight to maintain visual consistency.",
+      "guideline": "Icons in the same component should have the same weight."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure all icons in the navigation bar have the same weight. Adjust the thickness of the icons to match each other."
+    }
+  ],
+  "guideline_request": "Icon guidelines in navigation bars",
+  "example_request": "Example of navigation bar with consistent icon weights"
+}
+```

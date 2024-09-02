@@ -1,0 +1,9 @@
+{
+  'violations': "The slider handle and active track are not clearly distinguishable. The slider's handle should be more prominent.",
+  'changes': "Increased the size and prominence of the slider handle.",
+  'changed_components': [
+    "<div class=\"Handle\" id=\"I57811:39943;54593:25568\" style=\"position: absolute; top: 0px; left: 160px; width: 8px; height: 44px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 4px; \"></div>"
+  ],
+  'deleted_components': [],
+  'new_components': []
+}

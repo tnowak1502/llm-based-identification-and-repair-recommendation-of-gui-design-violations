@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. Carousel items too small: The items in the carousel have a very low width. This also results in 4 items being visible simultaneously, which can be okay, but not if they are more complicated, which is the case here."
+  ],
+  "changes": [
+    "1. Increase the width of the carousel items by at least enough so only three items are visible at a time, probably even a bit more."
+  ],
+  "guideline_request": "carousel item width",
+  "example_request": "multi-browse-carousel"
+}
+```

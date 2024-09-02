@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "Some of the radio buttons are positioned further to the right than others, giving them an indented look. This is not something that should be done with radio buttons, as they all have the same importance.",
+  "changes": "Move the indented radio buttons (and their labels) left to align them with the others.",
+  "guideline_request": "radio buttons",
+  "example_request": "list with radio buttons"
+}
+```

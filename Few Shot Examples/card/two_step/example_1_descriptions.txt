@@ -1,0 +1,112 @@
+Based on the provided HTML snippets and the mockup image, here are the detailed descriptions of each card:
+
+### Card 1
+- **Type**: Horizontal Card
+- **ID**: 55648:10696
+- **Position**: Absolute; Top: 8px; Left: 16px
+- **Size**: Width: 360px; Height: 80px
+- **Shape**: Rounded corners with border-radius of 12px
+- **Color**: Background color: #F6FBF2FF; Border color: #C1C9BEFF
+- **Content**:
+  - **Header**: "Ausgabe"
+  - **Subhead**: "Bezahlt von X"
+  - **Right-aligned Text**:
+    - **Header**: "10€"
+    - **Subhead**: "Heute"
+- **Likely Function**: Displaying transaction details
+
+### Card 2
+- **Type**: Horizontal Card
+- **ID**: 55648:10710
+- **Position**: Absolute; Top: 96px; Left: 16px
+- **Size**: Width: 360px; Height: 80px
+- **Shape**: Rounded corners with border-radius of 12px
+- **Color**: Background color: #F6FBF2FF; Border color: #C1C9BEFF
+- **Content**:
+  - **Header**: "Ausgabe"
+  - **Subhead**: "Bezahlt von X"
+  - **Right-aligned Text**:
+    - **Header**: "10€"
+    - **Subhead**: "Heute"
+- **Likely Function**: Displaying transaction details
+
+### Card 3
+- **Type**: Horizontal Card
+- **ID**: 55648:10724
+- **Position**: Absolute; Top: 184px; Left: 16px
+- **Size**: Width: 360px; Height: 80px
+- **Shape**: Rounded corners with border-radius of 12px
+- **Color**: Background color: #F6FBF2FF; Border color: #C1C9BEFF
+- **Content**:
+  - **Header**: "Ausgabe"
+  - **Subhead**: "Bezahlt von X"
+  - **Right-aligned Text**:
+    - **Header**: "10€"
+    - **Subhead**: "Heute"
+- **Likely Function**: Displaying transaction details
+
+### Card 4
+- **Type**: Horizontal Card
+- **ID**: 55648:10738
+- **Position**: Absolute; Top: 272px; Left: 16px
+- **Size**: Width: 360px; Height: 80px
+- **Shape**: Rounded corners with border-radius of 12px
+- **Color**: Background color: #F6FBF2FF; Border color: #C1C9BEFF
+- **Content**:
+  - **Header**: "Ausgabe"
+  - **Subhead**: "Bezahlt von X"
+  - **Right-aligned Text**:
+    - **Header**: "10€"
+    - **Subhead**: "Heute"
+- **Likely Function**: Displaying transaction details
+
+### Card 5
+- **Type**: Horizontal Card
+- **ID**: 55648:10752
+- **Position**: Absolute; Top: 360px; Left: 16px
+- **Size**: Width: 360px; Height: 80px
+- **Shape**: Rounded corners with border-radius of 12px
+- **Color**: Background color: #F6FBF2FF; Border color: #C1C9BEFF
+- **Content**:
+  - **Header**: "Ausgabe"
+  - **Subhead**: "Bezahlt von X"
+  - **Right-aligned Text**:
+    - **Header**: "10€"
+    - **Subhead**: "Heute"
+- **Likely Function**: Displaying transaction details
+
+### Card 6
+- **Type**: Horizontal Card
+- **ID**: 55648:10766
+- **Position**: Absolute; Top: 448px; Left: 16px
+- **Size**: Width: 360px; Height: 80px
+- **Shape**: Rounded corners with border-radius of 12px
+- **Color**: Background color: #F6FBF2FF; Border color: #C1C9BEFF
+- **Content**:
+  - **Header**: "Ausgabe"
+  - **Subhead**: "Bezahlt von X"
+  - **Right-aligned Text**:
+    - **Header**: "10€"
+    - **Subhead**: "Heute"
+- **Likely Function**: Displaying transaction details
+
+### Card 7
+- **Type**: Horizontal Card
+- **ID**: 55648:10780
+- **Position**: Absolute; Top: 536px; Left: 16px
+- **Size**: Width: 360px; Height: 80px
+- **Shape**: Rounded corners with border-radius of 12px
+- **Color**: Background color: #F6FBF2FF; Border color: #C1C9BEFF
+- **Content**:
+  - **Header**: "Ausgabe"
+  - **Subhead**: "Bezahlt von X"
+  - **Right-aligned Text**:
+    - **Header**: "10€"
+    - **Subhead**: "Heute"
+- **Likely Function**: Displaying transaction details
+
+### General Design Attributes
+- **Mode**: Light Mode
+- **Overall Design**: The design maintains a consistent light color scheme with a soft greenish background (#F6FBF2FF) and subtle borders (#C1C9BEFF). Each card is designed to display transaction information with a header, subhead, and right-aligned details. The cards are vertically stacked with equal spacing, maintaining a clean and organized look.
+
+These cards are likely part of a financial or expense-tracking mobile application, given the repeated "Ausgabe" (Expense) and monetary values.

@@ -1,0 +1,13 @@
+```json
+{
+  "changed_components": [
+    "<div class='Item-1' id='57811:36932' style='position: absolute; top: 8px; left: 16px; width: 154px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px;'></div>",
+    "<div class='Item-2' id='57811:36935' style='position: absolute; top: 8px; left: 178px; width: 154px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px;'></div>",
+    "<div class='Item-Last' id='57811:36937' style='position: absolute; top: 8px; left: 340px; width: 72px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px 0px 0px 28px;'></div>"
+  ],
+  "deleted_components": [
+    "57811:36934"
+  ],
+  "new_components": []
+}
+```

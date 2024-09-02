@@ -1,0 +1,25 @@
+{
+  "violations": "The segmented button contains both a label & icon segment and an icon-only segment, which is not allowed. All segments should be styled the same way.",
+  "changes": "Change the icon-only segment to include a label, matching the style of the other segment.",
+  "changed_components": [
+    "<div class = 'Segment-end' config='label & icon' id = 'I57811:35961;53923:36669' style='position: absolute; top: 0px; left: 103px; width: 104px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'container' id = 'I57811:35961;53923:36669;53923:37042' style='position: absolute; top: 4px; left: 0px; width: 104px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px 100px 100px 0px; box-shadow: inset 0 0 0 1px #717970FF; '>
+        <div class = 'state-layer' id = 'I57811:35961;53923:36669;53923:37043' style='position: absolute; top: 0px; left: 0px; width: 104px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Icon' id = 'I57811:35961;53923:36669;53923:37044' style='position: absolute; top: 5px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Vector' id='I57811:35961;53923:36669;53923:37044;55204:70483' style='position: absolute; top: 1.5px; left: 0.75px; width: 16.5px; height: 15.0px;'>
+              <svg height = '15.0px' width = '16.5px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 10.5 0 L 3.75 0 C 3.1275000125169754 0 2.5949998944997787 0.3749998211860657 2.369999885559082 0.9149998426437378 L 0.10499998927116394 6.202500343322754 C 0.037499986588954926 6.375000346451998 0 6.555000007152557 0 6.75 L 0 8.25 C 0 9.075000017881393 0.6749999821186066 9.75 1.5 9.75 L 6.232500314712524 9.75 L 5.519999742507935 13.177499771118164 L 5.497499942779541 13.417499542236328 C 5.497499942779541 13.724999539554119 5.625000335276127 14.010000564157963 5.827500343322754 14.21250057220459 L 6.622499942779541 15 L 11.565000057220459 10.057499885559082 C 11.835000067949295 9.787499874830246 12 9.412500008940697 12 9 L 12 1.5 C 12 0.6749999821186066 11.325000017881393 0 10.5 0 Z M 10.5 9 L 7.244999885559082 12.255000114440918 L 8.25 8.25 L 1.5 8.25 L 1.5 6.75 L 3.75 1.5 L 10.5 1.5 L 10.5 9 Z M 13.5 0 L 16.5 0 L 16.5 9 L 13.5 9 L 13.5 0 Z' style='fill: #181D18FF;'>
+                </path>
+              </svg>
+            </div>
+          </div>
+          <div class = 'label-text' id = 'I57811:35961;53923:36669;53923:37045' style='position: absolute; top: 4px; left: 26px; width: 26px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #181D18FF; line-height: 20px; justify-content: center; align-items: center;'>
+            100
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

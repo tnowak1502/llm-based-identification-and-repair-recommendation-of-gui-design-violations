@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Carousel items too small: The items in the first carousel have a very low width. This also results in 3 items being visible simultaneously, which can be okay, but not if they are more complicated, which is the case here.",
+    "2. Text overflow: In the second carousel, the text 'McDonald’s' overflows its container."
+  ],
+  "changes": [
+    "1. Increase the width of the carousel items in the first carousel to ensure they are large enough to tell what they are.",
+    "2. Adjust the width of the text container in the second carousel or use text truncation to prevent text overflow."
+  ],
+  "guideline_request": "carousel item width, text overflow",
+  "example_request": "multi-browse-carousel, text container"
+}
+```

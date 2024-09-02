@@ -1,0 +1,6 @@
+{
+  "violations": "1. The slider handle's color does not provide enough contrast against the background, making it difficult to see. This violates the guideline that text and interactive elements should always be easy to read and interact with.",
+  "changes": "1. Increase the contrast of the slider handle by using a color that stands out more against the background. This could be achieved by using a lighter or darker shade or a different color altogether.",
+  "guideline_request": "Contrast guidelines for interactive elements",
+  "example_request": "Example html implementations of sliders with high contrast handles"
+}

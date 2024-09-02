@@ -1,0 +1,60 @@
+{
+  "violations": "1. Inconsistent icon button styles: The top app bar and the profile section use different icon button styles (`standard` and `tonal`). According to Material Design 3 guidelines, icon button styles should be consistent throughout the app to maintain a uniform look and feel. (Severity: High)",
+  "changes": "1. Standardize the style of the icon buttons to `tonal` for consistency.",
+  "changed_components": [
+    "<div class = 'Icon-button-dark' id = '57805:16107' config='tonal' style='position: absolute; top: 8px; left: 159px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'container' id = 'I57805:16107;51525:5179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+        <div class = 'state-layer' id = 'I57805:16107;51525:5180' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Icon' id = 'I57805:16107;51525:5181' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57805:16107;51525:5181;50731:11836' style='position: absolute; top: 10px; left: 7px; width: 10px; height: 5px;'>
+              <svg height = '5px' width = '10px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 0 0 L 5 5 L 10 0 L 0 0 Z' style='fill: #D3E8D2FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Icon-button-dark' id = '57805:16110' config='tonal' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'container' id = 'I57805:16110;51525:5179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+        <div class = 'state-layer' id = 'I57805:16110;51525:5180' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Icons/attach_file_24px' id = 'I57805:16110;51525:5181' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57805:16110;51525:5181;50731:11321' style='position: absolute; top: 2px; left: 6px; width: 11px; height: 20px;'>
+              <svg height = '20px' width = '11px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 9.5 4 L 9.5 14.5 C 9.5 16.710000038146973 7.710000038146973 18.5 5.5 18.5 C 3.2899999618530273 18.5 1.5 16.710000038146973 1.5 14.5 L 1.5 4 C 1.5 2.6200000047683716 2.6200000047683716 1.5 4 1.5 C 5.379999995231628 1.5 6.5 2.6200000047683716 6.5 4 L 6.5 13.5 C 6.5 14.050000011920929 6.050000011920929 14.5 5.5 14.5 C 4.949999988079071 14.5 4.5 14.050000011920929 4.5 13.5 L 4.5 4 L 3 4 L 3 13.5 C 3 14.879999995231628 4.120000004768372 16 5.5 16 C 6.879999995231628 16 8 14.879999995231628 8 13.5 L 8 4 C 8 1.7899999618530273 6.210000038146973 0 4 0 C 1.7899999618530273 0 0 1.7899999618530273 0 4 L 0 14.5 C 0 17.539999961853027 2.4600000381469727 20 5.5 20 C 8.539999961853027 20 11 17.539999961853027 11 14.5 L 11 4 L 9.5 4 Z' style='fill: #D3E8D2FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Icon-button-dark' id = '57805:16111' config='tonal' style='position: absolute; top: 0px; left: 48px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'container' id = 'I57805:16111;51525:5179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+        <div class = 'state-layer' id = 'I57805:16111;51525:5180' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Icon' id = 'I57805:16111;51525:5181' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='add_box' id='I57805:16111;51525:5181;55204:66749' style='position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;'>
+              <svg height = '18px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 16 0 L 2 0 C 0.8899999856948853 0 0 0.8999999761581421 0 2 L 0 16 C 0 17.100000023841858 0.8899999856948853 18 2 18 L 16 18 C 17.100000023841858 18 18 17.100000023841858 18 16 L 18 2 C 18 0.8999999761581421 17.100000023841858 0 16 0 Z M 16 16 L 2 16 L 2 2 L 16 2 L 16 16 Z M 8 14 L 10 14 L 10 10 L 14 10 L 14 8 L 10 8 L 10 4 L 8 4 L 8 8 L 4 8 L 4 10 L 8 10 L 8 14 Z' style='fill: #D3E8D2FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Icon-button-dark' id = '57805:16112' config='tonal' style='position: absolute; top: 0px; left: 96px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'container' id = 'I57805:16112;51525:5179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 100px; '>
+        <div class = 'state-layer' id = 'I57805:16112;51525:5180' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Icon' id = 'I57805:16112;51525:5181' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57805:16112;51525:5181;50656:8978' style='position: absolute; top: 6px; left: 3px; width: 18px; height: 12px;'>
+              <svg height = '12px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 0 2 L 0 0 L 18 0 L 18 2 L 0 2 Z M 0 7 L 18 7 L 18 5 L 0 5 L 0 7 Z M 0 12 L 18 12 L 18 10 L 0 10 L 0 12 Z' style='fill: #D3E8D2FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

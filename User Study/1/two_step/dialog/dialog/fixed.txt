@@ -1,0 +1,10 @@
+```json
+{
+  "changed_components": [
+    "<div class='label-text' id='I57805:11846;50723:10963;53923:27565' style='position: absolute; top: 10px; left: 12px; width: 19px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center;'>Delete</div>",
+    "<div class='label-text' id='I57805:11846;50723:10962;53923:27565' style='position: absolute; top: 10px; left: 12px; width: 45px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center;'>Cancel Deletion</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

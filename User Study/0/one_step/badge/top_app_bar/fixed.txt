@@ -1,0 +1,11 @@
+{
+  "violations": "The badge indicating 'A user has reported you' is placed in a way that overlaps with the headline text and icons, which can cause visual clutter and make the UI harder to understand. According to Material Design 3 Guidelines, messages and popups should appear where users are likely to see them without interfering with other critical UI elements.",
+  "changes": "Move the badge to a position where it does not overlap with the headline text or icons, ensuring it is still prominent and visible to the user.",
+  "changed_components": [
+    "<div class='Badge' id='57811:35941' style='position: absolute; top: 72px; left: 16px; width: 137px; height: 16px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; '>
+      <div class='Badge-label' id='57811:35942' style='position: absolute; top: 0px; left: 4px; width: 130px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: center; align-items: center;'>A user has reported you</div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

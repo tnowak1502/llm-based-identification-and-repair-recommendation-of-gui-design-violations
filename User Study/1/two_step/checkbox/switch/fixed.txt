@@ -1,0 +1,26 @@
+{
+  "changed_components": [
+    "<div class = 'Switch' id = 'I57805:8408;51964:63005;51964:63550' config='unselected' style='position: absolute; top: 0px; left: 0px; width: 52px; height: 32px; overflow: hidden; opacity: 1; background-color: #DFE4DCFF; border-radius: 100px; box-shadow: inset 0 0 0 2px #717970FF; '>
+         <div class = 'Handle' id = 'I57805:8408;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 2px; left: 8px; width: 36px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class = 'Target' id = 'I57805:8408;51964:63005;51964:63550;52074:22108' style='position: absolute; top: -10px; left: -16px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class = 'State-layer' id = 'I57805:8408;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+               <div class = 'Handle-shape' id = 'I57805:8408;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 12px; left: 12px; width: 16px; height: 16px; overflow: hidden; opacity: 1; background-color: #717970FF; border-radius: 24px; '>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>",
+    "<div class = 'Switch' id = 'I57805:8408;51964:63005;51964:63550' config='selected' style='position: absolute; top: 0px; left: 0px; width: 52px; height: 32px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+         <div class = 'Handle' id = 'I57805:8408;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 2px; left: 4px; width: 44px; height: 28px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+           <div class = 'Target' id = 'I57805:8408;51964:63005;51964:63550;52074:22108' style='position: absolute; top: -10px; left: 8px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+             <div class = 'State-layer' id = 'I57805:8408;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+               <div class = 'Handle-shape' id = 'I57805:8408;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; background-color: #FFFFFFFF; border-radius: 24px; '>
+               </div>
+             </div>
+           </div>
+         </div>
+       </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

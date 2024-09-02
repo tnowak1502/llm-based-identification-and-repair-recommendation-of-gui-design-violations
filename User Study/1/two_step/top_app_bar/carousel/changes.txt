@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Carousel items too small: The items in the carousel have a very low width, which makes it difficult to recognize the content. This is especially true for the first item.",
+    "2. Excessive use of carousels with many items: There are three separate carousels, each with four items visible simultaneously. This can lead to visual clutter and make the user interface overwhelming."
+  ],
+  "changes": [
+    "1. Increase the width of the carousel items to ensure that the content is easily recognizable.",
+    "2. Reduce the number of visible items in the carousels to three, if applicable. Alternatively, consider combining the carousels or displaying fewer items in a more digestible format."
+  ],
+  "guideline_request": "carousel item width and count",
+  "example_request": "multi-browse-carousel"
+}
+```

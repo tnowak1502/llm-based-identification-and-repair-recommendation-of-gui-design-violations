@@ -1,0 +1,6 @@
+{
+  "violations": "The top app bar in the mockup contains only a leading icon and a headline, with an empty trailing-icon div. According to Material Design 3 Guidelines, the right side of a top app bar should have at most three icon buttons, but it should not be left empty if there are actions to be included. If there are no actions to be included, the trailing-icon div should be removed to avoid confusion.",
+  "changes": "Remove the empty trailing-icon div if there are no actions to be included in the top app bar.",
+  "guideline_request": "top app bar trailing icon",
+  "example_request": "small top app bar without trailing icons"
+}

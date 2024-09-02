@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "The use of switches for selecting options related to 'Für wen' (For whom) may be inappropriate. Switches should only be used for on/off choices. For multiple options, checkboxes would be more appropriate."
+  ],
+  "changes": [
+    "Replace the switches with checkboxes, as they are better suited for selecting multiple independent options."
+  ],
+  "guideline_request": "switches, checkboxes",
+  "example_request": "checkbox component"
+}

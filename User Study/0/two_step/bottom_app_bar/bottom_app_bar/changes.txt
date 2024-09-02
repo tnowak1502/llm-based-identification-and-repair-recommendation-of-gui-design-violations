@@ -1,0 +1,11 @@
+{
+  "violations": [
+    "1. The bottom app bar contains only two actions (search and filter), which is not enough to warrant the use of a bottom app bar. A bottom app bar should contain 2 to 5 actions, including an optional FAB."
+  ],
+  "changes": [
+    "1. Add at least one more action to the bottom app bar. Possible actions based on the context could be 'compose email', 'delete', or 'archive'.",
+    "2. Consider adding an FAB for a primary action such as 'compose email'."
+  ],
+  "guideline_request": "bottom app bar guidelines",
+  "example_request": "bottom app bar with multiple icons and FAB"
+}

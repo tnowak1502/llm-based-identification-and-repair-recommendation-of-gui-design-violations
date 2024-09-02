@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is not optimally positioned. It is placed in the bottom right but is too close to the bottom edge. According to the Material Design guidelines, FABs should have some margin from the edges for better accessibility and visual appeal.",
+      "severity": "medium"
+    },
+    {
+      "description": "The FAB icon does not clearly indicate its action. According to the Material Design guidelines, the icon used in a FAB should clearly and simply represent its action. The current icon might not be intuitive for all users.",
+      "severity": "low"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Move the FAB slightly up and to the left to ensure it is not too close to the bottom and right edges. This will make it easier to access and visually more appealing."
+    },
+    {
+      "description": "Consider using a more intuitive icon for the FAB that clearly indicates its action. Ensure the icon aligns with the primary function of the FAB and is easily recognizable by users."
+    }
+  ],
+  "guideline_request": "FAB positioning guidelines, FAB icon guidelines",
+  "example_request": "FAB examples, FAB icon examples"
+}

@@ -1,0 +1,7 @@
+{
+  "violations": "No significant violations of Material Design 3 Guidelines were found in the provided top app bar code snippet.",
+  "changes": "None",
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": []
+}

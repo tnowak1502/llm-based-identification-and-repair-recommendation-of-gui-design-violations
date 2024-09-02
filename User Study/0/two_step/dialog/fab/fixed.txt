@@ -1,0 +1,7 @@
+{
+  "changed_components": [
+    "<div class=\"FAB\" config=\"secondary\" id=\"I57811:42476;51162:4850\" style=\"position: absolute; top: 768px; left: 340px; width: 56px; height: 56px; overflow: hidden; opacity: 1; background-color: #D3E8D2FF; border-radius: 16px; filter: drop-shadow(0px 1px 3px #0000004C);\"><div class=\"state-layer\" id=\"I57811:42476;51162:4850;51655:4793\" style=\"position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px;\"><div class=\"icon\" id=\"I57811:42476;51162:4850;51655:4794\" style=\"position: absolute; top: 16px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px;\"><div class=\"reply\" config=\"Outlined\" id=\"I57811:42476;51162:4850;51655:4794;55204:66804\" style=\"position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px;\"><div class=\"Vector\" id=\"I57811:42476;51162:4850;51655:4794;55204:66804;2402:47160\" style=\"position: absolute; top: 4.5px; left: 3px; width: 18px; height: 15.0px;\"><svg height=\"15.0px\" width=\"18px\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 7 4 L 7 0 L 0 7 L 7 14 L 7 9.899999618530273 C 12 9.899999618530273 15.5 11.5 18 15 C 17 10 14 5 7 4 Z\" style=\"fill: #0E1F12FF;\"></path></svg></div></div></div></div></div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

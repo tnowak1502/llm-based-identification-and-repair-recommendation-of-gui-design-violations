@@ -1,0 +1,66 @@
+### Detailed Description of Each Chip 
+
+1. **Chip: "Prints"**
+   - **Type:** Filter-chip-dark
+   - **Color:** Background color is dark (#101510FF), with text color light gray (#C1C9BEFF).
+   - **Size:** 70px width, 32px height.
+   - **Shape:** Rectangular with rounded corners (border-radius: 8px).
+   - **Position:** 
+     - Top: 8px from the top of the parent container.
+     - Left: 16px from the left of the parent container.
+   - **ID:** 55637:6084
+   - **Likely Function:** Acts as a filter option for "Prints".
+   - **Attributes:** 
+     - Configured as "label only".
+     - Box-shadow inset with 1px border of color #8B9389FF.
+     - Label text "Prints" is centrally aligned within the chip.
+
+2. **Chip: "Size"**
+   - **Type:** Filter-chip-dark
+   - **Color:** Background color is dark (#101510FF), with text color light gray (#C1C9BEFF).
+   - **Size:** 77px width, 32px height.
+   - **Shape:** Rectangular with rounded corners (border-radius: 8px).
+   - **Position:** 
+     - Top: 8px from the top of the parent container.
+     - Left: 16px from the left of the parent container.
+   - **ID:** 55637:6086
+   - **Likely Function:** Acts as a filter option for "Size".
+   - **Attributes:** 
+     - Configured as "label only".
+     - Box-shadow inset with 1px border of color #8B9389FF.
+     - Label text "Size" is centrally aligned within the chip.
+     - Includes a trailing icon (drop-down arrow) for additional options.
+
+3. **Chip: "Price"**
+   - **Type:** Filter-chip-dark
+   - **Color:** Background color is dark (#101510FF), with text color light gray (#C1C9BEFF).
+   - **Size:** 83px width, 32px height.
+   - **Shape:** Rectangular with rounded corners (border-radius: 8px).
+   - **Position:** 
+     - Top: 8px from the top of the parent container.
+     - Left: 101px from the left of the parent container.
+   - **ID:** 55637:6087
+   - **Likely Function:** Acts as a filter option for "Price".
+   - **Attributes:** 
+     - Configured as "label only".
+     - Box-shadow inset with 1px border of color #8B9389FF.
+     - Label text "Price" is centrally aligned within the chip.
+     - Includes a trailing icon (drop-down arrow) for additional options.
+
+4. **Chip: "Color"**
+   - **Type:** Filter-chip-dark
+   - **Color:** Background color is dark (#101510FF), with text color light gray (#C1C9BEFF).
+   - **Size:** 84px width, 32px height.
+   - **Shape:** Rectangular with rounded corners (border-radius: 8px).
+   - **Position:** 
+     - Top: 8px from the top of the parent container.
+     - Left: 192px from the left of the parent container.
+   - **ID:** 55637:6088
+   - **Likely Function:** Acts as a filter option for "Color".
+   - **Attributes:** 
+     - Configured as "label only".
+     - Box-shadow inset with 1px border of color #8B9389FF.
+     - Label text "Color" is centrally aligned within the chip.
+     - Includes a trailing icon (drop-down arrow) for additional options.
+
+These descriptions should help in understanding the visual and functional aspects of each chip within the mockup.

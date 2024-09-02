@@ -1,0 +1,26 @@
+{
+  "violations": "The top app bar contains a trailing icon container (id: I57811:40350;50717:9083) which is empty. According to Material Design 3 Guidelines, elements that do not serve any purpose should be removed.",
+  "changes": "Remove the empty trailing icon container from the top app bar.",
+  "changed_components": [
+    "<div class='Top-app-bar' config='small' id='57811:40350' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 64px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>
+      <div class='leading-icon' config='standard' id='I57811:40350;50717:9081' style='position: absolute; top: 8px; left: 4px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57811:40350;50717:9081;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57811:40350;50717:9081;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icons/arrow_back_24px' id='I57811:40350;50717:9081;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='icon' id='I57811:40350;50717:9081;51525:5221;50656:8966' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+                <svg height = '16px' width = '16px' xmlns = 'http://www.w3.org/2000/svg'>
+                  <path d='M 16 7 L 3.8299999237060547 7 L 9.420000076293945 1.409999966621399 L 8 0 L 0 8 L 8 16 L 9.40999984741211 14.59000015258789 L 3.8299999237060547 9 L 16 9 L 16 7 Z' style='fill: #181D18FF;'/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='headline' id='I57811:40350;50717:9082' style='position: absolute; top: 18px; left: 56px; width: 205px; height: 28px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #181D18FF; line-height: 28px; justify-content: left; align-items: top;'>Settings</div>
+    </div>"
+  ],
+  "deleted_components": [
+    "I57811:40350;50717:9083"
+  ],
+  "new_components": []
+}

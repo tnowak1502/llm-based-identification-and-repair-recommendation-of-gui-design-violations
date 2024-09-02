@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The headline of the dialog is a question, which can be more direct. 2. The primary button label is too long and repetitive.",
+  "changes": "1. Change the headline to a statement like 'Move messages to Folder Walter Bush'. 2. Shorten the primary button label to 'Move'.",
+  "guideline_request": "dialog headline, button label",
+  "example_request": "basic dialog, button"
+}
+```

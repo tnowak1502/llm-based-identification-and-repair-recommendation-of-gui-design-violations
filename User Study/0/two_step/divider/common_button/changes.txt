@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "The 'Refresh' button is a text button, but it is not clearly distinguishable from normal text. This can lead to ambiguity about whether it is interactable.",
+    "The 'Refresh' button label text is in title case. According to Material Design 3 Guidelines, the label text of text buttons should be in sentence case."
+  ],
+  "changes": [
+    "Ensure that the 'Refresh' text button is distinguishable from normal text, possibly by adding an underline or changing its color.",
+    "Change the label text 'Refresh' to sentence case ('refresh')."
+  ],
+  "guideline_request": "Text button distinguishability; Button label text case",
+  "example_request": "Text button with distinguishable label text; Text button with sentence case label text"
+}
+```

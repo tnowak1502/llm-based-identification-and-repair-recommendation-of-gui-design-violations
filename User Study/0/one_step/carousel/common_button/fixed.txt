@@ -1,0 +1,14 @@
+{
+  "violations": "The text button 'Call this contact' is placed on top of an image, which can make it hard to see. According to Material Design 3 Guidelines, outlined buttons on top of images can be hard to see and can be changed to be filled or filled tonal buttons, or moved below or above the image.",
+  "changes": "Change the text button to a filled button to improve visibility.",
+  "changed_components": [
+    "<div class = 'Button' id = '57811:36934' config='Filled' style='position: absolute; top: 165px; left: 0px; width: 127px; height: 40px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+      <div class = 'state-layer' id = 'I57811:36934;53923:27634' style='position: absolute; top: 0px; left: 0px; width: 127px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:36934;53923:27635' style='position: absolute; top: 10px; left: 12px; width: 104px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #FFFFFFFF; line-height: 20px; justify-content: center; align-items: center;'>Call this contact
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

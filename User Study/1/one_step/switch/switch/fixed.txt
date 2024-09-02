@@ -1,0 +1,18 @@
+{
+  "violations": "The use of a switch for 'Mobile Data' may not be appropriate. Switches should only be used for on/off choices where the change is immediate. If the option needs to be saved or confirmed before coming into effect, a checkbox should be used instead.",
+  "changes": "Replace the switch with a checkbox, as it is more suitable for the given context.",
+  "changed_components": [
+    "<div class='Leading-element' id='I57805:10172;51964:63005;51964:63549' style='position: absolute; top: 12px; left: 16px; width: 52px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Checkbox' id='I57805:10172;51964:63005;51964:63550' config='unselected' style='position: absolute; top: 0px; left: 0px; width: 52px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Track' id='I57805:10172;51964:63005;51964:63550;51945:10178' style='position: absolute; top: 0px; left: 0px; width: 52px; height: 32px; opacity: 1; background-color: #DFE4DCFF; border-radius: 100px; box-shadow: inset 0px 0px 0px 2px #717970; '>
+        </div>
+        <div class='Handle-container' id='I57805:10172;51964:63005;51964:63550;52074:22108' style='position: absolute; top: -8px; left: -8px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Handle' id='I57805:10172;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 16px; left: 16px; width: 16px; height: 16px; opacity: 1; background-color: #717970FF; border-radius: 100px; '>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

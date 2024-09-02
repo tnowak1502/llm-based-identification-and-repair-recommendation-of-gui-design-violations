@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Inconsistent Leading Elements:** The leading elements (radio buttons, checkboxes, switch) vary significantly in size and alignment across different list items. This can disrupt visual consistency and hierarchy. (Severity: High)",
+    "2. **Divider Placement:** The divider is inconsistently placed only between some list items. Dividers should be used consistently to separate list items if they contain a lot of content. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Standardize Leading Elements:** Ensure that all leading elements (radio buttons, checkboxes, switch) have consistent sizes and alignment across all list items. This will help maintain visual consistency and hierarchy.",
+    "2. **Consistent Divider Placement:** Add dividers between all list items to maintain a consistent separation if the content is dense."
+  ],
+  "guideline_request": "Visual Hierarchy guidelines, list guidelines",
+  "example_request": "list with consistent leading elements and dividers"
+}

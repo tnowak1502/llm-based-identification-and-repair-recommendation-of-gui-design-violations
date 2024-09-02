@@ -1,0 +1,65 @@
+The provided HTML snippet represents a dark-themed confirmation dialog in a mobile user interface mockup.
+
+### Description of the Dialog
+
+1. **Type**: Confirmation Dialog
+2. **ID**: `55403:6735`
+3. **Mode**: Dark Mode
+4. **Position**:
+   - Absolute positioning at `top: 382px` and `left: 50px`.
+5. **Size**:
+   - Width: `312px`
+   - Height: `200px`
+6. **Shape**:
+   - Rounded corners with `border-radius: 28px`.
+7. **Background Color**:
+   - Dark greenish color with hex value `#262B26FF`.
+8. **Opacity**: Fully opaque with `opacity: 1`.
+
+### Content
+
+1. **Text Content**:
+   - **Title and Description**:
+     - Positioned at `top: 0px` and `left: 0px`.
+     - Width: `312px`
+     - Height: `112px`
+   - **Title**:
+     - Text: "Are you sure?"
+     - Font: Roboto, 24px, font-weight: 400
+     - Positioned at `top: 24px` and `left: 24px`
+     - Color: Light greenish with hex value `#DFE4DCFF`
+   - **Supporting Text**:
+     - Text: "Let this app access your location to present you the closest rental stations."
+     - Font: Roboto, 14px, font-weight: 400
+     - Positioned at `top: 72px` and `left: 24px`
+     - Color: Light greenish with hex value `#C1C9BEFF`
+
+2. **Actions**:
+   - Positioned at `top: 112px` and `left: 0px`
+   - Width: `312px`
+   - Height: `88px`
+   - **Buttons**:
+     - **Secondary Button**:
+       - Text: "Don't Allow"
+       - Positioned at `top: 24px` and `left: 8px`
+       - Width: `96px`
+       - Height: `40px`
+       - Background Color: Transparent with hex value `#99D4A2FF`
+       - Font: Roboto, 14px, font-weight: 500
+       - Rounded corners with `border-radius: 100px`
+     - **Primary Button**:
+       - Text: "Allow"
+       - Positioned at `top: 24px` and `left: 112px`
+       - Width: `60px`
+       - Height: `40px`
+       - Background Color: Transparent with hex value `#99D4A2FF`
+       - Font: Roboto, 14px, font-weight: 500
+       - Rounded corners with `border-radius: 100px`
+
+### Likely Function
+
+This dialog likely serves to request the user's permission to access their location, which is necessary for the app to provide relevant information or services, such as displaying nearby rental stations.
+
+### Summary
+
+The dialog is a dark-mode confirmation dialog with a rounded shape and two action buttons ("Don't Allow" and "Allow"). It prominently asks the user if they are sure about allowing the app to access their location, providing the reason for the request. The design uses light greenish text on a dark greenish background to maintain readability and emphasize the critical nature of the dialog.

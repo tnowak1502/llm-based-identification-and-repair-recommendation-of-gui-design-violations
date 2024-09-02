@@ -1,0 +1,16 @@
+```json
+{
+  "violations": [
+    "1. Ambiguous Tab Label ('FILMS'): The label 'FILMS' might be too general and not descriptive enough. Users might not understand what content to expect under this tab.",
+    "2. Ambiguous Tab Label ('REVIEW'): Similar to 'FILMS', the label 'REVIEW' is not very specific and could be unclear to users.",
+    "3. Badge Placement: The badge on the 'JOURNAL' tab is very small and might not be easily noticeable by users."
+  ],
+  "changes": [
+    "1. Ensure that tab labels are clear and descriptive. Consider renaming 'FILMS' to something more specific like 'Movies' or 'Cinema'.",
+    "2. Rename 'REVIEW' to something more specific like 'User Reviews' or 'Critic Reviews' to make it clearer what kind of reviews are being referred to.",
+    "3. Increase the size of the badge on the 'JOURNAL' tab or use a different design to make it more noticeable."
+  ],
+  "guideline_request": "tab labels clarity, badge design",
+  "example_request": "Material Design 3 tab examples, Material Design 3 badge examples"
+}
+```

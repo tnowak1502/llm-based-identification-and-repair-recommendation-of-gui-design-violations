@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Lack of 'show all' button: There is no 'show all' button next to the carousels, which is recommended for better user navigation.",
+    "2. Too many lines of text: The carousel items should avoid exceeding two lines of text, but there is no text visible in the provided code snippets. This can become an issue if text is added later."
+  ],
+  "changes": [
+    "1. Add a 'show all' button next to each carousel to enhance navigation.",
+    "2. Ensure that any text added to the carousel items does not exceed two lines, unless the background is simple enough to accommodate more text without reducing readability."
+  ],
+  "guideline_request": "carousel show all button",
+  "example_request": "multi-browse-carousel"
+}
+```

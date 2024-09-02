@@ -1,0 +1,6 @@
+{
+  "violations": "1. The snackbar is placed in front of the bottom app bar, obstructing the icons on the app bar. Snackbars should be placed above any navigation elements and should not obstruct other UI components. 2. The text button in the snackbar has the same color as the supporting text, making it hard to recognize as an actionable component.",
+  "changes": "1. Move the snackbar up enough so that it does not cover any elements of the bottom app bar. 2. Change the text button's color to a contrasting value to differentiate it from the other text and make it more recognizable as an action.",
+  "guideline_request": "Snackbars guidelines, Text button guidelines",
+  "example_request": "Snackbar example, Snackbar with action button example"
+}

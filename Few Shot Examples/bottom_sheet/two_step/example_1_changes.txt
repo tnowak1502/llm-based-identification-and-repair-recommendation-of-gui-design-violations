@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. Main Content Location: Judging by the image, it seems like the bottom sheet contains the main content of the app. This is not the intended use of a bottom sheet, which should contain supplementary content. You should swap the contents of the main screen area and the bottom sheet."
+  ],
+  "changes": [
+    "1. Swap the contents of the bottom sheet and the main screen area."
+  ],
+  "guideline_request": "Bottom sheet content",
+  "example_request": "Bottom sheet"
+}

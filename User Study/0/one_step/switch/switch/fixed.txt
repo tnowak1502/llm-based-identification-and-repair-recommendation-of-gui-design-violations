@@ -1,0 +1,31 @@
+{
+  "violations": "The use of switches for 'Download using mobile data' and 'Receive emails' settings may be inappropriate because the 'Receive emails' setting controls multiple related options (Daily, Weekly, Monthly). According to the Material Design 3 guidelines, checkboxes should be used for multiple related options, not switches.",
+  "changes": "Replace the switches with checkboxes for 'Download using mobile data' and 'Receive emails' settings to better align with Material Design guidelines.",
+  "changed_components": [
+    "<div class = 'Leading-element' id = 'I57811:40782;51964:63001;51964:63549' style='position: absolute; top: 4px; left: 16px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'Checkboxes' id = 'I57811:40782;51964:63001;51964:63550' config='selected' style='position: absolute; top: 0px; left: 0px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'state-layer' id = 'I57811:40782;51964:63001;51964:63550;51945:10137' style='position: absolute; top: 4px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class = 'container' id = 'I57811:40782;51964:63001;51964:63550;51945:10138' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+          </div>
+          <div class = 'Icons/check_small' id = 'I57811:40782;51964:63001;51964:63550;51945:10139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57811:40782;51964:63001;51964:63550;51945:10139;50656:8963' style='position: absolute; top: 6.999999046325684px; left: 6px; width: 12.000001907348633px; height: 9.40000057220459px;'>
+              <svg height = '9.40000057220459px' width = '12.000001907348633px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 4 9.40000057220459 L 0 5.40000057220459 L 1.4000000953674316 4.000000953674316 L 4 6.600000381469727 L 10.60000228881836 0 L 12.000001907348633 1.4000005722045898 L 4 9.40000057220459 Z' style='fill: #FFFFFFFF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Leading-element' id = 'I57811:40782;51964:63005;51964:63549' style='position: absolute; top: 4px; left: 16px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'Checkboxes' id = 'I57811:40782;51964:63005;51964:63550' config='unselected' style='position: absolute; top: 0px; left: 0px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'state-layer' id = 'I57811:40782;51964:63005;51964:63550;51945:10178' style='position: absolute; top: 4px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class = 'container' id = 'I57811:40782;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; border-radius: 2px; box-shadow: inset 0 0 0 2px #414941FF; '>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

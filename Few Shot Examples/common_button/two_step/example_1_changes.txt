@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "It seems that the buttons are used to activate various filter options. This is not something that buttons should be used for, they should be replaced with chips.",
+  "changes": "Replace the buttons with chips.",
+  "guideline_request": "Filter chip guidelines",
+  "example_request": "Filter chip"
+}
+```

@@ -1,0 +1,5 @@
+Violations:
+1. The divider between "Language" and the radio buttons is missing. 2. The divider between "Email settings" and the switch is missing. 3. The divider between the "Receive emails" switch and the checkboxes is missing.
+
+Changes:
+1. Add a divider between "Language" and the radio buttons. 2. Add a divider between "Email settings" and the switch. 3. Add a divider between the "Receive emails" switch and the checkboxes.

@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Icon Button Placement: The icon buttons for the categories 'Children’s and Family Shows', 'Shows to Binge', and 'Exclusive and Original Shows' are placed in a way that the container div is partially outside the visible area (top: -7.5px). This might make the buttons less visible and harder to interact with, which violates the guideline that click goals should be large enough to hit and not too close to each other. (Severity: High)",
+    "2. Icon Button Size Consistency: The icon buttons for the categories are of different sizes. The `container` div has a height of 40px while the parent `Icon-button-dark` div has a height of 25px. This inconsistency could confuse users about the functionality and importance of the buttons. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Adjust the position of the icon buttons so that they are fully visible and easily clickable. Ensure that the `container` div is not partially outside the visible area.",
+    "2. Ensure consistency in the size of the icon buttons. Make sure that the `container` div and the parent `Icon-button-dark` div have the same height to avoid confusion."
+  ],
+  "guideline_request": "Icon button placement, Icon button size consistency",
+  "example_request": "icon buttons"
+}

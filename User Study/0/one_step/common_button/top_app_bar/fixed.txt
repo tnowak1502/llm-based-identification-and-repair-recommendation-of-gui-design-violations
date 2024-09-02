@@ -1,0 +1,54 @@
+{
+  "violations": "The top app bar in the mockup contains four trailing icons. According to Material Design 3 Guidelines, the right side of a top app bar should have at most three icon buttons. If there are more actions that need to be accessible, the third icon should be a 'more' icon (three vertical dots) and open an overflow menu.",
+  "changes": "Reduce the number of trailing icons to three by removing the two least frequently used actions (the attach file and add box icons) and adding a 'more' icon as the rightmost trailing icon, moving the remaining icons accordingly.",
+  "changed_components": [
+    "<div class='trailing-icon' id='57811:10115' style='position: absolute; top: 8px; left: 263px; width: 144px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='trailing-icon-1' config='standard' id='57811:10116' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57811:10116;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57811:10116;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57811:10116;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='icon' id='I57811:10116;51525:5139;50731:11836' style='position: absolute; top: 10px; left: 7px; width: 10px; height: 5px;'>
+                <svg height='5px' width='10px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 0 0 L 5 5 L 10 0 L 0 0 Z' style='fill: #C1C9BEFF;'></path>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='trailing-icon-2' config='standard' id='57811:10117' style='position: absolute; top: 0px; left: 48px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57811:10117;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57811:10117;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57811:10117;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='add_box' id='I57811:10117;51525:5139;55204:66749' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class='Vector' id='I57811:10117;51525:5139;55204:66749;2402:45811' style='position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;'>
+                  <svg height='18px' width='18px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M 16 0 L 2 0 C 0.8899999856948853 0 0 0.8999999761581421 0 2 L 0 16 C 0 17.100000023841858 0.8899999856948853 18 2 18 L 16 18 C 17.100000023841858 18 18 17.100000023841858 18 16 L 18 2 C 18 0.8999999761581421 17.100000023841858 0 16 0 Z M 16 16 L 2 16 L 2 2 L 16 2 L 16 16 Z M 8 14 L 10 14 L 10 10 L 14 10 L 14 8 L 10 8 L 10 4 L 8 4 L 8 8 L 4 8 L 4 10 L 8 10 L 8 14 Z' style='fill: #C0C9C0FF;'></path>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='trailing-icon-3' config='standard' id='57811:10118' style='position: absolute; top: 0px; left: 96px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57811:10118;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57811:10118;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icons/more_vert_24px' id='I57811:10118;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='icon' id='I57811:10118;51525:5139;50731:11348' style='position: absolute; top: 4px; left: 10px; width: 4px; height: 16px;'>
+                <svg height='16px' width='4px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 2 4 C 3.0999999046325684 4 4 3.0999999046325684 4 2 C 4 0.8999999761581421 3.0999999046325684 0 2 0 C 0.8999999761581421 0 0 0.8999999761581421 0 2 C 0 3.0999999046325684 0.8999999761581421 4 2 4 Z M 2 6 C 0.8999999761581421 6 0 6.900000095367432 0 8 C 0 9.100000381469727 0.8999999761581421 10 2 10 C 3.0999999046325684 10 4 9.100000381469727 4 8 C 4 6.900000095367432 3.0999999046325684 6 2 6 Z M 0 14 C 0 12.899999618530273 0.8999999761581421 12 2 12 C 3.0999999046325684 12 4 12.899999618530273 4 14 C 4 15.100000381469727 3.0999999046325684 16 2 16 C 0.8999999761581421 16 0 15.100000381469727 0 14 Z' style='fill: #C1C9BEFF;'></path>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "57811:10116",
+    "57811:10117"
+  ],
+  "new_components": []
+}

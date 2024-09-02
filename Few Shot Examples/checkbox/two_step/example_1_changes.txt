@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. Incorrect use of checkboxes: It seems like the checkboxes are being used to select a way to sort search results. Since this is a selection that can have only one value at a time, checkboxes are not the correct component to use here."
+  ],
+  "changes": [
+    "1. Replace the checkboxes with radio buttons, with only one being selected."
+  ],
+  "guideline_request": "radio button",
+  "example_request": "selected radio button, unselected radio button"
+}

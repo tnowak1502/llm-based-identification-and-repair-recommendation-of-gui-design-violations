@@ -1,0 +1,26 @@
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The hinted search text 'Hinted search text' should describe what the user will search for more clearly.",
+      "reasoning": "The hinted text 'Hinted search text' does not provide a clear indication of what the user can search for, which might confuse users about the functionality of the search bar."
+    },
+    {
+      "severity": "low",
+      "description": "The trailing elements section is empty.",
+      "reasoning": "Having an empty trailing elements section might be unnecessary, and it could be removed to clean up the code and design."
+    }
+  ],
+  "changes": [
+    {
+      "severity": "medium",
+      "suggested_change": "Update the hinted search text to be more descriptive, such as 'Search for groceries, stores, etc.'"
+    },
+    {
+      "severity": "low",
+      "suggested_change": "Remove the empty trailing elements section if it is not required."
+    }
+  ],
+  "guideline_request": "Search bar hint text guidelines",
+  "example_request": "Material Design search bar example"
+}

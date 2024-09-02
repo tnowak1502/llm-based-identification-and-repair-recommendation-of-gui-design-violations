@@ -1,0 +1,9 @@
+{
+  "violations": "The top app bar in the mockup is center-aligned but does not use a center-aligned configuration. According to Material Design 3 Guidelines, center-aligned top app bars should be used for the main root page of an app and should be configured as such.",
+  "changes": "Change the configuration of the top app bar to 'center-aligned'.",
+  "changed_components": [
+    "<div class='Top-app-bar' config='center-aligned' id='57811:38241' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 64px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

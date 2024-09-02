@@ -1,0 +1,14 @@
+```json
+{
+  "changed_components": [
+    "<div class = 'Button' config = 'Text' id = '57811:37193' style = 'position: absolute; top: 4px; left: 322px; width: 74px; height: 32px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+      <div class = 'state-layer' id = 'I57811:37193;53923:27564' style = 'position: absolute; top: 0px; left: 0px; width: 74px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:37193;53923:27565' style = 'position: absolute; top: 6px; left: 12px; width: 51px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #326940FF; line-height: 20px; justify-content: center; align-items: center; text-decoration: underline;'>refresh
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

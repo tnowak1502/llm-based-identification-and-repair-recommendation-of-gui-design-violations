@@ -1,0 +1,7 @@
+{
+  "changed_components": [
+    "<div class = 'Badge' id = 'I57804:6415;52031:23845;52031:22767' config='Large' style='position: absolute; top: 0px; left: 20px; width: 16px; height: 16px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; '><div class = 'Badge-label' id = 'I57804:6415;52031:23845;52031:22767;51592:4778' style='position: absolute; top: 0px; left: 4px; width: 9px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: center; align-items: center;'>3</div></div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

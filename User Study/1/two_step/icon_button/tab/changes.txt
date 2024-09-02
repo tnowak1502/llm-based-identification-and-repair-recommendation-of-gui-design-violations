@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. Inconsistent Tab Label Color: The selected tab label 'For You' has a different color (#326940FF) than the unselected tab label 'Following' (#414941FF). This inconsistency can confuse users about the state of the tabs."
+  ],
+  "changes": [
+    "1. Ensure that the color of the selected tab label is consistent with the unselected tab label. Use a different visual indicator, such as the underline (indicator), to show the selected state."
+  ],
+  "guideline_request": "tab label color consistency, tab state indication",
+  "example_request": "Material Design 3 tab examples"
+}
+```

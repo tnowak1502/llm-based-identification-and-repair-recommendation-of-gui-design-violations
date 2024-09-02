@@ -1,0 +1,16 @@
+{
+  "violations": "The switch is being used to toggle the option 'Download using mobile data'. According to the Material Design 3 guidelines, switches should only be used for on/off choices, not for options that need to be saved or confirmed before coming into effect.",
+  "changes": "Replace the switch with a checkbox, as it is better suited for an option that might need to be saved or confirmed.",
+  "changed_components": [
+    "<div class='Leading-element' id='I57811:40351;51964:63005;51964:63549' style='position: absolute; top: 4px; left: 16px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+      <div class='Checkboxes' id='I57811:40351;51964:63005;51964:63550' config='Unselected' style='position: absolute; top: 0px; left: 0px; width: 44px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px;'>
+        <div class='state-layer' id='I57811:40351;51964:63005;51964:63550;51945:10178' style='position: absolute; top: 4px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px;'>
+          <div class='container' id='I57811:40351;51964:63005;51964:63550;51945:10179' style='position: absolute; top: 11px; left: 11px; width: 18px; height: 18px; opacity: 1; border-radius: 2px; box-shadow: inset 0 0 0 2px #414941FF;'>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

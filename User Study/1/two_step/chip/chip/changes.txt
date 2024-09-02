@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The 'add to Calendar' chip is an assist chip, which should not be used for major actions. 2. The 'Select Incoming/Outgoing' chip is too long and exceeds the recommended 20-character limit for chip labels.",
+  "changes": "1. Replace the 'add to Calendar' chip with a button to indicate a more significant action. 2. Shorten the label for the 'Select Incoming/Outgoing' chip to be within 20 characters or fewer.",
+  "guideline_request": "assist chip guidelines, chip label guidelines",
+  "example_request": "button, assist chip"
+}
+```

@@ -1,0 +1,8 @@
+Violations:
+{'description': 'The FAB is placed near the top right corner of the screen. According to Material Design guidelines, FABs should be placed in the bottom right corner to be easily accessible using thumbs.', 'severity': 'high'}
+{'description': 'The FAB is overlapping with the bottom navigation bar. FABs should be placed above any navigation bar or similar element and not overlap with it.', 'severity': 'moderate'}
+
+
+Changes:
+{'description': 'Relocate the FAB to the bottom right corner of the screen, ensuring it does not overlap with any navigation or bottom app bars.'}
+{'description': 'Ensure the FAB is placed above the bottom navigation bar without overlapping it. Adjust the position values (Top and Left) accordingly to maintain a clear separation between the FAB and the bottom bar content.'}

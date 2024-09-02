@@ -1,0 +1,12 @@
+{
+  "violations": "1. The full-screen carousel is covered by other elements, which violates the guideline that states carousels should not be covered by other elements.",
+  "changes": "1. Adjust the z-index of the full-screen carousel to ensure it is not covered by other elements.",
+  "changed_components": [
+    "<div class='Carousel---Full-screen' id='57811:10506' style='position: absolute; top: -5.684341886080802e-14px; left: 0px; width: 412px; height: 798.0px; overflow: hidden; opacity: 1; border-radius: 0px; z-index: -1;'>
+      <div class='Item-1' id='I57811:10506;54577:26119' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 798px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 0px;'>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

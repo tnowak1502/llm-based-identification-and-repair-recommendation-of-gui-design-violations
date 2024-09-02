@@ -1,0 +1,10 @@
+{
+  "violations": "The headline text 'Inbox' in the top app bar is centered, but the top app bar is configured as 'small-centered'. According to Material Design 3 Guidelines, the center-aligned top app bar should be used for the main root page of an app. If 'Inbox' is not the main root page, a small top app bar should be used instead. Additionally, the top app bar should have a title that does not wrap.",
+  "changes": "Change the top app bar configuration to 'small' if 'Inbox' is not the main root page. Ensure the headline text does not wrap.",
+  "changed_components": [
+    "<div class='Top-app-bar' config='small' id='57811:42149' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 64px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px;'>",
+    "<div class='headline' id='I57811:42149;50717:9089' style='position: absolute; top: 18px; left: 58px; width: 297px; height: 28px; opacity: 1; display: flex; white-space: nowrap; font-family: Roboto; font-size: 22px; font-weight: 400; letter-spacing: 0px; color: #181D18FF; line-height: 28px; justify-content: left; align-items: top;'>Inbox</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

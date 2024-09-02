@@ -1,0 +1,51 @@
+### Description of the Carousels in the Mockup
+
+#### General Design Mode:
+- **Mode:** Light (standard) mode.
+
+#### Carousel Details:
+
+1. **Carousel ID: `55634:34426`**
+   - **Type:** Multi-browse Carousel
+   - **Position:** 
+     - *General:* Positioned near the top of the screen, below the navigation tabs.
+     - *Numerical:* `top: 105px; left: 0px;`
+   - **Size:** 
+     - *Width:* 444px
+     - *Height:* 293px
+   - **Shape:** Rectangular with no border radius.
+   - **Overflow:** Hidden
+   - **Opacity:** Fully opaque (`opacity: 1`)
+   - **Function:** Likely to showcase multiple categories or items that users can browse through.
+   - **Items:** Contains four items, each with a label and supporting text.
+     - **Item 1:** 
+       - *ID:* `55634:34427`
+       - *Position:* `top: 8px; left: 8px;`
+       - *Size:* `width: 101px; height: 277px`
+       - *Background:* Image with a border radius of 28px.
+       - *Label:* Positioned towards the bottom (`top: 217px; left: 16px`), white text, "Label".
+       - *Supporting Text:* Positioned below the label (`top: 245px; left: 16px`), white text, "Supporting Text".
+     - **Item 2:** 
+       - *ID:* `55634:34429`
+       - *Position:* `top: 8px; left: 117px;`
+       - *Size:* `width: 101px; height: 277px`
+       - *Background:* Image with a border radius of 28px.
+       - *Label:* Positioned towards the bottom (`top: 217px; left: 16px`), white text, "Label".
+       - *Supporting Text:* Positioned below the label (`top: 245px; left: 16px`), white text, "Unterhaltungs-Apps fürs Tablet".
+     - **Item 3:** 
+       - *ID:* `55634:34431`
+       - *Position:* `top: 8px; left: 226px;`
+       - *Size:* `width: 101px; height: 277px`
+       - *Background:* Image with a border radius of 28px.
+       - *Label:* Positioned towards the bottom (`top: 217px; left: 16px`), white text, "Label".
+       - *Supporting Text:* Positioned below the label (`top: 245px; left: 16px`), white text, "Supporting Text".
+     - **Item 4:** 
+       - *ID:* `55634:34575`
+       - *Position:* `top: 8px; left: 335px;`
+       - *Size:* `width: 101px; height: 277px`
+       - *Background:* Image with a border radius of 28px.
+       - *Label:* Positioned towards the bottom (`top: 217px; left: 16px`), white text, "Label".
+       - *Supporting Text:* Positioned below the label (`top: 245px; left: 16px`), white text, "Supporting Text".
+
+### Summary:
+The mockup showcases a multi-browse carousel positioned below navigation tabs. It is in light mode, fully opaque, with no border radius for the carousel container. It houses four items, each with a background image, rounded corners, a label, and supporting text, all with consistent styling parameters. This carousel likely allows users to browse through various categories or items.

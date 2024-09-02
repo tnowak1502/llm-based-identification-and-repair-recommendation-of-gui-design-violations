@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: bibliography.bib
+Warning--I'm ignoring inc_design_nodate's extra "author" field
+--line 1285 of file bibliography.bib
+Warning--to sort, need author or key in noauthor_ast_nodate
+Warning--empty journal in radford_improving_2018
+You've used 61 entries,
+            2118 wiz_defined-function locations,
+            791 strings with 20089 characters,
+and the built_in function-call counts, 28870 in all, are:
+= -- 2484
+> -- 2535
+< -- 16
++ -- 1016
+- -- 952
+* -- 2382
+:= -- 5026
+add.period$ -- 226
+call.type$ -- 61
+change.case$ -- 656
+chr.to.int$ -- 0
+cite$ -- 63
+duplicate$ -- 667
+empty$ -- 1565
+format.name$ -- 952
+if$ -- 5671
+int.to.chr$ -- 0
+int.to.str$ -- 61
+missing$ -- 29
+newline$ -- 339
+num.names$ -- 120
+pop$ -- 877
+preamble$ -- 1
+purify$ -- 598
+quote$ -- 0
+skip$ -- 494
+stack$ -- 0
+substring$ -- 737
+swap$ -- 157
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 238
+warning$ -- 2
+while$ -- 168
+width$ -- 63
+write$ -- 698
+(There were 3 warnings)

@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "description": "The top app bar in the mockup contains four trailing icons. According to Material Design 3 Guidelines, the right side of a top app bar should have at most three icon buttons. If there are more actions that need to be accessible, the third icon should be a 'more' icon (three vertical dots) and open an overflow menu.",
+      "severity": "High"
+    },
+    {
+      "description": "The headline text 'username' in the top app bar is not center-aligned. For small top app bars, the headline should be center-aligned.",
+      "severity": "Medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Reduce the number of trailing icons to three by removing the least frequently used action and adding a 'more' icon as the rightmost trailing icon, moving the two remaining icons accordingly."
+    },
+    {
+      "description": "Center-align the headline text 'username' in the top app bar."
+    }
+  ],
+  "guideline_request": "Top app bar guidelines",
+  "example_request": "Examples of small top app bars with 'more' icon and center-aligned headline"
+}
+```

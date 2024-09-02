@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The search bar includes a functional microphone icon as the leading icon. According to the guidelines, the leading icon in a search bar should be a non-functional search icon or a navigational action (like a back arrow)."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Replace the functional microphone icon with a back arrow. This aligns with the guideline that the leading icon should be non-functional or navigational. Since this will also make the x icon on the right redundant, you can remove it and place the microphone icon there instead."
+    }
+  ],
+  "guideline_request": "leading icon in a search bar",
+  "example_request": "search view example, search bar example"
+}

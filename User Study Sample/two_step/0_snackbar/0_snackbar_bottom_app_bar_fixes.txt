@@ -1,0 +1,8 @@
+Violations:
+1. The bottom app bar contains a FAB placed outside the bottom app bar. According to Material Design 3 guidelines, an FAB should never be placed outside of the bottom app bar.
+2. The snackbar messages cover the bottom app bar, which should not happen. Snackbars should appear above the bottom app bar and not cover it.
+
+
+Changes:
+1. Move the FAB into the bottom app bar and place it in a consistent position, such as the center or right side of the bottom app bar.
+2. Adjust the position of the snackbar messages so that they appear above the bottom app bar, ensuring they do not cover it.

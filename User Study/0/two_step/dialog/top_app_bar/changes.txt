@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The top app bar in the mockup uses a center-aligned title configuration. According to the Material Design 3 Guidelines, a center-aligned top app bar should be used for the main root page of an app. Given that this is a 'Trash' page, it is likely not the main root page.",
+      "severity": "Moderate"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Change the top app bar configuration from 'small-centered' to 'small' to avoid using a center-aligned title for a non-root page."
+    }
+  ],
+  "guideline_request": "top app bar configuration",
+  "example_request": "small top app bar"
+}

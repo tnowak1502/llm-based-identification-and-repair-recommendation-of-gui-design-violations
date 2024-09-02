@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Inconsistent List Item Heights:** The heights of the list items are inconsistent. List-item-2 has a height of 56px while list-item-3 and list-item-4 have a height of 104px. This inconsistency can disrupt the visual flow and hierarchy of the list. (Severity: High)",
+    "2. **Inconsistent Content Widths:** The content widths of list-item-3 and list-item-4 are different. List-item-3 has a content width of 234px, while list-item-4 has a content width of 222px. This inconsistency can make the list appear uneven. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Standardize List Item Heights:** Ensure that all list items have the same height. If the content varies, consider using a flexible height that can accommodate varying content lengths while maintaining consistency.",
+    "2. **Standardize Content Widths:** Ensure that the content widths of all list items are consistent. Use the same width for the content of all list items to maintain visual alignment and consistency."
+  ],
+  "guideline_request": "Material Design 3 guidelines on list item consistency and visual hierarchy",
+  "example_request": "consistent list item heights and widths"
+}

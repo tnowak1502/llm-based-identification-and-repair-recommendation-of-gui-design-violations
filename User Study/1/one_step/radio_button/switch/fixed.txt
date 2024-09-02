@@ -1,0 +1,16 @@
+{
+  "violations": "The provided code snippet contains a switch component, but the image does not show any switches. Instead, it shows a volume slider and radio buttons for language selection.",
+  "changes": "Replace the switch component with a slider for volume control and ensure the radio buttons are used for language selection.",
+  "changed_components": [
+    "<div class='Volume-slider' id='I57805:9240;51964:63549' style='position: absolute; top: 12px; left: 16px; width: 200px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Track' id='I57805:9240;51964:63550;51945:10178' style='position: absolute; top: 12px; left: 0px; width: 200px; height: 4px; opacity: 1; background-color: #DFE4DCFF; border-radius: 100px; '>
+      </div>
+      <div class='Thumb' id='I57805:9240;51964:63550;52074:22108' style='position: absolute; top: 4px; left: 100px; width: 24px; height: 24px; overflow: hidden; opacity: 1; background-color: #717970FF; border-radius: 100px; '>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "I57805:9240;51964:63550"
+  ],
+  "new_components": []
+}

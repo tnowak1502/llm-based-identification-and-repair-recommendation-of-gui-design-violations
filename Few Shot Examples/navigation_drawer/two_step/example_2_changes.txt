@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "The navigation drawer's content is very dense without any dividers or section headers to make the content more scannable. This could impact the user's ability to quickly find what they are looking for."
+  ],
+  "changes": [
+    "Add dividers to group related navigation items together. This will help users scan the drawer quickly and find what they need. For example, you can categorize 'Renting History', 'Inbox', 'Wallet', and 'Coupons' as one group, 'Pricing', 'User Agreement' and 'Privacy' as another, and 'Support' and 'Account Settings' as the last one."
+  ],
+  "guideline_request": "Navigation drawer guidelines, Divider guidelines",
+  "example_request": "Navigation drawer examples, Divider examples"
+}

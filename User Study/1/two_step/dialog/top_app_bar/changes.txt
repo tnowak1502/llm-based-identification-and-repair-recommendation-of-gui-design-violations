@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The headline text 'Trash' in the top app bar is center-aligned, which is correct for a small-centered top app bar. However, the leading icon (menu) and the trailing icon (account circle) are not symmetrically positioned relative to the headline. This creates an imbalance in the visual hierarchy.",
+      "severity": "Medium"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure that the leading icon (menu) and the trailing icon (account circle) are symmetrically positioned relative to the headline 'Trash' to maintain a balanced visual hierarchy."
+    }
+  ],
+  "guideline_request": "top app bar alignment",
+  "example_request": "small-centered top app bar"
+}

@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The 'A user has reported you' badge is not placed in a way that makes it clear what it is associated with. According to Material Design 3 Guidelines, messages and popups should appear where users are likely to see them and in a way that makes their context clear."
+    },
+    {
+      "severity": "medium",
+      "description": "The cards contain repetitive information ('Lorem ipsum dolor sit amet...') which makes them harder to scan. According to Material Design 3 Guidelines, information should be succinct, unambiguous, and not repetitive."
+    }
+  ],
+  "changes": [
+    {
+      "change": "Move the 'A user has reported you' badge closer to the relevant content it is associated with, such as next to the user's profile picture or name."
+    },
+    {
+      "change": "Reduce the amount of repetitive placeholder text ('Lorem ipsum dolor sit amet...') in the cards to make the content more succinct and easier to scan."
+    }
+  ],
+  "guideline_request": "Badge placement guidelines, Card content guidelines",
+  "example_request": "badge, card"
+}

@@ -1,0 +1,5 @@
+Violations:
+1. The color of the divider in the 'Hi, Firstname Lastname!' section (#000000FF, Black) is too bold and visually disruptive. Material Design Guidelines suggest that dividers should be visible but not bold.
+
+Changes:
+1. Change the color of the divider in the 'Hi, Firstname Lastname!' section to a more neutral and less bold color, such as #C1C9BEFF (light grey), to make it less disruptive while still maintaining visibility.

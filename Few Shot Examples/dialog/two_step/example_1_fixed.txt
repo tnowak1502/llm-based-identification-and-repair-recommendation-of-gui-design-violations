@@ -1,0 +1,3 @@
+```json
+{'changed_components': ['<div class="headline" id="I55403:6735;52112:32138" style="position: absolute; top: 24px; left: 24px; width: 265px; height: 32px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 24px; font-weight: 400; letter-spacing: 0px; color: #DFE4DCFF; line-height: 32px; justify-content: left; align-items: center;">Allow location access? </div>'], 'deleted_components': [], 'new_components': []}
+```

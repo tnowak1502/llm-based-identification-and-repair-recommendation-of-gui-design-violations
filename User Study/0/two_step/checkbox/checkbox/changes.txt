@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "There are no issues with the checkboxes in this screen.",
+  "changes": "Since there are no issues, no changes are necessary.",
+  "guideline_request": "",
+  "example_request": ""
+}
+```

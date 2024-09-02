@@ -1,0 +1,9 @@
+```json
+{
+  "changed_components": [
+    "<div class='horizontal/inset' id='57805:8415' style='position: absolute; top: 84px; left: 0px; width: 412px; height: 1.0000265836715698px; overflow: hidden; opacity: 1; border-radius: 0px;'><hr class='Divider' id='I57805:8415;51816:5869' style='margin: 0px; position: absolute; left: 16px; width: 396px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'/></div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

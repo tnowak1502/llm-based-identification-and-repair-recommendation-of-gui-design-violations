@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Button Styles: The icon button in the 'Kanäle' section uses the 'standard' configuration while the rest of the interface uses dark-themed configurations. This inconsistency can confuse users about the importance and function of the button. (Severity: High)",
+    "2. Icon Weight Difference: The icon in the 'Kanäle' section's icon button appears to have a different weight compared to the other icons in the interface. Icons in the same component should have the same weight to ensure visual consistency. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the icon button style in the 'Kanäle' section to match the dark-themed configurations used elsewhere. This will maintain visual consistency and make the button’s function and importance clearer.",
+    "2. Ensure that the icon in the 'Kanäle' section's icon button has the same weight as the other icons in the interface. This will provide a more cohesive visual experience."
+  ],
+  "guideline_request": "Icon button styles, Icon weights",
+  "example_request": "icon buttons"
+}

@@ -1,0 +1,58 @@
+{
+  "violations": "The top app bar in the mockup contains three trailing icons. According to Material Design 3 Guidelines, the right side of a top app bar should have at most three icon buttons, but these should be ordered from most to least used from left to right. The current order of the icons is not clear about their usage frequency.",
+  "changes": "Ensure that the trailing icons are ordered from most to least used from left to right.",
+  "changed_components": [
+    "<div class='trailing-icon' id='I57805:16788;50717:9083' style='position: absolute; top: 8px; left: 312px; width: 96px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='trailing-icon-1' config='standard' id='I57805:16788;50717:9084' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57805:16788;50717:9084;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57805:16788;50717:9084;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57805:16788;50717:9084;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='icon' id='I57805:16788;50717:9084;51525:5221;51009:9730' style='position: absolute; top: 3px; left: 3px; width: 17.490001678466797px; height: 17.490001678466797px;'>
+                <svg height='17.490001678466797px' width='17.490001678466797px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 11.760001511353 10.270001577744896 L 17.490001678466797 16.000001744858693 L 16.000001744858693 17.490001678466797 L 10.270001577744896 11.760001511353 C 9.200001766233285 12.530002053088046 7.91000071002661 13.000001417697689 6.5000007088488445 13.000001417697689 C 2.910000403176873 13.000001417697689 0 10.090001252939421 0 6.5000007088488445 C 0 2.910000403176873 2.910000403176873 0 6.5000007088488445 0 C 10.090001252939421 0 13.000001417697689 2.910000403176873 13.000001417697689 6.5000007088488445 C 13.000001417697689 7.91000071002661 12.530002053088046 9.200001766233285 11.760001511353 10.270001577744896 Z M 6.5000007088488445 2.0000002181073366 C 4.0100006661870715 2.0000002181073366 2.0000002181073366 4.0100006661870715 2.0000002181073366 6.5000007088488445 C 2.0000002181073366 8.990000751510618 4.0100006661870715 11.00000119959035 6.5000007088488445 11.00000119959035 C 8.990000751510618 11.00000119959035 11.00000119959035 8.990000751510618 11.00000119959035 6.5000007088488445 C 11.00000119959035 4.0100006661870715 8.990000751510618 2.0000002181073366 6.5000007088488445 2.0000002181073366 Z' style='fill: #414941FF;'>
+                  </path>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='trailing-icon-2' config='standard' id='I57805:16788;50717:9085' style='position: absolute; top: 0px; left: 48px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57805:16788;50717:9085;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57805:16788;50717:9085;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57805:16788;50717:9085;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='icon' id='I57805:16788;50717:9085;51525:5221;50731:11365' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; opacity: 1; background-color: #414941FF; border-radius: 0px; '>
+                <div class='Path' id='I57805:16788;50717:9085;51525:5221;50731:11366' style='position: absolute; top: 6px; left: 10px; width: 4px; height: 4px;'>
+                  <svg height='4px' width='4px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M 2 0 C 3.100000023841858 0 4 0.8999999761581421 4 2 C 4 3.100000023841858 3.100000023841858 4 2 4 C 0.8999999761581421 4 0 3.100000023841858 0 2 C 0 0.8999999761581421 0.8999999761581421 0 2 0 L 2 0 Z' style='fill: #DADADAFF;'>
+                    </path>
+                  </svg>
+                </div>
+                <div class='Path' id='I57805:16788;50717:9085;51525:5221;50731:11367' style='position: absolute; top: 15px; left: 6px; width: 12px; height: 3px;'>
+                  <svg height='3px' width='12px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M 6 0 C 8.700000047683716 0 11.799999997019768 1.2900000214576721 12 2 L 12 3 L 0 3 L 0 2.009999990463257 C 0.20000000298023224 1.2899999618530273 3.299999952316284 0 6 0 L 6 0 Z' style='fill: #DADADAFF;'>
+                    </path>
+                  </svg>
+                </div>
+                <div class='Path' id='I57805:16788;50717:9085;51525:5221;50731:11368' style='position: absolute; top: 4px; left: 8px; width: 8px; height: 8px;'>
+                  <svg height='8px' width='8px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M 4 0 C 1.7899999618530273 0 0 1.7899999618530273 0 4 C 0 6.210000038146973 1.7899999618530273 8 4 8 C 6.210000038146973 8 8 6.210000038146973 8 4 C 8 1.7899999618530273 6.210000038146973 0 4 0 L 4 0 Z' style='fill: #DADADAFF;'>
+                    </path>
+                  </svg>
+                </div>
+                <div class='Path' id='I57805:16788;50717:9085;51525:5221;50731:11369' style='position: absolute; top: 13px; left: 4px; width: 16px; height: 7px;'>
+                  <svg height='7px' width='16px' xmlns='http://www.w3.org/2000/svg'>
+                    <path d='M 8 0 C 5.329999923706055 0 0 1.3399999141693115 0 4 L 0 7 L 16 7 L 16 4 C 16 1.3399999141693115 10.670000076293945 0 8 0 L 8 0 Z' style='fill: #DADADAFF;'>
+                    </path>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

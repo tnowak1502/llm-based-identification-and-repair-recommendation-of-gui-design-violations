@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Inconsistent Selection Indicators:** The list items use different types of selection indicators (radio buttons, checkboxes, switch). This can disrupt the visual consistency and create ambiguity for the user. (Severity: High)",
+    "2. **Misalignment of Leading Elements:** The leading elements (checkboxes) in List Items 7, 8, and 9 are misaligned compared to other list items, which can disrupt the visual consistency. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Standardize Selection Indicators:** Use a consistent type of selection indicator across all list items. For example, use checkboxes for all items to maintain visual consistency.",
+    "2. **Align Leading Elements:** Ensure that all leading elements (checkboxes) are aligned consistently with other list items. This includes maintaining consistent spacing and positioning."
+  ],
+  "guideline_request": "Selection controls guidelines, visual consistency guidelines",
+  "example_request": "list with consistent checkboxes"
+}

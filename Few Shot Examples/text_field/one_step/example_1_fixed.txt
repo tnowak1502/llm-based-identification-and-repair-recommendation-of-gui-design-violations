@@ -1,0 +1,49 @@
+{
+  "violations": "The text fields in the mockup are inconsistently styled (two filled and two outlined), even though they are in the same region.",
+  "changes": "Change the two filled text fields into outlined text fields.",
+  "changed_components": [
+    "<div class = 'Text-field' id = '55668:813' config='outlined' style='position: absolute; top: 8px; left: 16px; width: 295px; height: 56px; opacity: 1; border-radius: 4px 4px 0px 0px; border: 0px #181D18FF solid; '>
+              <div class = 'text-field' id = 'I55649:12546;52798:25506' style='position: absolute; top: 0px; left: 0px; width: 295px; height: 56px; overflow: hidden; opacity: 1; border-radius: 4px; box-shadow: inset 0 0 0 1px #181D18FF; '>
+                <div class = 'state-layer' id = 'I55649:12546;52798:25507' style='position: absolute; top: 0px; left: 0px; width: 295px; height: 56px; overflow: hidden; opacity: 1; border-radius: 4px 4px 0px 0px; '>
+                  <div class = 'content' id = 'I55649:12546;52798:25508' style='position: absolute; top: 4px; left: 16px; width: 279px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'label-text' id = 'I55649:12546;52798:25509' style='position: absolute; top: 12px; left: 0px; width: 49px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class = 'label-text' id = 'I55649:12546;52798:25510' style='position: absolute; top: 0px; left: 0px; width: 50px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: top;'>Betrag
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>",
+    "<div class = 'Text-field' id = '55668:818' config='outlined' style='position: absolute; top: 8px; left: 16px; width: 380px; height: 56px; opacity: 1; border-radius: 4px 4px 0px 0px; '>
+              <div class = 'text-field' id = 'I55649:12963;52798:24579' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 56px; overflow: hidden; opacity: 1; border-radius: 4px; box-shadow: inset 0 0 0 1px #181D18FF; '>
+                <div class = 'state-layer' id = 'I55649:12963;52798:24580' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 56px; overflow: hidden; opacity: 1; border-radius: 4px 4px 0px 0px; '>
+                  <div class = 'content' id = 'I55649:12963;52798:24581' style='position: absolute; top: 4px; left: 16px; width: 316px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'input-text' id = 'I55649:12963;52798:24582' style='position: absolute; top: 12px; left: 0px; width: 11px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                      <div class = 'input-text' id = 'I55649:12963;52798:24583' style='position: absolute; top: 0px; left: 0px; width: 12px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>X
+                      </div>
+                    </div>
+                    <div class = 'label-text' id = 'I55649:12963;52798:24584' style='position: absolute; top: -12px; left: -4px; width: 74px; height: 16px; overflow: hidden; opacity: 1; background-color: #F6FBF2FF; border-radius: 0px; '>
+                      <div class = 'label-text' id = 'I55649:12963;52798:24585' style='position: absolute; top: 0px; left: 4px; width: 67px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.4000000059604645px; color: #181D18FF; line-height: 16px; justify-content: left; align-items: top;'>Bezahlt von
+                      </div>
+                    </div>
+                  </div>
+                  <div class = 'trailing-icon' id = 'I55649:12963;52798:24586' config='standard' style='position: absolute; top: 4px; left: 332px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'container' id = 'I55649:12963;52798:24586;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+                      <div class = 'state-layer' id = 'I55649:12963;52798:24586;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                        <div class = 'Icons/arrow_drop_down_24px' id = 'I55649:12963;52798:24586;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                          <div class='icon' id='I55649:12963;52798:24586;51525:5221;50731:11836' style='position: absolute; top: 10px; left: 7px; width: 10px; height: 5px;'>
+                            <svg height = '5px' width = '10px' xmlns = 'http://www.w3.org/2000/svg'>
+                              <path d='M 0 0 L 5 5 L 10 0 L 0 0 Z' style='fill: #414941FF;'/>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

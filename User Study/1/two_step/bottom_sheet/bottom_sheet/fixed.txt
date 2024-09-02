@@ -1,0 +1,25 @@
+```json
+{
+  "changed_components": [
+    "<div class='Bottom-sheet' id='57805:12222' style='position: absolute; top: 721px; left: 0px; width: 412px; height: 80px; opacity: 1; border-radius: 0px; '>
+      <div class='Bottom-Sheet' id='57805:12223' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 80px; overflow: hidden; opacity: 1; background-color: #F1F5EDFF; border-radius: 28px 28px 0px 0px; filter: drop-shadow(0px 1px 3px #0000004C); '>
+        <div class='Sheet-header' id='57805:12224' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 36px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Drag-handle' id='57805:12225' style='position: absolute; top: 16px; left: 190px; width: 32px; height: 4px; opacity: 1; background-color: #717970FF; border-radius: 100px; '>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "57805:12226"
+  ],
+  "new_components": [
+    ["<div class='Carousel' id='57805:12248' style='position: absolute; top: 392px; left: 0px; width: 412px; height: 158px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Item-1' id='I57805:12248;54490:25370' style='position: absolute; top: 8px; left: 16px; width: 284px; height: 142px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class='Item-Last' id='I57805:12248;54490:25372' style='position: absolute; top: 8px; left: 308px; width: 56px; height: 142px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+    </div>", "57805:12192"]
+  ]
+}
+```

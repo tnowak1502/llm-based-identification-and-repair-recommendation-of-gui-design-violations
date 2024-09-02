@@ -1,0 +1,7 @@
+{
+  "violations": "The switch is used to toggle the 'Download using mobile data' option. According to the Material Design 3 guidelines, switches should only be used for independent on/off choices. This use is appropriate.",
+  "changes": "No changes are necessary as the switch is used correctly for an on/off choice.",
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": []
+}

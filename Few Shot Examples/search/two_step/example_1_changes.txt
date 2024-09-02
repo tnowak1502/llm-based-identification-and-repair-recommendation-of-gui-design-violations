@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The hinted search text 'Suchen...' should describe what the user will search for more clearly.",
+      "reasoning": "The hinted text 'Suchen...' does not provide a clear indication of what the user can search for, which might confuse users about the functionality of the search bar."
+    }
+  ],
+  "changes": [
+    {
+      "severity": "high",
+      "suggested_change": "Update the hinted search text to be more descriptive, such as 'Search for articles, products, etc.'"
+    }
+  ],
+  "guideline_request": "Search bar hint text guidelines",
+  "example_request": "Material Design search bar example"
+}

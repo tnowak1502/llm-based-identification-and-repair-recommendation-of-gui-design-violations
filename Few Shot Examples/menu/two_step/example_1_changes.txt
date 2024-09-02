@@ -1,0 +1,6 @@
+{
+  "violations": "1. Consistency of Icon Usage: Menu items 4 and 5 have leading icons, while items 1, 2, and 3 do not. According to Material Design 3 guidelines, if one menu item contains a leading or trailing icon, all items should. This inconsistency can confuse users about the relationship between menu items.",
+  "changes": "1. Remove the leading icons from Menu items 4 and 5 to ensure consistency with items 1, 2 and 3. This will make the menu items appear more uniform and provide a clear visual hierarchy.",
+  "guideline_request": "menu guidelines",
+  "example_request": "menu without icons"
+}

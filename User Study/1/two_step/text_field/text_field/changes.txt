@@ -1,0 +1,6 @@
+{
+  "violations": "1. The label 'Recipient of the money in this transaction that you are sending' is too long and exceeds the width of the text field. Labels should be short and contained in one line.",
+  "changes": "1. Shorten the label 'Recipient of the money in this transaction that you are sending' to fit within one line.",
+  "guideline_request": "text field label guidelines",
+  "example_request": "outlined text field with short label"
+}

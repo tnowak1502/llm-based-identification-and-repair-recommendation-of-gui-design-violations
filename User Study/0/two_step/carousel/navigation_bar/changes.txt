@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The icons in the navigation bar have a background color (#D3E8D2FF) that is not consistent with the typical design pattern for navigation bar icons. Navigation bar icons generally do not have background colors and should be more visually consistent with their labels.",
+      "guideline": "Icons in the navigation bar should not have background colors unless it is a specific design choice that aligns with the overall app theme."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Remove the background color from the icon containers to ensure a consistent and clean look for the navigation bar icons."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with labeled icons"
+}
+```

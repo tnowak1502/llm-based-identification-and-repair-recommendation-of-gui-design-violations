@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. The full-width divider under the 'Volume' section might be unnecessary and visually disruptive. According to Material Design Guidelines, dividers should not be used if items could be grouped using open space instead."
+  ],
+  "changes": [
+    "1. Remove the full-width divider under the 'Volume' section and use open space to separate the sections instead."
+  ],
+  "guideline_request": "Guidelines on the use of dividers",
+  "example_request": "Examples of sections separated by open space instead of dividers"
+}

@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Bottom Sheet Content: The bottom sheet contains a section titled 'Around town' and additional content that seems to be primary content rather than secondary. Bottom sheets should contain additional or secondary content, not the app's main content.",
+    "2. Grouping of Elements: The 'Share' and 'Bookmark' icons in the bottom sheet are not clearly grouped together, which may cause confusion about their relationship. Elements that belong together should be grouped using proximity or other methods."
+  ],
+  "changes": [
+    "1. Move the 'Around town' section and its related content out of the bottom sheet and into the main content area of the app, ensuring the bottom sheet only contains secondary content.",
+    "2. Group the 'Share' and 'Bookmark' icons more clearly, either by placing them closer together or by using a visual element such as a divider or background to indicate their relationship."
+  ],
+  "guideline_request": "Bottom sheet content",
+  "example_request": "Bottom sheet"
+}

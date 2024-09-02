@@ -1,0 +1,61 @@
+Here is a detailed description of each text field based on the provided code snippets and the image mockup:
+
+### 1. Date Field
+
+- **Type**: Outlined text field
+- **Color**: Background color is transparent, border color is #181D18FF, text color is #181D18FF
+- **Size**: Width of 380px, height of 56px
+- **Shape**: Rectangular with rounded top corners (border-radius: 4px 4px 0px 0px)
+- **Position**: Placed at (top: 247px, left: 0px) inside the container of (top: 8px, left: 16px)
+- **ID**: 55668:816
+- **Label**: "Datum" styled with a background color of #F6FBF2FF
+- **Input Text**: "01.01.2001" with font-family: Roboto, font-size: 16px, font-weight: 400
+- **Trailing Icon**: A dropdown arrow icon positioned at (top: 4px, left: 332px)
+- **Likely Function**: To select or input a date
+
+### 2. Paid By Field
+
+- **Type**: Filled text field
+- **Color**: Background color is #DFE4DCFF, text color is #181D18FF
+- **Size**: Width of 380px, height of 56px
+- **Shape**: Rectangular with rounded top corners (border-radius: 4px 4px 0px 0px)
+- **Position**: Placed at (top: 327px, left: 0px) inside the container of (top: 8px, left: 16px)
+- **ID**: 55668:818
+- **Label**: "Bezahlt von" styled with font-family Roboto, font-size 12px
+- **Input Text**: "X" with font-family: Roboto, font-size: 16px, font-weight: 400
+- **Trailing Icon**: A dropdown arrow icon positioned at (top: 4px, left: 332px)
+- **Likely Function**: To select the person who paid
+
+### 3. Amount Field
+
+- **Type**: Filled text field with an assistive chip
+- **Color**: Background color is #DFE4DCFF, text color is #414941FF
+- **Size**: Width of 295px, height of 56px for the text field, assistive chip is 77px by 32px
+- **Shape**: Rectangular with rounded top corners (border-radius: 4px 4px 0px 0px)
+- **Position**: Placed at (top: 167px, left: 0px) inside the container of (top: 8px, left: 16px)
+- **ID**: 55668:813
+- **Label**: "Betrag" styled with font-family Roboto, font-size 16px
+- **Assistive Chip**: Labeled "EUR" with a background color of #F6FBF2FF, positioned at (top: 20px, left: 319px)
+- **Likely Function**: To input the amount paid with a currency selector
+
+### 4. Title Field
+
+- **Type**: Outlined text field
+- **Color**: Background color is transparent, border color is #181D18FF, text color is #181D18FF
+- **Size**: Width of 268px, height of 56px
+- **Shape**: Rectangular with rounded top corners (border-radius: 4px 4px 0px 0px)
+- **Position**: Placed at (top: 64px, left: 0px) inside the container of (top: 8px, left: 16px)
+- **ID**: 55668:809
+- **Label**: "Titel" styled with font-family Roboto, font-size 16px
+- **Likely Function**: To input the title of the expense
+
+### 5. Icon Buttons
+
+- **Color**: Border color is #717970FF, icon color is #414941FF
+- **Shape**: Circular icons with a border-radius of 100px
+- **Position**: Icon buttons positioned at (top: 8px, left: 292px) and (top: 8px, left: 348px)
+- **ID**: 55668:810 for the first button and 55668:811 for the second
+- **Icons**: First is a triangle icon (category), second is a photo add icon
+- **Likely Function**: To perform actions like adding a category or a photo
+
+Each of these fields and buttons is well-placed and styled to maintain a consistent and user-friendly interface.

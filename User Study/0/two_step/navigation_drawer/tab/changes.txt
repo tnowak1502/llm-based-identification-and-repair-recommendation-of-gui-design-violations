@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    "1. Ambiguous Tab Label ('FILMS'): The label 'FILMS' is not clear enough. It might not be immediately obvious to users what content they will find under this tab, which can cause confusion.",
+    "2. Ambiguous Tab Label ('REVIEW'): Similarly, the label 'REVIEW' is not specific enough. Users might not understand what kind of reviews are being referred to.",
+    "3. Ambiguous Tab Label ('LISTS'): The label 'LISTS' is also vague and does not provide enough context about the content.",
+    "4. Ambiguous Tab Label ('JOURNAL'): The label 'JOURNAL' is not specific enough and might confuse users about the content it holds."
+  ],
+  "changes": [
+    "1. Ensure that tab labels are clear and unambiguous. For example, instead of 'FILMS', use a more descriptive label like 'Movies'.",
+    "2. Instead of 'REVIEW', use a more specific label like 'User Reviews' or 'Critic Reviews'.",
+    "3. Instead of 'LISTS', use a more descriptive label like 'Watch Lists' or 'Favorite Lists'.",
+    "4. Instead of 'JOURNAL', use a more specific label like 'Personal Journal' or 'Movie Journal'."
+  ],
+  "guideline_request": "tab labels clarity",
+  "example_request": "Material Design 3 tab examples"
+}
+```

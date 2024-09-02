@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. The bottom app bar contains a FAB that is not centered. According to Material Design 3 Guidelines, the FAB should be centered in the bottom app bar.",
+    "2. There are two icons in the bottom app bar that are both delete actions, which is redundant and violates the guideline that information should not be repetitive."
+  ],
+  "changes": [
+    "1. Center the FAB in the bottom app bar.",
+    "2. Remove one of the delete icons to avoid redundancy."
+  ],
+  "guideline_request": "Bottom app bar FAB placement, Redundant information in UI",
+  "example_request": "bottom app bar with centered FAB, bottom app bar with non-redundant icons"
+}

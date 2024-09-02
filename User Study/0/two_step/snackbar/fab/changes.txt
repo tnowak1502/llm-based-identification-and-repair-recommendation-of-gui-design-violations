@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "description": "The FAB is positioned near the top right corner of the screen. According to Material Design 3 guidelines, FABs should be placed in the bottom right corner of the screen to be easily accessible using thumbs.",
+      "severity": "high"
+    },
+    {
+      "description": "The FAB is a secondary FAB but it is not supporting any primary FAB on the screen. According to Material Design 3 guidelines, secondary FABs should support a primary FAB.",
+      "severity": "moderate"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Relocate the FAB to the bottom right corner of the screen, ensuring it does not overlap with any navigation or bottom app bars."
+    },
+    {
+      "description": "Introduce a primary FAB if necessary, and ensure the secondary FAB supports it. Otherwise, change the secondary FAB to a primary FAB if it is the main action on the screen."
+    }
+  ],
+  "guideline_request": "Placement of FABs, Primary and Secondary FAB usage",
+  "example_request": "Primary FAB, Secondary FAB"
+}

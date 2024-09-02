@@ -1,0 +1,23 @@
+{
+  "violations": "The navigation bar is implemented correctly, but the active destination is not visually distinguished from the others. According to Material Design 3 guidelines, one navigation destination should always be active and visually distinct from the others.",
+  "changes": "Ensure the active destination (Homepage) is visually distinct by using a different background color for its icon container.",
+  "changed_components": [
+    "<div class = 'Segment-1' id = 'I57805:7491;52031:23841' style='position: absolute; top: 0px; left: 8px; width: 72.80000305175781px; height: 80px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'icon-container' id = 'I57805:7491;52031:23841;52031:22888' style='position: absolute; top: 12px; left: 4.400001525878906px; width: 64.0px; height: 32px; opacity: 1; background-color: #81C784FF; border-radius: 16px; '>
+        <div class = 'state-layer' id = 'I57805:7491;52031:23841;52031:22889' style='position: absolute; top: 0px; left: 0px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Icon' id = 'I57805:7491;52031:23841;52031:22890' style='position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Vector' id = 'I57805:7491;52031:23841;52031:22890;55204:70257' style='position: absolute; top: 3.5px; left: 2px; width: 20px; height: 17.0px;'>
+              <svg height = '17.0px' width = '20px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 10 2.690000057220459 L 15 7.189999580383301 L 15 15 L 13 15 L 13 9 L 7 9 L 7 15 L 5 15 L 5 7.189999580383301 L 10 2.690000057220459 Z M 10 0 L 0 9 L 3 9 L 3 17 L 9 17 L 9 11 L 11 11 L 11 17 L 17 17 L 17 9 L 20 9 L 10 0 Z' style='fill: #D3E8D2FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class = 'label-text' id = 'I57805:7491;52031:23841;52031:22891' style='position: absolute; top: 48px; left: 0px; width: 73.80000305175781px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 16px; justify-content: center; align-items: top;'>Homepage
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

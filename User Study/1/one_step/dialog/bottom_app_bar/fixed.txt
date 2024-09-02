@@ -1,0 +1,63 @@
+{
+  "violations": "1. The bottom app bar contains only two action icons and a FAB. This is not enough actions to warrant the use of a bottom app bar. Either add more actions or remove the bottom app bar and place the FAB directly on the screen.",
+  "changes": "1. Add an additional action icon to the bottom app bar to ensure it contains at least three action icons. Based on the image, the additional action could be an undo action.",
+  "changed_components": [
+    "<div class='leading-icon' id='I57805:11844;51175:4942' style='position: absolute; top: 16px; left: 4px; width: 160px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='Icon-1' config='standard' id='I57805:11844;51175:4943' style='position: absolute; top: 0px; left: 0px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57805:11844;51175:4943;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57805:11844;51175:4943;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57805:11844;51175:4943;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Vector' id='I57805:11844;51175:4943;51525:5221;55204:69881' style='position: absolute; top: 3px; left: 5px; width: 14px; height: 18px; '>
+                <svg height='18px' width='14px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 9.119999885559082 7.470000267028809 L 7 9.59000015258789 L 4.869999885559082 7.470000267028809 L 3.4600000381469727 8.880000114440918 L 5.590000152587891 11 L 3.4700002670288086 13.120000839233398 L 4.880000114440918 14.530000686645508 L 7 12.40999984741211 L 9.119999885559082 14.530000686645508 L 10.529999732971191 13.120000839233398 L 8.40999984741211 11 L 10.529999732971191 8.880000114440918 L 9.119999885559082 7.470000267028809 Z M 10.5 1 L 9.5 0 L 4.5 0 L 3.5 1 L 0 1 L 0 3 L 14 3 L 14 1 L 10.5 1 Z M 1 16 C 1 17.100000023841858 1.899999976158142 18 3 18 L 11 18 C 12.100000023841858 18 13 17.100000023841858 13 16 L 13 4 L 1 4 L 1 16 Z M 3 6 L 11 6 L 11 16 L 3 16 L 3 6 Z' style='fill: #414941FF; '/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='Icon-2' config='standard' id='I57805:11844;51175:4944' style='position: absolute; top: 0px; left: 56px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57805:11844;51175:4944;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57805:11844;51175:4944;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57805:11844;51175:4944;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Vector' id='I57805:11844;51175:4944;51525:5221;55204:69965' style='position: absolute; top: 3px; left: 5px; width: 14px; height: 18px; '>
+                <svg height='18px' width='14px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 10.5 1 L 9.5 0 L 4.5 0 L 3.5 1 L 0 1 L 0 3 L 14 3 L 14 1 L 10.5 1 Z M 1 16 C 1 17.100000023841858 1.899999976158142 18 3 18 L 11 18 C 12.100000023841858 18 13 17.100000023841858 13 16 L 13 4 L 1 4 L 1 16 Z M 3 11 L 3 6 L 11 6 L 11 16 L 3 16 L 3 11 Z M 5 15 L 9 15 L 9 11 L 11 11 L 7 7 L 3 11 L 5 11 L 5 15 Z' style='fill: #414941FF; '/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='Icon-3' config='standard' id='I57805:11844;51175:4945' style='position: absolute; top: 0px; left: 112px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57805:11844;51175:4945;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57805:11844;51175:4945;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57805:11844;51175:4945;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Vector' id='I57805:11844;51175:4945;51525:5221;55204:69966' style='position: absolute; top: 3px; left: 5px; width: 14px; height: 18px; '>
+                <svg height='18px' width='14px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 10.5 1 L 9.5 0 L 4.5 0 L 3.5 1 L 0 1 L 0 3 L 14 3 L 14 1 L 10.5 1 Z M 1 16 C 1 17.100000023841858 1.899999976158142 18 3 18 L 11 18 C 12.100000023841858 18 13 17.100000023841858 13 16 L 13 4 L 1 4 L 1 16 Z M 3 11 L 3 6 L 11 6 L 11 16 L 3 16 L 3 11 Z M 5 15 L 9 15 L 9 11 L 11 11 L 7 7 L 3 11 L 5 11 L 5 15 Z' style='fill: #414941FF; '/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": [
+    ("<div class='Icon-3' config='standard' id='I57805:11844;51175:4945' style='position: absolute; top: 0px; left: 112px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='container' id='I57805:11844;51175:4945;51525:5219' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+          <div class='state-layer' id='I57805:11844;51175:4945;51525:5220' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Icon' id='I57805:11844;51175:4945;51525:5221' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Vector' id='I57805:11844;51175:4945;51525:5221;55204:69966' style='position: absolute; top: 3px; left: 5px; width: 14px; height: 18px; '>
+                <svg height='18px' width='14px' xmlns='http://www.w3.org/2000/svg'>
+                  <path d='M 10.5 1 L 9.5 0 L 4.5 0 L 3.5 1 L 0 1 L 0 3 L 14 3 L 14 1 L 10.5 1 Z M 1 16 C 1 17.100000023841858 1.899999976158142 18 3 18 L 11 18 C 12.100000023841858 18 13 17.100000023841858 13 16 L 13 4 L 1 4 L 1 16 Z M 3 11 L 3 6 L 11 6 L 11 16 L 3 16 L 3 11 Z M 5 15 L 9 15 L 9 11 L 11 11 L 7 7 L 3 11 L 5 11 L 5 15 Z' style='fill: #414941FF; '/>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>", "I57805:11844;51175:4942")
+  ]
+}

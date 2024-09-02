@@ -1,0 +1,29 @@
+Based on the provided HTML code snippet and the image, here is a detailed description of the switch element:
+
+### Switch-dark
+- **ID**: `55637:7954`
+- **Config**: `selected`
+- **Type**: This is a "Switch-dark" type, indicating it is a toggle switch in a dark theme.
+- **Color**: 
+  - **Background**: The switch background color is `#99D4A2FF`, a light green shade.
+  - **Handle**: The handle color is `#003918FF`, a dark green shade.
+- **Size**: 
+  - **Overall Switch**: The switch itself is `52px` wide and `32px` high.
+  - **Handle**: The handle inside the switch is `44px` wide and `28px` high.
+- **Shape**: 
+  - **Switch**: The switch has a fully rounded shape with a border-radius of `100px`.
+  - **Handle**: The handle has a rounded shape with a border-radius of `24px`.
+- **Position**: 
+  - **Overall Switch Position**: Positioned absolutely at `top: 9px; left: 280px;`.
+  - **Handle Position**: Positioned absolutely inside the switch at `top: 2px; left: 4px;`.
+- **Likely Function**: This switch is likely used to toggle between "Delivery" and "Pick up" options in the user interface, as indicated by the surrounding text elements in the provided code and the mockup image.
+- **Additional Attributes**:
+  - **Overflow**: Hidden for both the switch and handle elements.
+  - **Opacity**: Set to 1, meaning fully opaque.
+  - **State**: The switch is in the "selected" state, implying the "Pick up" option is currently selected.
+  - **Handle Shape**: The handle has an additional inner container positioned at `top: 11px; left: 11px;` with dimensions `2px` by `2px`.
+
+### General Position in the Mockup
+- The switch is located in the top-right area of the mockup, to the right of the "Delivery" text and to the left of the "Pick up" text.
+
+This description provides a concise yet comprehensive overview of the switch element, its attributes, and likely function within the user interface.

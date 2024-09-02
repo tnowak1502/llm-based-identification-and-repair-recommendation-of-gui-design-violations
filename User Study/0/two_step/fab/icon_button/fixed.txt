@@ -1,0 +1,19 @@
+{
+  "changed_components": [
+    "<div class = 'Icon-button-dark' id = '57811:37485' config='standard' style='position: absolute; top: 8px; left: 354px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'container' id = 'I57811:37485;51525:5137' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 100px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+        <div class = 'state-layer' id = 'I57811:37485;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'Icon' id = 'I57811:37485;51525:5139' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57811:37485;51525:5139;50656:8969' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px; '>
+              <svg height = '16px' width = '16px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 16 9 L 9 9 L 9 16 L 7 16 L 7 9 L 0 9 L 0 7 L 7 7 L 7 0 L 9 0 L 9 7 L 16 7 L 16 9 Z' style='fill: #C1C9BEFF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

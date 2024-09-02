@@ -1,0 +1,11 @@
+{
+  "violations": "The divider below the volume section is a full-width divider, but the section below it (language selection) is related content. According to Material Design 3 Guidelines, an inset divider should be used to separate related content within a section.",
+  "changes": "Replace the full-width divider with an inset divider to better group the related content.",
+  "changed_components": [
+    "<div class='horizontal/inset' id='57811:39944' style='position: absolute; top: 84px; left: 4.3712617525670794e-08px; width: 412.0px; height: 1.0000280141830444px; overflow: hidden; opacity: 1; border-radius: 0px; '><hr class='Divider' id='I57811:39944;51816:5869' style='margin: 0px;  position: absolute; left: 16px; width: 396px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'/></div>"
+  ],
+  "deleted_components": [
+    "I57811:39944;51816:5861"
+  ],
+  "new_components": []
+}

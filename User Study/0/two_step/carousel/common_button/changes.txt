@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "The text button 'Call this contact' is placed on top of an image. According to Material Design 3 Guidelines, outlined buttons on top of images can be hard to see and can be changed to be filled or filled tonal buttons, or moved below or above the image."
+  ],
+  "changes": [
+    "Change the text button 'Call this contact' to a filled or filled tonal button to ensure it is visible on top of the image."
+  ],
+  "guideline_request": "Button visibility on images",
+  "example_request": "Filled button on image"
+}
+```

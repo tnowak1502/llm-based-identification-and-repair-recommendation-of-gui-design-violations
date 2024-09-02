@@ -1,0 +1,47 @@
+{
+  "violations": "1. Inconsistent icon button sizes: The icon buttons have different sizes and positions, which can cause inconsistency in the user interface. (Severity: Medium)",
+  "changes": "1. Standardize the size and position of all icon buttons to ensure consistency.",
+  "changed_components": [
+    "<div class='Icon-button-dark' config='standard' id='57811:39368' style='position: absolute; top: 0px; left: 181px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57811:39368;51525:5137' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+        <div class='state-layer' id='I57811:39368;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57811:39368;51525:5139' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57811:39368;51525:5139;50771:11371' style='position: absolute; top: 6px; left: 8.295000076293945px; width: 7.410000801086426px; height: 12px;'>
+              <svg height='12px' width='7.410000801086426px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 1.4100008010864258 0 L 0 1.4099998474121094 L 4.579999923706055 6 L 0 10.59000015258789 L 1.4100008010864258 12 L 7.410000801086426 6 L 1.4100008010864258 0 Z' style='fill: #FFFFFFFF;'></path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Icon-button-dark' config='standard' id='57811:39382' style='position: absolute; top: 0px; left: 187px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57811:39382;51525:5137' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+        <div class='state-layer' id='I57811:39382;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57811:39382;51525:5139' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57811:39382;51525:5139;50771:11371' style='position: absolute; top: 6px; left: 8.295000076293945px; width: 7.410000801086426px; height: 12px;'>
+              <svg height='12px' width='7.410000801086426px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 1.4100008010864258 0 L 0 1.4099998474121094 L 4.579999923706055 6 L 0 10.59000015258789 L 1.4100008010864258 12 L 7.410000801086426 6 L 1.4100008010864258 0 Z' style='fill: #FFFFFFFF;'></path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>",
+    "<div class='Icon-button-dark' config='standard' id='57811:39375' style='position: absolute; top: 0px; left: 99px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='container' id='I57811:39375;51525:5137' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 100px; '>
+        <div class='state-layer' id='I57811:39375;51525:5138' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Icon' id='I57811:39375;51525:5139' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='icon' id='I57811:39375;51525:5139;50771:11371' style='position: absolute; top: 6px; left: 8.295000076293945px; width: 7.410000801086426px; height: 12px;'>
+              <svg height='12px' width='7.410000801086426px' xmlns='http://www.w3.org/2000/svg'>
+                <path d='M 1.4100008010864258 0 L 0 1.4099998474121094 L 4.579999923706055 6 L 0 10.59000015258789 L 1.4100008010864258 12 L 7.410000801086426 6 L 1.4100008010864258 0 Z' style='fill: #FFFFFFFF;'></path>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

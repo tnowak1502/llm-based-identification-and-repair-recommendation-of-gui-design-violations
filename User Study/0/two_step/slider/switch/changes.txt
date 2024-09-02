@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "low",
+      "description": "The switch for 'Download using mobile data' is correctly used for an on/off choice. However, the label 'Download using mobile data' could be more succinct.",
+      "reasoning": "Information should be succinct and not repetitive. In this context, the label could be simplified to 'Use mobile data' for brevity."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Change the label 'Download using mobile data' to 'Use mobile data'.",
+      "reasoning": "This change makes the information more succinct and easier to read, adhering to Material Design 3 guidelines."
+    }
+  ],
+  "guideline_request": "Material Design 3 guidelines for text labels",
+  "example_request": "Example HTML implementations of text labels in Material Design 3"
+}

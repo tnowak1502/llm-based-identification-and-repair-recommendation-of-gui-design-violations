@@ -1,0 +1,11 @@
+{
+  "violations": "The full-screen carousel does not contain any visible text or controls, making it ambiguous whether the content is interactive or not.",
+  "changes": "Add a 'show all' button next to the carousel to indicate that more content is available. Ensure this button is clearly visible and easily accessible.",
+  "changed_components": [
+    "<div class=\"Carousel---Full-screen\" id=\"57805:16451\" style=\"position: absolute; top: -5.684341886080802e-14px; left: 0px; width: 412px; height: 798.0px; overflow: hidden; opacity: 1; border-radius: 0px; \">\n <div class=\"Item-1\" id=\"I57805:16451;54577:26119\" style='position: absolute; top: 0px; left: 0px; width: 412px; height: 798px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 0px; '>\n </div>\n <button id=\"show-all\" style=\"position: absolute; top: 760px; left: 16px; width: 380px; height: 32px; background-color: #FFFFFF; color: #000000; border: none; border-radius: 16px; font-family: Roboto; font-size: 14px; font-weight: 500; text-align: center;\">Show All</button>\n</div>"
+  ],
+  "deleted_components": [],
+  "new_components": [
+    ("<button id=\"show-all\" style=\"position: absolute; top: 760px; left: 16px; width: 380px; height: 32px; background-color: #FFFFFF; color: #000000; border: none; border-radius: 16px; font-family: Roboto; font-size: 14px; font-weight: 500; text-align: center;\">Show All</button>", "57805:16451")
+  ]
+}

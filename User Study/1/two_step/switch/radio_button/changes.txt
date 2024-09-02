@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The radio buttons for language selection are nested within a parent container that is not clearly visible, which makes it ambiguous which options are grouped together. 2. There is no preselected option for the radio buttons, which can create confusion for the user.",
+  "changes": "1. Ensure that the parent container for the radio buttons is clearly visible and properly groups the options together. 2. Preselect an option for the radio buttons to indicate the current selection.",
+  "guideline_request": "radio buttons",
+  "example_request": "list with radio buttons"
+}
+```

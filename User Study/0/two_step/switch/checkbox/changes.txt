@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. Incorrect use of checkboxes: The checkboxes are used for selecting email frequency options (Daily, Weekly, Monthly). Since these are mutually exclusive options, using radio buttons would be more appropriate."
+  ],
+  "changes": [
+    "1. Replace the checkboxes with radio buttons, ensuring that only one option can be selected at a time."
+  ],
+  "guideline_request": "radio button",
+  "example_request": "selected radio button, unselected radio button"
+}
+```

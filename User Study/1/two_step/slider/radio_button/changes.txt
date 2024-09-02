@@ -1,0 +1,6 @@
+{
+  "violations": "1. The radio buttons are placed in a vertical list, but there is no preselected option. Material Design 3 guidelines state that there should always be a preselected option when using radio buttons. 2. The radio buttons are placed in a horizontal list. Material Design 3 guidelines recommend avoiding horizontal lists for radio buttons as it can make it hard to tell which label belongs to which button.",
+  "changes": "1. Ensure that one of the radio buttons is preselected by default. 2. Change the layout of the radio buttons to a vertical list to make it clearer which label belongs to which button.",
+  "guideline_request": "radio buttons",
+  "example_request": "vertical list with radio buttons"
+}

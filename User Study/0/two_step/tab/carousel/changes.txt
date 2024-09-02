@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Carousel items too small: The items in the carousels have a width of 218px, which might be too small for some content, especially if it includes text or detailed images.",
+    "2. Carousel items are repetitive: The carousels have identical items, which might not provide a varied browsing experience for the user."
+  ],
+  "changes": [
+    "1. Increase the width of the carousel items to ensure that they are large enough to clearly display content, especially if it includes text or detailed images. Consider increasing the width to around 300px or more.",
+    "2. Ensure that the carousel items have varied content to provide a more engaging and useful browsing experience for the user."
+  ],
+  "guideline_request": "carousel item width, carousel content variety",
+  "example_request": "multi-browse-carousel, hero-carousel"
+}
+```

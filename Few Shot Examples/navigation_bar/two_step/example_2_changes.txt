@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The label text for 'Start Activity' spans two lines, while the labels for other segments span one line. This inconsistency can make the navigation bar look unbalanced and may affect readability.",
+      "guideline": "Destination labels in a navigation bar should not wrap lines, be shrunk, or be truncated."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Shorten the label text for 'Start Activity' so that it fits on one line like the other labels, or use a more concise label."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with labeled segments"
+}
+```

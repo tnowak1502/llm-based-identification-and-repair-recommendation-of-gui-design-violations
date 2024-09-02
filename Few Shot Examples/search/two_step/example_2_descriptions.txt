@@ -1,0 +1,86 @@
+Sure, here are the natural-language descriptions of the search components based on the provided HTML code snippets:
+
+### Light Mode Search Bar
+1. **Type**: Standard Search Bar
+   - **ID**: `55719:34331`
+   - **Color**: Light greenish (#E5EAE1FF)
+   - **Size**: Width: 360px, Height: 56px
+   - **Shape**: Rounded corners with a border-radius of 28px
+   - **Position**: Absolute, Top: 0px, Left: 0px
+   - **Function**: Input for search queries, includes leading icon, supporting text, and trailing elements
+   - **Additional Attributes**: 
+     - **Leading Icon**: Positioned at 4px from the top and left, size 48x48px
+     - **Supporting Text**: Positioned at 56px from the left, size 200x48px
+     - **Trailing Elements**: Positioned at 260px from the left, containing icons and avatars
+
+2. **Type**: Dark Mode Search Bar
+   - **ID**: `55719:34331`
+   - **Color**: Dark greenish (#262B26FF)
+   - **Size**: Width: 360px, Height: 56px
+   - **Shape**: Rounded corners with a border-radius of 28px
+   - **Position**: Absolute, Top: 0px, Left: 0px
+   - **Function**: Input for search queries, includes leading icon, supporting text, and trailing elements
+   - **Additional Attributes**: 
+     - **Leading Icon**: Positioned at 4px from the top and left, size 48x48px
+     - **Supporting Text**: Positioned at 56px from the left, size 200x48px
+     - **Trailing Elements**: Positioned at 260px from the left, containing icons and avatars
+
+### Light Mode Full-Screen Search View
+3. **Type**: Full-Screen Search View
+   - **ID**: `55719:34331`
+   - **Color**: Light greenish (#E5EAE1FF)
+   - **Size**: Width: 412px, Height: 289px
+   - **Shape**: Rectangular with rounded top corners
+   - **Position**: Absolute, Top: 0px, Left: 0px
+   - **Function**: Expanded search interface, includes a header with icons and input text, a divider, and a list of search items
+   - **Additional Attributes**: 
+     - **Header**: Width: 412px, Height: 72px
+     - **Input Text**: Positioned at 56px from the left, size 300x24px
+     - **Divider**: Positioned at 72px from the top, width: 412px, height: 1px
+     - **List Items**: Three items, each 72px in height, positioned below the divider
+
+4. **Type**: Dark Mode Full-Screen Search View
+   - **ID**: `55719:34331`
+   - **Color**: Dark greenish (#262B26FF)
+   - **Size**: Width: 412px, Height: 289px
+   - **Shape**: Rectangular with rounded top corners
+   - **Position**: Absolute, Top: 0px, Left: 0px
+   - **Function**: Expanded search interface, includes a header with icons and input text, a divider, and a list of search items
+   - **Additional Attributes**: 
+     - **Header**: Width: 412px, Height: 72px
+     - **Input Text**: Positioned at 56px from the left, size 300x24px
+     - **Divider**: Positioned at 72px from the top, width: 412px, height: 1px
+     - **List Items**: Three items, each 72px in height, positioned below the divider
+
+### Light Mode Modal Search View
+5. **Type**: Modal Search View
+   - **ID**: `55719:34331`
+   - **Color**: Light greenish (#E5EAE1FF)
+   - **Size**: Width: 360px, Height: 273px
+   - **Shape**: Rectangular with rounded corners
+   - **Position**: Absolute, Top: 0px, Left: 0px
+   - **Function**: Modal search interface, includes a header with icons and input text, a divider, and a list of search items
+   - **Additional Attributes**: 
+     - **Header**: Width: 360px, Height: 56px
+     - **Input Text**: Positioned at 56px from the left, size 248x48px
+     - **Divider**: Positioned at 56px from the top, width: 360px, height: 1px
+     - **List Items**: Three items, each 72px in height, positioned below the divider
+
+6. **Type**: Dark Mode Modal Search View
+   - **ID**: `55719:34331`
+   - **Color**: Dark greenish (#262B26FF)
+   - **Size**: Width: 360px, Height: 273px
+   - **Shape**: Rectangular with rounded corners
+   - **Position**: Absolute, Top: 0px, Left: 0px
+   - **Function**: Modal search interface, includes a header with icons and input text, a divider, and a list of search items
+   - **Additional Attributes**: 
+     - **Header**: Width: 360px, Height: 56px
+     - **Input Text**: Positioned at 56px from the left, size 248x48px
+     - **Divider**: Positioned at 56px from the top, width: 360px, height: 1px
+     - **List Items**: Three items, each 72px in height, positioned below the divider
+
+### Image Description:
+The image depicts a mobile interface in light mode with the following components:
+- A search bar at the top with a microphone icon on the left, placeholder text "Nach Apps und Spielen suchen" (Search for apps and games), and a close icon on the right.
+- Below the search bar, there is a list of four previous searches, each with a clock icon on the left, the text "old search", and an arrow icon on the right.
+- The background color of the interface is a light greenish tone, consistent with the color #E5EAE1FF.

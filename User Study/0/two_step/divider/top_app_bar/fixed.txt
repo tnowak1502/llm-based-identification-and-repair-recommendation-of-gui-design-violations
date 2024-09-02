@@ -1,0 +1,9 @@
+```json
+{
+  "changed_components": [
+    "<div class='headline' id='I57811:37184;50717:9089' style='position: absolute; top: 18px; left: 58px; width: 351px; height: 28px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 22px; font-weight: 700; letter-spacing: 0px; color: #181D18FF; line-height: 28px; justify-content: center; align-items: center;'>RENT BIKES</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

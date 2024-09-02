@@ -1,0 +1,108 @@
+Based on the provided code snippets and the image, here is a detailed description of the navigation drawer for a mobile user interface:
+
+### General Description:
+- **Type**: Navigation Drawer
+- **Mode**: Light Mode (standard mode)
+- **Color**: The primary background color is a light greenish (#F1F5EDFF).
+- **Position**: The drawer is positioned absolutely at the top-left corner of the screen (top: 0px; left: 0px).
+- **Size**: The drawer has a width of 360px and a height of 804px.
+- **Shape**: The drawer has rounded corners with a border-radius of 16px.
+
+### Detailed Elements:
+
+1. **Profile Section**:
+   - **ID**: `55380:779`
+   - **Position**: Absolute (top: 12px; left: 12px)
+   - **Size**: Width of 336px and height of 208px.
+   - **Attributes**: Contains a circular profile icon (`Ellipse-4`), balance information (`Balance: 0.00 $`), and a phone number (`Number: +1234567890123`).
+   - **Background-color**: Light gray for the profile icon (#D9D9D9FF).
+   - **Opacity**: 1 (fully opaque).
+   - **Font**: Roboto with varying sizes and weights.
+
+2. **Navigation Items**:
+   - **Shape**: Rounded corners with a border-radius of 100px.
+   - **Text Color**: Dark gray (#414941FF).
+   - **Icons**: Each item has an associated icon (SVG paths provided in the code).
+
+   **Nav-item-1 (Renting History)**:
+   - **ID**: `55380:783`
+   - **Position**: Absolute (top: 220px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Clock icon.
+   - **Label**: "Renting History"
+   - **Config**: Inactive
+
+   **Nav-item-2 (Inbox)**:
+   - **ID**: `55380:784`
+   - **Position**: Absolute (top: 276px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Envelope icon.
+   - **Label**: "Inbox" with a badge label "100+"
+   - **Config**: Inactive
+
+   **Nav-item-3 (Wallet)**:
+   - **ID**: `55380:785`
+   - **Position**: Absolute (top: 332px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Envelope icon.
+   - **Label**: "Wallet"
+   - **Config**: Inactive
+
+   **Nav-item-4 (Coupons)**:
+   - **ID**: `55380:786`
+   - **Position**: Absolute (top: 388px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Envelope icon.
+   - **Label**: "Coupons"
+   - **Config**: Inactive
+
+   **Nav-item-5 (Pricing)**:
+   - **ID**: `55380:788`
+   - **Position**: Absolute (top: 444px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Envelope icon.
+   - **Label**: "Pricing"
+   - **Config**: Inactive
+
+   **Nav-item-6 (User Agreement)**:
+   - **ID**: `55380:789`
+   - **Position**: Absolute (top: 500px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Square icon.
+   - **Label**: "User Agreement"
+   - **Config**: Inactive
+
+   **Nav-item-7 (Privacy)**:
+   - **ID**: `55380:790`
+   - **Position**: Absolute (top: 556px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Circle icon.
+   - **Label**: "Privacy"
+   - **Config**: Inactive
+
+   **Nav-item-8 (Support)**:
+   - **ID**: `55380:792`
+   - **Position**: Absolute (top: 612px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Envelope icon.
+   - **Label**: "Support"
+   - **Config**: Inactive
+
+   **Nav-item-9 (Account Settings)**:
+   - **ID**: `55380:793`
+   - **Position**: Absolute (top: 668px; left: 12px)
+   - **Size**: Width of 336px and height of 56px.
+   - **Icon**: Gear icon.
+   - **Label**: "Account Settings"
+   - **Config**: Inactive
+
+### Likely Function:
+The navigation drawer is designed to provide users with quick access to various sections of the application, such as account balance, renting history, inbox, wallet, coupons, pricing, user agreement, privacy, support, and account settings.
+
+### Other Attributes:
+- **Overflow**: Hidden, ensuring no content spills outside the defined boundaries.
+- **Opacity**: 1 for all elements, ensuring full visibility.
+- **Font Family**: Roboto, with various font sizes and weights for different text elements.
+
+### Conclusion:
+The navigation drawer is well-structured, with clear sections and navigation items, making it user-friendly and intuitive. The light mode design and rounded corners give it a modern and clean aesthetic.

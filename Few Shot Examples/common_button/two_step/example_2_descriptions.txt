@@ -1,0 +1,58 @@
+Here is a detailed description of the common buttons identified in the provided HTML code snippets and the mockup image:
+
+1. **Button 1: “Abonnieren” Button**
+   - **Type:** Filled Button
+   - **ID:** 55307:4382
+   - **Color:** Background color is a light green (#99D4A2FF), label text color is dark green (#003918FF)
+   - **Size:** Width: 121px, Height: 32px
+   - **Shape:** Rounded with border-radius of 100px
+   - **Position:** 
+     - Top: 135px
+     - Left: 16px
+   - **Likely Function:** This button is likely used to subscribe to a channel or service as indicated by the label "Abonnieren" (Subscribe).
+
+2. **Button 2: “Mehr entdecken” Button**
+   - **Type:** Filled Button
+   - **ID:** 55307:4393
+   - **Color:** Background color is a light green (#99D4A2FF), label text color is dark green (#003918FF)
+   - **Size:** Width: 151px, Height: 40px
+   - **Shape:** Rounded with border-radius of 100px
+   - **Position:** 
+     - Top: 326px
+     - Left: 16px
+   - **Likely Function:** This button is likely used to navigate or discover more content as indicated by the label "Mehr entdecken" (Discover more).
+
+3. **Button 3: “Abonnieren” Button in Carousel Item 1**
+   - **Type:** Filled Button
+   - **ID:** 55307:4382
+   - **Color:** Background color is a light green (#99D4A2FF), label text color is dark green (#003918FF)
+   - **Size:** Width: 121px, Height: 32px
+   - **Shape:** Rounded with border-radius of 100px
+   - **Position:** 
+     - Top: 135px
+     - Left: 16px (Within carousel item at left position 16px)
+   - **Likely Function:** This button is likely used to subscribe to a channel or service within the carousel item as indicated by the label "Abonnieren" (Subscribe).
+
+4. **Button 4: “Abonnieren” Button in Carousel Item 2**
+   - **Type:** Filled Button
+   - **ID:** 55307:4387
+   - **Color:** Background color is a light green (#99D4A2FF), label text color is dark green (#003918FF)
+   - **Size:** Width: 121px, Height: 32px
+   - **Shape:** Rounded with border-radius of 100px
+   - **Position:** 
+     - Top: 135px
+     - Left: 16px (Within carousel item at left position 178px)
+   - **Likely Function:** This button is likely used to subscribe to a channel or service within the carousel item as indicated by the label "Abonnieren" (Subscribe).
+
+5. **Button 5: “Abonnieren” Button in Carousel Item 3**
+   - **Type:** Filled Button
+   - **ID:** 55307:4392
+   - **Color:** Background color is a light green (#99D4A2FF), label text color is dark green (#003918FF)
+   - **Size:** Width: 121px, Height: 32px
+   - **Shape:** Rounded with border-radius of 100px
+   - **Position:** 
+     - Top: 135px
+     - Left: 16px (Within carousel item at left position 340px, with border-radius adjusted for the last item)
+   - **Likely Function:** This button is likely used to subscribe to a channel or service within the carousel item as indicated by the label "Abonnieren" (Subscribe).
+
+These buttons are part of a mobile user interface mockup, and their design, color scheme, and placement are consistent with the dark theme of the application.

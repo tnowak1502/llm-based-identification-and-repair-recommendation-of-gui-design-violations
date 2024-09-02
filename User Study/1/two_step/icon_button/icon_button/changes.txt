@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Button Weights: The icon buttons used in the side panel (like, comment, and share icons) have different weights. According to the Material Design 3 guidelines, icons in the same component should have the same weight. This inconsistency can cause visual imbalance and confusion. (Severity: High)",
+    "2. Ambiguous Clickable Areas: The side panel contains both icons and text (e.g., '100'). It is not clear whether the text is also clickable or only the icons are. This ambiguity can confuse users about what elements can be interacted with. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the weight of all icons in the side panel to ensure visual consistency. Choose either all filled or all outlined icons for uniformity.",
+    "2. Clarify the clickable areas by either separating the text from the icons or making the entire component (icon + text) clickable. This will make it clear to users which parts of the UI can be interacted with."
+  ],
+  "guideline_request": "Icon button weights, Clickable areas clarity",
+  "example_request": "icon buttons, clickable areas"
+}

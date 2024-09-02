@@ -1,0 +1,30 @@
+```json
+{
+  "violations": [
+    {
+      "issue": "Menu item labels missing",
+      "description": "The menu items do not contain any text labels, making it unclear what each menu item represents. According to Material Design 3 guidelines, information should be succinct, unambiguous, and not repetitive.",
+      "severity": "High",
+      "reason": "Text labels are crucial for user understanding and navigation. Without them, users cannot determine the purpose of each menu item."
+    },
+    {
+      "issue": "Menu item color inconsistency",
+      "description": "The menu items have different background colors (white, black, blue, and gray). According to Material Design 3 guidelines, elements that belong together should be grouped using similarity in color, shape, size, etc.",
+      "severity": "Medium",
+      "reason": "Consistent background colors help users understand that the items are part of the same menu and provide a uniform appearance."
+    }
+  ],
+  "changes": [
+    {
+      "change": "Menu item labels",
+      "description": "Add appropriate text labels to each menu item to clearly indicate their purpose."
+    },
+    {
+      "change": "Menu item color consistency",
+      "description": "Ensure all menu items have a consistent background color to visually group them together."
+    }
+  ],
+  "guideline_request": "menu item labels, menu item color consistency",
+  "example_request": "menu with labels, menu with consistent colors"
+}
+```

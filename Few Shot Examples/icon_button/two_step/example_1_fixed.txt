@@ -1,0 +1,32 @@
+{
+  "changed_components": [
+    "<div class = 'Icon-button' id = 'I55766:20908;52350:27750' config='tonal' style='position: absolute; top: 8px; left: 308px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'container' id = 'I55734:21582;52350:27750;51525:5179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #D3E8D2FF; border-radius: 100px; '>
+                      <div class = 'state-layer' id = 'I55734:21582;52350:27750;51525:5180' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                        <div class = 'Icon' id = 'I55734:21582;52350:27750;51525:5181' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                          <div class='icon' id='I55734:21582;52350:27750;51525:5181;50755:11570' style='position: absolute; top: 2.5px; left: 2px; width: 20px; height: 19.0px;'>
+                            <svg height = '19.0px' width = '20px' xmlns = 'http://www.w3.org/2000/svg'>
+                              <path d='M 20 7.239999771118164 L 12.8100004196167 6.619999885559082 L 10 0 L 7.189999580383301 6.630000114440918 L 0 7.239999771118164 L 5.460000038146973 11.970000267028809 L 3.820000171661377 19 L 10 15.270000457763672 L 16.18000030517578 19 L 14.549999237060547 11.970000267028809 L 20 7.239999771118164 Z M 10 13.399999618530273 L 6.239999771118164 15.670000076293945 L 7.239999771118164 11.390000343322754 L 3.9200000762939453 8.510000228881836 L 8.300000190734863 8.130000114440918 L 10 4.099999904632568 L 11.710000038146973 8.140000343322754 L 16.09000015258789 8.520000457763672 L 12.770000457763672 11.399999618530273 L 13.770000457763672 15.680000305175781 L 10 13.399999618530273 Z' style='fill: #0E1F12FF;'/>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>",
+    "<div class = 'Icon-button' id = 'I55766:20909;52350:27750' config='tonal' style='position: absolute; top: 8px; left: 308px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class = 'container' id = 'I55734:21605;52350:27750;51525:5179' style='position: absolute; top: 4px; left: 4px; width: 40px; height: 40px; overflow: hidden; opacity: 1; background-color: #D3E8D2FF; border-radius: 100px; '>
+                      <div class = 'state-layer' id = 'I55734:21605;52350:27750;51525:5180' style='position: absolute; top: 0px; left: 0px; width: 40px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                        <div class = 'Icon' id = 'I55734:21605;52350:27750;51525:5181' style='position: absolute; top: 8px; left: 8px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                          <div class='icon' id='I55734:21605;52350:27750;51525:5181;50755:11570' style='position: absolute; top: 2.5px; left: 2px; width: 20px; height: 19.0px;'>
+                            <svg height = '19.0px' width = '20px' xmlns = 'http://www.w3.org/2000/svg'>
+                              <path d='M 20 7.239999771118164 L 12.8100004196167 6.619999885559082 L 10 0 L 7.189999580383301 6.630000114440918 L 0 7.239999771118164 L 5.460000038146973 11.970000267028809 L 3.820000171661377 19 L 10 15.270000457763672 L 16.18000030517578 19 L 14.549999237060547 11.970000267028809 L 20 7.239999771118164 Z M 10 13.399999618530273 L 6.239999771118164 15.670000076293945 L 7.239999771118164 11.390000343322754 L 3.9200000762939453 8.510000228881836 L 8.300000190734863 8.130000114440918 L 10 4.099999904632568 L 11.710000038146973 8.140000343322754 L 16.09000015258789 8.520000457763672 L 12.770000457763672 11.399999618530273 L 13.770000457763672 15.680000305175781 L 10 13.399999618530273 Z' style='fill: #0E1F12FF;'/>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

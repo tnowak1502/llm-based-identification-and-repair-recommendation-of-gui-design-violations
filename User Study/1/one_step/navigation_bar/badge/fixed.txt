@@ -1,0 +1,9 @@
+{
+  "violations": "1. The badge's background color (#FFB4ABFF) is a light pink color that might not provide enough contrast with the underlying icon or its surroundings, potentially making the badge difficult to notice. According to the Material Design 3 Guidelines, badges should have a contrasting color that sticks out from the icon and its surroundings.",
+  "changes": "1. Change the badge background color to a more contrasting color that stands out against the icon and its surroundings. For example, using a brighter or more vibrant color can make the badge more noticeable and comply with the Material Design 3 Guidelines.",
+  "changed_components": [
+    "<div class = 'Badge-dark' id = 'I57804:6415;52031:23845;52031:22767' config='Large' style='position: absolute; top: 2px; left: 16px; width: 16px; height: 16px; overflow: hidden; opacity: 1; background-color: #BA1A1AFF; border-radius: 100px; '><div class = 'Badge-label' id = 'I57804:6415;52031:23845;52031:22767;51592:4778' style='position: absolute; top: 0px; left: 4.5px; width: 8.0px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 11px; font-weight: 500; letter-spacing: 0.5px; color: #FFFFFFFF; line-height: 16px; justify-content: center; align-items: center;'>3</div></div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

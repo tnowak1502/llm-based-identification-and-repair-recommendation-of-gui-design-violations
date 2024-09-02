@@ -1,0 +1,1873 @@
+{
+    "type": "FRAME",
+    "id": "55718:32968",
+    "name": "Frame 1",
+    "x": 0,
+    "y": 0,
+    "width": 412,
+    "height": 64,
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "cornerRadius": 0,
+    "cornerSmoothing": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "fillStyleId": "",
+    "strokeStyleId": "",
+    "strokeWeight": 1,
+    "strokeTopWeight": 1,
+    "strokeBottomWeight": 1,
+    "strokeLeftWeight": 1,
+    "strokeRightWeight": 1,
+    "strokeJoin": "MITER",
+    "strokeAlign": "INSIDE",
+    "dashPattern": [],
+    "strokeCap": "NONE",
+    "strokeMiterLimit": 4,
+    "rotation": 0,
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutPositioning": "AUTO",
+    "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+    },
+    "exportSettings": [],
+    "relativeTransform": [
+        [
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0
+        ]
+    ],
+    "absoluteRenderBounds": {
+        "x": 0,
+        "y": 0,
+        "width": 412,
+        "height": 64
+    },
+    "fillGeometry": [
+        {
+            "windingRule": "NONZERO",
+            "data": "M0 0 L412 0 L412 64 L0 64 L0 0 Z"
+        }
+    ],
+    "guides": [],
+    "fills": [],
+    "strokes": [],
+    "effects": [],
+    "children": [
+        {
+            "type": "INSTANCE",
+            "id": "55719:34331",
+            "name": "Top app bar",
+            "x": 0,
+            "y": 0,
+            "width": 412,
+            "height": 64,
+            "visible": true,
+            "locked": false,
+            "mainComponentId": "50717:9087",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "fillStyleId": "S:e0980b03d5258d20c0c44e9a4805993f0cb4ed66,",
+            "strokeStyleId": "",
+            "strokeWeight": 0,
+            "strokeTopWeight": 0,
+            "strokeBottomWeight": 0,
+            "strokeLeftWeight": 0,
+            "strokeRightWeight": 0,
+            "strokeJoin": "MITER",
+            "strokeAlign": "CENTER",
+            "dashPattern": [],
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "rotation": 0,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+            },
+            "exportSettings": [],
+            "relativeTransform": [
+                [
+                    1,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            "absoluteRenderBounds": {
+                "x": 0,
+                "y": 0,
+                "width": 412,
+                "height": 64
+            },
+            "fillGeometry": [
+                {
+                    "windingRule": "NONZERO",
+                    "data": "M0 0 L412 0 L412 64 L0 64 L0 0 Z"
+                }
+            ],
+            "guides": [],
+            "componentProperties": {
+                "Headline#52999:1265": {
+                    "value": "Title",
+                    "type": "TEXT"
+                },
+                "Show 2nd trailing icon#52999:1301": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                },
+                "Show 1st trailing icon#52999:1283": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                },
+                "Show 3rd trailing icon#52999:1292": {
+                    "value": true,
+                    "type": "BOOLEAN"
+                },
+                "Configuration": {
+                    "value": "small-centered",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                },
+                "Elevation": {
+                    "value": "flat",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                }
+            },
+            "scaleFactor": 1,
+            "fills": [
+                {
+                    "type": "SOLID",
+                    "visible": true,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "color": {
+                        "r": 0.9647058844566345,
+                        "g": 0.9843137264251709,
+                        "b": 0.9490196108818054
+                    },
+                    "boundVariables": {}
+                }
+            ],
+            "strokes": [],
+            "effects": [],
+            "children": [
+                {
+                    "type": "INSTANCE",
+                    "id": "I55719:34331;51636:5758",
+                    "name": "leading-icon",
+                    "x": 4,
+                    "y": 8,
+                    "width": 48,
+                    "height": 48,
+                    "visible": true,
+                    "locked": false,
+                    "mainComponentId": "51525:5218",
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "cornerRadius": 0,
+                    "cornerSmoothing": 0,
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "fillStyleId": "",
+                    "strokeStyleId": "",
+                    "strokeWeight": 1,
+                    "strokeTopWeight": 1,
+                    "strokeBottomWeight": 1,
+                    "strokeLeftWeight": 1,
+                    "strokeRightWeight": 1,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutGrow": 0,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "MIN",
+                        "vertical": "MIN"
+                    },
+                    "exportSettings": [],
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            4
+                        ],
+                        [
+                            0,
+                            1,
+                            8
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 4,
+                        "y": 8,
+                        "width": 48,
+                        "height": 48
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M0 0 L48 0 L48 48 L0 48 L0 0 Z"
+                        }
+                    ],
+                    "guides": [],
+                    "componentProperties": {
+                        "Icon#52081:6": {
+                            "value": "50656:8979",
+                            "type": "INSTANCE_SWAP",
+                            "preferredValues": []
+                        },
+                        "Style": {
+                            "value": "standard",
+                            "type": "VARIANT",
+                            "boundVariables": {}
+                        },
+                        "State": {
+                            "value": "enabled",
+                            "type": "VARIANT",
+                            "boundVariables": {}
+                        }
+                    },
+                    "scaleFactor": 1,
+                    "fills": [],
+                    "strokes": [],
+                    "effects": [],
+                    "children": [
+                        {
+                            "type": "FRAME",
+                            "id": "I55719:34331;51636:5758;51525:5219",
+                            "name": "container",
+                            "x": 4,
+                            "y": 4,
+                            "width": 40,
+                            "height": 40,
+                            "visible": true,
+                            "locked": false,
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 100,
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 100,
+                            "topRightRadius": 100,
+                            "bottomLeftRadius": 100,
+                            "bottomRightRadius": 100,
+                            "fillStyleId": "",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "AUTO",
+                            "constraints": {
+                                "horizontal": "MIN",
+                                "vertical": "MIN"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    4
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    4
+                                ]
+                            ],
+                            "absoluteRenderBounds": {
+                                "x": 8,
+                                "y": 12,
+                                "width": 40,
+                                "height": 40
+                            },
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 20 C0 8.95431 8.95431 0 20 0 L20 0 C31.0457 0 40 8.95431 40 20 L40 20 C40 31.0457 31.0457 40 20 40 L20 40 C8.95431 40 0 31.0457 0 20 L0 20 Z"
+                                }
+                            ],
+                            "guides": [],
+                            "fills": [],
+                            "strokes": [],
+                            "effects": [],
+                            "children": [
+                                {
+                                    "type": "FRAME",
+                                    "id": "I55719:34331;51636:5758;51525:5220",
+                                    "name": "state-layer",
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 40,
+                                    "height": 40,
+                                    "visible": true,
+                                    "locked": false,
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": 0,
+                                    "cornerSmoothing": 0,
+                                    "topLeftRadius": 0,
+                                    "topRightRadius": 0,
+                                    "bottomLeftRadius": 0,
+                                    "bottomRightRadius": 0,
+                                    "fillStyleId": "",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeTopWeight": 1,
+                                    "strokeBottomWeight": 1,
+                                    "strokeLeftWeight": 1,
+                                    "strokeRightWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "INHERIT",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "AUTO",
+                                    "constraints": {
+                                        "horizontal": "MIN",
+                                        "vertical": "MIN"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": {
+                                        "x": 8,
+                                        "y": 12,
+                                        "width": 40,
+                                        "height": 40
+                                    },
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M0 0 L40 0 L40 40 L0 40 L0 0 Z"
+                                        }
+                                    ],
+                                    "guides": [],
+                                    "fills": [
+                                        {
+                                            "type": "SOLID",
+                                            "visible": false,
+                                            "opacity": 1,
+                                            "blendMode": "NORMAL",
+                                            "color": {
+                                                "r": 1,
+                                                "g": 1,
+                                                "b": 1
+                                            },
+                                            "boundVariables": {}
+                                        }
+                                    ],
+                                    "strokes": [],
+                                    "effects": [],
+                                    "children": [
+                                        {
+                                            "type": "INSTANCE",
+                                            "id": "I55719:34331;51636:5758;51525:5221",
+                                            "name": "Icons/menu_24px",
+                                            "x": 8,
+                                            "y": 8,
+                                            "width": 24,
+                                            "height": 24,
+                                            "visible": true,
+                                            "locked": false,
+                                            "mainComponentId": "50656:8979",
+                                            "opacity": 1,
+                                            "blendMode": "PASS_THROUGH",
+                                            "isMask": false,
+                                            "cornerRadius": 0,
+                                            "cornerSmoothing": 0,
+                                            "topLeftRadius": 0,
+                                            "topRightRadius": 0,
+                                            "bottomLeftRadius": 0,
+                                            "bottomRightRadius": 0,
+                                            "fillStyleId": "",
+                                            "strokeStyleId": "",
+                                            "strokeWeight": 1,
+                                            "strokeTopWeight": 1,
+                                            "strokeBottomWeight": 1,
+                                            "strokeLeftWeight": 1,
+                                            "strokeRightWeight": 1,
+                                            "strokeJoin": "MITER",
+                                            "strokeAlign": "INSIDE",
+                                            "dashPattern": [],
+                                            "strokeCap": "NONE",
+                                            "strokeMiterLimit": 4,
+                                            "rotation": 0,
+                                            "layoutAlign": "INHERIT",
+                                            "layoutGrow": 0,
+                                            "layoutPositioning": "AUTO",
+                                            "constraints": {
+                                                "horizontal": "SCALE",
+                                                "vertical": "SCALE"
+                                            },
+                                            "exportSettings": [],
+                                            "relativeTransform": [
+                                                [
+                                                    1,
+                                                    0,
+                                                    8
+                                                ],
+                                                [
+                                                    0,
+                                                    1,
+                                                    8
+                                                ]
+                                            ],
+                                            "absoluteRenderBounds": {
+                                                "x": 16,
+                                                "y": 20,
+                                                "width": 24,
+                                                "height": 24
+                                            },
+                                            "fillGeometry": [
+                                                {
+                                                    "windingRule": "NONZERO",
+                                                    "data": "M0 0 L24 0 L24 24 L0 24 L0 0 Z"
+                                                }
+                                            ],
+                                            "guides": [],
+                                            "componentProperties": {},
+                                            "scaleFactor": 1,
+                                            "fills": [],
+                                            "strokes": [],
+                                            "effects": [],
+                                            "children": [
+                                                {
+                                                    "type": "VECTOR",
+                                                    "id": "I55719:34331;51636:5758;51525:5221;50656:8978",
+                                                    "name": "icon",
+                                                    "x": 3,
+                                                    "y": 6,
+                                                    "width": 18,
+                                                    "height": 12,
+                                                    "visible": true,
+                                                    "locked": false,
+                                                    "vectorPaths": [
+                                                        {
+                                                            "windingRule": "EVENODD",
+                                                            "data": "M 0 2 L 0 0 L 18 0 L 18 2 L 0 2 Z M 0 7 L 18 7 L 18 5 L 0 5 L 0 7 Z M 0 12 L 18 12 L 18 10 L 0 10 L 0 12 Z"
+                                                        }
+                                                    ],
+                                                    "opacity": 1,
+                                                    "blendMode": "PASS_THROUGH",
+                                                    "isMask": false,
+                                                    "cornerRadius": 0,
+                                                    "cornerSmoothing": 0,
+                                                    "fillStyleId": "S:c7899e52fe0864bb18aebb3aa0e2ba9a38d5eae1,",
+                                                    "strokeStyleId": "",
+                                                    "strokeWeight": 0,
+                                                    "strokeJoin": "MITER",
+                                                    "strokeAlign": "CENTER",
+                                                    "dashPattern": [],
+                                                    "strokeCap": "NONE",
+                                                    "strokeMiterLimit": 4,
+                                                    "rotation": 0,
+                                                    "layoutAlign": "INHERIT",
+                                                    "layoutGrow": 0,
+                                                    "layoutPositioning": "AUTO",
+                                                    "constraints": {
+                                                        "horizontal": "SCALE",
+                                                        "vertical": "SCALE"
+                                                    },
+                                                    "exportSettings": [],
+                                                    "vectorNetwork": {
+                                                        "regions": [
+                                                            {
+                                                                "windingRule": "EVENODD",
+                                                                "loops": [
+                                                                    [
+                                                                        0,
+                                                                        1,
+                                                                        2,
+                                                                        3
+                                                                    ],
+                                                                    [
+                                                                        4,
+                                                                        5,
+                                                                        6,
+                                                                        7
+                                                                    ],
+                                                                    [
+                                                                        8,
+                                                                        9,
+                                                                        10,
+                                                                        11
+                                                                    ]
+                                                                ],
+                                                                "fills": [
+                                                                    {
+                                                                        "type": "SOLID",
+                                                                        "visible": true,
+                                                                        "opacity": 1,
+                                                                        "blendMode": "NORMAL",
+                                                                        "color": {
+                                                                            "r": 0.0941176488995552,
+                                                                            "g": 0.11372549086809158,
+                                                                            "b": 0.0941176488995552
+                                                                        },
+                                                                        "boundVariables": {}
+                                                                    }
+                                                                ],
+                                                                "fillStyleId": "S:c7899e52fe0864bb18aebb3aa0e2ba9a38d5eae1,"
+                                                            }
+                                                        ],
+                                                        "segments": [
+                                                            {
+                                                                "start": 0,
+                                                                "end": 1,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 1,
+                                                                "end": 2,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 2,
+                                                                "end": 3,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 3,
+                                                                "end": 0,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 4,
+                                                                "end": 5,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 5,
+                                                                "end": 6,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 6,
+                                                                "end": 7,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 7,
+                                                                "end": 4,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 8,
+                                                                "end": 9,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 9,
+                                                                "end": 10,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 10,
+                                                                "end": 11,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 11,
+                                                                "end": 8,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 0
+                                                                }
+                                                            }
+                                                        ],
+                                                        "vertices": [
+                                                            {
+                                                                "x": 0,
+                                                                "y": 2,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 0,
+                                                                "y": 0,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 18,
+                                                                "y": 0,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 18,
+                                                                "y": 2,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 0,
+                                                                "y": 7,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 18,
+                                                                "y": 7,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 18,
+                                                                "y": 5,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 0,
+                                                                "y": 5,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 0,
+                                                                "y": 12,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 18,
+                                                                "y": 12,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 18,
+                                                                "y": 10,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 0,
+                                                                "y": 10,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "relativeTransform": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            3
+                                                        ],
+                                                        [
+                                                            0,
+                                                            1,
+                                                            6
+                                                        ]
+                                                    ],
+                                                    "absoluteRenderBounds": {
+                                                        "x": 19,
+                                                        "y": 26,
+                                                        "width": 18,
+                                                        "height": 12
+                                                    },
+                                                    "fillGeometry": [
+                                                        {
+                                                            "windingRule": "EVENODD",
+                                                            "data": "M0 2 L0 0 L18 0 L18 2 L0 2 Z M0 7 L18 7 L18 5 L0 5 L0 7 Z M0 12 L18 12 L18 10 L0 10 L0 12 Z"
+                                                        }
+                                                    ],
+                                                    "fills": [
+                                                        {
+                                                            "type": "SOLID",
+                                                            "visible": true,
+                                                            "opacity": 1,
+                                                            "blendMode": "NORMAL",
+                                                            "color": {
+                                                                "r": 0.0941176488995552,
+                                                                "g": 0.11372549086809158,
+                                                                "b": 0.0941176488995552
+                                                            },
+                                                            "boundVariables": {}
+                                                        }
+                                                    ],
+                                                    "strokes": [],
+                                                    "effects": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "TEXT",
+                    "id": "I55719:34331;50717:9089",
+                    "name": "headline",
+                    "x": 58,
+                    "y": 18,
+                    "width": 296,
+                    "height": 28,
+                    "visible": true,
+                    "locked": false,
+                    "rangeAllFontNames": [
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Regular"
+                            }
+                        ],
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Regular"
+                            }
+                        ],
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Regular"
+                            }
+                        ],
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Regular"
+                            }
+                        ],
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Regular"
+                            }
+                        ],
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Regular"
+                            }
+                        ],
+                        [
+                            {
+                                "family": "Roboto",
+                                "style": "Regular"
+                            }
+                        ]
+                    ],
+                    "rangeFontSize": [
+                        22,
+                        22,
+                        22,
+                        22,
+                        22,
+                        22,
+                        22
+                    ],
+                    "rangeFills": [
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.11372549086809158,
+                                    "b": 0.0941176488995552
+                                },
+                                "boundVariables": {}
+                            }
+                        ],
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.11372549086809158,
+                                    "b": 0.0941176488995552
+                                },
+                                "boundVariables": {}
+                            }
+                        ],
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.11372549086809158,
+                                    "b": 0.0941176488995552
+                                },
+                                "boundVariables": {}
+                            }
+                        ],
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.11372549086809158,
+                                    "b": 0.0941176488995552
+                                },
+                                "boundVariables": {}
+                            }
+                        ],
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.11372549086809158,
+                                    "b": 0.0941176488995552
+                                },
+                                "boundVariables": {}
+                            }
+                        ],
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.11372549086809158,
+                                    "b": 0.0941176488995552
+                                },
+                                "boundVariables": {}
+                            }
+                        ],
+                        [
+                            {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0.0941176488995552,
+                                    "g": 0.11372549086809158,
+                                    "b": 0.0941176488995552
+                                },
+                                "boundVariables": {}
+                            }
+                        ]
+                    ],
+                    "rangeLineHeight": [
+                        {
+                            "unit": "PIXELS",
+                            "value": 28
+                        },
+                        {
+                            "unit": "PIXELS",
+                            "value": 28
+                        },
+                        {
+                            "unit": "PIXELS",
+                            "value": 28
+                        },
+                        {
+                            "unit": "PIXELS",
+                            "value": 28
+                        },
+                        {
+                            "unit": "PIXELS",
+                            "value": 28
+                        },
+                        {
+                            "unit": "PIXELS",
+                            "value": 28
+                        },
+                        {
+                            "unit": "PIXELS",
+                            "value": 28
+                        }
+                    ],
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "fillStyleId": "S:c7899e52fe0864bb18aebb3aa0e2ba9a38d5eae1,",
+                    "strokeStyleId": "",
+                    "strokeWeight": 0,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "CENTER",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutGrow": 1,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "STRETCH",
+                        "vertical": "MAX"
+                    },
+                    "exportSettings": [],
+                    "characters": "Product",
+                    "textAlignHorizontal": "CENTER",
+                    "textAlignVertical": "TOP",
+                    "textAutoResize": "HEIGHT",
+                    "paragraphIndent": 0,
+                    "paragraphSpacing": 0,
+                    "autoRename": false,
+                    "fontSize": 22,
+                    "fontName": {
+                        "family": "Roboto",
+                        "style": "Regular"
+                    },
+                    "textCase": "ORIGINAL",
+                    "textDecoration": "NONE",
+                    "letterSpacing": {
+                        "unit": "PIXELS",
+                        "value": 0
+                    },
+                    "lineHeight": {
+                        "unit": "PIXELS",
+                        "value": 28
+                    },
+                    "textStyleId": "S:b8b7abcfea28100cf2e5a500e790c3bdfc6999cb,",
+                    "hyperlink": null,
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            58
+                        ],
+                        [
+                            0,
+                            1,
+                            18
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 169.34765625,
+                        "y": 21.5,
+                        "width": 74.357421875,
+                        "height": 16.71484375
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M117.116 13.8662 L112.938 13.8662 L112.938 12.1797 L117.116 12.1797 C117.925 12.1797 118.581 12.0508 119.082 11.793 C119.583 11.5352 119.949 11.1771 120.178 10.7188 C120.414 10.2604 120.532 9.73763 120.532 9.15039 C120.532 8.61328 120.414 8.1084 120.178 7.63574 C119.949 7.16309 119.583 6.78353 119.082 6.49707 C118.581 6.20345 117.925 6.05664 117.116 6.05664 L113.421 6.05664 L113.421 20 L111.348 20 L111.348 4.35938 L117.116 4.35938 C118.298 4.35938 119.297 4.56348 120.113 4.97168 C120.93 5.37988 121.549 5.94564 121.972 6.66895 C122.394 7.38509 122.605 8.20508 122.605 9.12891 C122.605 10.1315 122.394 10.9873 121.972 11.6963 C121.549 12.4053 120.93 12.946 120.113 13.3184 C119.297 13.6836 118.298 13.8662 117.116 13.8662 Z M126.913 10.2031 L126.913 20 L124.926 20 L124.926 8.37695 L126.859 8.37695 L126.913 10.2031 Z M130.544 8.3125 L130.533 10.1602 C130.368 10.1243 130.211 10.1029 130.061 10.0957 C129.917 10.0814 129.753 10.0742 129.566 10.0742 C129.108 10.0742 128.703 10.1458 128.353 10.2891 C128.002 10.4323 127.704 10.6328 127.461 10.8906 C127.217 11.1484 127.024 11.4564 126.881 11.8145 C126.745 12.1654 126.655 12.5521 126.612 12.9746 L126.054 13.2969 C126.054 12.5951 126.122 11.9362 126.258 11.3203 C126.401 10.7044 126.619 10.1602 126.913 9.6875 C127.207 9.20768 127.579 8.83529 128.03 8.57031 C128.489 8.29818 129.033 8.16211 129.663 8.16211 C129.806 8.16211 129.971 8.18001 130.157 8.21582 C130.343 8.24447 130.472 8.27669 130.544 8.3125 Z M131.64 14.3174 L131.64 14.0703 C131.64 13.2324 131.761 12.4554 132.005 11.7393 C132.248 11.016 132.599 10.3893 133.058 9.85938 C133.516 9.32227 134.071 8.9069 134.723 8.61328 C135.374 8.3125 136.105 8.16211 136.914 8.16211 C137.73 8.16211 138.465 8.3125 139.116 8.61328 C139.775 8.9069 140.334 9.32227 140.792 9.85938 C141.257 10.3893 141.612 11.016 141.855 11.7393 C142.099 12.4554 142.221 13.2324 142.221 14.0703 L142.221 14.3174 C142.221 15.1553 142.099 15.9323 141.855 16.6484 C141.612 17.3646 141.257 17.9912 140.792 18.5283 C140.334 19.0583 139.779 19.4736 139.127 19.7744 C138.482 20.068 137.752 20.2148 136.936 20.2148 C136.119 20.2148 135.385 20.068 134.733 19.7744 C134.082 19.4736 133.523 19.0583 133.058 18.5283 C132.599 17.9912 132.248 17.3646 132.005 16.6484 C131.761 15.9323 131.64 15.1553 131.64 14.3174 Z M133.627 14.0703 L133.627 14.3174 C133.627 14.8975 133.695 15.4453 133.831 15.9609 C133.967 16.4694 134.171 16.9206 134.443 17.3145 C134.723 17.7083 135.07 18.0199 135.485 18.249 C135.901 18.471 136.384 18.582 136.936 18.582 C137.48 18.582 137.956 18.471 138.364 18.249 C138.78 18.0199 139.123 17.7083 139.396 17.3145 C139.668 16.9206 139.872 16.4694 140.008 15.9609 C140.151 15.4453 140.223 14.8975 140.223 14.3174 L140.223 14.0703 C140.223 13.4974 140.151 12.9567 140.008 12.4482 C139.872 11.9326 139.664 11.4779 139.385 11.084 C139.113 10.6829 138.769 10.3678 138.354 10.1387 C137.945 9.9095 137.465 9.79492 136.914 9.79492 C136.37 9.79492 135.89 9.9095 135.475 10.1387 C135.066 10.3678 134.723 10.6829 134.443 11.084 C134.171 11.4779 133.967 11.9326 133.831 12.4482 C133.695 12.9567 133.627 13.4974 133.627 14.0703 Z M152.039 17.7441 L152.039 3.5 L154.037 3.5 L154.037 20 L152.211 20 L152.039 17.7441 Z M144.219 14.3174 L144.219 14.0918 C144.219 13.2038 144.326 12.3981 144.541 11.6748 C144.763 10.9443 145.075 10.3177 145.476 9.79492 C145.884 9.27214 146.367 8.87109 146.926 8.5918 C147.492 8.30534 148.122 8.16211 148.816 8.16211 C149.547 8.16211 150.184 8.29102 150.729 8.54883 C151.28 8.79948 151.745 9.16829 152.125 9.65527 C152.512 10.1351 152.816 10.7152 153.038 11.3955 C153.26 12.0758 153.414 12.8457 153.5 13.7051 L153.5 14.6934 C153.421 15.5456 153.267 16.3118 153.038 16.9922 C152.816 17.6725 152.512 18.2526 152.125 18.7324 C151.745 19.2122 151.28 19.5811 150.729 19.8389 C150.177 20.0895 149.533 20.2148 148.795 20.2148 C148.115 20.2148 147.492 20.068 146.926 19.7744 C146.367 19.4808 145.884 19.069 145.476 18.5391 C145.075 18.0091 144.763 17.3861 144.541 16.6699 C144.326 15.9466 144.219 15.1624 144.219 14.3174 Z M146.217 14.0918 L146.217 14.3174 C146.217 14.8975 146.274 15.4417 146.389 15.9502 C146.51 16.4587 146.697 16.9062 146.947 17.293 C147.198 17.6797 147.517 17.984 147.903 18.2061 C148.29 18.4209 148.752 18.5283 149.289 18.5283 C149.948 18.5283 150.489 18.3887 150.911 18.1094 C151.341 17.8301 151.685 17.4613 151.942 17.0029 C152.2 16.5446 152.401 16.0469 152.544 15.5098 L152.544 12.9209 C152.458 12.527 152.333 12.1475 152.168 11.7822 C152.01 11.4098 151.803 11.0804 151.545 10.7939 C151.294 10.5003 150.983 10.2676 150.61 10.0957 C150.245 9.92383 149.812 9.83789 149.311 9.83789 C148.766 9.83789 148.297 9.95247 147.903 10.1816 C147.517 10.4036 147.198 10.7116 146.947 11.1055 C146.697 11.4922 146.51 11.9434 146.389 12.459 C146.274 12.9674 146.217 13.5117 146.217 14.0918 Z M164.242 17.3145 L164.242 8.37695 L166.24 8.37695 L166.24 20 L164.339 20 L164.242 17.3145 Z M164.618 14.8652 L165.445 14.8438 C165.445 15.6172 165.363 16.3333 165.198 16.9922 C165.041 17.6439 164.783 18.2096 164.425 18.6895 C164.067 19.1693 163.598 19.5452 163.018 19.8174 C162.438 20.0824 161.732 20.2148 160.901 20.2148 C160.336 20.2148 159.816 20.1325 159.344 19.9678 C158.878 19.8031 158.477 19.5488 158.141 19.2051 C157.804 18.8613 157.543 18.4137 157.356 17.8623 C157.177 17.3109 157.088 16.6484 157.088 15.875 L157.088 8.37695 L159.075 8.37695 L159.075 15.8965 C159.075 16.4193 159.132 16.8525 159.247 17.1963 C159.369 17.5329 159.53 17.8014 159.73 18.002 C159.938 18.1953 160.167 18.3314 160.418 18.4102 C160.676 18.4889 160.941 18.5283 161.213 18.5283 C162.058 18.5283 162.728 18.3672 163.222 18.0449 C163.716 17.7155 164.07 17.2751 164.285 16.7236 C164.507 16.165 164.618 15.5456 164.618 14.8652 Z M173.921 18.582 C174.394 18.582 174.83 18.4854 175.231 18.292 C175.632 18.0986 175.962 17.8337 176.22 17.4971 C176.478 17.1533 176.624 16.763 176.66 16.3262 L178.551 16.3262 C178.515 17.0137 178.282 17.6546 177.853 18.249 C177.43 18.8363 176.875 19.3125 176.188 19.6777 C175.5 20.0358 174.744 20.2148 173.921 20.2148 C173.047 20.2148 172.285 20.0609 171.633 19.7529 C170.988 19.445 170.451 19.0225 170.021 18.4854 C169.599 17.9482 169.28 17.3324 169.065 16.6377 C168.858 15.9359 168.754 15.1947 168.754 14.4141 L168.754 13.9629 C168.754 13.1823 168.858 12.4447 169.065 11.75 C169.28 11.0482 169.599 10.4287 170.021 9.8916 C170.451 9.35449 170.988 8.93197 171.633 8.62402 C172.285 8.31608 173.047 8.16211 173.921 8.16211 C174.83 8.16211 175.625 8.34831 176.306 8.7207 C176.986 9.08594 177.52 9.58724 177.906 10.2246 C178.3 10.8548 178.515 11.571 178.551 12.373 L176.66 12.373 C176.624 11.8932 176.488 11.46 176.252 11.0732 C176.023 10.6865 175.708 10.3786 175.307 10.1494 C174.913 9.91309 174.451 9.79492 173.921 9.79492 C173.312 9.79492 172.8 9.91667 172.385 10.1602 C171.977 10.3965 171.651 10.7188 171.407 11.127 C171.171 11.528 170.999 11.9756 170.892 12.4697 C170.791 12.9567 170.741 13.4544 170.741 13.9629 L170.741 14.4141 C170.741 14.9225 170.791 15.4238 170.892 15.918 C170.992 16.4121 171.16 16.8597 171.396 17.2607 C171.64 17.6618 171.966 17.984 172.374 18.2275 C172.789 18.4639 173.305 18.582 173.921 18.582 Z M185.651 8.37695 L185.651 9.90234 L179.367 9.90234 L179.367 8.37695 L185.651 8.37695 Z M181.494 5.55176 L183.481 5.55176 L183.481 17.1211 C183.481 17.515 183.542 17.8122 183.664 18.0127 C183.786 18.2132 183.943 18.3457 184.137 18.4102 C184.33 18.4746 184.538 18.5068 184.76 18.5068 C184.924 18.5068 185.096 18.4925 185.275 18.4639 C185.462 18.4281 185.601 18.3994 185.694 18.3779 L185.705 20 C185.548 20.0501 185.34 20.0967 185.082 20.1396 C184.831 20.1898 184.527 20.2148 184.169 20.2148 C183.682 20.2148 183.234 20.1182 182.826 19.9248 C182.418 19.7314 182.092 19.4092 181.849 18.958 C181.612 18.4997 181.494 17.8838 181.494 17.1104 L181.494 5.55176 Z"
+                        }
+                    ],
+                    "fills": [
+                        {
+                            "type": "SOLID",
+                            "visible": true,
+                            "opacity": 1,
+                            "blendMode": "NORMAL",
+                            "color": {
+                                "r": 0.0941176488995552,
+                                "g": 0.11372549086809158,
+                                "b": 0.0941176488995552
+                            },
+                            "boundVariables": {}
+                        }
+                    ],
+                    "strokes": [],
+                    "effects": []
+                },
+                {
+                    "type": "INSTANCE",
+                    "id": "I55719:34331;50717:9090",
+                    "name": "trailing-icon",
+                    "x": 360,
+                    "y": 8,
+                    "width": 48,
+                    "height": 48,
+                    "visible": true,
+                    "locked": false,
+                    "mainComponentId": "51525:5218",
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "cornerRadius": 0,
+                    "cornerSmoothing": 0,
+                    "topLeftRadius": 0,
+                    "topRightRadius": 0,
+                    "bottomLeftRadius": 0,
+                    "bottomRightRadius": 0,
+                    "fillStyleId": "",
+                    "strokeStyleId": "",
+                    "strokeWeight": 1,
+                    "strokeTopWeight": 1,
+                    "strokeBottomWeight": 1,
+                    "strokeLeftWeight": 1,
+                    "strokeRightWeight": 1,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "INHERIT",
+                    "layoutGrow": 0,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "MAX",
+                        "vertical": "MIN"
+                    },
+                    "exportSettings": [],
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            360
+                        ],
+                        [
+                            0,
+                            1,
+                            8
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 360,
+                        "y": 8,
+                        "width": 48,
+                        "height": 48
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M0 0 L48 0 L48 48 L0 48 L0 0 Z"
+                        }
+                    ],
+                    "guides": [],
+                    "componentProperties": {
+                        "Icon#52081:6": {
+                            "value": "50731:11338",
+                            "type": "INSTANCE_SWAP",
+                            "preferredValues": []
+                        },
+                        "Style": {
+                            "value": "standard",
+                            "type": "VARIANT",
+                            "boundVariables": {}
+                        },
+                        "State": {
+                            "value": "enabled",
+                            "type": "VARIANT",
+                            "boundVariables": {}
+                        }
+                    },
+                    "scaleFactor": 1,
+                    "fills": [],
+                    "strokes": [],
+                    "effects": [],
+                    "children": [
+                        {
+                            "type": "FRAME",
+                            "id": "I55719:34331;50717:9090;51525:5219",
+                            "name": "container",
+                            "x": 4,
+                            "y": 4,
+                            "width": 40,
+                            "height": 40,
+                            "visible": true,
+                            "locked": false,
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 100,
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 100,
+                            "topRightRadius": 100,
+                            "bottomLeftRadius": 100,
+                            "bottomRightRadius": 100,
+                            "fillStyleId": "",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "AUTO",
+                            "constraints": {
+                                "horizontal": "MIN",
+                                "vertical": "MIN"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    4
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    4
+                                ]
+                            ],
+                            "absoluteRenderBounds": {
+                                "x": 364,
+                                "y": 12,
+                                "width": 40,
+                                "height": 40
+                            },
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 20 C0 8.95431 8.95431 0 20 0 L20 0 C31.0457 0 40 8.95431 40 20 L40 20 C40 31.0457 31.0457 40 20 40 L20 40 C8.95431 40 0 31.0457 0 20 L0 20 Z"
+                                }
+                            ],
+                            "guides": [],
+                            "fills": [],
+                            "strokes": [],
+                            "effects": [],
+                            "children": [
+                                {
+                                    "type": "FRAME",
+                                    "id": "I55719:34331;50717:9090;51525:5220",
+                                    "name": "state-layer",
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 40,
+                                    "height": 40,
+                                    "visible": true,
+                                    "locked": false,
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": 0,
+                                    "cornerSmoothing": 0,
+                                    "topLeftRadius": 0,
+                                    "topRightRadius": 0,
+                                    "bottomLeftRadius": 0,
+                                    "bottomRightRadius": 0,
+                                    "fillStyleId": "",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeTopWeight": 1,
+                                    "strokeBottomWeight": 1,
+                                    "strokeLeftWeight": 1,
+                                    "strokeRightWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "INHERIT",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "AUTO",
+                                    "constraints": {
+                                        "horizontal": "MIN",
+                                        "vertical": "MIN"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": {
+                                        "x": 364,
+                                        "y": 12,
+                                        "width": 40,
+                                        "height": 40
+                                    },
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M0 0 L40 0 L40 40 L0 40 L0 0 Z"
+                                        }
+                                    ],
+                                    "guides": [],
+                                    "fills": [
+                                        {
+                                            "type": "SOLID",
+                                            "visible": false,
+                                            "opacity": 1,
+                                            "blendMode": "NORMAL",
+                                            "color": {
+                                                "r": 1,
+                                                "g": 1,
+                                                "b": 1
+                                            },
+                                            "boundVariables": {}
+                                        }
+                                    ],
+                                    "strokes": [],
+                                    "effects": [],
+                                    "children": [
+                                        {
+                                            "type": "INSTANCE",
+                                            "id": "I55719:34331;50717:9090;51525:5221",
+                                            "name": "Icons/account_circle_filled_24px",
+                                            "x": 8,
+                                            "y": 8,
+                                            "width": 24,
+                                            "height": 24,
+                                            "visible": true,
+                                            "locked": false,
+                                            "mainComponentId": "50731:11338",
+                                            "opacity": 1,
+                                            "blendMode": "PASS_THROUGH",
+                                            "isMask": false,
+                                            "cornerRadius": 0,
+                                            "cornerSmoothing": 0,
+                                            "topLeftRadius": 0,
+                                            "topRightRadius": 0,
+                                            "bottomLeftRadius": 0,
+                                            "bottomRightRadius": 0,
+                                            "fillStyleId": "",
+                                            "strokeStyleId": "",
+                                            "strokeWeight": 1,
+                                            "strokeTopWeight": 1,
+                                            "strokeBottomWeight": 1,
+                                            "strokeLeftWeight": 1,
+                                            "strokeRightWeight": 1,
+                                            "strokeJoin": "MITER",
+                                            "strokeAlign": "INSIDE",
+                                            "dashPattern": [],
+                                            "strokeCap": "NONE",
+                                            "strokeMiterLimit": 4,
+                                            "rotation": 0,
+                                            "layoutAlign": "INHERIT",
+                                            "layoutGrow": 0,
+                                            "layoutPositioning": "AUTO",
+                                            "constraints": {
+                                                "horizontal": "SCALE",
+                                                "vertical": "SCALE"
+                                            },
+                                            "exportSettings": [],
+                                            "relativeTransform": [
+                                                [
+                                                    1,
+                                                    0,
+                                                    8
+                                                ],
+                                                [
+                                                    0,
+                                                    1,
+                                                    8
+                                                ]
+                                            ],
+                                            "absoluteRenderBounds": {
+                                                "x": 372,
+                                                "y": 20,
+                                                "width": 24,
+                                                "height": 24
+                                            },
+                                            "fillGeometry": [
+                                                {
+                                                    "windingRule": "NONZERO",
+                                                    "data": "M0 0 L24 0 L24 24 L0 24 L0 0 Z"
+                                                }
+                                            ],
+                                            "guides": [],
+                                            "componentProperties": {},
+                                            "scaleFactor": 1,
+                                            "fills": [],
+                                            "strokes": [],
+                                            "effects": [],
+                                            "children": [
+                                                {
+                                                    "type": "VECTOR",
+                                                    "id": "I55719:34331;50717:9090;51525:5221;50731:11337",
+                                                    "name": "icon",
+                                                    "x": 2,
+                                                    "y": 2,
+                                                    "width": 20,
+                                                    "height": 20,
+                                                    "visible": true,
+                                                    "locked": false,
+                                                    "vectorPaths": [
+                                                        {
+                                                            "windingRule": "EVENODD",
+                                                            "data": "M 10 0 C 4.480000019073486 0 0 4.480000019073486 0 10 C 0 15.520000457763672 4.480000019073486 20 10 20 C 15.520000457763672 20 20 15.520000457763672 20 10 C 20 4.480000019073486 15.520000457763672 0 10 0 Z M 16.360000610351562 14.829999923706055 C 14.929999351501465 13.09000015258789 11.460000038146973 12.5 10 12.5 C 8.539999961853027 12.5 5.069999694824219 13.09000015258789 3.6399998664855957 14.829999923706055 C 2.619999885559082 13.489999771118164 2 11.819999694824219 2 10 C 2 5.590000152587891 5.590000152587891 2 10 2 C 14.40999984741211 2 18 5.590000152587891 18 10 C 18 11.819999694824219 17.3799991607666 13.489999771118164 16.360000610351562 14.829999923706055 Z M 6.5 7.5 C 6.5 5.559999942779541 8.059999465942383 4 10 4 C 11.940000534057617 4 13.5 5.559999942779541 13.5 7.5 C 13.5 9.440000534057617 11.940000534057617 11 10 11 C 8.059999465942383 11 6.5 9.440000534057617 6.5 7.5 Z"
+                                                        }
+                                                    ],
+                                                    "opacity": 1,
+                                                    "blendMode": "PASS_THROUGH",
+                                                    "isMask": false,
+                                                    "cornerRadius": 0,
+                                                    "cornerSmoothing": 0,
+                                                    "fillStyleId": "S:1ed48d781ecdc9eebfd6d591aff3c653747351c5,",
+                                                    "strokeStyleId": "",
+                                                    "strokeWeight": 0,
+                                                    "strokeJoin": "MITER",
+                                                    "strokeAlign": "CENTER",
+                                                    "dashPattern": [],
+                                                    "strokeCap": "NONE",
+                                                    "strokeMiterLimit": 4,
+                                                    "rotation": 0,
+                                                    "layoutAlign": "INHERIT",
+                                                    "layoutGrow": 0,
+                                                    "layoutPositioning": "AUTO",
+                                                    "constraints": {
+                                                        "horizontal": "SCALE",
+                                                        "vertical": "SCALE"
+                                                    },
+                                                    "exportSettings": [],
+                                                    "vectorNetwork": {
+                                                        "regions": [
+                                                            {
+                                                                "windingRule": "EVENODD",
+                                                                "loops": [
+                                                                    [
+                                                                        0,
+                                                                        1,
+                                                                        2,
+                                                                        3
+                                                                    ],
+                                                                    [
+                                                                        4,
+                                                                        5,
+                                                                        6,
+                                                                        7,
+                                                                        8,
+                                                                        9
+                                                                    ],
+                                                                    [
+                                                                        10,
+                                                                        11,
+                                                                        12,
+                                                                        13
+                                                                    ]
+                                                                ],
+                                                                "fills": [
+                                                                    {
+                                                                        "type": "SOLID",
+                                                                        "visible": true,
+                                                                        "opacity": 1,
+                                                                        "blendMode": "NORMAL",
+                                                                        "color": {
+                                                                            "r": 0.2549019753932953,
+                                                                            "g": 0.2862745225429535,
+                                                                            "b": 0.2549019753932953
+                                                                        },
+                                                                        "boundVariables": {}
+                                                                    }
+                                                                ],
+                                                                "fillStyleId": "S:1ed48d781ecdc9eebfd6d591aff3c653747351c5,"
+                                                            }
+                                                        ],
+                                                        "segments": [
+                                                            {
+                                                                "start": 0,
+                                                                "end": 1,
+                                                                "tangentStart": {
+                                                                    "x": -5.519999980926514,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": -5.519999980926514
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 1,
+                                                                "end": 2,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 5.520000457763672
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": -5.519999980926514,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 2,
+                                                                "end": 3,
+                                                                "tangentStart": {
+                                                                    "x": 5.520000457763672,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 5.520000457763672
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 3,
+                                                                "end": 0,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": -5.519999980926514
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 5.520000457763672,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 4,
+                                                                "end": 5,
+                                                                "tangentStart": {
+                                                                    "x": -1.4300012588500977,
+                                                                    "y": -1.739999771118164
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 1.4600000381469727,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 5,
+                                                                "end": 6,
+                                                                "tangentStart": {
+                                                                    "x": -1.4600000381469727,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 1.429999828338623,
+                                                                    "y": -1.739999771118164
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 6,
+                                                                "end": 7,
+                                                                "tangentStart": {
+                                                                    "x": -1.0199999809265137,
+                                                                    "y": -1.3400001525878906
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 1.8199996948242188
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 7,
+                                                                "end": 8,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": -4.409999847412109
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": -4.409999847412109,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 8,
+                                                                "end": 9,
+                                                                "tangentStart": {
+                                                                    "x": 4.409999847412109,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": -4.409999847412109
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 9,
+                                                                "end": 4,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 1.8199996948242188
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 1.019998550415039,
+                                                                    "y": -1.3400001525878906
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 10,
+                                                                "end": 11,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": -1.940000057220459
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": -1.9400005340576172,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 11,
+                                                                "end": 12,
+                                                                "tangentStart": {
+                                                                    "x": 1.9400005340576172,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": -1.940000057220459
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 12,
+                                                                "end": 13,
+                                                                "tangentStart": {
+                                                                    "x": 0,
+                                                                    "y": 1.9400005340576172
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 1.9400005340576172,
+                                                                    "y": 0
+                                                                }
+                                                            },
+                                                            {
+                                                                "start": 13,
+                                                                "end": 10,
+                                                                "tangentStart": {
+                                                                    "x": -1.9400005340576172,
+                                                                    "y": 0
+                                                                },
+                                                                "tangentEnd": {
+                                                                    "x": 0,
+                                                                    "y": 1.9400005340576172
+                                                                }
+                                                            }
+                                                        ],
+                                                        "vertices": [
+                                                            {
+                                                                "x": 10,
+                                                                "y": 0,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 0,
+                                                                "y": 10,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 10,
+                                                                "y": 20,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 20,
+                                                                "y": 10,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 16.360000610351562,
+                                                                "y": 14.829999923706055,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 10,
+                                                                "y": 12.5,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 3.6399998664855957,
+                                                                "y": 14.829999923706055,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 2,
+                                                                "y": 10,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 10,
+                                                                "y": 2,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 18,
+                                                                "y": 10,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 6.5,
+                                                                "y": 7.5,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 10,
+                                                                "y": 4,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 13.5,
+                                                                "y": 7.5,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            },
+                                                            {
+                                                                "x": 10,
+                                                                "y": 11,
+                                                                "strokeCap": "NONE",
+                                                                "strokeJoin": "MITER",
+                                                                "cornerRadius": 0,
+                                                                "handleMirroring": "NONE"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "relativeTransform": [
+                                                        [
+                                                            1,
+                                                            0,
+                                                            2
+                                                        ],
+                                                        [
+                                                            0,
+                                                            1,
+                                                            2
+                                                        ]
+                                                    ],
+                                                    "absoluteRenderBounds": {
+                                                        "x": 374,
+                                                        "y": 22,
+                                                        "width": 20,
+                                                        "height": 20
+                                                    },
+                                                    "fillGeometry": [
+                                                        {
+                                                            "windingRule": "EVENODD",
+                                                            "data": "M10 0 C4.48 0 0 4.48 0 10 C0 15.52 4.48 20 10 20 C15.52 20 20 15.52 20 10 C20 4.48 15.52 0 10 0 Z M16.36 14.83 C14.93 13.09 11.46 12.5 10 12.5 C8.54 12.5 5.07 13.09 3.64 14.83 C2.62 13.49 2 11.82 2 10 C2 5.59 5.59 2 10 2 C14.41 2 18 5.59 18 10 C18 11.82 17.38 13.49 16.36 14.83 Z M6.5 7.5 C6.5 5.56 8.06 4 10 4 C11.94 4 13.5 5.56 13.5 7.5 C13.5 9.44 11.94 11 10 11 C8.06 11 6.5 9.44 6.5 7.5 Z"
+                                                        }
+                                                    ],
+                                                    "fills": [
+                                                        {
+                                                            "type": "SOLID",
+                                                            "visible": true,
+                                                            "opacity": 1,
+                                                            "blendMode": "NORMAL",
+                                                            "color": {
+                                                                "r": 0.2549019753932953,
+                                                                "g": 0.2862745225429535,
+                                                                "b": 0.2549019753932953
+                                                            },
+                                                            "boundVariables": {}
+                                                        }
+                                                    ],
+                                                    "strokes": [],
+                                                    "effects": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

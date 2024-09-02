@@ -1,0 +1,5 @@
+Violations:
+The switch is being used for an option ('Download using mobile data') that might require saving or confirmation before coming into effect. According to the Material Design 3 guidelines, checkboxes should be used instead of switches if option choices need to be saved/confirmed before coming into effect.
+
+Changes:
+Replace the switch with a checkbox for the 'Download using mobile data' option.

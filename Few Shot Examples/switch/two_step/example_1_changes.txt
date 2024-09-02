@@ -1,0 +1,17 @@
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The switch is being used to toggle between two opposing options: 'Delivery' and 'Pick up'. According to the Material Design 3 guidelines, switches should be used for independent on/off choices, not for mutually exclusive options.",
+      "reasoning": "Switches should not be used to select between two opposing options. Instead, segmented buttons should be used for such purposes."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Replace the switch with a segmented button component to toggle between 'Delivery' and 'Pick up' options.",
+      "reasoning": "Segmented buttons are more appropriate for choices between two opposing options, ensuring clarity and proper use according to Material Design principles."
+    }
+  ],
+  "guideline_request": "Material Design 3 guidelines for segmented buttons",
+  "example_request": "Example HTML implementations of segmented buttons in Material Design 3"
+}

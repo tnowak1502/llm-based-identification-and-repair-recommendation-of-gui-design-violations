@@ -1,0 +1,7 @@
+{
+  "changed_components": [
+    "<div class=\"Headline\" id=\"I57811:40351;51964:63005;51964:63553\" style=\"position: absolute; top: 8px; left: 0px; width: 305px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;\">Use mobile data</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

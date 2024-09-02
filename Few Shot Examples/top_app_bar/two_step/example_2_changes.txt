@@ -1,0 +1,6 @@
+{
+  "violations": "The headline text Children's and Family Shows in the top app bar appears to be wrapping or using more than one line, which is not in line with the guideline that text in non-large top app bars should not wrap.",
+  "changes": "Ensure that the headline Children's and Family Shows fits in a single line in the top app bar. If the text is too long, consider truncating it or using a shorter title.",
+  "guideline_request": "top app bar title",
+  "example_request": "small top app bar"
+}

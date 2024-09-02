@@ -1,0 +1,16 @@
+```json
+{
+  "violations": [
+    "The segmented buttons in both action sections have inconsistent icon weights. The icons in the segmented buttons should have the same weight.",
+    "The segmented buttons also have inconsistent background colors between the two sections. The background color of segmented buttons should be consistent.",
+    "The outlined buttons in both action sections have label texts that are not aligned with the width of their containers. The label text should be aligned with the container."
+  ],
+  "changes": [
+    "Ensure that the icons in the segmented buttons have the same weight for consistency.",
+    "Standardize the background color of the segmented buttons across the two sections to ensure consistency.",
+    "Align the label text of the outlined buttons with the width of their containers."
+  ],
+  "guideline_request": "Segmented button icon weight; Segmented button background color consistency; Outlined button label text alignment",
+  "example_request": "Segmented button with consistent icon weight; Segmented button with consistent background color; Outlined button with aligned label text"
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "violations": [
+    "1. Misuse of checkboxes for mutually exclusive options: The 'Receive emails' section contains daily, weekly, and monthly options, which are typically mutually exclusive (a user would usually choose one frequency for receiving emails). Checkboxes should be used for multiple selections, not for mutually exclusive options."
+  ],
+  "changes": [
+    "1. Replace the checkboxes for 'Daily,' 'Weekly,' and 'Monthly' options with radio buttons to ensure only one option can be selected at a time."
+  ],
+  "guideline_request": "radio button",
+  "example_request": "selected radio button, unselected radio button"
+}
+```

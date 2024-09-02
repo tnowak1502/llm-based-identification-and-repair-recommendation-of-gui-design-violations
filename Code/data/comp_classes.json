@@ -1,0 +1,154 @@
+{
+  "bottom_app_bar": [
+    "Bottom-app-bar-dark",
+    "Bottom-app-bar"
+  ],
+  "navigation_bar": [
+    "Navigation-bar-dark",
+    "Navigation-bar"
+  ],
+  "top_app_bar": [
+    "Top-app-bar-dark",
+    "Top-app-bar"
+  ],
+  "list": [
+    "List-dark",
+    "List"
+  ],
+  "badge": [
+    "Badge",
+    "Badge-dark"
+  ],
+  "common_button": [
+    "Button-dark",
+    "Button"
+  ],
+  "icon_button": [
+    "Icon-button-dark",
+    "Icon-button"
+  ],
+  "chip": [
+    "Assistive-chip",
+    "Assistive-chip-dark",
+    "Filter-chip",
+    "Filter-chip-dark",
+    "Input-chip",
+    "Input-chip-dark",
+    "Suggestion-chip",
+    "Suggestion-chip-dark"
+  ],
+  "fab": [
+    "FAB-dark",
+    "FAB",
+    "Small-FAB-dark",
+    "Small-FAB",
+    "Large-FAB-dark",
+    "Large-FAB",
+    "Extended-FAB-dark",
+    "Extended-FAB"
+  ],
+  "card": [
+    "Horizontal-card-dark",
+    "Horizontal-card",
+    "Stacked-card-dark",
+    "Stacked-card"
+  ],
+  "carousel": [
+    "Carousel",
+    "Carousel-dark",
+    "Carousel---Full-screen",
+    "Carousel-full-screen-dark"
+  ],
+  "checkbox": [
+    "Checkboxes",
+    "Checkboxes-dark"
+  ],
+  "dialog": [
+    "Basic-dialog",
+    "Basic-dialog-dark",
+    "List-dialog",
+    "List-dialog-dark",
+    "Scrollable-list dialog",
+    "Scrollable-list-dialog-dark"
+  ],
+  "divider": [
+    "horizontal/full-width",
+    "horizontal/inset",
+    "horizontal/middle-inset",
+    "horizontal/with-subhead",
+    "horizontal-dark/full-width-dark",
+    "horizontal-dark/inset-dark",
+    "horizontal-dark/middle-inset-dark",
+    "horizontal-dark/with-subhead-dark",
+    "vertical/full-width",
+    "vertical/inset",
+    "vertical/middle-inset",
+    "vertical-dark/full-width-dark",
+    "vertical-dark/inset-dark",
+    "vertical-dark/middle-inset-dark"
+  ],
+  "menu": [
+    "Menu",
+    "Menu-dark"
+  ],
+  "navigation_drawer": [
+    "Navigation-Drawer",
+    "Navigation-Drawer-dark"
+  ],
+  "progress_indicator": [
+    "circular-determinate",
+    "circular-determinate-dark",
+    "circular-indeterminate",
+    "circular-indeterminate-dark",
+    "linear-determinate",
+    "linear-determinate-dark",
+    "linear-indeterminate",
+    "linear-indeterminate-dark"
+  ],
+  "radio_button": [
+    "Radio-buttons",
+    "Radio-buttons-dark"
+  ],
+  "search": [
+    "Search-bar",
+    "Search-bar-dark",
+    "Search-view-full-screen",
+    "Search-view-full-screen-dark",
+    "Search-view-modal",
+    "Search-view-modal-dark"
+  ],
+  "segmented_button": [
+    "Segmented-button",
+    "Segmented-button-dark"
+  ],
+  "bottom_sheet": [
+    "Bottom-sheet",
+    "Bottom-sheet-dark"
+  ],
+  "slider": [
+    "Centered",
+    "Centered-dark",
+    "Continuous",
+    "Continuous-dark",
+    "Discrete",
+    "Discrete-dark",
+    "Range-Selection",
+    "Range-Selection-dark"
+  ],
+  "snackbar": [
+    "Snackbar",
+    "Snackbar-dark"
+  ],
+  "switch": [
+    "Switch",
+    "Switch-dark"
+  ],
+  "tab": [
+    "Tabs",
+    "Tabs-dark"
+  ],
+  "text_field": [
+    "Text-field",
+    "Text-field-dark"
+  ]
+}

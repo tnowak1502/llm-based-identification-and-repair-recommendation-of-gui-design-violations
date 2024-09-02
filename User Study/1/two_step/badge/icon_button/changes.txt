@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Button Styles: The icon buttons for the 'Actions' section use different styles (`filled`, `outlined`, and `standard`). According to the Material Design 3 guidelines, the style of buttons is used to communicate their level of importance to the user. However, all these icon buttons appear to have the same function and thus should be equally important. (Severity: High)",
+    "2. Inconsistent Icon Weights: The icons within the buttons in the 'Actions' section have different weights and styles. Icons in the same component should have the same weight to maintain visual consistency. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the style of the icon buttons in the 'Actions' section. Choose one style (e.g., all `filled`, all `outlined`, or all `standard`) for consistency. This will make it clear that all buttons perform the same action and are of the same importance.",
+    "2. Ensure that all icons within the 'Actions' section have the same weight and style to maintain visual consistency."
+  ],
+  "guideline_request": "Icon button styles, Icon weights",
+  "example_request": "icon buttons"
+}

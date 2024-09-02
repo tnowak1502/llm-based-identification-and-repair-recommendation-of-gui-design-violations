@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The badge background color (#FFB4ABFF) is a light color that might not provide enough contrast with the underlying icon or its surroundings, potentially making the badge difficult to notice. According to the Material Design 3 Guidelines, badges should have a contrasting color that sticks out from the icon and its surroundings."
+    },
+    {
+      "severity": "medium",
+      "description": "The badge is positioned very close to the edge of the icon, which can make it appear cramped and harder to distinguish. Badges should be placed in a way that they are clearly visible and do not overlap with other elements."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Change the badge background color to a more contrasting color that stands out against the icon and its surroundings. For example, using a darker or more vibrant color can make the badge more noticeable and comply with the Material Design 3 Guidelines."
+    },
+    {
+      "description": "Adjust the position of the badge to ensure it is not too close to the edge of the icon and does not overlap with other elements. This can help in making the badge more distinguishable and visually appealing."
+    }
+  ],
+  "guideline_request": "badge color contrast guidelines, badge positioning guidelines",
+  "example_request": "badge"
+}
+```

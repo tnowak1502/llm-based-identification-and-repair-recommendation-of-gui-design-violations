@@ -1,0 +1,14 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Weights: The icons used in the top and bottom navigation bars have different weights, which can make the UI look inconsistent. For instance, the 'Home' icon in the bottom navigation bar has a thicker stroke compared to the 'Friends' and 'Post' icons. (Severity: High)",
+    "2. Icon Button Emphasis: The floating action buttons on the right side have the same weight as the icons in the bottom navigation bar, which might confuse users about the importance of these actions. (Severity: Medium)",
+    "3. Grouping of Elements: The icons in the right-side floating action buttons are not visually grouped well. The '100' labels and the icons are too close to each other, making it hard to distinguish between different actions. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the icon weights across the top and bottom navigation bars to ensure visual consistency.",
+    "2. Adjust the emphasis of the floating action buttons on the right side to differentiate their importance from the bottom navigation bar icons. Consider using contained icon buttons if necessary.",
+    "3. Increase the spacing between the icons and their corresponding '100' labels in the right-side floating action buttons to improve visual grouping."
+  ],
+  "guideline_request": "Icon weights, Icon button emphasis, Grouping of elements",
+  "example_request": "icon buttons, floating action buttons, visual grouping"
+}

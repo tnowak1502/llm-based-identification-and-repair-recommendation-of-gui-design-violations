@@ -1,0 +1,23 @@
+{
+  "violations": "The navigation bar contains a badge on the 'Chat' icon, which is not a standard practice for navigation bars. Badges should be placed on icons to indicate notifications or item counts, typically within the app's content area, not the navigation bar.",
+  "changes": "Remove the badge from the 'Chat' icon in the navigation bar.",
+  "changed_components": [
+    "<div class = 'icon-container' id = 'I57811:35991;50721:10396;52031:21380' style='position: absolute; top: 12px; left: 20.400001525878906px; width: 32.0px; height: 32px; opacity: 1; border-radius: 16px; '>
+      <div class = 'state-layer' id = 'I57811:35991;50721:10396;52031:21302' style='position: absolute; top: 0px; left: -16px; width: 64px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'Icon' id = 'I57811:35991;50721:10396;50721:10438' style='position: absolute; top: 4px; left: 20px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'chat' id = 'I57811:35991;50721:10396;50721:10438;55204:66846' config='Outlined' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Vector' id='I57811:35991;50721:10396;50721:10438;55204:66846;2402:43703' style='position: absolute; top: 2px; left: 2px; width: 20px; height: 20px;'>
+              <svg height = '20px' width = '20px' xmlns = 'http://www.w3.org/2000/svg'>
+                <path d='M 2 2 L 18 2 L 18 14 L 3.1700000762939453 14 L 2 15.170000076293945 L 2 2 Z M 2 0 C 0.8999999761581421 0 0.009999990463256836 0.8999999761581421 0.009999990463256836 2 L 0 20 L 4 16 L 18 16 C 19.100000023841858 16 20 15.100000023841858 20 14 L 20 2 C 20 0.8999999761581421 19.100000023841858 0 18 0 L 2 0 Z M 4 10 L 12 10 L 12 12 L 4 12 L 4 10 Z M 4 7 L 16 7 L 16 9 L 4 9 L 4 7 Z M 4 4 L 16 4 L 16 6 L 4 6 L 4 4 Z' style='fill: #414941FF;'/>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [
+    "I57811:35991;50721:10396;50721:10439"
+  ],
+  "new_components": []
+}

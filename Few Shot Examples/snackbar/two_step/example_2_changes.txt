@@ -1,0 +1,9 @@
+{
+  'violations': '1. The text button in the snackbar has the same font color as the normal text, making it hard to recognize as an actionable component.',
+
+  'changes': '1. Change the text buttons color to an appropriate value to differentiate it from the other text.',
+
+  'guideline_request': 'Snackbar action buttons',
+  
+  'example_request': 'Snackbar with action button'
+}

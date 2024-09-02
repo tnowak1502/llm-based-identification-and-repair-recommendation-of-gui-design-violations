@@ -1,0 +1,10 @@
+{
+  "violations": [
+    "1. Inconsistency in Icon Button Styles: The icon buttons for Elie Pietersen, Sam Pietersen, and Renee Claes use different styles (`tonal`, `filled`, and `outlined`). According to the Material Design 3 guidelines, the style of buttons is used to communicate their level of importance to the user. However, all three icon buttons appear to have the same function and thus should be equally important. (Severity: High)"
+  ],
+  "changes": [
+    "1. Standardize the style of the icon buttons. Choose one style (e.g., all `filled`, all `tonal`, or all `outlined`) for consistency. This will make it clear that all buttons perform the same action and are of the same importance."
+  ],
+  "guideline_request": "Icon button styles",
+  "example_request": "icon buttons"
+}

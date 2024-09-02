@@ -1,0 +1,22 @@
+{
+  "violations": [
+    {
+      "description": "The extended FAB - 'Rent a bike' is not placed in the bottom right corner of the screen. Instead, it is centered horizontally towards the bottom. According to Material Design guidelines, FABs should be placed in the bottom right corner to be easily accessible using thumbs.",
+      "severity": "high"
+    },
+    {
+      "description": "There are three other FABs on the screen: Two standard ones (location and filter), and a small one (info). They are also not placed in the bottom right corner. Additionally, having an extended FAB and multiple standard FABs clutters the screen.",
+      "severity": "high"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Relocate the extended FAB 'Rent a bike' to the bottom right corner of the screen, ensuring it does not overlap with any navigation or bottom app bars."
+    },
+    {
+      "description": "Change the two standard FABs into small ones and also place them into the bottom right, above the (moved) extended FAB. Since having three small FABs might be a bit too much, remove the small info FAB and instead add a trailing action button with the same function to the top app bar."
+    }
+  ],
+  "guideline_request": "Placement of FABs, Spacing between FABs",
+  "example_request": "Extended FAB, small FAB, top app bar with trailing icon"
+}

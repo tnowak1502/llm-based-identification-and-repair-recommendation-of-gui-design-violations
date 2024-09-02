@@ -1,0 +1,63 @@
+The mobile user interface mockup you provided contains several radio buttons. Here are the detailed descriptions for each radio button:
+
+1. **Radio Button 1 (Selected)**
+   - **Type:** Radio button
+   - **Color:** Light green (#99D4A2FF) indicating a selected state
+   - **Size:** 24px by 24px
+   - **Shape:** Circular (border-radius: 100px)
+   - **Position:** Left: 312px, Top: 16px
+   - **ID:** `I55698:12577;51964:70973;51964:71060`
+   - **Likely Function:** To select the "User rating" sorting option
+   - **Attributes:**
+     - Positioned absolutely within its containing element
+     - Contains an SVG icon representing the selected state with two circular paths filled with light green
+
+2. **Radio Button 2 (Unselected)**
+   - **Type:** Radio button
+   - **Color:** Light gray (#C1C9BEFF) indicating an unselected state
+   - **Size:** 24px by 24px
+   - **Shape:** Circular (border-radius: 100px)
+   - **Position:** Left: 312px, Top: 16px
+   - **ID:** `I55698:12577;51964:70977;51964:71060`
+   - **Likely Function:** To select the "Distance" sorting option
+   - **Attributes:**
+     - Positioned absolutely within its containing element
+     - Contains an SVG icon representing the unselected state with a single circular path filled with light gray
+
+3. **Radio Button 3 (Unselected)**
+   - **Type:** Radio button
+   - **Color:** Light gray (#C1C9BEFF) indicating an unselected state
+   - **Size:** 24px by 24px
+   - **Shape:** Circular (border-radius: 100px)
+   - **Position:** Left: 312px, Top: 16px
+   - **ID:** `I55698:12577;51964:70976;51964:71060`
+   - **Likely Function:** To select the "Minimum order cost" sorting option
+   - **Attributes:**
+     - Positioned absolutely within its containing element
+     - Contains an SVG icon representing the unselected state with a single circular path filled with light gray
+
+4. **Radio Button 4 (Unselected)**
+   - **Type:** Radio button
+   - **Color:** Light gray (#C1C9BEFF) indicating an unselected state
+   - **Size:** 24px by 24px
+   - **Shape:** Circular (border-radius: 100px)
+   - **Position:** Left: 312px, Top: 16px
+   - **ID:** `I55698:12577;51964:70975;51964:71060`
+   - **Likely Function:** To select the "New" sorting option
+   - **Attributes:**
+     - Positioned absolutely within its containing element
+     - Contains an SVG icon representing the unselected state with a single circular path filled with light gray
+
+5. **Radio Button 5 (Selected)**
+   - **Type:** Radio button
+   - **Color:** Light green (#99D4A2FF) indicating a selected state
+   - **Size:** 24px by 24px
+   - **Shape:** Circular (border-radius: 100px)
+   - **Position:** Left: 312px, Top: 16px
+   - **ID:** `I55698:12577;51964:70974;51964:71060`
+   - **Likely Function:** To select the "Most relevant" sorting option
+   - **Attributes:**
+     - Positioned absolutely within its containing element
+     - Contains an SVG icon representing the selected state with two circular paths filled with light green
+
+These radio buttons are part of a filter and sorting section in a mobile user interface, allowing users to select different sorting criteria for the displayed results.

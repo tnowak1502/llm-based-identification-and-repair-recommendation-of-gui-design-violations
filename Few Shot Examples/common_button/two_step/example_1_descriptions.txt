@@ -1,0 +1,83 @@
+Here's a detailed description of each common button from the provided HTML code snippets:
+
+1. **Ungelesen Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 133px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 9px from the top and 12px from the left.
+   - **ID**: 55304:3660
+   - **Likely Function**: This button likely filters unread messages, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "Ungelesen" centered.
+
+2. **Fotos Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 102px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 9px from the top and 153px from the left.
+   - **ID**: 55304:3668
+   - **Likely Function**: This button likely filters photo messages, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "Fotos" centered.
+
+3. **Videos Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 110px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 9px from the top and 263px from the left.
+   - **ID**: 55304:3673
+   - **Likely Function**: This button likely filters video messages or content, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "Videos" centered.
+
+4. **Links Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 100px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 53px from the top and 12px from the left.
+   - **ID**: 55304:3678
+   - **Likely Function**: This button likely filters link messages or content, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "Links" centered.
+
+5. **GIFs Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 95px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 53px from the top and 120px from the left.
+   - **ID**: 55304:3683
+   - **Likely Function**: This button likely filters GIF messages or content, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "GIFs" centered.
+
+6. **Audio Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 103px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 53px from the top and 223px from the left.
+   - **ID**: 55304:3688
+   - **Likely Function**: This button likely filters audio messages or content, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "Audio" centered.
+
+7. **Dokumente Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 139px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 97px from the top and 12px from the left.
+   - **ID**: 55304:3693
+   - **Likely Function**: This button likely filters document messages or content, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "Dokumente" centered.
+
+8. **Umfragen Button**:
+   - **Type**: Filled
+   - **Color**: Background color is #99D4A2FF; text color is #003918FF.
+   - **Size**: Width is 129px; height is 32px.
+   - **Shape**: Rounded with a border radius of 100px.
+   - **Position**: Positioned absolutely at 97px from the top and 159px from the left.
+   - **ID**: 55304:3698
+   - **Likely Function**: This button likely filters poll messages or content, indicated by the icon and label text.
+   - **Attributes**: It contains an icon on the left and a text label "Umfragen" centered.
+
+Each button includes an icon within the button element, followed by a text label which is centered. They are all styled with consistent properties, such as rounded corners and specific text and background colors.

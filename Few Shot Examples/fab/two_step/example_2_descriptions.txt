@@ -1,0 +1,55 @@
+Based on the provided HTML snippets and the image of the mockup, here is an analysis of each Floating Action Button (FAB):
+
+1. **Extended FAB - Rent a bike**
+   - **Type:** Extended FAB
+   - **Color:** Background-color: #E5EAE1FF; Icon and Label color: #326940FF
+   - **Size:** 143px width, 56px height
+   - **Shape:** Rounded corners with a border-radius of 16px
+   - **Position:** 
+     - Top: 630px
+     - Left: 134px
+   - **ID:** 55061:3552
+   - **Likely Function:** This button is likely used to initiate the process of renting a bike.
+   - **Label:** "Rent a bike" with a QR code icon.
+   - **Additional Attributes:** Has a drop-shadow effect for elevation.
+
+2. **FAB - Location**
+   - **Type:** Standard FAB
+   - **Color:** Background-color: #E5EAE1FF; Icon color: #326940FF
+   - **Size:** 56px width, 56px height
+   - **Shape:** Rounded corners with a border-radius of 16px
+   - **Position:** 
+     - Top: 80px
+     - Left: 340px
+   - **ID:** 55061:3576
+   - **Likely Function:** This button is likely used to find or show the user's current location.
+   - **Icon:** Location icon (My Location).
+   - **Additional Attributes:** Has a drop-shadow effect for elevation.
+
+3. **FAB - Filter**
+   - **Type:** Standard FAB
+   - **Color:** Background-color: #E5EAE1FF; Icon color: #326940FF
+   - **Size:** 56px width, 56px height
+   - **Shape:** Rounded corners with a border-radius of 16px
+   - **Position:** 
+     - Top: 152px
+     - Left: 340px
+   - **ID:** 55061:3580
+   - **Likely Function:** This button is likely used to apply filters for bike rentals.
+   - **Icon:** Filter icon.
+   - **Additional Attributes:** Has a drop-shadow effect for elevation.
+
+4. **Small FAB - Information**
+   - **Type:** Small FAB
+   - **Color:** Background-color: #E5EAE1FF; Icon color: #326940FF
+   - **Size:** 40px width, 40px height
+   - **Shape:** Rounded corners with a border-radius of 12px
+   - **Position:** 
+     - Top: 88px
+     - Left: 16px
+   - **ID:** 55061:3584
+   - **Likely Function:** This button is likely used to show additional information or details.
+   - **Icon:** Information icon.
+   - **Additional Attributes:** Has a drop-shadow effect for elevation.
+
+Each FAB is styled with an elevated look using the drop-shadow and has distinct colors and sizes to denote their specific functions within the interface.

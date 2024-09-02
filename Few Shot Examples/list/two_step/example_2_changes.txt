@@ -1,0 +1,10 @@
+{
+  'violations': [
+    "1. **Inconsistent Leading Elements:** The leading elements (thumbnails, icons) in the list items are very varied. This can disrupt visual hierarchy and consistency in the list's appearance. (Severity: High)"
+  ],
+  'changes': [
+    "1. **Standardize Leading Elements:** Ensure that all leading elements (thumbnails, icons) have are the same across all list items. Since it is the most common leading element, I would suggest using the 114x64px video thumbnail for every item to maintain visual consistency."
+  ],
+  'guideline_request': "Visual Hierarchy guidelines, list guidelines",
+  'example_request': "list with video thumbnails"
+}

@@ -1,0 +1,73 @@
+Here is a detailed description of the badge from the provided code snippet:
+
+1. **Badge Overview**
+   - **Type**: Large Badge
+   - **ID**: I55696:1538;50721:10396;50721:10439
+   - **Position**: 
+     - **Top**: 2px
+     - **Left**: 16px
+   - **Size**:
+     - **Width**: 16px
+     - **Height**: 16px
+   - **Shape**: Circular (border-radius: 100px)
+   - **Opacity**: 1 (fully opaque)
+   - **Background Color**: #414941FF (a dark gray color)
+
+2. **Badge Label**
+   - **ID**: I55696:1538;50721:10396;50721:10439;51592:4771
+   - **Position**: 
+     - **Top**: 0px
+     - **Left**: 4px
+   - **Size**:
+     - **Width**: 9px
+     - **Height**: 16px
+   - **Font**: 
+     - **Family**: Roboto
+     - **Size**: 11px
+     - **Weight**: 500 (medium)
+     - **Letter Spacing**: 0.5px
+     - **Line Height**: 16px
+   - **Text Color**: #FFFFFFFF (white)
+   - **Text**: "3"
+   - **Alignment**: Centered (display: flex; justify-content: center; align-items: center; white-space: pre-line)
+
+3. **Likely Function**
+   - This badge appears to be a notification or indicator badge, likely used to show a count (here, the number "3") on top of an icon or element, indicating some form of alert or update.
+
+4. **Container Hierarchy**
+   - **icon-container** (outermost container)
+     - **ID**: I55696:1538;50721:10396;52031:21380
+     - **Position**:
+       - **Top**: 12px
+       - **Left**: 20.4px
+     - **Size**:
+       - **Width**: 32px
+       - **Height**: 32px
+     - **Shape**: Rounded (border-radius: 16px)
+   - **state-layer** (nested inside icon-container)
+     - **ID**: I55696:1538;50721:10396;52031:21302
+     - **Position**:
+       - **Top**: 0px
+       - **Left**: -16px
+     - **Size**:
+       - **Width**: 64px
+       - **Height**: 32px
+   - **Icon** (nested inside state-layer)
+     - **ID**: I55696:1538;50721:10396;50721:10438
+     - **Position**:
+       - **Top**: 4px
+       - **Left**: 20px
+     - **Size**:
+       - **Width**: 24px
+       - **Height**: 24px
+   - **SVG Path** (nested inside Icon)
+     - **ID**: I55696:1538;50721:10396;50721:10438;50755:11584
+     - **Position**:
+       - **Top**: 2px
+       - **Left**: 2px
+     - **Size**:
+       - **Width**: 20px
+       - **Height**: 20px
+     - **Fill Color**: #414941FF
+
+This badge is likely meant to be a visual indicator of notifications or updates in the user interface, positioned over an icon within the mobile mockup.

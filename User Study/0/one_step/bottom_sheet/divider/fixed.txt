@@ -1,0 +1,7 @@
+{
+  "violations": "The divider at the top of the bottom sheet is not necessary as the space itself can be used to separate the content. Material Design 3 Guidelines suggest avoiding the use of dividers if items could be grouped using open space instead.",
+  "changes": "Remove the unnecessary divider at the top of the bottom sheet.",
+  "changed_components": [],
+  "deleted_components": ["I57811:42822;51816:5861"],
+  "new_components": []
+}

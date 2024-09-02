@@ -1,0 +1,11 @@
+{
+  'violations': "The slider in the mockup does not clearly indicate the current value, which is important for usability.",
+  'changes': "Add a value indicator to the slider to display the current value.",
+  'changed_components': [
+    "<div class='Handle' id='I57811:40357;54593:25568' style='position: absolute; top: 0px; left: 160px; width: 4px; height: 44px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 2px; '><div class='Value-indicator' id='I57811:40357;54593:25568;54593:26185' style='position: absolute; top: -62px; left: -24px; width: 48px; height: 44px; overflow: hidden; opacity: 1; background-color: #DFE4DCFF; border-radius: 100px; '><div class='Label-text' id='I57811:40357;54593:25568;54593:26185;54593:26186' style='position: absolute; top: 12px; left: 15.5px; width: 18.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #2D322CFF; line-height: 20px; justify-content: center; align-items: center;'>50</div></div></div>"
+  ],
+  'deleted_components': [],
+  'new_components': [
+    ("<div class='Value-indicator' id='I57811:40357;54593:25568;54593:26185' style='position: absolute; top: -62px; left: -24px; width: 48px; height: 44px; overflow: hidden; opacity: 1; background-color: #DFE4DCFF; border-radius: 100px; '><div class='Label-text' id='I57811:40357;54593:25568;54593:26185;54593:26186' style='position: absolute; top: 12px; left: 15.5px; width: 18.0px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #2D322CFF; line-height: 20px; justify-content: center; align-items: center;'>50</div></div>", "I57811:40357;54593:25568")
+  ]
+}

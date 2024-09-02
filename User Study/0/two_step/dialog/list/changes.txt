@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. **Ambiguity in Interaction Elements:** The 'Select all' checkbox in the first list item could be mistaken for a regular list item checkbox. It needs to be more visually distinct to indicate its unique functionality. (Severity: High)",
+    "2. **Inconsistent Background Colors:** The background colors of the list items are inconsistent. The 'Select all' list item has a different background color compared to the other list items. This disrupts visual hierarchy and consistency. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. **Distinct Visual Treatment for 'Select all' Checkbox:** Modify the visual design of the 'Select all' checkbox to make it more distinct. This could include changing its size, color, or adding a label or icon that clearly indicates its function.",
+    "2. **Consistent Background Colors:** Ensure that all list items, including the 'Select all' item, have a consistent background color to maintain visual hierarchy and consistency."
+  ],
+  "guideline_request": "Material Design 3 guidelines on interaction elements and visual hierarchy",
+  "example_request": "examples of list items with distinct 'Select all' functionality and consistent background colors"
+}

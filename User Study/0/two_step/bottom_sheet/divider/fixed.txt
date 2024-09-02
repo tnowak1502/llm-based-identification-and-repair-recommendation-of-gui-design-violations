@@ -1,0 +1,11 @@
+```json
+{
+  "changed_components": [
+    "<div class='horizontal/inset' id='57811:42822' style='position: absolute; top: 72px; left: 0px; width: 412px; height: 1.0000265836715698px; overflow: hidden; opacity: 1; border-radius: 0px;'><hr class='Divider' id='I57811:42822;51816:5869' style='margin: 0px; position: absolute; left: 16px; width: 396px; height: 0.0px; opacity: 1; color: #C1C9BEFF;'/></div>",
+    "<div class='Share' id='57811:42818' style='position: absolute; top: 52px; left: 7.5px; width: 34.0px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.4000000059604645px; color: #414941FF; line-height: 16px; justify-content: left; align-items: top;'>Share</div>",
+    "<div class='Bookmark' id='57811:42821' style='position: absolute; top: 52px; left: 0px; width: 59px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.4000000059604645px; color: #414941FF; line-height: 16px; justify-content: left; align-items: top;'>Bookmark</div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

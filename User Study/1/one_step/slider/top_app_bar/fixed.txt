@@ -1,0 +1,9 @@
+{
+  "violations": "There is an empty trailing icon container in the top app bar, which is unnecessary and does not follow the guideline that elements that do not belong together should not appear to be grouped.",
+  "changes": "Remove the empty trailing icon container from the top app bar.",
+  "changed_components": [],
+  "deleted_components": [
+    "I57805:10798;50717:9083"
+  ],
+  "new_components": []
+}

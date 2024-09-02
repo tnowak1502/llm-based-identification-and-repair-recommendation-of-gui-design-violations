@@ -1,0 +1,57 @@
+{
+  'violations': '1. The divider between "Language" and the radio buttons is missing. 2. The divider between "Email settings" and the switch is missing. 3. The divider between the "Receive emails" switch and the checkboxes is missing.',
+  'changes': '1. Add a divider between "Language" and the radio buttons. 2. Add a divider between "Email settings" and the switch. 3. Add a divider between the "Receive emails" switch and the checkboxes.',
+  'changed_components': [
+    "<div class='List-item-1' config='1-line' id='I57811:40782;51964:62996' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:40782;51964:62996;51964:63039' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      </div>
+      <div class='state-layer' id='I57811:40782;51964:62996;51964:63040' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Content' id='I57811:40782;51964:62996;51964:63041' style='position: absolute; top: 8px; left: 16px; width: 372px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Headline' id='I57811:40782;51964:62996;51964:63043' style='position: absolute; top: 8px; left: 0px; width: 373px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Language
+          </div>
+        </div>
+      </div>
+      <div class='Divider' id='I57811:40782;51964:62996;51964:63534' style='position: absolute; top: 55.999969482421875px; left: 0px; width: 412px; height: 1.0000280141830444px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <hr class='Divider' id='I57811:40782;51964:62996;51964:63534;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+      </div>
+    </div>",
+    "<div class='List-item-5' config='1-line' id='I57811:40782;51964:63000' style='position: absolute; top: 225.00006103515625px; left: 0px; width: 412px; height: 56.0px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:40782;51964:63000;51964:63039' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      </div>
+      <div class='state-layer' id='I57811:40782;51964:63000;51964:63040' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Content' id='I57811:40782;51964:63000;51964:63041' style='position: absolute; top: 8px; left: 16px; width: 372px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Headline' id='I57811:40782;51964:63000;51964:63043' style='position: absolute; top: 8px; left: 0px; width: 373px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Email settings
+          </div>
+        </div>
+      </div>
+      <div class='Divider' id='I57811:40782;51964:63000;51964:63534' style='position: absolute; top: 55.999969482421875px; left: 0px; width: 412px; height: 1.0000280141830444px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <hr class='Divider' id='I57811:40782;51964:63000;51964:63534;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+      </div>
+    </div>",
+    "<div class='List-item-6' config='1-line' id='I57811:40782;51964:63001' style='position: absolute; top: 281.00006103515625px; left: 0px; width: 412px; height: 56.0px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class='state-layer-overlay' id='I57811:40782;51964:63001;51964:63547' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      </div>
+      <div class='state-layer' id='I57811:40782;51964:63001;51964:63548' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class='Leading-element' id='I57811:40782;51964:63001;51964:63549' style='position: absolute; top: 12px; left: 16px; width: 52px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Switch' config='selected' id='I57811:40782;51964:63001;51964:63550' style='position: absolute; top: 0px; left: 0px; width: 52px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class='Track' id='I57811:40782;51964:63001;51964:63550;51945:10137' style='position: absolute; top: 0px; left: 0px; width: 52px; height: 32px; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+            </div>
+            <div class='Handle-container' id='I57811:40782;51964:63001;51964:63550;52074:22094' style='position: absolute; top: -8px; left: 12px; width: 48px; height: 48px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class='Handle' id='I57811:40782;51964:63001;51964:63550;51945:10138' style='position: absolute; top: 12px; left: 12px; width: 24px; height: 24px; opacity: 1; background-color: #FFFFFFFF; border-radius: 23px; '>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='Content' id='I57811:40782;51964:63001;51964:63551' style='position: absolute; top: 8px; left: 84px; width: 304px; height: 40px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class='Headline' id='I57811:40782;51964:63001;51964:63553' style='position: absolute; top: 8px; left: 0px; width: 305px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Receive emails
+          </div>
+        </div>
+      </div>
+      <div class='Divider' id='I57811:40782;51964:63001;51964:63534' style='position: absolute; top: 55.999969482421875px; left: 0px; width: 412px; height: 1.0000280141830444px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <hr class='Divider' id='I57811:40782;51964:63001;51964:63534;51816:5861' style='margin: 0px;  position: absolute; left: 0px; width: 412px; height: 0.0px; opacity: 1; color: #CAC4D0FF;'/>
+      </div>
+    </div>"
+  ],
+  'deleted_components': [],
+  'new_components': []
+}

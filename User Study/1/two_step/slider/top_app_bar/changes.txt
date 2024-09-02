@@ -1,0 +1,15 @@
+{
+  "violations": [
+    {
+      "description": "The trailing-icon container in the top app bar is empty. According to Material Design 3 Guidelines, if there are no actions to be placed in the trailing-icon container, it should be removed to avoid unnecessary empty space.",
+      "severity": "Low"
+    }
+  ],
+  "changes": [
+    {
+      "description": "Remove the trailing-icon container from the top app bar since it does not contain any actions."
+    }
+  ],
+  "guideline_request": "top app bar trailing icons",
+  "example_request": "small top app bar without trailing icons"
+}

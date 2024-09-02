@@ -1,0 +1,26 @@
+```json
+{
+  "changed_components": [
+    "<div class = 'Filter-chip' id = '57811:38498' config='label only' style='position: absolute; top: 10px; left: 88px; width: 155px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #717970FF; '>
+      <div class = 'state-layer' id = 'I57811:38498;53923:28677' style='position: absolute; top: 0px; left: 0px; width: 155px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:38498;53923:28678' style='position: absolute; top: 6px; left: 16px; width: 124px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Incoming/Out
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Filter-chip' id = '57811:38499' config='label only' style='position: absolute; top: 10px; left: 253px; width: 102px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #717970FF; '>
+      <div class = 'state-layer' id = 'I57811:38499;53923:28677' style='position: absolute; top: 0px; left: 0px; width: 102px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:38499;53923:28678' style='position: absolute; top: 6px; left: 16px; width: 71px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Timeframe
+        </div>
+      </div>
+    </div>",
+    "<div class = 'Filter-chip' id = '57811:38500' config='label only' style='position: absolute; top: 10px; left: 365px; width: 63px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #717970FF; '>
+      <div class = 'state-layer' id = 'I57811:38500;53923:28677' style='position: absolute; top: 0px; left: 0px; width: 63px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+        <div class = 'label-text' id = 'I57811:38500;53923:28678' style='position: absolute; top: 6px; left: 16px; width: 32px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #414941FF; line-height: 20px; justify-content: center; align-items: center;'>Type
+        </div>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

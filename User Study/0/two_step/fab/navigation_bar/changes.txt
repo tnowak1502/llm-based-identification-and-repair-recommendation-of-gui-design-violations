@@ -1,0 +1,26 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "medium",
+      "description": "The label text for 'Communitys' is incorrect in German. The correct term should be 'Communities'. This can cause confusion for users and affect the readability and professionalism of the app.",
+      "guideline": "Information should be succinct, unambiguous, and not repetitive."
+    },
+    {
+      "severity": "low",
+      "description": "The badge for 'Chats' with '999+' overlaps with the icon, which might make it difficult to read both the icon and the badge. This can affect the readability and clarity of the navigation bar.",
+      "guideline": "Badges should not overlap with icons and should be clearly readable."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Correct the label text for 'Communitys' to 'Communities' to ensure proper German spelling and improve readability."
+    },
+    {
+      "description": "Adjust the position of the badge for 'Chats' so that it does not overlap with the icon, ensuring both the icon and the badge are clearly readable."
+    }
+  ],
+  "guideline_request": "Label text guidelines",
+  "example_request": "Navigation bar with badges and labeled icons"
+}
+```

@@ -1,0 +1,15 @@
+{
+  "violations": "1. Bottom Sheet Content: The bottom sheet contains a carousel, which should not be the main content of the bottom sheet. Bottom sheets should contain secondary content.\n2. Bottom Sheet Height: The height of the bottom sheet seems excessive for the content it holds, making it appear cluttered and not succinct.",
+  "changes": "1. Replace the carousel inside the bottom sheet with a list or other secondary content.\n2. Adjust the height of the bottom sheet to better fit the secondary content.",
+  "changed_components": [
+    "<div class='Bottom-Sheet' id='57805:12223' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 200px; overflow: hidden; opacity: 1; background-color: #F1F5EDFF; border-radius: 28px 28px 0px 0px; filter: drop-shadow(0px 1px 3px #0000004C); '>",
+    "<div class='Frame-19' id='57805:12228' style='position: absolute; top: 36px; left: 0px; width: 412px; height: 164px; overflow: hidden; opacity: 1; border-radius: 0px; '>"
+  ],
+  "deleted_components": [
+    "57805:12226",
+    "57805:12227"
+  ],
+  "new_components": [
+    ["<div class='Frame-21' id='57805:12240' style='position: absolute; top: 0px; left: 0px; width: 380px; height: 164px; overflow: hidden; opacity: 1; border-radius: 0px; '>", "57805:12228"]
+  ]
+}

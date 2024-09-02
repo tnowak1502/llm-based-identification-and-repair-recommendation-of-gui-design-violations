@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The badge background color (#FFFFFFFF) is white, which might not provide enough contrast with the icon or its surroundings, especially in light themes. This can make the badge difficult to notice. According to the Material Design 3 Guidelines, badges should have a contrasting color that sticks out from the icon and its surroundings."
+    },
+    {
+      "severity": "medium",
+      "description": "The badge text color (#506352FF) is a muted green-gray color, which might not provide sufficient contrast against the white background of the badge. This can make the text hard to read."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Change the badge background color to a more contrasting color that stands out against the icon and its surroundings. For example, using a darker or more vibrant color can make the badge more noticeable and comply with the Material Design 3 Guidelines."
+    },
+    {
+      "description": "Change the badge text color to a color with higher contrast against the badge background. For example, using a darker color for the text can make it more readable."
+    }
+  ],
+  "guideline_request": "badge color contrast guidelines",
+  "example_request": "badge"
+}
+```

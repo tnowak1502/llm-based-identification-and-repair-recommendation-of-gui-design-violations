@@ -1,0 +1,5 @@
+Violations:
+1. The FABs are not placed in the bottom right corner of the screen. Instead, they are scattered in different positions. According to Material Design guidelines, FABs should be placed in the bottom right corner to be easily accessible using thumbs. 2. The FABs are overlapping with other elements, such as the badge and the bottom app bar. FABs should be placed above other components without overlapping them.
+
+Changes:
+1. Relocate the FABs to the bottom right corner of the screen, ensuring they do not overlap with each other or other elements. 2. Ensure the FABs are placed above the bottom app bar without overlapping it.

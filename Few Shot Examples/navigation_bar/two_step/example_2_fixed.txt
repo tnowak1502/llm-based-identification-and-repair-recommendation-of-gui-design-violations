@@ -1,0 +1,10 @@
+```json
+{
+  "changed_components": [
+    "<div class = 'label-text' id = 'I55410:3228;50721:10395;50721:10455' style='position: absolute; top: 48px; left: 0px; width: 73.80000305175781px; height: 16px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 12px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 16px; justify-content: center; align-items: top;'>Activity
+          </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}
+```

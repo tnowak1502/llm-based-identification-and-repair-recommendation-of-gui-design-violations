@@ -1,0 +1,7 @@
+{
+  "violations": "I do not see any violations of material design 3 guidelines here.",
+  "changes": "Since there are no violations, there are also no necessary changes.",
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": []
+}

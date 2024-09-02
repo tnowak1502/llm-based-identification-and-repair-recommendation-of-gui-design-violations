@@ -1,0 +1,4 @@
+{'violations': '1. The "Cancel" and "Done" chips are being used for major actions which should instead be buttons.',
+ 'changes': '1. Replace the "Cancel" and "Done" chips with properly styled buttons to clearly indicate primary actions.',
+ 'guideline_request': 'button guidelines',
+ 'example_request': 'buttons'}

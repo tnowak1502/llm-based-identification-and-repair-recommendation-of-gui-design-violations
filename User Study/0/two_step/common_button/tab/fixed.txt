@@ -1,0 +1,13 @@
+```json
+{
+  "changed_components": [
+    "<div class=\"Icon\" id=\"I57811:10142;54563:40479;54563:40646\" style=\"position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"grid_view\" config=\"Outlined\" id=\"I57811:10142;54563:40479;54563:40646;55204:66416\" style=\"position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Vector\" id=\"I57811:10142;54563:40479;54563:40646;55204:66416;2402:57495\" style=\"position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;\"> <svg height=\"18px\" width=\"18px\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M 0 0 L 0 8 L 8 8 L 8 0 L 0 0 Z M 6 6 L 2 6 L 2 2 L 6 2 L 6 6 Z M 0 10 L 0 18 L 8 18 L 8 10 L 0 10 Z M 6 16 L 2 16 L 2 12 L 6 12 L 6 16 Z M 10 0 L 10 8 L 18 8 L 18 0 L 10 0 Z M 16 6 L 12 6 L 12 2 L 16 2 L 16 6 Z M 10 10 L 10 18 L 18 18 L 18 10 L 10 10 Z M 16 16 L 12 16 L 12 12 L 16 12 L 16 16 Z\" style=\"fill: #99D4A2FF;\"> </path> </svg> </div> </div> </div> </div>",
+    "<div class=\"Indicator\" id=\"I57811:10142;54563:40479;54563:40648\" style=\"position: absolute; top: 40px; left: 0px; width: 24px; height: 8px; overflow: hidden; opacity: 1; border-radius: 0px; \"> <div class=\"Shape\" id=\"I57811:10142;54563:40479;54563:40649\" style=\"position: absolute; top: 3px; left: 2px; width: 20px; height: 5px; opacity: 1; background-color: #99D4A2FF; border-radius: 100px 100px 0px 0px; \"> </div> </div>"
+  ],
+  "deleted_components": [
+    "I57811:10142;54563:40479;54563:40646;55204:66162",
+    "I57811:10142;54563:40479;54563:40648"
+  ],
+  "new_components": []
+}
+```

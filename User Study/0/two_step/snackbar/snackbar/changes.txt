@@ -1,0 +1,9 @@
+{
+  "violations": "1. Multiple snackbars are displayed simultaneously. According to Material Design 3 guidelines, only one snackbar should be displayed at a time. \n2. The text button in the snackbar has the same font color as the normal text, making it hard to recognize as an actionable component.",
+
+  "changes": "1. Ensure that only one snackbar is displayed at a time by queuing the snackbars or dismissing the previous one before showing a new one.\n2. Change the text button's color to an appropriate value to differentiate it from the other text.",
+
+  "guideline_request": "Snackbar guidelines, Snackbar action buttons",
+
+  "example_request": "Snackbar example, Snackbar with action button"
+}

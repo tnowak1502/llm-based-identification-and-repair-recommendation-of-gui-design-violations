@@ -1,0 +1,6 @@
+{
+    "violations": "1. The bottom app bar contains a single icon and a FAB. This amount of actions is not enough to warrant the use of a bottom app bar. Either come up with some more actions to fill the bottom app bar, or remove it, place the FAB on its own and change the search icon into a small supporting FAB.",
+    "changes": "1. Come up with 1-3 more actions to fill the bottom app bar and place them next to the search icon. Based on the image, these actions could be a delete action, an archive action, and a share action.",
+    "guideline_request": "bottom app bar guidelines",
+    "example_request": "bottom app bar with multiple icons"
+}

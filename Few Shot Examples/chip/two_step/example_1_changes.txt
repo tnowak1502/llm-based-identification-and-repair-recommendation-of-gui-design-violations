@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "While there are multiple chips present in the mockup, it seems that there is only one for filtering product types (the 'prints' chip). There should always be more than one filter option available per category.",
+  "changes": "Add more options to the top part of the filter section.",
+  "guideline_request": "Filter chips",
+  "example_request": "filter chip"
+}
+```

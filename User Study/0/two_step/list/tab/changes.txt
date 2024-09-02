@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Inconsistent Tab Indicator Width: The width of the tab indicator under the 'Ausgaben' tab is not consistent with the label width. This can create a visual imbalance and reduce clarity.",
+    "2. Ambiguous Tab Label Alignment: The labels 'Ausgaben' and 'Salden' are not centrally aligned within their respective tabs, which can make the UI look unbalanced."
+  ],
+  "changes": [
+    "1. Ensure the width of the tab indicator matches the width of the label text to maintain visual balance.",
+    "2. Center-align the tab labels within their respective tabs to create a more balanced and visually appealing layout."
+  ],
+  "guideline_request": "tab indicator width, tab label alignment",
+  "example_request": "Material Design 3 tab examples"
+}
+```

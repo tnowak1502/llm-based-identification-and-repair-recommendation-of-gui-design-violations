@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar includes five destinations, but one of them ('Inbox') contains a badge indicating a number of notifications. According to the Material Design 3 guidelines, badges can be used in navigation bars to indicate notifications or item counts, but it should be clear and consistent across the app. The badge should not overlap with the icon, as it may cause readability issues."
+    },
+    {
+      "severity": "medium",
+      "description": "The 'Post' icon might be better suited as a floating action button (FAB) rather than a navigation bar item. FABs are used for primary actions and can provide a more prominent and accessible way for users to create a new post."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Ensure the badge on the 'Inbox' icon does not overlap with the icon itself. Adjust the position of the badge so it is clearly visible without obstructing the icon."
+    },
+    {
+      "description": "Consider replacing the 'Post' icon in the navigation bar with a floating action button (FAB) to make it more prominent and accessible for users to create a new post."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines, Floating Action Button Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with badges, Floating Action Button example"
+}
+```

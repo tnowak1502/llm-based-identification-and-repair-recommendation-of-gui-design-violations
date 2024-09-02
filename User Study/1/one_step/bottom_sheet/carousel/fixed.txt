@@ -1,0 +1,23 @@
+{
+  "violations": "1. Carousel items too small: The items in the carousel have a very low width. This also results in 4 items being visible simultaneously, which can be okay, but not if they are more complicated, which is the case here. 2. The 'Show all' button is not included in the carousel code. 3. The second carousel (Carousel-dark) has items that are too small to clearly see what they are.",
+  "changes": "1. Increase the width of the carousel items by at least enough so only three items are visible at a time, probably even a bit more. 2. Add a 'Show all' button to the first carousel. 3. Increase the width of the items in the second carousel.",
+  "changed_components": [
+    "<div class = 'Carousel' id = '57805:12193' style='position: absolute; top: 8px; left: 0px; width: 412px; height: 221px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'Item-1' id = 'I57805:12193;53912:27491' style='position: absolute; top: 8px; left: 16px; width: 252px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class = 'Item-2' id = 'I57805:12193;53912:27493' style='position: absolute; top: 8px; left: 280px; width: 252px; height: 205px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <button id = 'show-all' style='position: absolute; top: 8px; left: 544px; width: 100px; height: 40px; opacity: 1; background-color: #6200EE; color: white; border: none; border-radius: 20px; '>Show all</button>
+    </div>",
+    "<div class = 'Carousel-dark' id = '57805:12227' style='position: absolute; top: 0px; left: 16px; width: 380px; height: 158px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+      <div class = 'Item-1' id = 'I57805:12227;54490:25370' style='position: absolute; top: 8px; left: 16px; width: 284px; height: 142px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+      <div class = 'Item-Last' id = 'I57805:12227;54490:25372' style='position: absolute; top: 8px; left: 308px; width: 284px; height: 142px; overflow: hidden; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 28px; '>
+      </div>
+    </div>"
+  ],
+  "deleted_components": [],
+  "new_components": [
+    ("<button id = 'show-all' style='position: absolute; top: 8px; left: 544px; width: 100px; height: 40px; opacity: 1; background-color: #6200EE; color: white; border: none; border-radius: 20px; '>Show all</button>", "57805:12193")
+  ]
+}

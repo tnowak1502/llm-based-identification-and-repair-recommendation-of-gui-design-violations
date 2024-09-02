@@ -1,0 +1,12 @@
+{
+  "violations": [
+    "1. Inconsistent Icon Button Weight and Color: The icons inside the icon buttons have different weights and colors. The 'Share' icon has a different weight and color compared to the 'Bookmark' icon. According to Material Design 3 guidelines, icons in the same component should have the same weight and color to maintain visual consistency and clarity. (Severity: High)",
+    "2. Misalignment of Text Labels: The text labels 'Share' and 'Bookmark' are not consistently aligned. 'Share' is left-aligned, while 'Bookmark' is slightly off-center. Text labels should be consistently aligned to ensure a clean and cohesive look. (Severity: Medium)"
+  ],
+  "changes": [
+    "1. Standardize the weight and color of the icons inside the icon buttons to ensure they match. This will improve visual consistency and make it clear that these buttons are part of the same component group.",
+    "2. Adjust the alignment of the text labels 'Share' and 'Bookmark' to ensure they are consistently aligned. This will create a more cohesive and visually appealing layout."
+  ],
+  "guideline_request": "Icon button weight and color consistency",
+  "example_request": "icon buttons"
+}

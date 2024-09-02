@@ -1,0 +1,40 @@
+{
+  "changed_components": [
+    "<div class = 'Frame-8' id = '57805:9244' style='position: absolute; top: 0px; left: 0px; width: 412px; height: 76px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+          <div class = 'volume_up' id = '57805:9245' style='position: absolute; top: 26px; left: 16px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'volume_up' config='Outlined' id = 'I57805:9245;55204:67052' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Vector' id = 'I57805:9245;55204:67052;2402:43210' style='position: absolute; top: 3.229999542236328px; left: 3px; width: 18px; height: 17.540000915527344px; '>
+                <svg height = '17.540000915527344px' width = '18px' xmlns = 'http://www.w3.org/2000/svg'>
+                  <path d='M 0 5.769999980926514 L 0 11.770000457763672 L 4 11.770000457763672 L 9 16.770000457763672 L 9 0.7699999809265137 L 4 5.769999980926514 L 0 5.769999980926514 Z M 7 5.599999904632568 L 7 11.940000534057617 L 4.829999923706055 9.770000457763672 L 2 9.770000457763672 L 2 7.769999980926514 L 4.829999923706055 7.769999980926514 L 7 5.599999904632568 Z M 13.5 8.770000457763672 C 13.5 7.000000476837158 12.480000019073486 5.479999780654907 11 4.739999771118164 L 11 12.790000915527344 C 12.480000019073486 12.060000896453857 13.5 10.540000438690186 13.5 8.770000457763672 Z M 11 0 L 11 2.059999942779541 C 13.890000104904175 2.9199999570846558 16 5.600000381469727 16 8.770000457763672 C 16 11.940000534057617 13.890000104904175 14.619999527931213 11 15.479999542236328 L 11 17.540000915527344 C 15.010000228881836 16.6300008893013 18 13.050000667572021 18 8.770000457763672 C 18 4.490000247955322 15.010000228881836 0.9100000262260437 11 0 Z' style='fill: #181D18FF; '>
+                  </path>
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div class = 'Frame-7' id = '57805:9246' style='position: absolute; top: 0px; left: 40px; width: 356px; height: 76px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+            <div class = 'Volume' id = '57805:9247' style='position: absolute; top: 0px; left: 16px; width: 58px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #181D18FF; line-height: 24px; justify-content: left; align-items: center;'>Volume
+            </div>
+            <div class = 'Continuous' id = '57805:9248' style='position: absolute; top: 32px; left: 16px; width: 324px; height: 44px; opacity: 1; border-radius: 0px; '>
+              <div class = 'Active-track' id = 'I57805:9248;54593:25567' style='position: absolute; top: 14px; left: 0px; width: 154px; height: 16px; overflow: hidden; opacity: 1; border-radius: 16px 2px 2px 16px; '>
+                <div class = 'Track' id = 'I57805:9248;54593:25567;54593:26117' style='position: absolute; top: 0px; left: 0px; width: 154px; height: 16px; opacity: 1; background-color: #326940FF; border-radius: 16px 2px 2px 16px; '>
+                </div>
+              </div>
+              <div class = 'Handle' id = 'I57805:9248;54593:25568' style='position: absolute; top: 0px; left: 160px; width: 4px; height: 44px; overflow: hidden; opacity: 1; background-color: #326940FF; border-radius: 2px; '>
+              </div>
+              <div class = 'Inactive-track' id = 'I57805:9248;54593:25569' style='position: absolute; top: 14px; left: 170px; width: 154px; height: 16px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Track' id = 'I57805:9248;54593:25569;54593:26123' style='position: absolute; top: 0px; left: 0px; width: 154px; height: 16px; opacity: 1; background-color: #B5F1BDFF; border-radius: 2px 16px 16px 2px; '>
+                </div>
+                <div class = 'Track-dot' id = 'I57805:9248;54593:25569;54593:26124' style='position: absolute; top: 6px; left: 146px; width: 4px; height: 4px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Dot' id = 'I57805:9248;54593:25569;54593:26124;54593:26121' style='position: absolute; top: 0px; left: 0px; width: 4px; height: 4px; opacity: 1; background-color: #326940FF; border-radius: 100px; '>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>"
+  ],
+  "deleted_components": [
+    "57805:9240"
+  ],
+  "new_components": []
+}

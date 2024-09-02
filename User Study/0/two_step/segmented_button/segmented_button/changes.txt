@@ -1,0 +1,6 @@
+{
+  "violations": "1. The segmented button segments use both icons and label text, but the selected segment icon has a different weight compared to the text. 2. The segments are not styled consistently: the 'Delivery' segment uses a selected icon, while the 'Pick Up' segment does not.",
+  "changes": "1. Ensure that the icons and label text have the same weight, so they appear visually balanced. 2. Consistently style the segments by either including icons in both segments or removing them from both segments.",
+  "guideline_request": "segmented button icon and text weight guidelines",
+  "example_request": "segmented button icon and text weight examples"
+}

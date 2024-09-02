@@ -1,0 +1,14 @@
+```json
+{
+  "violations": [
+    "1. Ambiguous Tab Label ('Sports and other non Movie and non Series things'): The label 'Sports and other non Movie and non Series things' is extremely long and truncated, making it difficult to understand its purpose. This significantly affects the usability and clarity of the tab.",
+    "2. Uneven Distribution of Space: The tabs are not evenly distributed. The fourth tab label is excessively long, causing it to overflow into the space allocated for the other tabs, which can disrupt the user experience and make navigation confusing."
+  ],
+  "changes": [
+    "1. Shorten the tab labels to ensure they are not truncated and fit within the allocated space. Consider using more concise language or abbreviations where appropriate.",
+    "2. Ensure that the space between tabs is evenly distributed. This might involve adjusting the width of the tabs to accommodate the longest label or using scrolling tabs if there are too many labels to fit in the available space."
+  ],
+  "guideline_request": "tab label truncation, tab spacing",
+  "example_request": "Material Design 3 tab examples"
+}
+```

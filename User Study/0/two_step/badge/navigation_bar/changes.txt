@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar includes a badge on the 'Chat' icon indicating a count of notifications. According to the Material Design 3 guidelines, navigation bars should not include badges as they can cause confusion about the primary function of the navigation bar, which is to navigate between top-level destinations.",
+      "guideline": "Navigation bars should not include badges."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Remove the badge from the 'Chat' icon in the navigation bar."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar without badges"
+}
+```

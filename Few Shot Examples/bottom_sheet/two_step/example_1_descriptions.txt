@@ -1,0 +1,19 @@
+Based on the HTML code and the provided image, here is a detailed description of the bottom sheets in the mockup:
+
+1. **Light Bottom Sheet**
+   - **Type**: Bottom Sheet
+   - **Color**: Light background color `#F1F5ED`
+   - **Size**: Width of 412px, Height of 267px
+   - **Shape**: Rectangular with top corners rounded (radius 28px)
+   - **Position**: Positioned absolutely at top 537px, left 0px
+   - **ID**: `55697:9424`
+   - **Likely Function**: Likely serves as a container for additional content or actions users can take. The sheet includes a drag handle for user interaction, a content section, and several buttons for quick actions.
+   - **Attributes**:
+     - **Drag Handle**: Centered horizontally at 16px from the top, 32px width, 4px height, with color `#717970` and rounded radius 100px.
+     - **Content Section**: A rectangle occupying most of the sheet (top: 36px, left: 16px, width: 380px, height: 231px, color `#D9D9D9`).
+     - **Extended FAB (Floating Action Button)**: Positioned at top 195px, left 237px, size 143px by 56px, background color `#E5EAE1`, rounded corners (radius 16px), with a QR code icon and label text "Rent a bike".
+     - **Small FABs**:
+       - Positioned at top 139px, left 340px, size 40px by 40px, background color `#E5EAE1`, rounded corners (radius 12px), with a location icon.
+       - Positioned at top 83px, left 340px, size 40px by 40px, background color `#E5EAE1`, rounded corners (radius 12px), with a filter icon.
+
+Given the image and code, the mockup includes interactive elements that are typical in mobile interfaces, such as drag handles, quick action buttons (FABs), and sections for displaying dynamic content (news, account settings, etc.). The bottom sheet components are strategically placed to enable user interaction while providing a clean and organized layout.

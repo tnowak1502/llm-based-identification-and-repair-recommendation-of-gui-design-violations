@@ -1,0 +1,7 @@
+```json
+{
+  "changed_components": [],
+  "deleted_components": [],
+  "new_components": []
+}
+```

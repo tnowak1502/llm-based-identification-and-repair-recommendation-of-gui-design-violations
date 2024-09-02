@@ -1,0 +1,18 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar is missing labels for the icons. According to Material Design 3 guidelines, if one destination is labeled, all destinations should be labeled. This can cause inconsistency and confusion for users.",
+      "guideline": "Each destination in a navigation bar should have an icon and optionally label text. If one destination is labeled, all destinations should be labeled."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Add labels to the icons in the navigation bar to ensure consistency and improve user understanding of each icon's function."
+    }
+  ],
+  "guideline_request": "Navigation bar guidelines",
+  "example_request": "Example of a navigation bar with labeled icons"
+}
+```

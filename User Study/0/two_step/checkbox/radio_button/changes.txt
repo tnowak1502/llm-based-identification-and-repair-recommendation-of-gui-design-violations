@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The radio buttons are nested within other components, which is not recommended.\n2. The radio buttons do not have proper labels associated with them, making it unclear which option is selected.",
+  "changes": "1. Remove the nesting of radio buttons within other components.\n2. Ensure each radio button has a clear and associated label to indicate the option it represents.",
+  "guideline_request": "radio buttons nesting, radio buttons labels",
+  "example_request": "radio button with label"
+}
+```

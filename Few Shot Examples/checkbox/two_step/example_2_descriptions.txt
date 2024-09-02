@@ -1,0 +1,61 @@
+Here is a detailed, natural-language description of each checkbox element based on the provided HTML code snippets and the mockup image:
+
+1. **Checkbox 1:**
+
+   - **ID:** I55649:35868;51964:63506
+   - **Type:** Indeterminate
+   - **Color:** 
+     - Container background color: #326940FF 
+     - Icon color: #FFFFFFFF (white)
+   - **Size:** 
+     - Outer container: 44px by 48px
+     - State layer: 40px by 40px
+     - Inner container: 18px by 18px
+     - Icon: 10px by 2px
+   - **Shape:** 
+     - Outer layers: Rounded corners (border-radius: 100px)
+     - Inner container: Slightly rounded corners (border-radius: 2px)
+   - **Position:**
+     - General: Positioned at top 4px and left 16px within its parent container
+     - Specific: The state layer is positioned 4px from the top and 0px from the left; the inner container is positioned 11px from the top and 11px from the left; the icon is positioned 11px from the top and 7px from the left within the inner container.
+   - **Likely Function:** This checkbox is in an indeterminate state, which usually indicates that only some sub-items are selected, or the checkbox is used for multi-state selections in forms or lists.
+
+2. **Checkbox 2:**
+
+   - **ID:** I55649:35870;51964:63506
+   - **Type:** Selected
+   - **Color:**
+     - Container background color: #326940FF
+     - Icon color: #FFFFFFFF (white)
+   - **Size:**
+     - Outer container: 44px by 48px
+     - State layer: 40px by 40px
+     - Inner container: 18px by 18px
+     - Icon: 12px by 9.4px
+   - **Shape:**
+     - Outer layers: Rounded corners (border-radius: 100px)
+     - Inner container: Slightly rounded corners (border-radius: 2px)
+   - **Position:**
+     - General: Positioned at top 4px and left 16px within its parent container
+     - Specific: The state layer is positioned 4px from the top and 0px from the left; the inner container is positioned 11px from the top and 11px from the left; the icon is positioned 6.999999046325684px from the top and 6px from the left within the inner container.
+   - **Likely Function:** This checkbox is selected, indicating that the associated option is active or chosen in the context of a form or list.
+
+3. **Checkbox 3:**
+
+   - **ID:** I55649:35869;51964:63506
+   - **Type:** Unselected
+   - **Color:**
+     - Container background color: Transparent with an inset shadow of #414941FF (gray color)
+   - **Size:**
+     - Outer container: 44px by 48px
+     - State layer: 40px by 40px
+     - Inner container: 18px by 18px
+   - **Shape:**
+     - Outer layers: Rounded corners (border-radius: 100px)
+     - Inner container: Slightly rounded corners (border-radius: 2px)
+   - **Position:**
+     - General: Positioned at top 4px and left 16px within its parent container
+     - Specific: The state layer is positioned 4px from the top and 0px from the left; the inner container is positioned 11px from the top and 11px from the left.
+   - **Likely Function:** This checkbox is unselected, indicating that the associated option is inactive or not chosen in the context of a form or list.
+
+These checkboxes appear to be part of a list of options, and their respective states (indeterminate, selected, unselected) provide visual cues about the selection status of each item within the list. The positions and shapes are designed for consistency and clarity in a mobile user interface.

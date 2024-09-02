@@ -1,0 +1,34 @@
+{
+  "violations": "It looks like the segmented button is being used to filter search results. This is not something they are intended for, as filter chips take care of this.",
+  "changes": "Replace the segmented button with three filter chips, labeled 'Show all', 'Unicolor' and 'Prints' respectively.",
+  "changed_components": [], 
+  "deleted_components": [
+    "55672:6437"
+  ], 
+  "new_components": [
+    ["<div class = 'Filter-chip-dark' id = '55630:5429' config='label only' style='position: absolute; top: 8px; left: 16px; width: 104px; height: 32px; overflow: hidden; opacity: 1; background-color: #394B3BFF; border-radius: 8px; '>
+            <div class = 'state-layer' id = 'I55630:5429;53923:29454' style='position: absolute; top: 0px; left: 0px; width: 104px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'Selected-icon' id = 'I55630:5429;53923:29455' style='position: absolute; top: 7px; left: 8px; width: 18px; height: 18px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class='icon' id='I55630:5429;53923:29455;50656:8963' style='position: absolute; top: 4.192500114440918px; left: 2.557500123977661px; width: 13.192500114440918px; height: 10.057499885559082px;'>
+                  <svg height = '10.057499885559082px' width = '13.192500114440918px' xmlns = 'http://www.w3.org/2000/svg'>
+                    <path d='M 4.192500114440918 7.934999942779541 L 1.0649999678134918 4.807499885559082 L 0 5.865000128746033 L 4.192500114440918 10.057499885559082 L 13.192500114440918 1.0574999749660492 L 12.135000228881836 0 L 4.192500114440918 7.934999942779541 Z' style='fill: #D3E8D2FF;'/>
+                  </svg>
+                </div>
+              </div>
+              <div class = 'label-text' id = 'I55630:5429;53923:29456' style='position: absolute; top: 6px; left: 34px; width: 55px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #D3E8D2FF; line-height: 20px; justify-content: center; align-items: center;'>Show all
+              </div>
+            </div>
+          </div>", "55672:6281"],
+    ["<div class = 'Filter-chip-dark' id = '55630:5439' config='label only' style='position: absolute; top: 8px; left: 128px; width: 93px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+            <div class = 'state-layer' id = 'I55630:5439;53923:29647' style='position: absolute; top: 0px; left: 0px; width: 93px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'label-text' id = 'I55630:5439;53923:29648' style='position: absolute; top: 6px; left: 16px; width: 62px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Unicolors
+              </div>
+            </div>
+          </div>", "55672:6281"],
+    ["<div class = 'Filter-chip-dark' id = '55630:5442' config='label only' style='position: absolute; top: 8px; left: 229px; width: 70px; height: 32px; overflow: hidden; opacity: 1; border-radius: 8px; box-shadow: inset 0 0 0 1px #8B9389FF; '>
+            <div class = 'state-layer' id = 'I55630:5442;53923:29647' style='position: absolute; top: 0px; left: 0px; width: 70px; height: 32px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+              <div class = 'label-text' id = 'I55630:5442;53923:29648' style='position: absolute; top: 6px; left: 16px; width: 39px; height: 20px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 500; letter-spacing: 0.10000000149011612px; color: #C1C9BEFF; line-height: 20px; justify-content: center; align-items: center;'>Prints
+              </div>
+            </div>", "55672:6281"]
+  ]
+}

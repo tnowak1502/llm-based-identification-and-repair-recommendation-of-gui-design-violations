@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The navigation bar includes three segments, but all the labels are generic ('Label'). This makes the navigation bar ambiguous and uninformative, violating the guideline that information should be succinct, unambiguous, and not repetitive."
+    },
+    {
+      "severity": "medium",
+      "description": "The badge indicating a notification count is placed in the third segment. While this is acceptable, the badge's color (#BA1A1AFF) might not provide sufficient contrast against the background, making it less noticeable."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Replace the generic labels ('Label') with specific, descriptive labels that clearly indicate the purpose of each segment. For example, use 'Search', 'Filter', and 'Notifications' instead of 'Label'."
+    },
+    {
+      "description": "Ensure that the badge color provides sufficient contrast against the background to make it noticeable. Consider using a color that stands out more against the light background."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines, Badge Color Contrast Guidelines",
+  "example_request": "Navigation Bar with Descriptive Labels, Badge with High Contrast"
+}
+```

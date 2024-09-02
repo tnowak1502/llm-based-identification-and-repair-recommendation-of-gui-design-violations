@@ -1,0 +1,5 @@
+Violations:
+The divider below the volume section is a full-width divider, but the section below it (language selection) is related content. According to Material Design 3 Guidelines, an inset divider should be used to separate related content within a section.
+
+Changes:
+Replace the full-width divider with an inset divider to better group the related content.

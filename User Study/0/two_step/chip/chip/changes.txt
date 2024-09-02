@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. Chips are being used for major actions like 'Delete filters' and 'Submit', which should be reserved for buttons. 2. The chips 'Pet Images', 'Conference Call', 'Octopus', and 'Favorites' do not seem to fit into typical filter categories, leading to potential confusion about their purpose.",
+  "changes": "1. Replace 'Delete filters' and 'Submit' chips with buttons to clearly indicate primary actions. 2. Reevaluate the use of chips for 'Pet Images', 'Conference Call', 'Octopus', and 'Favorites' to ensure they are appropriate for their intended function.",
+  "guideline_request": "button guidelines, chip usage guidelines",
+  "example_request": "buttons, filter chips"
+}
+```

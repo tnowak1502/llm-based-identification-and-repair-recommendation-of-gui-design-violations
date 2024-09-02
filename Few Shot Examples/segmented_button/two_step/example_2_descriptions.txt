@@ -1,0 +1,35 @@
+### Description of Segmented Button 1
+
+**Type:** Segmented Button  
+**ID:** `55672:4388`  
+**Position:** Absolute; top: 0px; left: 16px  
+**Size:** Width: 380px; Height: 48px  
+**Color:** Not specified for main container, but individual segments have colors  
+**Shape:** Rectangular with no border-radius, but segments have rounded corners  
+**Likely Function:** To switch between different types of transfers (Incoming and Outgoing)  
+**Segments:**
+
+1. **Segment:**
+   - **Type:** Start Segment
+   - **ID:** `I55672:4388;53923:36686`
+   - **Position:** Absolute; top: 0px; left: 0px
+   - **Size:** Width: 190.5px; Height: 48px
+   - **Color:** Background color is `#D3E8D2FF` with an inset shadow `#717970FF`
+   - **Shape:** Rounded corners (100px 0px 0px 100px)
+   - **Content:**
+     - **Selected Icon:** Positioned at top: 11px, left: 51.75px; size: 18px by 18px; filled with color `#0E1F12FF`
+     - **Label Text:** Positioned at top: 0px, left: 77.75px; size: 62px by 40px; text: "Incoming Transfers"; font: Roboto, 14px, 500 weight, color `#0E1F12FF`
+   
+2. **Segment:**
+   - **Type:** End Segment
+   - **ID:** `I55672:4388;53923:36687`
+   - **Position:** Absolute; top: 0px; left: 189.5px
+   - **Size:** Width: 190.5px; Height: 48px
+   - **Color:** Border color as inset shadow `#717970FF`
+   - **Shape:** Rounded corners (0px 100px 100px 0px)
+   - **Content:**
+     - **Label Text:** Positioned at top: 0px, left: 64.75px; size: 62px by 40px; text: "Outgoing Transfers"; font: Roboto, 14px, 500 weight, color `#181D18FF`
+
+### General Overview
+
+From the provided image and code snippets, the segmented button is located at the top of the lower section of the mockup interface. It is used to toggle between different transfer types (Incoming and Outgoing Transfers). The first segment appears selected, as indicated by the presence of the "Selected Icon" and the different background color. The buttons are designed to fit within a modern mobile interface, having a clean and minimalistic style that fits the overall design language. The segments have rounded corners on the outer edges to improve visual appeal and touch-target areas.

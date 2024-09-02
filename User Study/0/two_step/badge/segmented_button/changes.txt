@@ -1,0 +1,8 @@
+```json
+{
+  "violations": "1. The segmented button segments mix icon-only and label & icon configurations. According to Material Design 3 guidelines, each segment of a segmented button should be styled the same way, and should not mix icon-only and label & icon segments. 2. The segmented button segments are not grouped uniformly. The segmented button segments should be grouped together in a way that visually indicates they belong together.",
+  "changes": "1. Ensure each segment of the segmented button is styled the same way. Either use label & icon for all segments or icon-only for all segments. 2. Adjust the layout so that the segmented button segments are grouped together with consistent spacing and alignment to visually indicate they belong together.",
+  "guideline_request": "segmented button styling guidelines",
+  "example_request": "segmented button examples"
+}
+```

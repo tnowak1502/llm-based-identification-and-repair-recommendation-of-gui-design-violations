@@ -1,0 +1,6 @@
+{
+  'violations': "The navigation bar is implemented correctly, but judging by the icons it contains, it does not seem to be used for navigation, but rather for various actions related to the current screen. This is not something that navigation bars should be used for, as it is the purpose of bottom app bars.",
+  'changes': "Replace the navigation bar with a bottom app bar containing the same icons and move the FAB into the new bottom app bar.",
+  'guideline_request': 'bottom app bar guidelines',
+  'example_request': 'bottom app bar with 4 icons and FAB'
+}

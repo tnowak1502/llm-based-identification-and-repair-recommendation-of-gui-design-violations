@@ -1,0 +1,140 @@
+The code snippet represents a dark mode menu with several list items. Here is a detailed description:
+
+### General Menu Description
+- **ID:** 55767:23691
+- **Type:** Vertical dropdown menu
+- **Mode:** Dark mode
+- **Position:** 
+  - `Top:` 254px
+  - `Left:` 202px
+- **Dimensions:** 
+  - `Width:` 200px
+  - `Height:` 296px
+- **Shape:** Rectangular with rounded corners
+- **Color:** Dark background (#1C211CFF)
+- **Shadow:** Drop shadow with slight opacity
+- **Border Radius:** 4px
+- **Opacity:** Fully opaque (1)
+- **Overflow:** Hidden
+
+### Menu List Description
+- **ID:** I55767:23691;54061:37114
+- **Position:** 
+  - `Top:` 8px
+  - `Left:` 0px
+- **Dimensions:** 
+  - `Width:` 200px
+  - `Height:` 280px
+- **Shape:** No additional border radius
+- **Opacity:** Fully opaque (1)
+- **Overflow:** Hidden
+
+### Menu Items Description
+1. **Menu Item 1:**
+   - **ID:** I55767:23691;54061:37115
+   - **Position:** 
+     - `Top:` 0px
+     - `Left:` 0px
+   - **Dimensions:** 
+     - `Width:` 200px
+     - `Height:` 56px
+   - **Label:**
+     - **Text:** "Neue Gruppe"
+     - **Font:** Roboto, 16px, 400 weight
+     - **Color:** #DFE4DCFF
+     - **Position:** 
+       - `Top:` 0px
+       - `Left:` 0px
+     - **Dimensions:** 
+       - `Width:` 177px
+       - `Height:` 24px
+     - **Alignment:** Left, center-vertical
+
+2. **Menu Item 2:**
+   - **ID:** I55767:23691;54061:37116
+   - **Position:** 
+     - `Top:` 56px
+     - `Left:` 0px
+   - **Dimensions:** 
+     - `Width:` 200px
+     - `Height:` 56px
+   - **Label:**
+     - **Text:** "Neuer Broadcast"
+     - **Font:** Roboto, 16px, 400 weight
+     - **Color:** #DFE4DCFF
+     - **Position:** 
+       - `Top:` 0px
+       - `Left:` 0px
+     - **Dimensions:** 
+       - `Width:` 177px
+       - `Height:` 24px
+     - **Alignment:** Left, center-vertical
+
+3. **Menu Item 3:**
+   - **ID:** I55767:23691;54061:37117
+   - **Position:** 
+     - `Top:` 112px
+     - `Left:` 0px
+   - **Dimensions:** 
+     - `Width:` 200px
+     - `Height:` 56px
+   - **Label:**
+     - **Text:** "Verknüpfte Geräte"
+     - **Font:** Roboto, 16px, 400 weight
+     - **Color:** #DFE4DCFF
+     - **Position:** 
+       - `Top:` 0px
+       - `Left:` 0px
+     - **Dimensions:** 
+       - `Width:` 177px
+       - `Height:` 24px
+     - **Alignment:** Left, center-vertical
+
+4. **Menu Item 4:**
+   - **ID:** I55767:23691;54061:37118
+   - **Position:** 
+     - `Top:` 168px
+     - `Left:` 0px
+   - **Dimensions:** 
+     - `Width:` 200px
+     - `Height:` 56px
+   - **Label:**
+     - **Text:** "Mit Stern markiert"
+     - **Font:** Roboto, 16px, 400 weight
+     - **Color:** #DFE4DCFF
+     - **Position:** 
+       - `Top:` 0px
+       - `Left:` 0px
+     - **Dimensions:** 
+       - `Width:` 177px
+       - `Height:` 24px
+     - **Alignment:** Left, center-vertical
+
+5. **Menu Item 5:**
+   - **ID:** I55767:23691;54061:37119
+   - **Position:** 
+     - `Top:` 224px
+     - `Left:` 0px
+   - **Dimensions:** 
+     - `Width:` 200px
+     - `Height:` 56px
+   - **Label:**
+     - **Text:** "Einstellungen"
+     - **Font:** Roboto, 16px, 400 weight
+     - **Color:** #DFE4DCFF
+     - **Position:** 
+       - `Top:` 0px
+       - `Left:` 0px
+     - **Dimensions:** 
+       - `Width:` 177px
+       - `Height:` 24px
+     - **Alignment:** Left, center-vertical
+
+### Likely Function
+This menu appears to be a context menu that offers options for creating a new group, broadcasting a message, linking devices, viewing starred messages, and accessing settings.
+
+### Important Attributes
+- The design uses a dark color scheme suitable for dark mode.
+- Each menu item is styled uniformly with consistent text alignment, font size, and color scheme.
+- The menu has rounded corners and a slight shadow to make it stand out against the dark background.
+- It is likely to be a navigational or options menu within an application.

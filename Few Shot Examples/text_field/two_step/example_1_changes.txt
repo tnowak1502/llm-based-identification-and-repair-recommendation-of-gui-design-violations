@@ -1,0 +1,6 @@
+{
+  "violations": "The text fields in the mockup are inconsistently styled (two filled and two outlined), even though they are in the same region.",
+  "changes": "Change the two filled text fields into outlined text fields.",
+  "guideline_request": "text fields",
+  "example_request": "outlined text field"
+}

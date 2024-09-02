@@ -1,0 +1,10 @@
+{
+  "violations": "The cards in the mockup contain a few issues related to the Material Design 3 Guidelines. The most significant ones are: 1. The content in the cards is repetitive. 2. The use of icons is inconsistent. 3. The information hierarchy is not clear.",
+  "changes": [
+    "Combine repetitive cards into a list component to aggregate similar entries. This will make the information presented more succinct and reduce redundancy.",
+    "Ensure that icons used within the cards are consistent in style and weight.",
+    "Improve the information hierarchy by adjusting the size and prominence of text elements to clearly indicate the most important information."
+  ],
+  "guideline_request": "List guidelines, icon guidelines, information hierarchy guidelines",
+  "example_request": "list, icons, text hierarchy"
+}

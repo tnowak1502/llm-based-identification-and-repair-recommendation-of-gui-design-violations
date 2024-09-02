@@ -1,0 +1,75 @@
+{
+  "violations": [
+    "The leading elements (thumbnails) are positioned on the right for List Items 2, 3, 4, 5, and 6. According to Material Design 3 guidelines, supporting visuals should be anchored to the leading edge of the list items, which means they should be placed on the left side."
+  ],
+  "changes": [
+    "Move the leading elements (thumbnails) to the left side of List Items 2, 3, 4, 5, and 6 to comply with the guideline that supporting visuals should be anchored to the leading edge of list items."
+  ],
+  "changed_components": [
+    "<div class = 'Content' id = '55404:8748' style='position: absolute; top: 12px; left: 88px; width: 260px; height: 48.00006103515625px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Headline' id = '55190:6401' style='position: absolute; top: 0px; left: 0px; width: 261px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Song Title
+                </div>
+                <div class = 'Group-12' id = '55190:6410' style='position: absolute; top: 24px; left: 0px; width: 284px; height: 24px; opacity: 1; '>
+                  <div class = 'Icons/file_download' id = '55190:6159' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55190:6159;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+                      <svg height = '16px' width = '16px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #FFFFFFFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                  <div class = 'Supporting-text' id = '55190:6402' style='position: absolute; top: 2.00006103515625px; left: 24px; width: 261px; height: 20.0px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>Artist Name
+                  </div>
+                </div>
+              </div>",
+    "<div class = 'Leading-element' id = '55404:8746' style='position: absolute; top: 12px; left: 16px; width: 56px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Building-Blocks/image-Thumbnail' id = '55190:6398' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Thumbnail' id = 'I55190:6398;51964:70967' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 0px; '>
+                  </div>
+                </div>
+              </div>",
+    "<div class = 'Content' id = '55404:8954' style='position: absolute; top: 12px; left: 88px; width: 260px; height: 48.00006103515625px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Headline' id = '55190:6401' style='position: absolute; top: 0px; left: 0px; width: 261px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Song Title
+                </div>
+                <div class = 'Group-12' id = '55190:6410' style='position: absolute; top: 24px; left: 0px; width: 284px; height: 24px; opacity: 1; '>
+                  <div class = 'Icons/file_download' id = '55190:6159' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55190:6159;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+                      <svg height = '16px' width = '16px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #FFFFFFFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                  <div class = 'Supporting-text' id = '55190:6402' style='position: absolute; top: 2.00006103515625px; left: 24px; width: 261px; height: 20.0px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>Artist Name
+                  </div>
+                </div>
+              </div>",
+    "<div class = 'Leading-element' id = '55404:8960' style='position: absolute; top: 12px; left: 16px; width: 56px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Building-Blocks/image-Thumbnail' id = '55190:6415' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Thumbnail' id = 'I55190:6415;51964:70967' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 0px; '>
+                  </div>
+                </div>
+              </div>",
+    "<div class = 'Content' id = '55404:8972' style='position: absolute; top: 12px; left: 88px; width: 260px; height: 48.00006103515625px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Headline' id = '55190:6436' style='position: absolute; top: 0px; left: 0px; width: 261px; height: 24px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 16px; font-weight: 400; letter-spacing: 0.5px; color: #DFE4DCFF; line-height: 24px; justify-content: left; align-items: center;'>Song Title
+                </div>
+                <div class = 'Group-12' id = '55190:6437' style='position: absolute; top: 24px; left: 0px; width: 284px; height: 24px; opacity: 1; '>
+                  <div class = 'Icons/file_download' id = '55190:6438' style='position: absolute; top: 0px; left: 0px; width: 24px; height: 24px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                    <div class='icon' id='I55190:6438;50760:11416' style='position: absolute; top: 4px; left: 4px; width: 16px; height: 16px;'>
+                      <svg height = '16px' width = '16px' xmlns = 'http://www.w3.org/2000/svg'>
+                        <path d='M 14 11 L 14 14 L 2 14 L 2 11 L 0 11 L 0 14 C 0 15.100000023841858 0.8999999761581421 16 2 16 L 14 16 C 15.100000023841858 16 16 15.100000023841858 16 14 L 16 11 L 14 11 Z M 13 7 L 11.59000015258789 5.590000152587891 L 9 8.170000076293945 L 9 0 L 7 0 L 7 8.170000076293945 L 4.409999847412109 5.590000152587891 L 3 7 L 8 12 L 13 7 Z' style='fill: #FFFFFFFF;'/>
+                      </svg>
+                    </div>
+                  </div>
+                  <div class = 'Supporting-text' id = '55190:6439' style='position: absolute; top: 2.00006103515625px; left: 24px; width: 261px; height: 20.0px; opacity: 1; display: flex; white-space: pre-line; font-family: Roboto; font-size: 14px; font-weight: 400; letter-spacing: 0.25px; color: #49454FFF; line-height: 20px; justify-content: left; align-items: top;'>Artist Name
+                  </div>
+                </div>
+              </div>",
+    "<div class = 'Leading-element' id = '55404:8978' style='position: absolute; top: 12px; left: 16px; width: 56px; height: 64px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                <div class = 'Building-Blocks/image-Thumbnail' id = '55190:6433' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; overflow: hidden; opacity: 1; border-radius: 0px; '>
+                  <div class = 'Thumbnail' id = 'I55190:6433;51964:70967' style='position: absolute; top: 0px; left: 0px; width: 56px; height: 56px; opacity: 1; background-image: url(\"../Code/image_fill.jpg\"); background-size: cover; border-radius: 0px; '>
+                  </div>
+                </div>
+              </div>"
+  ],
+  "deleted_components": [],
+  "new_components": []
+}

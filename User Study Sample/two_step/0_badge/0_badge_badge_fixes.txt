@@ -1,0 +1,8 @@
+Violations:
+{'severity': 'high', 'description': "The badge displaying the message 'A user has reported you' is too long for a badge. Badges should have text no longer than 4 characters to maintain readability and avoid clutter."}
+{'severity': 'medium', 'description': "The badge displaying the number '3' on the icon in the second code snippet has a background color (#BA1A1AFF) that may not provide enough contrast with the icon it is associated with. This could make the badge less noticeable."}
+
+
+Changes:
+{'description': 'Shorten the text on the badge to a maximum of 4 characters. Consider using an icon or a shorter label to convey the message.'}
+{'description': 'Change the badge background color to a more contrasting color that stands out against the icon and its surroundings. For example, using a brighter or more vibrant color can make the badge more noticeable.'}

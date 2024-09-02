@@ -1,0 +1,1194 @@
+{
+    "type": "FRAME",
+    "id": "55718:32968",
+    "name": "Frame 1",
+    "x": 0,
+    "y": 0,
+    "width": 412,
+    "height": 221,
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "blendMode": "PASS_THROUGH",
+    "isMask": false,
+    "cornerRadius": 0,
+    "cornerSmoothing": 0,
+    "topLeftRadius": 0,
+    "topRightRadius": 0,
+    "bottomLeftRadius": 0,
+    "bottomRightRadius": 0,
+    "fillStyleId": "",
+    "strokeStyleId": "",
+    "strokeWeight": 1,
+    "strokeTopWeight": 1,
+    "strokeBottomWeight": 1,
+    "strokeLeftWeight": 1,
+    "strokeRightWeight": 1,
+    "strokeJoin": "MITER",
+    "strokeAlign": "INSIDE",
+    "dashPattern": [],
+    "strokeCap": "NONE",
+    "strokeMiterLimit": 4,
+    "rotation": 0,
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutPositioning": "AUTO",
+    "constraints": {
+        "horizontal": "MIN",
+        "vertical": "MIN"
+    },
+    "exportSettings": [],
+    "relativeTransform": [
+        [
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0
+        ]
+    ],
+    "absoluteRenderBounds": {
+        "x": 0,
+        "y": 0,
+        "width": 412,
+        "height": 221
+    },
+    "fillGeometry": [
+        {
+            "windingRule": "NONZERO",
+            "data": "M0 0 L412 0 L412 221 L0 221 L0 0 Z"
+        }
+    ],
+    "guides": [],
+    "fills": [],
+    "strokes": [],
+    "effects": [],
+    "children": [
+        {
+            "type": "INSTANCE",
+            "id": "55718:32966",
+            "name": "Carousel",
+            "x": 0,
+            "y": 0,
+            "width": 412,
+            "height": 221,
+            "visible": true,
+            "locked": false,
+            "mainComponentId": "54490:25276",
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "cornerRadius": 0,
+            "cornerSmoothing": 0,
+            "topLeftRadius": 0,
+            "topRightRadius": 0,
+            "bottomLeftRadius": 0,
+            "bottomRightRadius": 0,
+            "fillStyleId": "",
+            "strokeStyleId": "",
+            "strokeWeight": 1,
+            "strokeTopWeight": 1,
+            "strokeBottomWeight": 1,
+            "strokeLeftWeight": 1,
+            "strokeRightWeight": 1,
+            "strokeJoin": "MITER",
+            "strokeAlign": "INSIDE",
+            "dashPattern": [],
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "rotation": 0,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+            },
+            "exportSettings": [],
+            "relativeTransform": [
+                [
+                    1,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    1,
+                    0
+                ]
+            ],
+            "absoluteRenderBounds": {
+                "x": 0,
+                "y": 0,
+                "width": 412,
+                "height": 221
+            },
+            "fillGeometry": [
+                {
+                    "windingRule": "NONZERO",
+                    "data": "M0 0 L412 0 L412 221 L0 221 L0 0 Z"
+                }
+            ],
+            "guides": [],
+            "componentProperties": {
+                "Text content#59:0": {
+                    "value": false,
+                    "type": "BOOLEAN"
+                },
+                "Context": {
+                    "value": "Mobile",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                },
+                "Layout": {
+                    "value": "Hero",
+                    "type": "VARIANT",
+                    "boundVariables": {}
+                }
+            },
+            "scaleFactor": 1,
+            "fills": [],
+            "strokes": [],
+            "effects": [],
+            "children": [
+                {
+                    "type": "FRAME",
+                    "id": "I55718:32966;54490:25277",
+                    "name": "Item-1",
+                    "x": 16,
+                    "y": 8,
+                    "width": 316,
+                    "height": 205,
+                    "visible": true,
+                    "locked": false,
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "cornerRadius": 28,
+                    "cornerSmoothing": 0,
+                    "topLeftRadius": 28,
+                    "topRightRadius": 28,
+                    "bottomLeftRadius": 28,
+                    "bottomRightRadius": 28,
+                    "fillStyleId": "",
+                    "strokeStyleId": "",
+                    "strokeWeight": 1,
+                    "strokeTopWeight": 1,
+                    "strokeBottomWeight": 1,
+                    "strokeLeftWeight": 1,
+                    "strokeRightWeight": 1,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "STRETCH",
+                    "layoutGrow": 1,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "MIN",
+                        "vertical": "MIN"
+                    },
+                    "exportSettings": [],
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            16
+                        ],
+                        [
+                            0,
+                            1,
+                            8
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 16,
+                        "y": 8,
+                        "width": 316,
+                        "height": 205
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M0 28 C0 12.536 12.536 0 28 0 L288 0 C303.464 0 316 12.536 316 28 L316 177 C316 192.464 303.464 205 288 205 L28 205 C12.536 205 0 192.464 0 177 L0 28 Z"
+                        }
+                    ],
+                    "guides": [],
+                    "fills": [
+                        {
+                            "type": "IMAGE",
+                            "visible": true,
+                            "opacity": 1,
+                            "blendMode": "NORMAL",
+                            "scaleMode": "FILL",
+                            "imageTransform": [
+                                [
+                                    1,
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                            ],
+                            "scalingFactor": 0.5,
+                            "rotation": 0,
+                            "filters": {
+                                "exposure": 0,
+                                "contrast": 0,
+                                "saturation": 0,
+                                "temperature": 0,
+                                "tint": 0,
+                                "highlights": 0,
+                                "shadows": 0
+                            },
+                            "imageHash": "66e33dec1d50ec7c56cfea569c3daeda06734ffa",
+                            "imgBase64": "iVBORw0KGgoAAAANSUhEUgAAAlgAAAJYCAYAAAC+ZpjcAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAACLLSURBVHgB7d3pc1zXmdjhgx0EV3ATKcm2NCNnPBOnslRSlT8/H1L5NFXjZDwzLkW2KGLfgcbe2Oa+F2waoriCL4B7u59HbpMUIcoiYfWP57z3nKHvf3hxVgAASDNcAABIJbAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAg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qA6sOFurjq0IrepjYpErzpAbqv6IkBoaLq++Hq+R+jDQOOtsvFqtiriKsJqoAstVNvD5BBZAy9RHI4ydrzSV21NvfO9ZFVhnrwLr7I3AGqq3AOuve9oPrpTAAugrr1aoXn0rzqgCrt9wAQAglcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASCawAACSCSwAgGQCCwAgmcACAEgmsAAAkgksAIBkAgsAIJnAAgBIJrAAAJIJLACAZAILACCZwAIASPbvZ2fKuKTC1DgAAAAASUVORK5CYII="
+                        }
+                    ],
+                    "strokes": [],
+                    "effects": [],
+                    "children": [
+                        {
+                            "type": "INSTANCE",
+                            "id": "I55718:32966;54490:25278",
+                            "name": "Item-text-1",
+                            "x": 0,
+                            "y": 0,
+                            "width": 316.0009460449219,
+                            "height": 205,
+                            "visible": false,
+                            "locked": false,
+                            "mainComponentId": "53912:27507",
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 0,
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 0,
+                            "topRightRadius": 0,
+                            "bottomLeftRadius": 0,
+                            "bottomRightRadius": 0,
+                            "fillStyleId": "",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "AUTO",
+                            "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                            ],
+                            "absoluteRenderBounds": null,
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 0 L316.001 0 L316.001 205 L0 205 L0 0 Z"
+                                }
+                            ],
+                            "guides": [],
+                            "componentProperties": {
+                                "Label text#54577:6": {
+                                    "value": "Label",
+                                    "type": "TEXT"
+                                },
+                                "Supporting text#54577:12": {
+                                    "value": "Supporting Text",
+                                    "type": "TEXT"
+                                },
+                                "Supporting Text": {
+                                    "value": "False",
+                                    "type": "VARIANT",
+                                    "boundVariables": {}
+                                }
+                            },
+                            "scaleFactor": 1,
+                            "fills": [],
+                            "strokes": [],
+                            "effects": [],
+                            "children": [
+                                {
+                                    "type": "FRAME",
+                                    "id": "I55718:32966;54490:25278;53912:27508",
+                                    "name": "Content",
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 316.0009460449219,
+                                    "height": 205,
+                                    "visible": true,
+                                    "locked": false,
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": 0,
+                                    "cornerSmoothing": 0,
+                                    "topLeftRadius": 0,
+                                    "topRightRadius": 0,
+                                    "bottomLeftRadius": 0,
+                                    "bottomRightRadius": 0,
+                                    "fillStyleId": "",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeTopWeight": 1,
+                                    "strokeBottomWeight": 1,
+                                    "strokeLeftWeight": 1,
+                                    "strokeRightWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "INHERIT",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "AUTO",
+                                    "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": null,
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M0 0 L316.001 0 L316.001 205 L0 205 L0 0 Z"
+                                        }
+                                    ],
+                                    "guides": [],
+                                    "fills": [
+                                        {
+                                            "type": "GRADIENT_LINEAR",
+                                            "visible": true,
+                                            "opacity": 1,
+                                            "blendMode": "MULTIPLY",
+                                            "gradientStops": [
+                                                {
+                                                    "color": {
+                                                        "r": 1,
+                                                        "g": 1,
+                                                        "b": 1,
+                                                        "a": 0
+                                                    },
+                                                    "position": 0,
+                                                    "boundVariables": {}
+                                                },
+                                                {
+                                                    "color": {
+                                                        "r": 0,
+                                                        "g": 0,
+                                                        "b": 0,
+                                                        "a": 0.5
+                                                    },
+                                                    "position": 1,
+                                                    "boundVariables": {}
+                                                }
+                                            ],
+                                            "gradientTransform": [
+                                                [
+                                                    6.123234262925839e-17,
+                                                    1,
+                                                    0
+                                                ],
+                                                [
+                                                    -1,
+                                                    6.123234262925839e-17,
+                                                    1
+                                                ]
+                                            ]
+                                        }
+                                    ],
+                                    "strokes": [],
+                                    "effects": [],
+                                    "children": [
+                                        {
+                                            "type": "TEXT",
+                                            "id": "I55718:32966;54490:25278;53912:27509",
+                                            "name": "Label",
+                                            "x": 16,
+                                            "y": 165,
+                                            "width": 40,
+                                            "height": 24,
+                                            "visible": true,
+                                            "locked": false,
+                                            "rangeAllFontNames": [
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ]
+                                            ],
+                                            "rangeFontSize": [
+                                                16,
+                                                16,
+                                                16,
+                                                16,
+                                                16
+                                            ],
+                                            "rangeFills": [
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ]
+                                            ],
+                                            "rangeLineHeight": [
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                }
+                                            ],
+                                            "opacity": 1,
+                                            "blendMode": "PASS_THROUGH",
+                                            "isMask": false,
+                                            "fillStyleId": "S:7be051bd80bb9bc83661ac55820d718d50fe87f3,",
+                                            "strokeStyleId": "",
+                                            "strokeWeight": 1,
+                                            "strokeJoin": "MITER",
+                                            "strokeAlign": "OUTSIDE",
+                                            "dashPattern": [],
+                                            "strokeCap": "NONE",
+                                            "strokeMiterLimit": 4,
+                                            "rotation": 0,
+                                            "layoutAlign": "INHERIT",
+                                            "layoutGrow": 0,
+                                            "layoutPositioning": "AUTO",
+                                            "constraints": {
+                                                "horizontal": "MIN",
+                                                "vertical": "MIN"
+                                            },
+                                            "exportSettings": [],
+                                            "characters": "Label",
+                                            "textAlignHorizontal": "LEFT",
+                                            "textAlignVertical": "BOTTOM",
+                                            "textAutoResize": "WIDTH_AND_HEIGHT",
+                                            "paragraphIndent": 0,
+                                            "paragraphSpacing": 0,
+                                            "autoRename": false,
+                                            "fontSize": 16,
+                                            "fontName": {
+                                                "family": "Roboto",
+                                                "style": "Medium"
+                                            },
+                                            "textCase": "ORIGINAL",
+                                            "textDecoration": "NONE",
+                                            "letterSpacing": {
+                                                "unit": "PIXELS",
+                                                "value": 0.15000000596046448
+                                            },
+                                            "lineHeight": {
+                                                "unit": "PIXELS",
+                                                "value": 24
+                                            },
+                                            "textStyleId": "S:7838783efa134b4833244a8e1fba9c32d0d9c670,",
+                                            "hyperlink": null,
+                                            "relativeTransform": [
+                                                [
+                                                    1,
+                                                    0,
+                                                    16
+                                                ],
+                                                [
+                                                    0,
+                                                    1,
+                                                    165
+                                                ]
+                                            ],
+                                            "absoluteRenderBounds": null,
+                                            "fillGeometry": [
+                                                {
+                                                    "windingRule": "NONZERO",
+                                                    "data": "M8.28125 15.4453 L8.28125 17 L2.57031 17 L2.57031 15.4453 L8.28125 15.4453 Z M3.11719 5.625 L3.11719 17 L1.15625 17 L1.15625 5.625 L3.11719 5.625 Z M14.525 15.3047 L14.525 11.2734 C14.525 10.9714 14.4703 10.7109 14.3609 10.4922 C14.2516 10.2734 14.0849 10.1042 13.8609 9.98438 C13.6422 9.86458 13.3661 9.80469 13.0328 9.80469 C12.7255 9.80469 12.4599 9.85677 12.2359 9.96094 C12.012 10.0651 11.8375 10.2057 11.7125 10.3828 C11.5875 10.5599 11.525 10.7604 11.525 10.9844 L9.65 10.9844 C9.65 10.651 9.73073 10.3281 9.89219 10.0156 C10.0536 9.70312 10.288 9.42448 10.5953 9.17969 C10.9026 8.9349 11.2698 8.74219 11.6969 8.60156 C12.124 8.46094 12.6031 8.39062 13.1344 8.39062 C13.7698 8.39062 14.3323 8.4974 14.8219 8.71094 C15.3167 8.92448 15.7047 9.2474 15.9859 9.67969 C16.2724 10.1068 16.4156 10.6432 16.4156 11.2891 L16.4156 15.0469 C16.4156 15.4323 16.4417 15.7786 16.4937 16.0859 C16.551 16.388 16.6318 16.651 16.7359 16.875 L16.7359 17 L14.8062 17 C14.7177 16.7969 14.6474 16.5391 14.5953 16.2266 C14.5484 15.9089 14.525 15.6016 14.525 15.3047 Z M14.7984 11.8594 L14.8141 13.0234 L13.4625 13.0234 C13.1135 13.0234 12.8062 13.0573 12.5406 13.125 C12.275 13.1875 12.0536 13.2812 11.8766 13.4062 C11.6995 13.5312 11.5667 13.6823 11.4781 13.8594 C11.3896 14.0365 11.3453 14.237 11.3453 14.4609 C11.3453 14.6849 11.3974 14.8906 11.5016 15.0781 C11.6057 15.2604 11.7568 15.4036 11.9547 15.5078 C12.1578 15.612 12.4026 15.6641 12.6891 15.6641 C13.0745 15.6641 13.4104 15.5859 13.6969 15.4297 C13.9885 15.2682 14.2177 15.0729 14.3844 14.8438 C14.551 14.6094 14.6396 14.388 14.65 14.1797 L15.2594 15.0156 C15.1969 15.2292 15.0901 15.4583 14.9391 15.7031 C14.788 15.9479 14.5901 16.1823 14.3453 16.4062 C14.1057 16.625 13.8167 16.8047 13.4781 16.9453 C13.1448 17.0859 12.7594 17.1562 12.3219 17.1562 C11.7698 17.1562 11.2776 17.0469 10.8453 16.8281 C10.413 16.6042 10.0745 16.3047 9.82969 15.9297 C9.5849 15.5495 9.4625 15.1198 9.4625 14.6406 C9.4625 14.1927 9.54583 13.7969 9.7125 13.4531 C9.88437 13.1042 10.1344 12.8125 10.4625 12.5781 C10.7958 12.3438 11.2021 12.1667 11.6812 12.0469 C12.1604 11.9219 12.7073 11.8594 13.3219 11.8594 L14.7984 11.8594 Z M18.5422 5 L20.425 5 L20.425 15.1953 L20.2453 17 L18.5422 17 L18.5422 5 Z M25.9406 12.6953 L25.9406 12.8594 C25.9406 13.4844 25.8703 14.0599 25.7297 14.5859 C25.5943 15.1068 25.3859 15.5599 25.1047 15.9453 C24.8286 16.3307 24.4849 16.6302 24.0734 16.8438 C23.6672 17.0521 23.1958 17.1562 22.6594 17.1562 C22.1333 17.1562 21.675 17.0573 21.2844 16.8594 C20.8937 16.6615 20.5656 16.3802 20.3 16.0156 C20.0396 15.651 19.8286 15.2161 19.6672 14.7109 C19.5057 14.2057 19.3911 13.6484 19.3234 13.0391 L19.3234 12.5156 C19.3911 11.901 19.5057 11.3438 19.6672 10.8438 C19.8286 10.3385 20.0396 9.90365 20.3 9.53906 C20.5656 9.16927 20.8911 8.88542 21.2766 8.6875 C21.6672 8.48958 22.1229 8.39062 22.6437 8.39062 C23.1854 8.39062 23.662 8.49479 24.0734 8.70312 C24.4901 8.91146 24.8365 9.20833 25.1125 9.59375 C25.3885 9.97396 25.5943 10.4271 25.7297 10.9531 C25.8703 11.4792 25.9406 12.0599 25.9406 12.6953 Z M24.0578 12.8594 L24.0578 12.6953 C24.0578 12.3151 24.0266 11.9583 23.9641 11.625 C23.9016 11.2865 23.7974 10.9896 23.6516 10.7344 C23.5109 10.4792 23.3182 10.2786 23.0734 10.1328 C22.8339 9.98177 22.5344 9.90625 22.175 9.90625 C21.8417 9.90625 21.5552 9.96354 21.3156 10.0781 C21.076 10.1927 20.8755 10.349 20.7141 10.5469 C20.5526 10.7448 20.425 10.974 20.3312 11.2344 C20.2427 11.4948 20.1828 11.776 20.1516 12.0781 L20.1516 13.4922 C20.1984 13.8828 20.2974 14.2422 20.4484 14.5703 C20.6047 14.8932 20.8234 15.1536 21.1047 15.3516 C21.3859 15.5443 21.7479 15.6406 22.1906 15.6406 C22.5396 15.6406 22.8339 15.5703 23.0734 15.4297 C23.313 15.2891 23.5031 15.0938 23.6437 14.8438 C23.7896 14.5885 23.8937 14.2917 23.9562 13.9531 C24.024 13.6146 24.0578 13.25 24.0578 12.8594 Z M31.4109 17.1562 C30.7859 17.1562 30.2208 17.0547 29.7156 16.8516 C29.2156 16.6432 28.7885 16.3542 28.4344 15.9844 C28.0854 15.6146 27.8172 15.1797 27.6297 14.6797 C27.4422 14.1797 27.3484 13.6406 27.3484 13.0625 L27.3484 12.75 C27.3484 12.0885 27.4448 11.4896 27.6375 10.9531 C27.8302 10.4167 28.0984 9.95833 28.4422 9.57812 C28.7859 9.19271 29.1922 8.89844 29.6609 8.69531 C30.1297 8.49219 30.6375 8.39062 31.1844 8.39062 C31.7885 8.39062 32.3172 8.49219 32.7703 8.69531 C33.2234 8.89844 33.5984 9.1849 33.8953 9.55469 C34.1974 9.91927 34.4214 10.3542 34.5672 10.8594 C34.7182 11.3646 34.7938 11.9219 34.7938 12.5312 L34.7938 13.3359 L28.2625 13.3359 L28.2625 11.9844 L32.9344 11.9844 L32.9344 11.8359 C32.924 11.4974 32.8563 11.1797 32.7313 10.8828 C32.6115 10.5859 32.4266 10.3464 32.1766 10.1641 C31.9266 9.98177 31.5932 9.89062 31.1766 9.89062 C30.8641 9.89062 30.5854 9.95833 30.3406 10.0938 C30.101 10.224 29.9005 10.4141 29.7391 10.6641 C29.5776 10.9141 29.4526 11.2161 29.3641 11.5703 C29.2807 11.9193 29.2391 12.3125 29.2391 12.75 L29.2391 13.0625 C29.2391 13.4323 29.2885 13.776 29.3875 14.0938 C29.4917 14.4062 29.6427 14.6797 29.8406 14.9141 C30.0385 15.1484 30.2781 15.3333 30.5594 15.4688 C30.8406 15.599 31.1609 15.6641 31.5203 15.6641 C31.9734 15.6641 32.3771 15.5729 32.7313 15.3906 C33.0854 15.2083 33.3927 14.9505 33.6531 14.6172 L34.6453 15.5781 C34.463 15.8438 34.226 16.099 33.9344 16.3438 C33.6427 16.5833 33.2859 16.7786 32.8641 16.9297 C32.4474 17.0807 31.963 17.1562 31.4109 17.1562 Z M38.4281 5 L38.4281 17 L36.5375 17 L36.5375 5 L38.4281 5 Z"
+                                                }
+                                            ],
+                                            "fills": [
+                                                {
+                                                    "type": "SOLID",
+                                                    "visible": true,
+                                                    "opacity": 1,
+                                                    "blendMode": "NORMAL",
+                                                    "color": {
+                                                        "r": 1,
+                                                        "g": 1,
+                                                        "b": 1
+                                                    },
+                                                    "boundVariables": {}
+                                                }
+                                            ],
+                                            "strokes": [],
+                                            "effects": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "FRAME",
+                    "id": "I55718:32966;54490:25279",
+                    "name": "Item-Last",
+                    "x": 340,
+                    "y": 8,
+                    "width": 56,
+                    "height": 205,
+                    "visible": true,
+                    "locked": false,
+                    "opacity": 1,
+                    "blendMode": "PASS_THROUGH",
+                    "isMask": false,
+                    "cornerRadius": 28,
+                    "cornerSmoothing": 0,
+                    "topLeftRadius": 28,
+                    "topRightRadius": 28,
+                    "bottomLeftRadius": 28,
+                    "bottomRightRadius": 28,
+                    "fillStyleId": "",
+                    "strokeStyleId": "",
+                    "strokeWeight": 1,
+                    "strokeTopWeight": 1,
+                    "strokeBottomWeight": 1,
+                    "strokeLeftWeight": 1,
+                    "strokeRightWeight": 1,
+                    "strokeJoin": "MITER",
+                    "strokeAlign": "INSIDE",
+                    "dashPattern": [],
+                    "strokeCap": "NONE",
+                    "strokeMiterLimit": 4,
+                    "rotation": 0,
+                    "layoutAlign": "STRETCH",
+                    "layoutGrow": 0,
+                    "layoutPositioning": "AUTO",
+                    "constraints": {
+                        "horizontal": "MIN",
+                        "vertical": "MIN"
+                    },
+                    "exportSettings": [],
+                    "relativeTransform": [
+                        [
+                            1,
+                            0,
+                            340
+                        ],
+                        [
+                            0,
+                            1,
+                            8
+                        ]
+                    ],
+                    "absoluteRenderBounds": {
+                        "x": 340,
+                        "y": 8,
+                        "width": 56,
+                        "height": 205
+                    },
+                    "fillGeometry": [
+                        {
+                            "windingRule": "NONZERO",
+                            "data": "M0 28 C0 12.536 12.536 0 28 0 L28 0 C43.464 0 56 12.536 56 28 L56 177 C56 192.464 43.464 205 28 205 L28 205 C12.536 205 0 192.464 0 177 L0 28 Z"
+                        }
+                    ],
+                    "guides": [],
+                    "fills": [
+                        {
+                            "type": "IMAGE",
+                            "visible": true,
+                            "opacity": 1,
+                            "blendMode": "NORMAL",
+                            "scaleMode": "FILL",
+                            "imageTransform": [
+                                [
+                                    1,
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                            ],
+                            "scalingFactor": 0.5,
+                            "rotation": 0,
+                            "filters": {
+                                "exposure": 0,
+                                "contrast": 0,
+                                "saturation": 0,
+                                "temperature": 0,
+                                "tint": 0,
+                                "highlights": 0,
+                                "shadows": 0
+                            },
+                            "imageHash": "4cb6dd69a61ace6f2c5ca9c800ddb8179d23c3cc",
+                            "imgBase64": "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"
+                        }
+                    ],
+                    "strokes": [],
+                    "effects": [],
+                    "children": [
+                        {
+                            "type": "INSTANCE",
+                            "id": "I55718:32966;54490:25280",
+                            "name": "Item-text-Last",
+                            "x": 0,
+                            "y": 0,
+                            "width": 56,
+                            "height": 205,
+                            "visible": false,
+                            "locked": false,
+                            "mainComponentId": "53912:27507",
+                            "opacity": 1,
+                            "blendMode": "PASS_THROUGH",
+                            "isMask": false,
+                            "cornerRadius": 0,
+                            "cornerSmoothing": 0,
+                            "topLeftRadius": 0,
+                            "topRightRadius": 0,
+                            "bottomLeftRadius": 0,
+                            "bottomRightRadius": 0,
+                            "fillStyleId": "",
+                            "strokeStyleId": "",
+                            "strokeWeight": 1,
+                            "strokeTopWeight": 1,
+                            "strokeBottomWeight": 1,
+                            "strokeLeftWeight": 1,
+                            "strokeRightWeight": 1,
+                            "strokeJoin": "MITER",
+                            "strokeAlign": "INSIDE",
+                            "dashPattern": [],
+                            "strokeCap": "NONE",
+                            "strokeMiterLimit": 4,
+                            "rotation": 0,
+                            "layoutAlign": "INHERIT",
+                            "layoutGrow": 0,
+                            "layoutPositioning": "AUTO",
+                            "constraints": {
+                                "horizontal": "SCALE",
+                                "vertical": "SCALE"
+                            },
+                            "exportSettings": [],
+                            "relativeTransform": [
+                                [
+                                    1,
+                                    0,
+                                    0
+                                ],
+                                [
+                                    0,
+                                    1,
+                                    0
+                                ]
+                            ],
+                            "absoluteRenderBounds": null,
+                            "fillGeometry": [
+                                {
+                                    "windingRule": "NONZERO",
+                                    "data": "M0 0 L56 0 L56 205 L0 205 L0 0 Z"
+                                }
+                            ],
+                            "guides": [],
+                            "componentProperties": {
+                                "Label text#54577:6": {
+                                    "value": "Label",
+                                    "type": "TEXT"
+                                },
+                                "Supporting text#54577:12": {
+                                    "value": "Supporting Text",
+                                    "type": "TEXT"
+                                },
+                                "Supporting Text": {
+                                    "value": "False",
+                                    "type": "VARIANT",
+                                    "boundVariables": {}
+                                }
+                            },
+                            "scaleFactor": 1,
+                            "fills": [],
+                            "strokes": [],
+                            "effects": [],
+                            "children": [
+                                {
+                                    "type": "FRAME",
+                                    "id": "I55718:32966;54490:25280;53912:27508",
+                                    "name": "Content",
+                                    "x": 0,
+                                    "y": 0,
+                                    "width": 56,
+                                    "height": 205,
+                                    "visible": true,
+                                    "locked": false,
+                                    "opacity": 1,
+                                    "blendMode": "PASS_THROUGH",
+                                    "isMask": false,
+                                    "cornerRadius": 0,
+                                    "cornerSmoothing": 0,
+                                    "topLeftRadius": 0,
+                                    "topRightRadius": 0,
+                                    "bottomLeftRadius": 0,
+                                    "bottomRightRadius": 0,
+                                    "fillStyleId": "",
+                                    "strokeStyleId": "",
+                                    "strokeWeight": 1,
+                                    "strokeTopWeight": 1,
+                                    "strokeBottomWeight": 1,
+                                    "strokeLeftWeight": 1,
+                                    "strokeRightWeight": 1,
+                                    "strokeJoin": "MITER",
+                                    "strokeAlign": "INSIDE",
+                                    "dashPattern": [],
+                                    "strokeCap": "NONE",
+                                    "strokeMiterLimit": 4,
+                                    "rotation": 0,
+                                    "layoutAlign": "INHERIT",
+                                    "layoutGrow": 0,
+                                    "layoutPositioning": "AUTO",
+                                    "constraints": {
+                                        "horizontal": "SCALE",
+                                        "vertical": "SCALE"
+                                    },
+                                    "exportSettings": [],
+                                    "relativeTransform": [
+                                        [
+                                            1,
+                                            0,
+                                            0
+                                        ],
+                                        [
+                                            0,
+                                            1,
+                                            0
+                                        ]
+                                    ],
+                                    "absoluteRenderBounds": null,
+                                    "fillGeometry": [
+                                        {
+                                            "windingRule": "NONZERO",
+                                            "data": "M0 0 L56 0 L56 205 L0 205 L0 0 Z"
+                                        }
+                                    ],
+                                    "guides": [],
+                                    "fills": [
+                                        {
+                                            "type": "GRADIENT_LINEAR",
+                                            "visible": true,
+                                            "opacity": 1,
+                                            "blendMode": "MULTIPLY",
+                                            "gradientStops": [
+                                                {
+                                                    "color": {
+                                                        "r": 1,
+                                                        "g": 1,
+                                                        "b": 1,
+                                                        "a": 0
+                                                    },
+                                                    "position": 0,
+                                                    "boundVariables": {}
+                                                },
+                                                {
+                                                    "color": {
+                                                        "r": 0,
+                                                        "g": 0,
+                                                        "b": 0,
+                                                        "a": 0.5
+                                                    },
+                                                    "position": 1,
+                                                    "boundVariables": {}
+                                                }
+                                            ],
+                                            "gradientTransform": [
+                                                [
+                                                    6.123234262925839e-17,
+                                                    1,
+                                                    0
+                                                ],
+                                                [
+                                                    -1,
+                                                    6.123234262925839e-17,
+                                                    1
+                                                ]
+                                            ]
+                                        }
+                                    ],
+                                    "strokes": [],
+                                    "effects": [],
+                                    "children": [
+                                        {
+                                            "type": "TEXT",
+                                            "id": "I55718:32966;54490:25280;53912:27509",
+                                            "name": "Label",
+                                            "x": 16,
+                                            "y": 165,
+                                            "width": 40,
+                                            "height": 24,
+                                            "visible": false,
+                                            "locked": false,
+                                            "rangeAllFontNames": [
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "family": "Roboto",
+                                                        "style": "Medium"
+                                                    }
+                                                ]
+                                            ],
+                                            "rangeFontSize": [
+                                                16,
+                                                16,
+                                                16,
+                                                16,
+                                                16
+                                            ],
+                                            "rangeFills": [
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ],
+                                                [
+                                                    {
+                                                        "type": "SOLID",
+                                                        "visible": true,
+                                                        "opacity": 1,
+                                                        "blendMode": "NORMAL",
+                                                        "color": {
+                                                            "r": 1,
+                                                            "g": 1,
+                                                            "b": 1
+                                                        },
+                                                        "boundVariables": {}
+                                                    }
+                                                ]
+                                            ],
+                                            "rangeLineHeight": [
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                },
+                                                {
+                                                    "unit": "PIXELS",
+                                                    "value": 24
+                                                }
+                                            ],
+                                            "opacity": 1,
+                                            "blendMode": "PASS_THROUGH",
+                                            "isMask": false,
+                                            "fillStyleId": "S:7be051bd80bb9bc83661ac55820d718d50fe87f3,",
+                                            "strokeStyleId": "",
+                                            "strokeWeight": 1,
+                                            "strokeJoin": "MITER",
+                                            "strokeAlign": "OUTSIDE",
+                                            "dashPattern": [],
+                                            "strokeCap": "NONE",
+                                            "strokeMiterLimit": 4,
+                                            "rotation": 0,
+                                            "layoutAlign": "INHERIT",
+                                            "layoutGrow": 0,
+                                            "layoutPositioning": "AUTO",
+                                            "constraints": {
+                                                "horizontal": "MIN",
+                                                "vertical": "MIN"
+                                            },
+                                            "exportSettings": [],
+                                            "characters": "Label",
+                                            "textAlignHorizontal": "LEFT",
+                                            "textAlignVertical": "BOTTOM",
+                                            "textAutoResize": "WIDTH_AND_HEIGHT",
+                                            "paragraphIndent": 0,
+                                            "paragraphSpacing": 0,
+                                            "autoRename": false,
+                                            "fontSize": 16,
+                                            "fontName": {
+                                                "family": "Roboto",
+                                                "style": "Medium"
+                                            },
+                                            "textCase": "ORIGINAL",
+                                            "textDecoration": "NONE",
+                                            "letterSpacing": {
+                                                "unit": "PIXELS",
+                                                "value": 0.15000000596046448
+                                            },
+                                            "lineHeight": {
+                                                "unit": "PIXELS",
+                                                "value": 24
+                                            },
+                                            "textStyleId": "S:7838783efa134b4833244a8e1fba9c32d0d9c670,",
+                                            "hyperlink": null,
+                                            "relativeTransform": [
+                                                [
+                                                    1,
+                                                    0,
+                                                    16
+                                                ],
+                                                [
+                                                    0,
+                                                    1,
+                                                    165
+                                                ]
+                                            ],
+                                            "absoluteRenderBounds": null,
+                                            "fillGeometry": [
+                                                {
+                                                    "windingRule": "NONZERO",
+                                                    "data": "M8.28125 15.4453 L8.28125 17 L2.57031 17 L2.57031 15.4453 L8.28125 15.4453 Z M3.11719 5.625 L3.11719 17 L1.15625 17 L1.15625 5.625 L3.11719 5.625 Z M14.525 15.3047 L14.525 11.2734 C14.525 10.9714 14.4703 10.7109 14.3609 10.4922 C14.2516 10.2734 14.0849 10.1042 13.8609 9.98438 C13.6422 9.86458 13.3661 9.80469 13.0328 9.80469 C12.7255 9.80469 12.4599 9.85677 12.2359 9.96094 C12.012 10.0651 11.8375 10.2057 11.7125 10.3828 C11.5875 10.5599 11.525 10.7604 11.525 10.9844 L9.65 10.9844 C9.65 10.651 9.73073 10.3281 9.89219 10.0156 C10.0536 9.70312 10.288 9.42448 10.5953 9.17969 C10.9026 8.9349 11.2698 8.74219 11.6969 8.60156 C12.124 8.46094 12.6031 8.39062 13.1344 8.39062 C13.7698 8.39062 14.3323 8.4974 14.8219 8.71094 C15.3167 8.92448 15.7047 9.2474 15.9859 9.67969 C16.2724 10.1068 16.4156 10.6432 16.4156 11.2891 L16.4156 15.0469 C16.4156 15.4323 16.4417 15.7786 16.4937 16.0859 C16.551 16.388 16.6318 16.651 16.7359 16.875 L16.7359 17 L14.8062 17 C14.7177 16.7969 14.6474 16.5391 14.5953 16.2266 C14.5484 15.9089 14.525 15.6016 14.525 15.3047 Z M14.7984 11.8594 L14.8141 13.0234 L13.4625 13.0234 C13.1135 13.0234 12.8062 13.0573 12.5406 13.125 C12.275 13.1875 12.0536 13.2812 11.8766 13.4062 C11.6995 13.5312 11.5667 13.6823 11.4781 13.8594 C11.3896 14.0365 11.3453 14.237 11.3453 14.4609 C11.3453 14.6849 11.3974 14.8906 11.5016 15.0781 C11.6057 15.2604 11.7568 15.4036 11.9547 15.5078 C12.1578 15.612 12.4026 15.6641 12.6891 15.6641 C13.0745 15.6641 13.4104 15.5859 13.6969 15.4297 C13.9885 15.2682 14.2177 15.0729 14.3844 14.8438 C14.551 14.6094 14.6396 14.388 14.65 14.1797 L15.2594 15.0156 C15.1969 15.2292 15.0901 15.4583 14.9391 15.7031 C14.788 15.9479 14.5901 16.1823 14.3453 16.4062 C14.1057 16.625 13.8167 16.8047 13.4781 16.9453 C13.1448 17.0859 12.7594 17.1562 12.3219 17.1562 C11.7698 17.1562 11.2776 17.0469 10.8453 16.8281 C10.413 16.6042 10.0745 16.3047 9.82969 15.9297 C9.5849 15.5495 9.4625 15.1198 9.4625 14.6406 C9.4625 14.1927 9.54583 13.7969 9.7125 13.4531 C9.88437 13.1042 10.1344 12.8125 10.4625 12.5781 C10.7958 12.3438 11.2021 12.1667 11.6812 12.0469 C12.1604 11.9219 12.7073 11.8594 13.3219 11.8594 L14.7984 11.8594 Z M18.5422 5 L20.425 5 L20.425 15.1953 L20.2453 17 L18.5422 17 L18.5422 5 Z M25.9406 12.6953 L25.9406 12.8594 C25.9406 13.4844 25.8703 14.0599 25.7297 14.5859 C25.5943 15.1068 25.3859 15.5599 25.1047 15.9453 C24.8286 16.3307 24.4849 16.6302 24.0734 16.8438 C23.6672 17.0521 23.1958 17.1562 22.6594 17.1562 C22.1333 17.1562 21.675 17.0573 21.2844 16.8594 C20.8937 16.6615 20.5656 16.3802 20.3 16.0156 C20.0396 15.651 19.8286 15.2161 19.6672 14.7109 C19.5057 14.2057 19.3911 13.6484 19.3234 13.0391 L19.3234 12.5156 C19.3911 11.901 19.5057 11.3438 19.6672 10.8438 C19.8286 10.3385 20.0396 9.90365 20.3 9.53906 C20.5656 9.16927 20.8911 8.88542 21.2766 8.6875 C21.6672 8.48958 22.1229 8.39062 22.6437 8.39062 C23.1854 8.39062 23.662 8.49479 24.0734 8.70312 C24.4901 8.91146 24.8365 9.20833 25.1125 9.59375 C25.3885 9.97396 25.5943 10.4271 25.7297 10.9531 C25.8703 11.4792 25.9406 12.0599 25.9406 12.6953 Z M24.0578 12.8594 L24.0578 12.6953 C24.0578 12.3151 24.0266 11.9583 23.9641 11.625 C23.9016 11.2865 23.7974 10.9896 23.6516 10.7344 C23.5109 10.4792 23.3182 10.2786 23.0734 10.1328 C22.8339 9.98177 22.5344 9.90625 22.175 9.90625 C21.8417 9.90625 21.5552 9.96354 21.3156 10.0781 C21.076 10.1927 20.8755 10.349 20.7141 10.5469 C20.5526 10.7448 20.425 10.974 20.3312 11.2344 C20.2427 11.4948 20.1828 11.776 20.1516 12.0781 L20.1516 13.4922 C20.1984 13.8828 20.2974 14.2422 20.4484 14.5703 C20.6047 14.8932 20.8234 15.1536 21.1047 15.3516 C21.3859 15.5443 21.7479 15.6406 22.1906 15.6406 C22.5396 15.6406 22.8339 15.5703 23.0734 15.4297 C23.313 15.2891 23.5031 15.0938 23.6437 14.8438 C23.7896 14.5885 23.8937 14.2917 23.9562 13.9531 C24.024 13.6146 24.0578 13.25 24.0578 12.8594 Z M31.4109 17.1562 C30.7859 17.1562 30.2208 17.0547 29.7156 16.8516 C29.2156 16.6432 28.7885 16.3542 28.4344 15.9844 C28.0854 15.6146 27.8172 15.1797 27.6297 14.6797 C27.4422 14.1797 27.3484 13.6406 27.3484 13.0625 L27.3484 12.75 C27.3484 12.0885 27.4448 11.4896 27.6375 10.9531 C27.8302 10.4167 28.0984 9.95833 28.4422 9.57812 C28.7859 9.19271 29.1922 8.89844 29.6609 8.69531 C30.1297 8.49219 30.6375 8.39062 31.1844 8.39062 C31.7885 8.39062 32.3172 8.49219 32.7703 8.69531 C33.2234 8.89844 33.5984 9.1849 33.8953 9.55469 C34.1974 9.91927 34.4214 10.3542 34.5672 10.8594 C34.7182 11.3646 34.7938 11.9219 34.7938 12.5312 L34.7938 13.3359 L28.2625 13.3359 L28.2625 11.9844 L32.9344 11.9844 L32.9344 11.8359 C32.924 11.4974 32.8563 11.1797 32.7313 10.8828 C32.6115 10.5859 32.4266 10.3464 32.1766 10.1641 C31.9266 9.98177 31.5932 9.89062 31.1766 9.89062 C30.8641 9.89062 30.5854 9.95833 30.3406 10.0938 C30.101 10.224 29.9005 10.4141 29.7391 10.6641 C29.5776 10.9141 29.4526 11.2161 29.3641 11.5703 C29.2807 11.9193 29.2391 12.3125 29.2391 12.75 L29.2391 13.0625 C29.2391 13.4323 29.2885 13.776 29.3875 14.0938 C29.4917 14.4062 29.6427 14.6797 29.8406 14.9141 C30.0385 15.1484 30.2781 15.3333 30.5594 15.4688 C30.8406 15.599 31.1609 15.6641 31.5203 15.6641 C31.9734 15.6641 32.3771 15.5729 32.7313 15.3906 C33.0854 15.2083 33.3927 14.9505 33.6531 14.6172 L34.6453 15.5781 C34.463 15.8438 34.226 16.099 33.9344 16.3438 C33.6427 16.5833 33.2859 16.7786 32.8641 16.9297 C32.4474 17.0807 31.963 17.1562 31.4109 17.1562 Z M38.4281 5 L38.4281 17 L36.5375 17 L36.5375 5 L38.4281 5 Z"
+                                                }
+                                            ],
+                                            "fills": [
+                                                {
+                                                    "type": "SOLID",
+                                                    "visible": true,
+                                                    "opacity": 1,
+                                                    "blendMode": "NORMAL",
+                                                    "color": {
+                                                        "r": 1,
+                                                        "g": 1,
+                                                        "b": 1
+                                                    },
+                                                    "boundVariables": {}
+                                                }
+                                            ],
+                                            "strokes": [],
+                                            "effects": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+Here is a detailed description of each chip in your mockup:
+
+1. **Chip: "Show all"**
+   - **Type:** Filter-chip-dark
+   - **Position:** (16px, 8px) from the top-left of the Frame-20 container
+   - **Size:** 104px width, 32px height
+   - **ID:** `55637:6248`
+   - **Background Color:** #394B3BFF
+   - **Border Radius:** 8px
+   - **Label:** "Show all"
+     - **Label Position:** (34px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #D3E8D2FF
+     - **Text Align:** Center
+   - **Icon:** Selected-icon
+     - **Position:** (8px, 7px) from the top-left of the chip
+     - **Icon Size:** 18px width, 18px height
+     - **Icon Color:** #D3E8D2FF
+   - **Likely Function:** Toggle to show all items
+
+2. **Chip: "Unicolors"**
+   - **Type:** Filter-chip-dark
+   - **Position:** (128px, 8px) from the top-left of the Frame-20 container
+   - **Size:** 93px width, 32px height
+   - **ID:** `55637:6249`
+   - **Background Color:** Transparent
+   - **Border Radius:** 8px
+   - **Border Color:** #8B9389FF
+   - **Label:** "Unicolors"
+     - **Label Position:** (16px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #C1C9BEFF
+     - **Text Align:** Center
+   - **Likely Function:** Filter items to only show unicolored items
+
+3. **Chip: "Prints"**
+   - **Type:** Filter-chip-dark
+   - **Position:** (229px, 8px) from the top-left of the Frame-20 container
+   - **Size:** 70px width, 32px height
+   - **ID:** `55637:6250`
+   - **Background Color:** Transparent
+   - **Border Radius:** 8px
+   - **Border Color:** #8B9389FF
+   - **Label:** "Prints"
+     - **Label Position:** (16px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #C1C9BEFF
+     - **Text Align:** Center
+   - **Likely Function:** Filter items to only show printed items
+
+4. **Chip: "Size"**
+   - **Type:** Filter-chip-dark
+   - **Position:** (16px, 8px) from the top-left of the Frame-21 container
+   - **Size:** 77px width, 32px height
+   - **ID:** `55637:6252`
+   - **Background Color:** Transparent
+   - **Border Radius:** 8px
+   - **Border Color:** #8B9389FF
+   - **Label:** "Size"
+     - **Label Position:** (16px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #C1C9BEFF
+     - **Text Align:** Center
+   - **Trailing Icon:** 
+     - **Position:** (51px, 7px) from the top-left of the chip
+     - **Size:** 18px width, 18px height
+     - **Color:** #C1C9BEFF
+   - **Likely Function:** Open a size filter selection
+
+5. **Chip: "Price"**
+   - **Type:** Filter-chip-dark
+   - **Position:** (101px, 8px) from the top-left of the Frame-21 container
+   - **Size:** 83px width, 32px height
+   - **ID:** `55637:6253`
+   - **Background Color:** Transparent
+   - **Border Radius:** 8px
+   - **Border Color:** #8B9389FF
+   - **Label:** "Price"
+     - **Label Position:** (16px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #C1C9BEFF
+     - **Text Align:** Center
+   - **Trailing Icon:** 
+     - **Position:** (57px, 7px) from the top-left of the chip
+     - **Size:** 18px width, 18px height
+     - **Color:** #C1C9BEFF
+   - **Likely Function:** Open a price filter selection
+
+6. **Chip: "White"**
+   - **Type:** Filter-chip-dark
+   - **Position:** (192px, 8px) from the top-left of the Frame-21 container
+   - **Size:** 105px width, 32px height
+   - **ID:** `55637:6254`
+   - **Background Color:** #394B3BFF
+   - **Border Radius:** 8px
+   - **Label:** "White"
+     - **Label Position:** (34px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #D3E8D2FF
+     - **Text Align:** Center
+   - **Selected Icon:** 
+     - **Position:** (8px, 7px) from the top-left of the chip
+     - **Size:** 18px width, 18px height
+     - **Color:** #D3E8D2FF
+   - **Trailing Icon:** 
+     - **Position:** (79px, 7px) from the top-left of the chip
+     - **Size:** 18px width, 18px height
+     - **Color:** #D3E8D2FF
+   - **Likely Function:** Indicate the "White" filter is selected
+
+7. **Chip: "Cancel"**
+   - **Type:** Assistive-chip-dark
+   - **Position:** (221px, 10px) from the top-left of the Frame-25 container
+   - **Size:** 76px width, 32px height
+   - **ID:** `55637:7253`
+   - **Background Color:** Transparent
+   - **Border Radius:** 8px
+   - **Border Color:** #8B9389FF
+   - **Label:** "Cancel"
+     - **Label Position:** (16px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #DFE4DCFF
+     - **Text Align:** Center
+   - **Likely Function:** Cancel the current action
+
+8. **Chip: "Done"**
+   - **Type:** Assistive-chip-dark
+   - **Position:** (307px, 10px) from the top-left of the Frame-25 container
+   - **Size:** 65px width, 32px height
+   - **ID:** `55637:7256`
+   - **Background Color:** Transparent
+   - **Border Radius:** 8px
+   - **Border Color:** #8B9389FF
+   - **Label:** "Done"
+     - **Label Position:** (16px, 6px) from the top-left of the chip
+     - **Font:** Roboto, 14px, 500 weight
+     - **Color:** #DFE4DCFF
+     - **Text Align:** Center
+   - **Likely Function:** Confirm the current action
+
+These descriptions should provide a clear understanding of the attributes and likely functions of each chip in the mockup.

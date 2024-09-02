@@ -1,0 +1,24 @@
+```json
+{
+  "violations": [
+    {
+      "severity": "high",
+      "description": "The label text for 'Communities' is wider than the allocated space, causing it to be truncated. According to Material Design 3 guidelines, destination labels in a navigation bar should not wrap lines, be shrunk, or be truncated."
+    },
+    {
+      "severity": "medium",
+      "description": "The badge on the 'Chat' icon is white, which can blend into the background and reduce its visibility. Badges should be clearly visible to communicate notifications effectively."
+    }
+  ],
+  "changes": [
+    {
+      "description": "Shorten the label text for 'Communities' to fit within the allocated space without truncation. Consider using a more concise label."
+    },
+    {
+      "description": "Change the badge color on the 'Chat' icon to a more contrasting color to ensure it stands out against the background."
+    }
+  ],
+  "guideline_request": "Navigation Bar Guidelines",
+  "example_request": "Material Design 3 Navigation Bar with labeled segments and badges"
+}
+```

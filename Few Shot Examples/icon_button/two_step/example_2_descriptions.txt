@@ -1,0 +1,59 @@
+Based on the provided code snippets and the image, here is a detailed description of each icon button:
+
+1. **Transfer Icon Button**
+   - **Type:** Filled icon button
+   - **Color:** The container has a background color of `#326940FF`, and the icon itself is white (`#FFFFFFFF`).
+   - **Size:** The outer button is 48x48 pixels, with an inner container of 40x40 pixels, and the icon is 24x24 pixels.
+   - **Shape:** The outer button is square with rounded inner container (100px border radius).
+   - **Position:** 
+     - General: The first icon button from the left.
+     - Exact: Positioned at `top: 12px; left: 43.5px;`.
+   - **ID:** Outer button (`55665:45568`), inner container (`I55665:45568;51525:5199`), and icon (`I55665:45568;51525:5201`).
+   - **Likely Function:** Initiate a transfer, as indicated by the upward arrow icon and the label "Transfer" below it.
+   - **Attributes:** 
+     - `config` attribute is set to `filled`.
+     - The icon's vector graphic consists of an upward arrow.
+
+2. **Preview Icon Button**
+   - **Type:** Filled icon button
+   - **Color:** The container has a background color of `#326940FF`, and the icon itself is white (`#FFFFFFFF`).
+   - **Size:** The outer button is 48x48 pixels, with an inner container of 40x40 pixels, and the icon is 24x24 pixels.
+   - **Shape:** The outer button is square with rounded inner container (100px border radius).
+   - **Position:** 
+     - General: Second icon button from the left.
+     - Exact: Positioned at `top: 12px; left: 136.5px;`.
+   - **ID:** Outer button (`55665:45579`), inner container (`I55665:45579;51525:5199`), and icon (`I55665:45579;51525:5201`).
+   - **Likely Function:** Preview transactions, as indicated by the circular icon and the label "Preview" below it.
+   - **Attributes:** 
+     - `config` attribute is set to `filled`.
+     - The icon's vector graphic is a circle within a circle.
+
+3. **Cards Icon Button**
+   - **Type:** Filled icon button
+   - **Color:** The container has a background color of `#326940FF`, and the icon itself is white (`#FFFFFFFF`).
+   - **Size:** The outer button is 48x48 pixels, with an inner container of 40x40 pixels, and the icon is 24x24 pixels.
+   - **Shape:** The outer button is square with rounded inner container (100px border radius).
+   - **Position:** 
+     - General: Third icon button from the left.
+     - Exact: Positioned at `top: 12px; left: 228.5px;`.
+   - **ID:** Outer button (`55665:45586`), inner container (`I55665:45586;51525:5199`), and icon (`I55665:45586;51525:5201`).
+   - **Likely Function:** Manage cards, as indicated by the card icon and the label "Cards" below it.
+   - **Attributes:** 
+     - `config` attribute is set to `filled`.
+     - The icon's vector graphic represents a card.
+
+4. **More Icon Button**
+   - **Type:** Filled icon button
+   - **Color:** The container has a background color of `#326940FF`, and the icon itself is white (`#FFFFFFFF`).
+   - **Size:** The outer button is 48x48 pixels, with an inner container of 40x40 pixels, and the icon is 24x24 pixels.
+   - **Shape:** The outer button is square with rounded inner container (100px border radius).
+   - **Position:** 
+     - General: Fourth icon button from the left.
+     - Exact: Positioned at `top: 12px; left: 320.5px;`.
+   - **ID:** Outer button (`55665:45593`), inner container (`I55665:45593;51525:5199`), and icon (`I55665:45593;51525:5201`).
+   - **Likely Function:** Show more options, as indicated by the three-dot "more" icon and the label "More" below it.
+   - **Attributes:** 
+     - `config` attribute is set to `filled`.
+     - The icon's vector graphic consists of three horizontal dots.
+
+These descriptions provide a comprehensive understanding of each icon button's characteristics, functions, and positions within the mobile user interface mockup.
